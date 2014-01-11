@@ -1,0 +1,3 @@
+markdown: redcarpet
+exclude: [Gemfile, Gemfile.lock, Guardfile, Rakefile, README.md]
+permalink: /:year/:month/:day/:title
