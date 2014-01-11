@@ -43,6 +43,5 @@
   "../_foundation/scss/foundation/components/offcanvas",
   "../_foundation/scss/foundation/components/visibility";
 
-.row h1 {
-    color: red;
-}
+// site specific scss
+@import "_yearsite.scss";
