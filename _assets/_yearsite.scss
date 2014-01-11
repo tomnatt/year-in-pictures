@@ -1,4 +1,13 @@
-h1 {
+.row {
 
-    color: red;
+    padding: 0 rem-calc(100);
+
+    &.month {
+        background-color: #fff;
+        margin-top: rem-calc(10);
+        margin-bottom: rem-calc(10);
+        box-shadow: 0 0 5px #000000;
+    }
+
 }
+
