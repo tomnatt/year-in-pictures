@@ -1,13 +1,19 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+
 .row {
 
-    padding: 0 rem-calc(100);
+    // padding: 0 rem-calc(100);
 
     &.month {
         background-color: #fff;
-        margin-top: rem-calc(10);
         margin-bottom: rem-calc(10);
-        box-shadow: 0 0 5px #000000;
-    }
+        box-shadow: 0 10px 5px -5px #222;
 
+        h1, h2 {
+            // box-shadow: 0 10px 5px -5px #000000;            
+            padding: 0 rem-calc(100);
+            border-bottom: solid 1px #222;
+        }
+    }
 }
 
