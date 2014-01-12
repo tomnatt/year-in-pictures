@@ -1,18 +1,29 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400);
 
+@mixin spacing {
+    padding: 0 rem-calc(100);
+}
+
 .row {
 
     // padding: 0 rem-calc(100);
+
+    h1 {
+        @include spacing;
+    }
 
     &.month {
         background-color: #fff;
         margin-bottom: rem-calc(10);
         box-shadow: 0 10px 5px -5px #222;
 
-        h1, h2 {
-            // box-shadow: 0 10px 5px -5px #000000;            
-            padding: 0 rem-calc(100);
-            border-bottom: solid 1px #222;
+        h2 {
+            @include spacing;
+            border-bottom: solid 1px #9a3521;
+        }
+
+        p {
+            @include spacing;
         }
     }
 }
