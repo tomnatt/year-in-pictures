@@ -6,6 +6,15 @@
     padding: 0 rem-calc(100);
 }
 
+@mixin polaroid-position($rot, $transX, $transY) {
+    @media #{$large-up} {
+        transform: rotate($rot) translate($transX, $transY);
+        -webkit-transform: rotate($rot) translate($transX, $transY);
+        -ms-transform:rotate($rot) translate($transX, $transY);
+        -o-transform:rotate($rot) translate($transX, $transY);
+    }
+}
+
 .row {
 
     h1, nav {
@@ -25,12 +34,29 @@
         div.images {
             @include spacing;
 
-            ul.polaroids {
-                img { 
-                    display: block; 
-                    width: 190px; 
-                    margin-bottom: 12px; 
+            ul.polaroids li {
+
+                // make a pile of polaroids
+                &:nth-child(1) a {
+                    @include polaroid-position(-7deg, 70px, 0);
                 }
+                &:nth-child(2) a {
+                    @include polaroid-position(2deg, 0, 0);
+                }
+                &:nth-child(3) a {
+                    @include polaroid-position(-22deg, -105px, 32px);
+                }
+                &:nth-child(4) a {
+                    @include polaroid-position(10deg, 100px, -50px);
+                }
+                &:nth-child(5) a {
+                    @include polaroid-position(-20deg, 0, -40px);
+                }
+                &:nth-child(6) a {
+                    @include polaroid-position(22deg, -70px, 25px);
+                }
+
+                // style the pics
                 a:after {
                     content: attr(title);
                 }
@@ -42,7 +68,7 @@
                     display: inline; 
                     float: left; 
                     text-align: center; 
-                    font-family: "Permanent Marker", sans-serif; 
+                    font-family: join("Permanent Marker", $body-font-family);
                     text-decoration: none; 
                     color: #333; 
                     font-size: 18px;
@@ -51,23 +77,24 @@
                     transition-duration: 0.3s, 0.3s;
                     -webkit-transition-property: -webkit-transform;
                     -webkit-transition-duration: 0.3s, 0.3s;
+
+                    img { 
+                        display: block; 
+                        width: 190px; 
+                        margin-bottom: 12px; 
+                    }
+
+                    &:hover {
+                        transform: scale(1.25, 1.25);
+                        -ms-transform: scale(1.25, 1.25);
+                        -moz-transform: scale(1.25, 1.25);
+                        -webkit-transform: scale(1.25, 1.25);
+                        -o-transform: scale(1.25, 1.25);
+                        position: relative;
+                        z-index: 5;
+                    }
                 }
-                a:hover {
-                    transform: scale(1.25, 1.25);
-                    -ms-transform: scale(1.25, 1.25);
-                    -moz-transform: scale(1.25, 1.25);
-                    -webkit-transform: scale(1.25, 1.25);
-                    -o-transform: scale(1.25, 1.25);
-                    position: relative;
-                    z-index: 5;
-                }
-            }
-        }
-
-        p {
-            @include spacing;
-        }
-    }
-}
-
-
+            } // ul.polaroids li
+        } // div.images
+    } // &.month
+} // .row
