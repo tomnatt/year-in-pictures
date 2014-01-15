@@ -35,9 +35,9 @@ $column-gutter: 0;
 // $total-columns: 12;
 
 // We use these to control various global styles
-$body-bg: #c2c2a3;
+$body-bg: #fff;
 // $body-font-color: #222;
-$body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 
@@ -1083,7 +1083,7 @@ $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $include-open-sans: true;
 
 // We use these to control header font styles
-$header-font-family: join("Open Sans", $body-font-family);
+$header-font-family: join("Ribeye Marrow", $body-font-family);
 // $header-font-weight: 300;
 // $header-font-style: normal;
 // $header-font-color: #222;
