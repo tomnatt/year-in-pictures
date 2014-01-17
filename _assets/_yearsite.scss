@@ -1,7 +1,12 @@
 @import url(//fonts.googleapis.com/css?family=Oldenburg|Permanent+Marker|Ribeye+Marrow);
 
 @mixin spacing {
-    padding: 0 rem-calc(100);
+    @media #{$small-only} {
+        // TODO
+    }
+    @media #{$medium-up} {
+        padding: 0 rem-calc(100);
+    }
 }
 
 @mixin polaroid-position($rot, $transX, $transY) {
@@ -10,6 +15,18 @@
         -webkit-transform: rotate($rot) translate($transX, $transY);
         -ms-transform:rotate($rot) translate($transX, $transY);
         -o-transform:rotate($rot) translate($transX, $transY);
+    }
+}
+
+body {
+    @media #{$large-up} {
+        background-color: red;
+    }
+    @media #{$medium-only} {
+        background-color: yellow;
+    }
+    @media #{$small-only} {
+        background-color: blue;
     }
 }
 
