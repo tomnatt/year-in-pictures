@@ -20,3 +20,7 @@ SCSS files are in _assets. You can dig any required Foundation javascript files 
 To actually build the site from the command line, run:
 
 bundle exec rake
+
+## Credits
+
+The photo stuff started life on [one of the Zurb example pages](http://zurb.com/playground/css3-polaroids).
