@@ -15,8 +15,16 @@
 
 .row {
 
-    h1, nav {
+    h1 {
         @include spacing;
+        margin: rem-calc(30) 0;
+    }
+
+    nav {
+        @include spacing;
+        .month-navigation {
+            font-size: rem-calc(22);
+        }
     }
 
     &.month {
