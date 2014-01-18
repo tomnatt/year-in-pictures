@@ -7,27 +7,37 @@
     <title>{{ page.title }}</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" media="screen" type="text/css" href="/css/yearofchange.css" title="Default" />
-
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="/js/foundation.js"></script>
+    <script src="/js/foundation.topbar.js"></script>
+    <script src="/js/yearofchange.js"></script>
 </head>
 <body>
 
     <header class="row">
         <h1>Year of change</h1>
-        <nav>
-            <ul class="inline-list month-navigation">
-                <li><a href="#january">Jan</a></li>
-                <li><a href="#february">Feb</a></li>
-                <li><a href="#march">Mar</a></li>
-                <li><a href="#april">April</a></li>
-                <li><a href="#may">May</a></li>
-                <li><a href="#june">June</a></li>
-                <li><a href="#july">July</a></li>
-                <li><a href="#august">Aug</a></li>
-                <li><a href="#september">Sept</a></li>
-                <li><a href="#october">Oct</a></li>
-                <li><a href="#november">Nov</a></li>
-                <li><a href="#december">Dec</a></li>
+        <nav class="top-bar" data-topbar>
+            <ul class="title-area">
+                <li class="name"></li>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>Months</span></a></li>
             </ul>
+
+            <section class="top-bar-section month-navigation">
+                <ul class="left">
+                    <li class="active"><a href="#january">Jan</a></li>
+                    <li><a href="#february">Feb</a></li>
+                    <li><a href="#march">Mar</a></li>
+                    <li><a href="#april">April</a></li>
+                    <li><a href="#may">May</a></li>
+                    <li><a href="#june">June</a></li>
+                    <li><a href="#july">July</a></li>
+                    <li><a href="#august">Aug</a></li>
+                    <li><a href="#september">Sept</a></li>
+                    <li><a href="#october">Oct</a></li>
+                    <li><a href="#november">Nov</a></li>
+                    <li><a href="#december">Dec</a></li>
+                </ul>
+            </section>
         </nav>
     </header>
     

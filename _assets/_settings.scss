@@ -1012,12 +1012,12 @@ $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial,
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-// $topbar-bg-color: #333;
+$topbar-bg-color: #fff;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
 // $topbar-height: 45px;
-// $topbar-margin-bottom: 0;
+$topbar-margin-bottom: rem-calc(10);
 
 // Controlling the styles for the title in the top bar
 // $topbar-title-weight: normal;
@@ -1033,13 +1033,13 @@ $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial,
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // Set the link colors and styles for top-level nav
-// $topbar-link-color: #fff;
-// $topbar-link-color-hover: #fff;
-// $topbar-link-color-active: #fff;
+$topbar-link-color: #9a3521;
+$topbar-link-color-hover: #9a3521;
+$topbar-link-color-active: #9a3521;
 // $topbar-link-weight: normal;
-// $topbar-link-font-size: rem-calc(13);
+$topbar-link-font-size: rem-calc(22);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
-// $topbar-link-bg-hover: #272727  ;
+$topbar-link-bg-hover: #ffefd2;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
@@ -1056,8 +1056,8 @@ $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial,
 // $topbar-menu-link-transform: uppercase;
 // $topbar-menu-link-font-size: rem-calc(13);
 // $topbar-menu-link-weight: bold;
-// $topbar-menu-link-color: #fff;
-// $topbar-menu-icon-color: #fff;
+$topbar-menu-link-color: #222;
+$topbar-menu-icon-color: #222;
 // $topbar-menu-link-color-toggled: #888;
 // $topbar-menu-icon-color-toggled: #888;
 

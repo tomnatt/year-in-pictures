@@ -19,28 +19,30 @@
 }
 
 body {
-    @media #{$large-up} {
-        background-color: red;
-    }
-    @media #{$medium-only} {
-        background-color: yellow;
-    }
-    @media #{$small-only} {
-        background-color: blue;
-    }
+    // @media #{$large-up} {
+    //     background-color: red;
+    // }
+    // @media #{$medium-only} {
+    //     background-color: yellow;
+    // }
+    // @media #{$small-only} {
+    //     background-color: blue;
+    // }
 }
 
 .row {
 
     h1 {
         @include spacing;
-        margin: rem-calc(30) 0;
+        margin: rem-calc(25) 0;
     }
 
     nav {
         @include spacing;
-        .month-navigation {
-            font-size: rem-calc(22);
+        .month-navigation ul li a:hover {
+            // border: 1px solid #9A3521;
+            // margin: -1px 0 -1px -1px;
+            text-decoration: underline;
         }
     }
 
