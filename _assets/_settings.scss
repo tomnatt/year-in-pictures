@@ -1024,9 +1024,9 @@ $topbar-margin-bottom: rem-calc(10);
 // $topbar-title-font-size: rem-calc(17);
 
 // Style the top bar dropdown elements
-// $topbar-dropdown-bg: #333;
+$topbar-dropdown-bg: #fff;
 // $topbar-dropdown-link-color: #fff;
-// $topbar-dropdown-link-bg: #333;
+$topbar-dropdown-link-bg: #fff;
 // $topbar-dropdown-link-weight: normal;
 // $topbar-dropdown-toggle-size: 5px;
 // $topbar-dropdown-toggle-color: #fff;
@@ -1065,7 +1065,7 @@ $topbar-menu-icon-color: #222;
 // $topbar-transition-speed: 300ms;
 // Using rem-calc for the below breakpoint causes issues with top bar
 // $topbar-breakpoint: #{upper-bound($medium-range)}; // Change to 9999px for always mobile layout
-// $topbar-media-query: "only screen and (min-width: #{upper-bound($medium-range)})";
+$topbar-media-query: "only screen and (min-width: 400px)";
 
 // Divider Styles
 // $topbar-divider-border-bottom: solid 1px  scale-color($topbar-bg-color, $lightness: 13%);

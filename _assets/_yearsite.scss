@@ -39,6 +39,14 @@ body {
 
     nav {
         @include spacing;
+        .month-navigation ul li a {
+            @media only screen and (max-width: 1140px) {
+                font-size: rem-calc(16);
+            }
+            @media only screen and (min-width: 620px) and (max-width: 990px) {
+                font-size: rem-calc(12);
+            }
+        }
         .month-navigation ul li a:hover {
             // border: 1px solid #9A3521;
             // margin: -1px 0 -1px -1px;
