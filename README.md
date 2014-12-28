@@ -25,3 +25,9 @@ bundle exec rake
 ## Credits
 
 The photo stuff started life on [one of the Zurb example pages](http://zurb.com/playground/css3-polaroids).
+
+## To add a picture
+
+1. Put an image in `images` (_size_)
+1. Put a thumbnail in `images/thumbnails` (190x190)
+1. Add a corresponding `{picture}` in `index.html`
