@@ -3,15 +3,28 @@ layout: layout
 title: Year of the Sheep
 ---
 
-{% month january false %}
-{% month february true %}
-{% month march true %}
-{% month april true %}
-{% month may true %}
-{% month june true %}
-{% month july true %}
-{% month august true %}
-{% month september true %}
-{% month october true %}
-{% month november true %}
-{% month december true %}
+<section class="row month" id="#january">
+    <h2>January</h2>
+    <div class="images">
+        <ul class="polaroids large-block-grid-3 small-block-grid-2">
+{% picture image-placeholder.png caption alt %}
+{% picture image-placeholder.png caption alt %}
+{% picture image-placeholder.png caption alt %}
+{% picture image-placeholder.png caption alt %}
+{% picture image-placeholder.png caption alt %}
+{% picture image-placeholder.png caption alt %}
+        </ul>
+    </div>
+</section>
+
+{% month february %}
+{% month march %}
+{% month april %}
+{% month may %}
+{% month june %}
+{% month july %}
+{% month august %}
+{% month september %}
+{% month october %}
+{% month november %}
+{% month december %}
