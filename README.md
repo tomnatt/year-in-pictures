@@ -1,4 +1,4 @@
-2014-site
+year-in-pictures
 =========
 
 Photos of 2014 site
