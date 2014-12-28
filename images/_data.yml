@@ -3,7 +3,9 @@ pictures:
     image: image-placeholder.png
     caption: placeholder
     alt: placeholder
+    month: january
   -
     image: natural_paper.png
     caption: paper
     alt: paper
+    month: january

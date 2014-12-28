@@ -35,7 +35,6 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## Todo
 
-* photo page
 * generate photo page for each picture in `images`
 * html validation
 * browser test
