@@ -30,13 +30,12 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 1. Put an image in `images` (_size_)
 1. Put a thumbnail in `images/thumbnails` (190x190)
-1. Add a corresponding `{picture}` in `index.html`
 1. Update `images/_data.yml`
+1. Add a corresponding `{picture}` in `index.html`
 
 ## Todo
 
 * photo page
-* read caption and alt from a config file
 * generate photo page for each picture in `images`
 * html validation
 * browser test
