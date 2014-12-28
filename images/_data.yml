@@ -1,0 +1,9 @@
+pictures:
+  -
+    image: image-placeholder.png
+    caption: placeholder
+    alt: placeholder
+  -
+    image: natural_paper.png
+    caption: paper
+    alt: paper

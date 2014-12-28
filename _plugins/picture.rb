@@ -1,13 +1,23 @@
 class PictureMarkup < Liquid::Tag
 
+    require 'yaml'
+
     def initialize(tag_name, text, tokens)
         super
         params = text.split(" ")
         @image = params[0]
 
-        # read the config from a yml file?
-        @caption = params[1]
-        @alt = params[2]
+        # read the config from a yml file
+        index = nil
+        data = YAML.load_file('images/_data.yml')['pictures']
+        data.each_with_index do |pic, i|
+            if pic['image'] == @image
+                index = i
+            end
+        end
+
+        @caption = data[index]['caption']
+        @alt = data[index]['alt']
     end
 
     def render(context)
