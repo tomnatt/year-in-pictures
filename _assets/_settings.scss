@@ -118,7 +118,7 @@ $column-gutter: 0;
 // $black       : #000000;
 
 // We use these as default colors throughout
-// $primary-color: #008CBA;
+$primary-color: transparent;
 // $secondary-color: #e7e7e7;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
@@ -1397,7 +1397,7 @@ $topbar-margin-bottom: rem-calc(10);
 $topbar-link-color: #9a3521;
 $topbar-link-color-hover: #9a3521;
 $topbar-link-color-active: #9a3521;
-// $topbar-link-color-active-hover: $white;
+$topbar-link-color-active-hover: #9a3521;
 // $topbar-link-weight: $font-weight-normal;
 $topbar-link-font-size: rem-calc(22);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
@@ -1405,7 +1405,7 @@ $topbar-link-font-size: rem-calc(22);
 $topbar-link-bg-hover: #ffefd2;
 // $topbar-link-bg-color-hover: $charcoal;
 // $topbar-link-bg-active: $primary-color;
-// $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+$topbar-link-bg-active-hover: #ffefd2;;
 // $topbar-link-font-family: $body-font-family;
 // $topbar-link-text-transform: none;
 // $topbar-link-padding: ($topbar-height / 3);
