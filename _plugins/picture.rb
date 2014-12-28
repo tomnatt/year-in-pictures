@@ -13,6 +13,7 @@ class PictureMarkup < Liquid::Tag
         data.each_with_index do |pic, i|
             if pic['image'] == @image
                 index = i
+                break
             end
         end
 
@@ -21,7 +22,6 @@ class PictureMarkup < Liquid::Tag
     end
 
     def render(context)
-
 <<-eos
 <li>
     <a title="#{@caption}" href="#">
