@@ -1,4 +1,4 @@
-class EmbedYoutube < Liquid::Tag
+class MonthMarkup < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
         super
@@ -7,7 +7,7 @@ class EmbedYoutube < Liquid::Tag
         @title_month = @month.slice(0,1).capitalize + @month.slice(1..-1)
         @future = (params[1] == "true") ? " future" : ""
     end
- 
+
     def render(context)
 
 <<-eos
@@ -52,5 +52,5 @@ eos
     end
 
     Liquid::Template.register_tag "month", self
-    
+
 end
