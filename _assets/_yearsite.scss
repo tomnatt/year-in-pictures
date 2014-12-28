@@ -133,5 +133,17 @@ body {
         }
       } // ul.polaroids li
     } // div.images
-  } // &.month
+
+    // full page image
+    .date {
+      @include spacing;
+    }
+    figure {
+      @include spacing;
+    }
+  } // &.month, &.picture
 } // .row
+
+footer {
+  @include spacing;
+}
