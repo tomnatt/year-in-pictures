@@ -29,7 +29,7 @@ module ImagePages
       self.data['month'] = image_data['month']
       self.data['image'] = image_data['image']
       self.data['image_title'] = image_data['image_title']
-      self.data['caption'] = image_data['caption']
+      self.data['description'] = image_data['description']
       self.data['alt'] = image_data['alt']
     end
   end

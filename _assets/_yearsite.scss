@@ -134,6 +134,13 @@
     }
     figure {
       @include spacing;
+
+      figcaption a {
+        color: $secondary-color;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
     }
   } // &.month, &.picture
 } // .row
