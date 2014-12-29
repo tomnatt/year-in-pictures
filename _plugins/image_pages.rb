@@ -26,7 +26,7 @@ module ImagePages
       self.read_yaml(File.join(@base, '_layouts'), 'picture.html')
       self.data['title'] = 'Year of the Sheep'
       self.data['months'] = 'false'
-      self.data['month'] = image_data['month'].capitalize
+      self.data['month'] = image_data['month']
       self.data['image'] = image_data['image']
       self.data['image_title'] = image_data['image_title']
       self.data['caption'] = image_data['caption']
