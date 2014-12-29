@@ -2,12 +2,6 @@ pictures:
   -
     image: image-placeholder.png
     image_title: The question mark
-    caption: This shouldn't be seen!
+    caption: placeholder
     alt: placeholder
-    month: january
-  -
-    image: natural_paper.png
-    image_title: Second image test
-    caption: paper
-    alt: paper
     month: january

@@ -20,19 +20,17 @@ module ImagePages
         end
       end
 
-      unless index.nil?
-        image_data = data[index]
+      image_data = data[index]
 
-        self.process(@name)
-        self.read_yaml(File.join(@base, '_layouts'), 'picture.html')
-        self.data['title'] = 'Year of the Sheep'
-        self.data['months'] = 'false'
-        self.data['month'] = image_data['month'].capitalize
-        self.data['image'] = image_data['image']
-        self.data['image_title'] = image_data['image_title']
-        self.data['caption'] = image_data['caption']
-        self.data['alt'] = image_data['alt']
-      end
+      self.process(@name)
+      self.read_yaml(File.join(@base, '_layouts'), 'picture.html')
+      self.data['title'] = 'Year of the Sheep'
+      self.data['months'] = 'false'
+      self.data['month'] = image_data['month'].capitalize
+      self.data['image'] = image_data['image']
+      self.data['image_title'] = image_data['image_title']
+      self.data['caption'] = image_data['caption']
+      self.data['alt'] = image_data['alt']
     end
   end
 
@@ -40,10 +38,18 @@ module ImagePages
     safe true
 
     def generate(site)
+      # images to omit
+      omit_list = ['natural_paper.png']
+
+      # iterate through all files in the directory
       Dir.foreach('/home/green/ruby/jekyll/yearinpictures/images') do |file|
+        # only process image files
         if file =~ /.jpg/ || file =~ /.png/
-          new_page =  ImagePage.new(site, Dir.pwd, '/photos', file)
-          site.pages << new_page
+          # omit listed pictures
+          unless omit_list.include?(file)
+            new_page =  ImagePage.new(site, Dir.pwd, '/photos', file)
+            site.pages << new_page
+          end
         end
       end
     end
