@@ -35,7 +35,5 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## Todo
 
-* html validation
-* browser test
 * deployment script
 * domain!
