@@ -42,7 +42,7 @@ module ImagePages
       omit_list = ['natural_paper.png']
 
       # iterate through all files in the directory
-      Dir.foreach('/home/green/ruby/jekyll/yearinpictures/images') do |file|
+      Dir.foreach('images') do |file|
         # only process image files
         if file =~ /.jpg/ || file =~ /.png/
           # omit listed pictures
