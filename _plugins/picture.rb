@@ -26,7 +26,7 @@ class PictureMarkup < Liquid::Tag
 <<-eos
   <li>
     <a title="#{@caption}" href="/photos/#{@link}">
-      <img alt="#{@alt}" src="/images/#{@image}">
+      <img alt="#{@alt}" src="/images/thumbnails/#{@image}">
     </a>
   </li>
 eos
