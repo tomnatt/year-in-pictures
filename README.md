@@ -35,7 +35,7 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## Todo
 
-* navigation around the site
+* scroll to month on click
 * html validation
 * browser test
 * deployment script
