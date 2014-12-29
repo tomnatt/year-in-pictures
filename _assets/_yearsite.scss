@@ -18,18 +18,6 @@
   }
 }
 
-body {
-  // @media #{$large-up} {
-  //     background-color: red;
-  // }
-  // @media #{$medium-only} {
-  //     background-color: yellow;
-  // }
-  // @media #{$small-only} {
-  //     background-color: blue;
-  // }
-}
-
 .row {
 
   h1 {
@@ -47,8 +35,6 @@ body {
         font-size: rem-calc(12);
       }
       &:hover {
-        // border: 1px solid #9A3521;
-        // margin: -1px 0 -1px -1px;
         text-decoration: underline;
       }
     }
@@ -137,6 +123,14 @@ body {
     // full page image
     .date {
       @include spacing;
+
+      a {
+        padding: 10px 15px;
+        &:hover {
+          text-decoration: underline;
+          background-color: $topbar-link-bg-hover;
+        }
+      }
     }
     figure {
       @include spacing;
