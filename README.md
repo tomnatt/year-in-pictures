@@ -1,7 +1,7 @@
 year-in-pictures
 =========
 
-Photos of 2014 site
+Photos of 2015 site
 
 Built using https://github.com/tomnatt/jekyll-foundation
 
@@ -35,7 +35,6 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## Todo
 
-* scroll to month on click
 * html validation
 * browser test
 * deployment script
