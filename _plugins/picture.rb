@@ -17,6 +17,7 @@ class PictureMarkup < Liquid::Tag
       end
     end
 
+    @link = File.basename(@image, File.extname(@image)) + '.html'
     @caption = data[index]['caption']
     @alt = data[index]['alt']
   end
@@ -24,7 +25,7 @@ class PictureMarkup < Liquid::Tag
   def render(context)
 <<-eos
   <li>
-    <a title="#{@caption}" href="#">
+    <a title="#{@caption}" href="/photos/#{@link}">
       <img alt="#{@alt}" src="/images/#{@image}">
     </a>
   </li>
