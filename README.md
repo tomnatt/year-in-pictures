@@ -35,5 +35,4 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## Todo
 
-* deployment script
 * domain!
