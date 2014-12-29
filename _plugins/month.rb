@@ -15,32 +15,32 @@ class MonthMarkup < Liquid::Tag
     <div class="images">
       <ul class="polaroids large-block-grid-3 small-block-grid-2">
         <li>
-          <a title="image placeholder" href="#">
+          <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/image-placeholder.png">
           </a>
         </li>
         <li>
-          <a title="image placeholder" href="#">
+          <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/image-placeholder.png">
           </a>
         </li>
         <li>
-          <a title="image placeholder" href="#">
+          <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/image-placeholder.png">
           </a>
         </li>
         <li>
-          <a title="image placeholder" href="#">
+          <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/image-placeholder.png">
           </a>
         </li>
         <li>
-          <a title="image placeholder" href="#">
+          <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/image-placeholder.png">
           </a>
         </li>
         <li>
-          <a title="image placeholder" href="#">
+          <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/image-placeholder.png">
           </a>
         </li>
