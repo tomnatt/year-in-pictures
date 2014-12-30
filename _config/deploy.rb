@@ -4,7 +4,7 @@ require 'mina/git'
 
 set :user, ENV['HOSTING_USER']
 set :deploy_to, ENV['YEARINPICTURES_HOSTING_DIR']
-set :domain, 'tomnatt.com'
+set :domain, 'theyearinpictures.co.uk'
 set :repository, 'git@github.com:tomnatt/year-in-pictures.git'
 set :branch, 'master'
 
