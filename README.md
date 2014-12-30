@@ -35,4 +35,6 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## Todo
 
-* domain!
+* set up domain
+* set up vhost
+* redeploy with GA code
