@@ -36,4 +36,3 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 ## Todo
 
 * pic 3 to front
-* anchor links
