@@ -6,3 +6,73 @@ pictures:
     description: Placeholder image
     alt: placeholder
     month: january
+  -
+    image: 01-dad.jpg
+    image_title: Our first snow
+    caption: First snow
+    description: The first snow of the year in the front garden.
+    alt: snowy guarden
+    month: january
+  -
+    image: 01-ed.jpg
+    image_title: Man spilling Lego everywhere
+    caption: Lego!
+    description: Visited the fantastic Lego (Art of the Brick) exhibition with some old Uni friends in the not-so-fantastic Shoreditch.
+    alt: man full of Lego
+    month: january
+  -
+    image: 01-gareth.jpg
+    image_title: The Cereal Killer Cafe in Shoreditch, East London
+    caption: London's Trendy Cereal Cafe
+    description: A trip to East London to see what all the fuss was about. I had a bowl of something that was mainly blue and two hours later made me feel very weird indeed.
+    alt: cereal wall
+    month: january
+  -
+    image: 01-lyns.jpg
+    image_title: Airplane
+    caption: Airplane
+    description: To the skies!
+    alt: airplane
+    month: january
+  -
+    image: 01-tom.jpg
+    image_title: Budget work
+    caption: Budget work
+    description: This is what it takes to make a budget. From <a href="https://www.flickr.com/photos/tomnatt/16237546902/">Flickr</a>.
+    alt: empty glasses and bottles
+    month: january
+  -
+    image: 02-dad.jpg
+    image_title: The Severn Bore
+    caption: The Severn Bore
+    description: The Bore is a large surge wave that shoots down the River Severn with a load of surfers hanging on. The wave can be as big as 50 feet.
+    alt: Severn Bore
+    month: february
+  -
+    image: 02-ed.jpg
+    image_title: Damn Birthdays
+    caption: Healthy eating
+    description: Still trying to eat healthy for the start of 2015, but people keep having Birthdays. Damn them.
+    alt: doughnuts
+    month: february
+  -
+    image: 02-gareth.jpg
+    image_title: Me reading a book about Welsh music and listening to Datblygu on a train.
+    caption: Whereareyoubetween?
+    description: Blerwytirhwng? translates as "Whereareyoubetween?" At the time the photo was taken, I was somewhere between Cardiff and Newport and somewhere between doing the interviews and writing up the script for a documentary on Welsh music for Radio 4. I was also between breakfast and lunch.
+    alt: looking out a train window
+    month: february
+  -
+    image: 02-lyns.jpg
+    image_title: Skyline
+    caption: Skyline
+    description: Guess where I went!
+    alt: skyline
+    month: february
+  -
+    image: 02-tom.jpg
+    image_title: Inside the RPG House
+    caption: RPG House
+    description: What happens when seven men are locked in a house for a weekend? Games happen. From <a href="https://www.flickr.com/photos/tomnatt/16736538895/">Flickr</a>.
+    alt: men playing tabletop roleplaying games
+    month: february
