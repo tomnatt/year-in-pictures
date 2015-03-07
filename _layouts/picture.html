@@ -5,7 +5,7 @@ layout: layout
 <div class="row picture">
 
   <h2>{{ page.image_title }}</h2>
-  <p class="date"><a href="/#{{ page.month }}">{{ page.month | capitalize }}</a></p>
+  <p class="date"><a href="/#{{ page.month }}">{{ page.month | capitalize }}</a> - {{ page.photographer | capitalize }}</p>
   <figure>
     <img src="/images/{{ page.image }}" alt="{{ page.alt }}">
     <figcaption>{{ page.description }}</figcaption>
