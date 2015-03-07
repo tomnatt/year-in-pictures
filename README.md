@@ -34,5 +34,3 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 1. Add a corresponding `{picture}` in `index.html`
 
 ## Todo
-
-* check http://www.theyearinpictures.co.uk/

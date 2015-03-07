@@ -66,8 +66,12 @@
         &:nth-child(2) a {
           @include polaroid-position(2deg, 0, 0);
         }
-        &:nth-child(3) a {
-          @include polaroid-position(-22deg, -105px, 32px);
+        &:nth-child(3) {
+          position: relative;
+          z-index: 2;
+          a {
+            @include polaroid-position(-22deg, -105px, 32px);
+          }
         }
         &:nth-child(4) a {
           @include polaroid-position(10deg, 100px, -50px);

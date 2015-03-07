@@ -28,6 +28,7 @@ module ImagePages
       self.data['months'] = 'false'
       self.data['month'] = image_data['month']
       self.data['image'] = image_data['image']
+      self.data['photographer'] = image_data['image'][/([a-z]+)/, 1]
       self.data['image_title'] = image_data['image_title']
       self.data['description'] = image_data['description']
       self.data['alt'] = image_data['alt']
