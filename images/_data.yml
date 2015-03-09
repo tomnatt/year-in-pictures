@@ -31,7 +31,7 @@ pictures:
     image: 01-lyns.jpg
     image_title: Airplane
     caption: Airplane
-    description: To the skies!
+    description: Waiting at the gate in Heathrow T5. It later transpired that this was not, in fact, my plane and I was actually technically sitting in the seating for the adjacent gate.
     alt: airplane
     month: january
   -
@@ -66,7 +66,7 @@ pictures:
     image: 02-lyns.jpg
     image_title: Skyline
     caption: Skyline
-    description: Guess where I went!
+    description: Stood for 2 hours at Top of the Rock, watching the sun set over Manhattan.  It was so cold that the blood in my feet genuinely stopped circulating and I found it physically difficult to walk away.
     alt: skyline
     month: february
   -
