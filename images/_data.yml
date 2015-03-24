@@ -35,18 +35,18 @@ pictures:
     alt: airplane
     month: january
   -
-    image: 01-tom.jpg
-    image_title: Budget work
-    caption: Budget work
-    description: This is what it takes to make a budget. From <a href="https://www.flickr.com/photos/tomnatt/16237546902/">Flickr</a>.
-    alt: empty glasses and bottles
-    month: january
-  -
     image: 01-sheena.jpg
     image_title: Skating
     caption: Where did the pond go?
     description: Walking in the Berkshire countryside on a cold winter's morning.
     alt: duck on ice
+    month: january
+  -
+    image: 01-tom.jpg
+    image_title: Budget work
+    caption: Budget work
+    description: This is what it takes to make a budget. From <a href="https://www.flickr.com/photos/tomnatt/16237546902/">Flickr</a>.
+    alt: empty glasses and bottles
     month: january
   -
     image: 02-dad.jpg
@@ -77,6 +77,13 @@ pictures:
     alt: skyline
     month: february
   -
+    image: 02-sheena.jpg
+    image_title: Guess Who?
+    caption: A famous Windsor inhabitant
+    description: "Equestrian statue of the Queen, erected in Windsor Great Park, for Her Majesty's Golden Jubilee."
+    alt: statue of the Queen on a horse
+    month: february
+  -
     image: 02-tom.jpg
     image_title: Inside the RPG House
     caption: RPG House
@@ -84,9 +91,44 @@ pictures:
     alt: men playing tabletop roleplaying games
     month: february
   -
-    image: 02-sheena.jpg
-    image_title: Guess Who?
-    caption: A famous Windsor inhabitant
-    description: "Equestrian statue of the Queen, erected in Windsor Great Park, for Her Majesty's Golden Jubilee."
-    alt: statue of the Queen on a horse
-    month: february
+    image: 03-dad.jpg
+    image_title: Viewing the eclipse
+    caption: Viewing the eclipse
+    description: 11 years to the next one if you missed it!
+    alt: eclipse through a telescope
+    month: march
+  -
+    image: 03-ed.jpg
+    image_title: Snails can be cute
+    caption: Becoming a grandfather
+    description: Turns out my male snail was in fact female and pregnant. Now to think of a new name for him/her. Fish kindly swam on the right in the photo for scale.
+    alt: snail in a fish tank
+    month: march
+  -
+    image: 03-gareth.jpg
+    image_title: A Record Shop In Valletta, Malta
+    caption: My Heritage (x2)
+    description: "While on holiday in Malta I visited this record shop which had a lengthy Guardian article printed-out and stuck in the window. The headline read \"The World's Oldest Record Shop: on the vinyl frontier since 1894\" - and celebrated the history Spillers Records in Cardiff. As a product of both Wales and Malta, I spent ages trying to work out why a shop in Valletta would be so interested in the history of a store in Cardiff... Until I spotted the date above their own door."
+    alt: record shop
+    month: march
+  -
+    image: 03-lyns.jpg
+    image_title: Maida Vale 6
+    caption: Maida Vale 6
+    description: Recording the third series of 'Alice's Wunderland' at Maida Vale Studios - last bastion of old-school BBC buildings, current home of the BBC Orchestras and erstwhile home of the Radiophonic Workshop. This sign is above the entrance to the MV6 control room. Note the 80s font and BBC logo of our childhood.
+    alt: bbc sign
+    month: march
+  -
+    image: 03-sheena.jpg
+    image_title: Driving across the North York moors
+    caption: Looking forward to spring
+    description: Enroute between Whitby and Guisborough, the weather suddenly deteriorated.
+    alt: moors in the snow
+    month: march
+  -
+    image: 03-tom.jpg
+    image_title: The bubble hotel
+    caption: A room with a view
+    description: It cost £50 a night to stay in this clear plastic bubble set up in the centre of Bath. Apparently the people staying there were somewhat extroverted. No; really.
+    alt: bubble hotel
+    month: march
