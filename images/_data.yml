@@ -42,6 +42,13 @@ pictures:
     alt: empty glasses and bottles
     month: january
   -
+    image: 01-sheena.jpg
+    image_title: Skating
+    caption: Where did the pond go?
+    description: Walking in the Berkshire countryside on a cold winter's morning.
+    alt: duck on ice
+    month: january
+  -
     image: 02-dad.jpg
     image_title: The Severn Bore
     caption: The Severn Bore
@@ -75,4 +82,11 @@ pictures:
     caption: RPG House
     description: What happens when seven men are locked in a house for a weekend? Games happen. From <a href="https://www.flickr.com/photos/tomnatt/16736538895/">Flickr</a>.
     alt: men playing tabletop roleplaying games
+    month: february
+  -
+    image: 02-sheena.jpg
+    image_title: Guess Who?
+    caption: A famous Windsor inhabitant
+    description: Equestrian statue of the Queen, erected in Windsor Great Park, for Her Majesty's Golden Jubilee.
+    alt: statue of the Queen on a horse
     month: february
