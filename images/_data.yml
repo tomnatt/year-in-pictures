@@ -132,3 +132,45 @@ pictures:
     description: It cost £50 a night to stay in this clear plastic bubble set up in the centre of Bath. Apparently the people staying there were somewhat extroverted. No; really. From <a href="https://www.flickr.com/photos/tomnatt/16211693334/">Flickr</a>.
     alt: bubble hotel
     month: march
+  -
+    image: 04-dad.jpg
+    image_title: Spring bursts forth
+    caption: Spring bursts forth
+    description: This tree was bare 3 weeks ago!
+    alt: blossom
+    month: april
+  -
+    image: 04-ed.jpg
+    image_title: An evening at the O2
+    caption: WWE
+    description: WWE came to the UK and actually filmed it as one of the real shows broadcast across the world. A rare thing, which was exciting stuff. Yes it was stupid, but it was great fun.
+    alt: WWE comes to the O2
+    month: april
+  -
+    image: 04-gareth.jpg
+    image_title: The Vote Now Show
+    caption: A DAB radio in our kitchen
+    description: Listening to an episode of The Vote Now Show I'd worked on that very day and seen recorded only 4 hours earlier.
+    alt: DAB radio
+    month: april
+  -
+    image: 04-lyns.jpg
+    image_title: Ham Man
+    caption: Ham Man
+    description: Encumbered by a lack of kitchen cupboard space, Rhiannon stumbles upon an innovative storage solution for a full leg of cured ham.
+    alt: A man made of ham
+    month: april
+  -
+    image: 04-sheena.jpg
+    image_title: Spring Walk at Hindhead Commons and the Devil's Punchbowl, Surrey
+    caption: The Sailor's Stone
+    description: "The stone \"commerates the events of 24th September 1786, when an unknown sailor travelling the Old Portsmouth Road was murdered by three assailants\". A Celtic Cross stands nearby to mark the place where the three were hanged in chains on a gibbet and left for nearly three years until brought down by a storm."
+    alt: moors in the snow
+    month: april
+  -
+    image: 04-tom.jpg
+    image_title: Mr Robin
+    caption: Mr Robin
+    description: We walked past this fellow guarding a lift next to a church. He cheerfully sung a hello to us - or shrieked at us to keep our distance. Probably the latter.
+    alt: robin
+    month: april
