@@ -106,7 +106,7 @@ pictures:
     month: march
   -
     image: 03-gareth.jpg
-    image_title: A Record Shop In Valletta, Malta
+    image_title: "A Record Shop In Valletta, Malta"
     caption: My Heritage (x2)
     description: "While on holiday in Malta I visited this record shop which had a lengthy Guardian article printed-out and stuck in the window. The headline read \"The World's Oldest Record Shop: on the vinyl frontier since 1894\" - and celebrated the history Spillers Records in Cardiff. As a product of both Wales and Malta, I spent ages trying to work out why a shop in Valletta would be so interested in the history of a store in Cardiff... Until I spotted the date above their own door."
     alt: record shop
@@ -122,7 +122,7 @@ pictures:
     image: 03-sheena.jpg
     image_title: Driving across the North York moors
     caption: Looking forward to spring
-    description: Enroute between Whitby and Guisborough, the weather suddenly deteriorated.
+    description: "Enroute between Whitby and Guisborough, the weather suddenly deteriorated."
     alt: moors in the snow
     month: march
   -
@@ -143,7 +143,7 @@ pictures:
     image: 04-ed.jpg
     image_title: An evening at the O2
     caption: WWE
-    description: WWE came to the UK and actually filmed it as one of the real shows broadcast across the world. A rare thing, which was exciting stuff. Yes it was stupid, but it was great fun.
+    description: "WWE came to the UK and actually filmed it as one of the real shows broadcast across the world. A rare thing, which was exciting stuff. Yes it was stupid, but it was great fun."
     alt: WWE comes to the O2
     month: april
   -
@@ -157,20 +157,62 @@ pictures:
     image: 04-lyns.jpg
     image_title: Ham Man
     caption: Ham Man
-    description: Encumbered by a lack of kitchen cupboard space, Rhiannon stumbles upon an innovative storage solution for a full leg of cured ham.
+    description: "Encumbered by a lack of kitchen cupboard space, Rhiannon stumbles upon an innovative storage solution for a full leg of cured ham."
     alt: A man made of ham
     month: april
   -
     image: 04-sheena.jpg
-    image_title: Spring Walk at Hindhead Commons and the Devil's Punchbowl, Surrey
+    image_title: "Spring Walk at Hindhead Commons and the Devil's Punchbowl, Surrey"
     caption: The Sailor's Stone
-    description: "The stone \"commerates the events of 24th September 1786, when an unknown sailor travelling the Old Portsmouth Road was murdered by three assailants\". A Celtic Cross stands nearby to mark the place where the three were hanged in chains on a gibbet and left for nearly three years until brought down by a storm."
+    description: 'The stone "commerates the events of 24th September 1786, when an unknown sailor travelling the Old Portsmouth Road was murdered by three assailants". A Celtic Cross stands nearby to mark the place where the three were hanged in chains on a gibbet and left for nearly three years until brought down by a storm.'
     alt: moors in the snow
     month: april
   -
     image: 04-tom.jpg
     image_title: Mr Robin
     caption: Mr Robin
-    description: We walked past this fellow guarding a lift next to a church. He cheerfully sung a hello to us - or shrieked at us to keep our distance. Probably the latter.
+    description: We walked past this fellow guarding a lift next to a church. He cheerfully sung a hello to us - or shrieked at us to keep our distance. Probably the latter. From <a href="https://www.flickr.com/photos/tomnatt/17345445235/">Flickr</a>.
     alt: robin
     month: april
+  -
+    image: 05-dad.jpg
+    image_title: New neighbours move in
+    caption: New neighbours move in
+    description: "300 head of cattle moved back onto Minchinhampton Common on May 11th, and this little bundle was one of the very early family additions. They'll be there until about October, wandering around the Common, eating the buttercups and grass."
+    alt: cattle by a tree
+    month: may
+  -
+    image: 05-ed.jpg
+    image_title: Bekonscot
+    caption: Model Village
+    description: "I have driven past this model village hundreds of times and now finally I have been. The Queen visited in the 1930s, and from the photos not much has changed. The shops have hilarious names. Worth a visit if you are ever on the M40."
+    alt: shops in Bekonscot
+    month: may
+  -
+    image: 05-gareth.jpg
+    image_title: Machynlleth Comedy Festival
+    caption: Machynlleth Comedy Festival
+    description: This is the sign which overlooks the town during the weekend of the Machynlleth Comedy Festival and the Dyfi Enduro. The picture was taken on the Sunday afternoon of the Machynlleth Comedy Festival during a brief break in the rain and just after we'd finished recording an episode of "Elis James' Guide To...". "Cymru Rydd" means "Free Wales".
+    alt: the sign which overlooks the town during the weekend of the Machynlleth Comedy Festival and the Dyfi Enduro
+    month: may
+  -
+    image: 05-lyns.jpg
+    image_title: Barbican
+    caption: Barbican
+    description: My favourite new spot to sit and enjoy a book on a sunny day.
+    alt: outside the Barbican
+    month: may
+  -
+    image: 05-sheena.jpg
+    image_title: Spring
+    caption: Bluebells - spring is here!
+    description: "We've been walking through many 'bluebell' woods this month in Berkshire, Surrey and Hampshire (including near to where Jane Austen lived for the first 25 years of her life)."
+    alt: bluebells
+    month: may
+  -
+    image: 05-tom.jpg
+    image_title: Onion bhajis
+    caption: Indian noms
+    description: It turns out that bhajis are simple to make and really tasty as long as you don't go too mad with the curry powder. These are the ones Dad and I didn't immediately eat and you can tell they are healthy - check out that leaf. From <a href="https://www.flickr.com/photos/tomnatt/17618213514/">Flickr</a>.
+    alt: onion bhajis in a bowl
+    month: may
