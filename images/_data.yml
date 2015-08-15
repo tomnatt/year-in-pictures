@@ -258,3 +258,45 @@ pictures:
     description: I took part in <a href="http://blogs.bath.ac.uk/digital/2015/07/06/a-hack-day-out-with-futurelearn/">a hack day at FutureLearn</a> in the British Library. A really interesting day spent discussing the future of the FutureLearn and mocking up some new features. And we won! From <a href="https://www.flickr.com/photos/tomnatt/19146258741/">Flickr</a>.
     alt: notebook
     month: june
+  -
+    image: 07-dad.jpg
+    image_title: A walk around Skomer Island
+    caption: Skomer Island
+    description: "In one of the best scenic counties in the UK (Pembrokeshire), Skomer Island is a haven for 50% of the world's population of Manx Shearwaters (300,000 pairs) plus thousands of Puffin like this little chappie sharing the rain with me. I think his waterproof coat was better than mine.... I was soaked to the skin!"
+    alt: puffin
+    month: july
+  -
+    image: 07-ed.jpg
+    image_title: Copenhagen
+    caption: Copenhagen
+    description: "Some strange architecture in Copenhagen, such as this slide/ramp into the river."
+    alt: slide
+    month: july
+  -
+    image: 07-gareth.jpg
+    image_title: Readthrough
+    caption: Readthrough
+    description: "John-Luke Roberts and I make alterations to the scripts for the sitcom Bull, following a readthrough. Within a week the props and set had arrived, but I'm not allowed to post photos of those yet."
+    alt: script and diet coke
+    month: july
+  -
+    image: 07-lyns.jpg
+    image_title: Scottish Summer
+    caption: Scottish Summer
+    description: "Admiring the spectacular view from the top of Conic Hill on the Balmaha Millennium Forest Trail, recording for Susan Calman's new Radio 4 series."
+    alt: two people on a windy hill
+    month: july
+  -
+    image: 07-sheena.jpg
+    image_title: Unique Museum in Budapest
+    caption: House of Terror
+    description: "Not the usual Danube photo! This shocking museum is housed in the former secret police HQ. It records the grim reality of interrogation and torture, during both Nazi and Stalinist occupation. No photography is allowed inside the museum. Another moving memorial we visited is 30m of the original Jewish ghetto wall (rebuilt in 2010), hidden behind run-down flats."
+    alt: memorial
+    month: july
+  -
+    image: 07-tom.jpg
+    image_title: The end of an era
+    caption: The end
+    description: 'After nearly ten years working in 2 South we moved out to new pastures elsewhere on campus. The new offices are nice, but it is very much the end of an era.  From <a href="https://www.flickr.com/photos/tomnatt/19185606743/">Flickr</a>.'
+    alt: empty office
+    month: july
