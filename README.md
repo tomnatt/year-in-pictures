@@ -9,7 +9,7 @@ Installation
 ------------
 
 1. Clone to your chosen directory
-1. `submodule init`
+1. `git submodule init`
 1. `git submodule update`
 1. `bundle install`
 1. `bundle exec guard`
