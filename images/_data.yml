@@ -297,6 +297,48 @@ pictures:
     image: 07-tom.jpg
     image_title: The end of an era
     caption: The end
-    description: 'After nearly ten years working in 2 South we moved out to new pastures elsewhere on campus. The new offices are nice, but it is very much the end of an era.  From <a href="https://www.flickr.com/photos/tomnatt/19185606743/">Flickr</a>.'
+    description: 'After nearly ten years working in 2 South we moved out to new pastures elsewhere on campus. The new offices are nice, but it is very much the end of an era. From <a href="https://www.flickr.com/photos/tomnatt/19185606743/">Flickr</a>.'
     alt: empty office
     month: july
+  -
+    image: 08-dad.jpg
+    image_title: Harvest time!
+    caption: Harvest time!
+    description: "I always know when August is coming to an end as the apples start to fall. Good crop of Worcester Pearmain apples this year, so need to harvest before the birds and wasps beat me to it."
+    alt: apple tree
+    month: august
+  -
+    image: 08-ed.jpg
+    image_title: 30 years
+    caption: Becoming old
+    description: "I turned old this month. Now that my age starts with a 3, I feel much more eligible to tut at the youth."
+    alt: birthday cake
+    month: august
+  -
+    image: 08-gareth.jpg
+    image_title: Green Man Festival
+    caption: Green Man Festival
+    description: Hot Chip conclude their Green Man Festival set by releasing a bunch of enormous glowing balloons into the crowd and covering Dancing In The Dark.
+    alt: Green Man Festival
+    month: august
+  -
+    image: 08-lyns.jpg
+    image_title: The Gower
+    caption: The Gower
+    description: I assume the weather in Wales is always this lovely.
+    alt: The Gower
+    month: august
+  -
+    image: 08-sheena.jpg
+    image_title: "Deer, on Exmoor"
+    caption: 'Being &quot;mobbed&quot;'
+    description: 'Whilst walking on Exmoor, in heavy rain, we stumbled across a "mob" of over 60 deer. We stood and observed each other for a long time.'
+    alt: deer on exmoor
+    month: august
+  -
+    image: 08-tom.jpg
+    image_title: New Wine
+    caption: New Wine
+    description: 'Martin Smith played in the main tent at New Wine. It was a fantastic event; extremely powerful and we were very blessed to have him there. From <a href="https://www.flickr.com/photos/tomnatt/20248703839/">Flickr</a>.'
+    alt: concert
+    month: august
