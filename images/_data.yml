@@ -342,3 +342,45 @@ pictures:
     description: 'Martin Smith played in the main tent at New Wine. It was a fantastic event; extremely powerful and we were very blessed to have him there. From <a href="https://www.flickr.com/photos/tomnatt/20248703839/">Flickr</a>.'
     alt: concert
     month: august
+  -
+    image: 09-dad.jpg
+    image_title: Red squirrel on Brownsea Island
+    caption: Red squirrel
+    description: "An interesting visit to Brownsea Island in Poole Harbour. Not that much wildlife about, but lots of cheeky red squirrels like this one."
+    alt: red squirrel
+    month: september
+  -
+    image: 09-ed.jpg
+    image_title: Office Treats
+    caption: Insect Feast
+    description: "Someone in the office said they liked Cricket - someone else got the wrong end of the stick. A selection of the tasty snacks on offer in our office this month."
+    alt: insect snacks
+    month: september
+  -
+    image: 09-gareth.jpg
+    image_title: Hotel Katajanokka
+    caption: Hotel Katajanokka
+    description: "The oldest part of what was Helsinki County Prison dates back to 1837. Over the years it was extended, became a remand prison before closing in 2002 when it was refurbished and reopened as Hotel Katajanokka. They have left a single solitary confinement cell and a rather grim looking group-cell exactly as they were for visitors to check out... Although, as you can see, I'm sure the narrow metal staircases and location of the \"rooms\" would probably be familiar to former inmates."
+    alt: inside Hotel Katajanokka
+    month: september
+  -
+    image: 09-lyns.jpg
+    image_title: Mr Egg
+    caption: Mr Egg
+    description: "I haven't taken many photos this month because I have had Shingles and been touring with the BBC New Comedy Awards. So here's an amusingly named takeaway restaurant in close proximity to Birmingham's Glee Club."
+    alt: takeaway restaurant
+    month: september
+  -
+    image: 09-sheena.jpg
+    image_title: Countryside Walk
+    caption: Pheasant Shooting
+    description: "I spotted this pheasant whilst walking in an area of Buckinghamshire, frequently used for film and tv locations (Vicar of Dibley, Midsomer Murders, Chitty Chitty Bang Bang etc). Thankfully the only shooting I do is with a camera!"
+    alt: pheasant
+    month: september
+  -
+    image: 09-tom.jpg
+    image_title: Boats on the beach at Beer
+    caption: Ahoy there
+    description: "We found these boats on the beach at Beer after a couple of hours hiking along the cliff tops. I like this picture because it isn't just a random snap of the boats that turned out nicely - I actually planned the composition while we were eating lunch before going and taking it and it actually turned out quite well. For comparison, I also took <a href=\"https://www.flickr.com/photos/tomnatt/21118275174/\">a less composed picture</a>. From <a href=\"https://www.flickr.com/photos/tomnatt/21553139638/\">Flickr</a>."
+    alt: boats on a beach
+    month: september
