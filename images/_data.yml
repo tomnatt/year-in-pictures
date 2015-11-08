@@ -384,3 +384,45 @@ pictures:
     description: "We found these boats on the beach at Beer after a couple of hours hiking along the cliff tops. I like this picture because it isn't just a random snap of the boats that turned out nicely - I actually planned the composition while we were eating lunch before going and taking it and it actually turned out quite well. For comparison, I also took <a href=\"https://www.flickr.com/photos/tomnatt/21118275174/\">a less composed picture</a>. From <a href=\"https://www.flickr.com/photos/tomnatt/21553139638/\">Flickr</a>."
     alt: boats on a beach
     month: september
+  -
+    image: 10-dad.jpg
+    image_title: Home grown beef?
+    caption: Home grown beef?
+    description: Strange what you find wandering around your back garden!
+    alt: cow in garden
+    month: october
+  -
+    image: 10-ed.jpg
+    image_title: Bug Hotel
+    caption: Bug Hotel
+    description: "I saw this and thought it seemed an excellent place to live. If you know any insects, direct them to Wisley Gardens, much better than slumming it outside."
+    alt: insect hotel
+    month: october
+  -
+    image: 10-gareth.jpg
+    image_title: Come On The Rugby
+    caption: Come On The Rugby
+    description: New Zealand take on South Africa in the Rugby World Cup Semi-Final in Twickenham.
+    alt: rugby world cup game
+    month: october
+  -
+    image: 10-lyns.jpg
+    image_title: Autumnal South Bank
+    caption: Autumnal South Bank
+    description: "London can sometimes look quite nice, even though there are too many people and too much dog poo contained within it. Also, as a bonus, Gareth and Rhiannon (who I was waiting to meet up with) managed to find me based solely on this photograph."
+    alt: south bank
+    month: october
+  -
+    image: 10-sheena.jpg
+    image_title: Autumnal Colour
+    caption: Autumn's Glory
+    description: "Whilst walking in the arboretum, at the RHS Wisley Garden, I was charmed by the fiery red leaves of this Scarlet Oak (Quercus coccinea 'Splendens')."
+    alt: Autumnal leaves
+    month: october
+  -
+    image: 10-tom.jpg
+    image_title: Bath Abbey by Night
+    caption: Night Abbey
+    description: "Not a great month for taking photos, but I did find a moment to reproduce one of the more famous tourist shots of Bath Abbey. It was a warm night and Bath is lovely in all lights. From <a href=\"https://www.flickr.com/photos/tomnatt/22667784670/\">Flickr</a>."
+    alt: bath abbey at night
+    month: october
