@@ -426,3 +426,45 @@ pictures:
     description: "Not a great month for taking photos, but I did find a moment to reproduce one of the more famous tourist shots of Bath Abbey. It was a warm night and Bath is lovely in all lights. From <a href=\"https://www.flickr.com/photos/tomnatt/22667784670/\">Flickr</a>."
     alt: bath abbey at night
     month: october
+  -
+    image: 11-dad.jpg
+    image_title: Why is there only half a spire?
+    caption: Half a spire?
+    description: "The local church trying to brighten up a windy, rainy, cold November evening. Did the local benefactor run out of money and so couldn't complete the spire; was there originally a full spire which was reduced in height on safety grounds; were the stonemasons in competition with those building a nearby church and stopped once they lost the race when the other one was completed? These are all reasons given around the village for this unusually shaped tower and spire, but there seems to be no record of the real reason."
+    alt: church with half a spire
+    month: november
+  -
+    image: 11-ed.jpg
+    image_title: Monkey!
+    caption: Monkey!
+    description: We went to Longleat Safari park and found that monkeys love riding on your car.
+    alt: monkeys
+    month: november
+  -
+    image: 11-gareth.jpg
+    image_title: Showstopper!
+    caption: Showstopper!
+    description: "The stage is set for \"Showstopper! The Improvised Musical\". The board in the corner of this photo shows the previous night's title (\"We Will Chop You\") and musical styles, but based on audience suggestions, I ended up seeing \"A Marrow Escape\" - A Rocky Horror/Wicked/Thriller/Lion King inspired musical set on an allotment."
+    alt: showstopper set
+    month: november
+  -
+    image: 11-lyns.jpg
+    image_title: Sexy Undies
+    caption: Sexy Undies
+    description: Ramsgate has some brilliant junk shops. No wonder Simon moved there.
+    alt: underwear vending machine
+    month: november
+  -
+    image: 11-sheena.jpg
+    image_title: Autumnal Therapy
+    caption: Nature's Escape
+    description: Much of November was spent visiting sick relatives so walking amongst the trees at National Trust Sheffield Park was a welcome respite.
+    alt: trees by a lake
+    month: november
+  -
+    image: 11-tom.jpg
+    image_title: Minchinhampton bonfire
+    caption: Bonfire!
+    description: "The first time I've been to a bonfire in years and it was a really good one. I took a lot of photos, playing with different settings and spent rather too long gazing into the flames. From <a href=\"https://www.flickr.com/photos/tomnatt/22234033954/\">Flickr</a>."
+    alt: bonfire
+    month: november
