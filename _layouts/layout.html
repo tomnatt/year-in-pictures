@@ -3,11 +3,11 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="keywords" content="pictures photos"/>
-  <meta name="description" content="Photos from 2015"/>
+  <meta name="description" content="Photos from {{ page.year }}"/>
   <title>{{ page.title }}</title>
   <meta charset="UTF-8">
   <link rel="stylesheet" media="screen" type="text/css" href="/css/yearinpics.css" title="Default" />
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src="/js/foundation.js"></script>
   <script src="/js/foundation.topbar.js"></script>
   <script src="/js/yearinpics.js"></script>
@@ -23,7 +23,7 @@
 <body>
 
   <header class="row">
-    <h1><a href="/">Year of the Sheep</a></h1>
+    <h1><a href="/{{ page.index }}">{{ page.title }}</a></h1>
 
     {% if page.months == true %}
     <nav class="top-bar" data-topbar>

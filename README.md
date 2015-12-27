@@ -33,4 +33,32 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 1. Update `images/_data.yml`
 1. Add a corresponding `{picture}` in `index.html`
 
+## Updating Foundation
+
+Handling upgrades to git submodules using branches:
+
+http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag/18799234#18799234
+
 ## Todo
+
+1. --Update for latest gems and foundation--
+1. Design with link to last year
+2. Separate 2015 and 2016 templates and photos
+3. List of contributors
+3. Update design for more contributors
+4. Update mailing lists
+
+## People
+
+1. Tom
+2. Dad
+3. Ed
+4. Ga
+5. Lyns
+6. Sheena
+1. Andrew
+2. Dan
+3. Hon
+4. Shelley
+5. Kirsty
+6. Michael
