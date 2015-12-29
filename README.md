@@ -42,9 +42,9 @@ http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag/1
 ## Todo
 
 1. --Update for latest gems and foundation--
-1. Design with link to last year
-2. Separate 2015 and 2016 templates and photos
-3. List of contributors
+1. --Design with link to last year--
+2. --Separate 2015 and 2016 templates and photos--
+3. --List of contributors--
 3. Update design for more contributors
 4. Update mailing lists
 

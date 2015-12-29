@@ -6,7 +6,7 @@
 
 // Table of Contents
 // Foundation Settings
-//
+
 // a. Base
 // b. Grid
 // c. Global
@@ -96,7 +96,8 @@ $column-gutter: 0;
 // $font-weight-normal: normal;
 // $font-weight-bold: bold;
 
-// $white       : #FFFFFF;
+$white       : #FFFFFF;
+$pink        : #FFEFD2;
 // $ghost       : #FAFAFA;
 // $snow        : #F9F9F9;
 // $vapor       : #F6F6F6;
@@ -125,7 +126,7 @@ $secondary-color: #9a3521;
 // $info-color: #a0d3e8;
 
 // We use these to control various global styles
-$body-bg: #fff;
+// $body-bg: $white;
 // $body-font-color: $jet;
 $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: $font-weight-normal;
@@ -152,11 +153,16 @@ $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial,
 // d. Media Query Ranges
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
-// $small-range: (0em, 40em);
-// $medium-range: (40.0625em, 64em);
-// $large-range: (64.0625em, 90em);
-// $xlarge-range: (90.0625em, 120em);
-// $xxlarge-range: (120.0625em, 99999999em);
+// $small-breakpoint:  em-calc(640);
+// $medium-breakpoint: em-calc(1024);
+// $large-breakpoint:  em-calc(1440);
+// $xlarge-breakpoint: em-calc(1920);
+
+// $small-range:   (0, $small-breakpoint);
+// $medium-range:  ($small-breakpoint  + em-calc(1), $medium-breakpoint);
+// $large-range:   ($medium-breakpoint + em-calc(1), $large-breakpoint);
+// $xlarge-range:  ($large-breakpoint  + em-calc(1), $xlarge-breakpoint);
+// $xxlarge-range: ($xlarge-breakpoint + em-calc(1), em-calc(99999999));
 
 // $screen: "only screen";
 
@@ -178,8 +184,17 @@ $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial,
 // $xxlarge-up: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)})";
 // $xxlarge-only: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)}) and (max-width:#{upper-bound($xxlarge-range)})";
 
+// $retina: (
+//  "#{$screen} and (-webkit-min-device-pixel-ratio: 2)",
+//  "#{$screen} and (min--moz-device-pixel-ratio: 2)",
+//  "#{$screen} and (-o-min-device-pixel-ratio: 2/1)",
+//  "#{$screen} and (min-device-pixel-ratio: 2)",
+//  "#{$screen} and (min-resolution: 192dpi)",
+//  "#{$screen} and (min-resolution: 2dppx)"
+// );
+
 // Legacy
-// $small: $medium-up;
+// $small: $small-up;
 // $medium: $medium-up;
 // $large: $large-up;
 
@@ -323,6 +338,7 @@ $h1-font-size: rem-calc(55);
 // $accordion-navigation-bg-color: $silver;
 // $accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%);
 // $accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -3%);
+// $accordion-navigation-active-font-color: $jet;
 // $accordion-navigation-font-color: $jet;
 // $accordion-navigation-font-size: rem-calc(16);
 // $accordion-navigation-font-family: $body-font-family;
@@ -408,6 +424,7 @@ $h1-font-size: rem-calc(55);
 // $crumb-radius: $global-radius;
 
 // We use these to set various text styles for breadcrumbs.
+// $crumb-line-height: rem-calc(11);
 // $crumb-font-size: rem-calc(11);
 // $crumb-font-color: $primary-color;
 // $crumb-font-color-current: $oil;
@@ -418,6 +435,7 @@ $h1-font-size: rem-calc(55);
 // We use these to control the slash between breadcrumbs
 // $crumb-slash-color: $base;
 // $crumb-slash: "/";
+// $crumb-slash-position: 1px;
 
 // 05. Buttons
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -634,6 +652,7 @@ $h1-font-size: rem-calc(55);
 // $input-font-family: inherit;
 // $input-font-color: rgba(0,0,0,0.75);
 // $input-font-size: rem-calc(14);
+// $input-placeholder-font-color: #cccccc;
 // $input-bg-color: $white;
 // $input-focus-bg-color: scale-color($white, $lightness: -2%);
 // $input-border-color: scale-color($white, $lightness: -20%);
@@ -683,6 +702,10 @@ $h1-font-size: rem-calc(55);
 // We use this to style the glowing effect of inputs when focused
 // $glowing-effect-fade-time: .45s;
 // $glowing-effect-color: $input-focus-border-color;
+
+// We use this to style the transition when inputs are focused and when the glowing effect is disabled.
+// $input-transition-fade-time: 0.15s;
+// $input-transition-fade-timing-function: linear;
 
 // Select variables
 // $select-bg-color: $ghost;
@@ -837,24 +860,25 @@ $h1-font-size: rem-calc(55);
 // $tabbar-header-margin: 0;
 
 // Off Canvas Menu Variables
-// $off-canvas-width: rem-calc(250);
-// $off-canvas-bg: $oil;
-// $off-canvas-bg-hover: scale-color($tabbar-bg, $lightness: -30%);
-// $off-canvas-bg-active: scale-color($tabbar-bg, $lightness: -30%);
+$off-canvas-width: rem-calc(100);
+// $off-canvas-height: rem-calc(300);
+$off-canvas-bg: $white;
+$off-canvas-bg-hover: $pink;
+$off-canvas-bg-active: $pink;
 
 // Off Canvas Menu List Variables
 // $off-canvas-label-padding: .3rem rem-calc(15);
-// $off-canvas-label-color: $aluminum;
+$off-canvas-label-color: $secondary-color;
 // $off-canvas-label-text-transform: uppercase;
-// $off-canvas-label-font-size: rem-calc(12);
+// $off-canvas-label-font-size: rem-calc(120);
 // $off-canvas-label-font-weight: $font-weight-bold;
 // $off-canvas-label-bg: $tuatara;
 // $off-canvas-label-border-top: 1px solid scale-color($off-canvas-label-bg, $lightness: 14%);
 // $off-canvas-label-border-bottom: none;
 // $off-canvas-label-margin:0;
 // $off-canvas-link-padding: rem-calc(10, 15);
-// $off-canvas-link-color: rgba($white, .7);
-// $off-canvas-link-border-bottom: 1px solid scale-color($off-canvas-bg, $lightness: -25%);
+$off-canvas-link-color: $secondary-color;
+$off-canvas-link-border-bottom: 1px solid $secondary-color;
 // $off-canvas-back-bg: #444;
 // $off-canvas-back-border-top: $off-canvas-label-border-top;
 // $off-canvas-back-border-bottom: $off-canvas-label-border-bottom;
@@ -975,8 +999,7 @@ $h1-font-size: rem-calc(55);
 // $callout-panel-bg: scale-color($primary-color, $lightness: 94%);
 
 // We use this % to control how much we darken things on hover
-// $panel-function-factor: -11%;
-// $panel-border-color: scale-color($panel-bg, $lightness: $panel-function-factor);
+// $panel-border-color: scale-color($panel-bg, $lightness: -11%);
 
 // We use these to set default inner padding and bottom margin
 // $panel-margin-bottom: rem-calc(20);
@@ -1072,7 +1095,7 @@ $h1-font-size: rem-calc(55);
 
 // $include-html-range-slider-classes: $include-html-classes;
 
-// These variabels define the slider bar styles
+// These variables define the slider bar styles
 // $range-slider-bar-width: 100%;
 // $range-slider-bar-height: rem-calc(16);
 
@@ -1088,7 +1111,7 @@ $h1-font-size: rem-calc(55);
 // $range-slider-vertical-bar-width: rem-calc(16);
 // $range-slider-vertical-bar-height: rem-calc(200);
 
-// These variabels define the slider handle styles
+// These variables define the slider handle styles
 // $range-slider-handle-width: rem-calc(32);
 // $range-slider-handle-height: rem-calc(22);
 // $range-slider-handle-position-top: rem-calc(-5);
@@ -1185,6 +1208,7 @@ $h1-font-size: rem-calc(55);
 // We use these to control different shared styles for Split Buttons
 // $split-button-function-factor: 10%;
 // $split-button-pip-color: $white;
+// $split-button-span-border-color: rgba(255,255,255,0.5);
 // $split-button-pip-color-alt: $oil;
 // $split-button-active-bg-tint: rgba(0,0,0,0.1);
 
@@ -1298,7 +1322,7 @@ $h1-font-size: rem-calc(55);
 // $table-foot-padding: $table-head-padding;
 
 // These control the caption
-// table-caption-bg: transparent;
+// $table-caption-bg: transparent;
 // $table-caption-font-color: $table-head-font-color;
 // $table-caption-font-size: rem-calc(16);
 // $table-caption-font-weight: bold;
@@ -1383,7 +1407,7 @@ $h1-font-size: rem-calc(55);
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: #fff;
+$topbar-bg-color: $white;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
@@ -1395,18 +1419,18 @@ $topbar-margin-bottom: rem-calc(10);
 // $topbar-title-font-size: rem-calc(17);
 
 // Set the link colors and styles for top-level nav
-$topbar-link-color: #9a3521;
-$topbar-link-color-hover: #9a3521;
-$topbar-link-color-active: #9a3521;
-$topbar-link-color-active-hover: #9a3521;
+$topbar-link-color: $secondary-color;
+$topbar-link-color-hover: $secondary-color;
+$topbar-link-color-active: $secondary-color;
+$topbar-link-color-active-hover: $secondary-color;
 // $topbar-link-weight: $font-weight-normal;
 $topbar-link-font-size: rem-calc(22);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
-$topbar-link-bg-hover: #ffefd2;
+$topbar-link-bg-hover: $pink;
 // $topbar-link-bg-color-hover: $charcoal;
 // $topbar-link-bg-active: $primary-color;
-$topbar-link-bg-active-hover: #ffefd2;;
+$topbar-link-bg-active-hover: $pink;;
 // $topbar-link-font-family: $body-font-family;
 // $topbar-link-text-transform: none;
 // $topbar-link-padding: ($topbar-height / 3);
@@ -1416,11 +1440,11 @@ $topbar-link-bg-active-hover: #ffefd2;;
 // $topbar-button-top: 7px;
 
 // Style the top bar dropdown elements
-$topbar-dropdown-bg: #fff;
+$topbar-dropdown-bg: $white;
 // $topbar-dropdown-link-color: $white;
 // $topbar-dropdown-link-color-hover: $topbar-link-color-hover;
-$topbar-dropdown-link-bg: #fff;
-// $topbar-dropdown-link-bg-hover: $oil;
+$topbar-dropdown-link-bg: $white;
+// $topbar-dropdown-link-bg-hover: $jet;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
 // $topbar-dropdown-toggle-color: $white;
