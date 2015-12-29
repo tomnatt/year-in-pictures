@@ -78,11 +78,45 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         &:nth-child(4) a {
           @include polaroid-position(10deg, 100px, -50px);
         }
-        &:nth-child(5) a {
-          @include polaroid-position(-20deg, 0, -40px);
+        &:nth-child(5) {
+          position: relative;
+          z-index: 2;
+          a {
+            @include polaroid-position(-21deg, 0, -40px);
+          }
         }
         &:nth-child(6) a {
           @include polaroid-position(22deg, -70px, 25px);
+        }
+        &:nth-child(7) {
+          position: relative;
+          z-index: 2;
+          a {
+            @include polaroid-position(-11deg, 100px, -50px);
+          }
+        }
+        &:nth-child(8) a {
+          @include polaroid-position(5deg, -25px, -40px);
+        }
+        &:nth-child(9) {
+          position: relative;
+          z-index: 2;
+          a {
+            @include polaroid-position(33deg, -125px, 30px);
+          }
+        }
+        &:nth-child(10) a {
+          @include polaroid-position(-34deg, 110px, -80px);
+        }
+        &:nth-child(11) {
+          position: relative;
+          z-index: 2;
+          a {
+            @include polaroid-position(-16deg, -40px, -70px);
+          }
+        }
+        &:nth-child(12) a {
+          @include polaroid-position(20deg, -170px, -10px);
         }
 
         // style the pics
