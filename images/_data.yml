@@ -468,3 +468,45 @@ pictures:
     description: "The first time I've been to a bonfire in years and it was a really good one. I took a lot of photos, playing with different settings and spent rather too long gazing into the flames. From <a href=\"https://www.flickr.com/photos/tomnatt/22234033954/\">Flickr</a>."
     alt: bonfire
     month: november
+  -
+    image: 12-dad.jpg
+    image_title: You wait all year for one Christmas Tree to come along...
+    caption: Christmas Trees
+    description: ... and then 100+ appear at once (in Stroud church Christmas Tree Festival).
+    alt: christmas trees
+    month: december
+  -
+    image: 12-ed.jpg
+    image_title: Head Hedge
+    caption: Head Hedge
+    description: The all-seeing hedge. I think his quiff needs a trim.
+    alt: hedge cut to shape of a head
+    month: december
+  -
+    image: 12-gareth.jpg
+    image_title: VHS
+    caption: VHS
+    description: "Finally got round to sorting through my VHS collection and binning anything I now have (or could get) on DVD. Ended up getting rid of 91 tapes in total (and keeping a bunch where there's 30mins of something worth seeing, surrounded by 150 minutes of a film you can see on YouTube for free). One thing I've learnt is that in the mid-90s, there must have been a Spike Milligan documentary on about once a week. He was on TV more than Blur."
+    alt: VHS tapes
+    month: december
+  -
+    image: 12-lyns.jpg
+    image_title: Christmas Day Wolf
+    caption: Christmas Day Wolf
+    description: "This is Coco the dog, who belongs to Nathan's Dad. She has the looks and size of a wolf, and the brain and joyful temperament of a tiny puppy. I was trying to get a picture of her lovely face, but she was too delighted by all the fuss (and proximity of Christmas food) to be still for long enough for the camera to focus."
+    alt: dog
+    month: december
+  -
+    image: 12-sheena.jpg
+    image_title: 'Is it Christmas, or Easter?'
+    caption: Spring?
+    description: On all of our 'Christmas' walks we encountered daffodils in flower. Global warming?
+    alt: daffodils
+    month: december
+  -
+    image: 12-tom.jpg
+    image_title: Sunset over Minch common
+    caption: Sunset
+    description: "The sun setting on the day and the year. It has been quite a journey. This was sunset over Minch common - cold, clear and beautiful. Only slighly marred by it being quite a hike home over unlit commons, and very little daylight with which to manage it... From <a href=\"https://www.flickr.com/photos/tomnatt/23570535303/\">Flickr</a>."
+    alt: sunset
+    month: december
