@@ -1,0 +1,85 @@
+pictures:
+  -
+    image: 01-andrew.jpg
+    image_title: "The 'Morning' Commute"
+    caption: "'Morning' Commute"
+    description: "Another Day another Dollar for thousands of commuters on the London Underground, but always a thousand different things to see on the same journey."
+    alt: view out of the window of a London underground train
+    month: january
+  -
+    image: 01-dad.jpg
+    image_title: Unusual sales pitch?
+    caption: Unusual sales pitch?
+    description: One of several signs outside a pub (Golden Pheasant in Burford) which caught my eye. A landlord who is working hard to attract customers with an unusual (if not scientifically correct) sales pitch.
+    alt: pub sign
+    month: january
+  -
+    image: 01-dan.jpg
+    image_title: Russian delights
+    caption: Russian delights
+    description: I think this sums up 2016 so far - the mysterious Russian tinned meat that I saw the new year in with. It was grim :-(
+    alt: russian canned meat
+    month: january
+  -
+    image: 01-ed.jpg
+    image_title: For sale
+    caption: End of an Era
+    description: "We decided to put our house on the market as a positive start to the year. Very sad to be moving, but onwards and upwards as they say!"
+    alt: house for sale
+    month: january
+  -
+    image: 01-gareth.jpg
+    image_title: Lightbench - Lumiere London
+    caption: Lightbench
+    description: "Lumiere London was a free \"light festival\" in which works of art that look good in the dark were left all over London. This one was called Lightbench and was by Bernd Spiecker. You can sit on it, and some people tried to pose for photos while doing so, but they never look as good as when it's empty."
+    alt: lightbench
+    month: january
+  -
+    image: 01-hon.jpg
+    image_title: "Rainy Days & Messy Hair"
+    caption: "Rainy Days & Messy Hair"
+    description: "My friend's hair on a very wet day. It was just nice to laugh in the flipping freezing cold air - we were practically crying when the bus finally made its appearance =^.^="
+    alt: wet hair
+    month: january
+  -
+    image: 01-kirsty.jpg
+    image_title: Because it's there
+    caption: Bridge
+    description: "After a week of rain there was finally a good winter day, sunny and cold. People made the most of it. They didn't seem to mind the height, or that I stood taking photos. They probably wouldn't have cared if I tried to point out it wasn't exactly a safe or sensible thing to do - at least that's what I told myself."
+    alt: bridge climbing
+    month: january
+  -
+    image: 01-lyns.jpg
+    image_title: Pescadaria Chano
+    caption: Pescadaria Chano
+    description: Catch of the day. Early January holidays are the best.
+    alt: caught fish
+    month: january
+  -
+    image: 01-michael.jpg
+    image_title: Another croissant sir?
+    caption: Alpine breakfast
+    description: This is the view from our Verbier breakfast room - quite difficult to leave...
+    alt: snow-covered chalet
+    month: january
+  -
+    image: 01-sheena.jpg
+    image_title: Discovering Dorset
+    caption: Dramatic Dorset
+    description: "Hengistbury Head, formed around 65 million years ago. Makes you think!"
+    alt: "Hengistbury Head, Dorset cliff"
+    month: january
+  -
+    image: 01-shelley.jpg
+    image_title: Preparing for a very wet February
+    caption: Dry January
+    description: "Since I decided to abstain from alcohol for a month, I thought I'd start prepping for February!"
+    alt: gin making
+    month: january
+  -
+    image: 01-tom.jpg
+    image_title: This for the game...
+    caption: Rugby at the Rec
+    description: "I have lived in Bath for nearly 15 years and this is the first game I've seen at the Rec. The atmosphere was fantastic and the Bath skyline made for a beautiful backdrop. After a very scrappy first half Bath fought back valiantly and it was a cracking game. At this point it could have gone either way, and this kick was critical to the result. He missed. From <a href=\"https://www.flickr.com/photos/tomnatt/24269046540/\">Flickr</a>."
+    alt: rugby game at the rec
+    month: january
