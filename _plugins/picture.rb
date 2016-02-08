@@ -1,15 +1,15 @@
 class PictureMarkup < Liquid::Tag
-
   require 'yaml'
 
   def initialize(tag_name, text, tokens)
     super
     params = text.split(" ")
     @image = params[0]
+    @year = (params[1] ? params[1] : '2016')
 
     # read the config from a yml file
     index = nil
-    data = YAML.load_file('images/_data.yml')['pictures']
+    data = YAML.load_file("images/#{@year}/_data.yml")['pictures']
     data.each_with_index do |pic, i|
       if pic['image'] == @image
         index = i
@@ -25,13 +25,12 @@ class PictureMarkup < Liquid::Tag
   def render(context)
 <<-eos
   <li>
-    <a title="#{@caption}" href="/photos/#{@link}">
-      <img alt="#{@alt}" src="/images/thumbnails/#{@image}">
+    <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
+      <img alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
     </a>
   </li>
 eos
   end
 
   Liquid::Template.register_tag "picture", self
-
 end

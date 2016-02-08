@@ -3,13 +3,14 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="keywords" content="pictures photos"/>
-  <meta name="description" content="Photos from 2015"/>
+  <meta name="description" content="Photos from {{ page.year }}"/>
   <title>{{ page.title }}</title>
   <meta charset="UTF-8">
   <link rel="stylesheet" media="screen" type="text/css" href="/css/yearinpics.css" title="Default" />
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src="/js/foundation.js"></script>
   <script src="/js/foundation.topbar.js"></script>
+  <script src="/js/foundation.offcanvas.js"></script>
   <script src="/js/yearinpics.js"></script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -21,42 +22,62 @@
   </script>
 </head>
 <body>
+  <div class="off-canvas-wrap" data-offcanvas>
+    <div class="inner-wrap">
 
-  <header class="row">
-    <h1><a href="/">Year of the Sheep</a></h1>
-
-    {% if page.months == true %}
-    <nav class="top-bar" data-topbar>
-      <ul class="title-area">
-        <li class="name"></li>
-        <li class="toggle-topbar menu-icon"><a href="#"><span>Months</span></a></li>
-      </ul>
-
-      <section class="top-bar-section month-navigation">
-        <ul class="left">
-          <li><a href="#january">Jan</a></li>
-          <li><a href="#february">Feb</a></li>
-          <li><a href="#march">Mar</a></li>
-          <li><a href="#april">April</a></li>
-          <li><a href="#may">May</a></li>
-          <li><a href="#june">June</a></li>
-          <li><a href="#july">July</a></li>
-          <li><a href="#august">Aug</a></li>
-          <li><a href="#september">Sept</a></li>
-          <li><a href="#october">Oct</a></li>
-          <li><a href="#november">Nov</a></li>
-          <li><a href="#december">Dec</a></li>
-        </ul>
+      <section class="right">
+        <a class="right-off-canvas-toggle" >Select year</a>
       </section>
-    </nav>
-    {% endif %}
-  </header>
 
-  {{ content }}
+      <!-- Off Canvas Menu -->
+      <aside class="right-off-canvas-menu">
+        <ul class="off-canvas-list">
+          <li><a href="/2015.html">2015</a></li>
+          <li><a href="/">2016</a></li>
+        </ul>
+      </aside>
 
-  <footer class="row">
-    <h6>And a little footer</h6>
-  </footer>
+      <header class="row">
+        <h1><a href="/{{ page.index }}">{{ page.title }}</a></h1>
+
+        {% if page.months == true %}
+        <nav class="top-bar" data-topbar>
+          <ul class="title-area">
+            <li class="name"></li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Months</span></a></li>
+          </ul>
+
+          <section class="top-bar-section month-navigation">
+            <ul class="left">
+              <li><a href="#january">Jan</a></li>
+              <li><a href="#february">Feb</a></li>
+              <li><a href="#march">Mar</a></li>
+              <li><a href="#april">April</a></li>
+              <li><a href="#may">May</a></li>
+              <li><a href="#june">June</a></li>
+              <li><a href="#july">July</a></li>
+              <li><a href="#august">Aug</a></li>
+              <li><a href="#september">Sept</a></li>
+              <li><a href="#october">Oct</a></li>
+              <li><a href="#november">Nov</a></li>
+              <li><a href="#december">Dec</a></li>
+            </ul>
+          </section>
+        </nav>
+        {% endif %}
+      </header>
+
+      {{ content }}
+
+      <footer class="row">
+        <h6>And a little footer</h6>
+      </footer>
+
+        <!-- close the off-canvas menu -->
+      <a class="exit-off-canvas"></a>
+
+    </div>
+  </div>
 
 </body>
 </html>

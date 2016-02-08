@@ -1,7 +1,7 @@
 year-in-pictures
 =========
 
-Photos of 2015 site
+Photos of the year.
 
 Built using https://github.com/tomnatt/jekyll-foundation
 
@@ -28,9 +28,32 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## To add a picture
 
-1. Put an image in `images` (_size_)
-1. Put a thumbnail in `images/thumbnails` (190x190)
+1. Put an image in `images` (1020px wide)
+1. Put a thumbnail in `images/thumbnails` (190px x 190px)
 1. Update `images/_data.yml`
 1. Add a corresponding `{picture}` in `index.html`
 
+## Updating Foundation
+
+Handling upgrades to git submodules using branches:
+
+http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag/18799234#18799234
+
 ## Todo
+
+1. Update to Foundation 6
+
+## People
+
+1. Andrew
+1. Dad
+1. Dan
+1. Ed
+1. Ga
+1. Hon
+1. Kirsty
+1. Lyns
+1. Michael
+1. Sheena
+1. Shelley
+1. Tom
