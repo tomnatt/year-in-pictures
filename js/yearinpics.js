@@ -1,5 +1,7 @@
 $(function() {
   $(document).foundation();
+  $("a.right-off-canvas-toggle").on("click", function() {
+  });
 });
 
 $(function() {
