@@ -45,15 +45,18 @@ http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag/1
 
 ## People
 
-1. Andrew
 1. Dad
 1. Dan
 1. Ed
-1. Ga
+1. Gareth
+1. Gill
 1. Hon
+1. Iris
+1. Kat
 1. Kirsty
 1. Lyns
 1. Michael
+1. Sean
 1. Sheena
-1. Shelley
+1. Teresa
 1. Tom
