@@ -118,6 +118,19 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         &:nth-child(12) a {
           @include polaroid-position(20deg, -170px, -10px);
         }
+        &:nth-child(13) a {
+          @include polaroid-position(-5deg, -15px, -170px);
+        }
+        &:nth-child(14) {
+          position: relative;
+          z-index: 2;
+          a {
+            @include polaroid-position(17deg, -160px, -65px);
+          }
+        }
+        &:nth-child(15) a {
+          @include polaroid-position(-5deg, -200px, -130px);
+        }
 
         // style the pics
         a:after {
