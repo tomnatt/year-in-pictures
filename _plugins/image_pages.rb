@@ -33,7 +33,7 @@ module ImagePages
         self.data['index'] = ''
       elsif @year == '2016'
         self.data['title'] = 'Year of the Monkey'
-        self.data['index'] = ''
+        self.data['index'] = '2016.html'
       elsif @year == '2015'
         self.data['title'] = 'Year of the Sheep'
         self.data['index'] = '2015.html'
