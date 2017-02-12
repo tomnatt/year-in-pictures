@@ -28,7 +28,10 @@ module ImagePages
       self.process(@name)
       self.read_yaml(File.join(@base, '_layouts'), 'picture.html')
 
-      if @year == '2016'
+      if @year == '2017'
+        self.data['title'] = 'Year of the Rooster'
+        self.data['index'] = ''
+      elsif @year == '2016'
         self.data['title'] = 'Year of the Monkey'
         self.data['index'] = ''
       elsif @year == '2015'
@@ -58,7 +61,7 @@ module ImagePages
       omit_list = ['natural_paper.png']
 
       # iterate through all files in the directory
-      ['', '2015', '2016'].each do |year|
+      ['', '2015', '2016', '2017'].each do |year|
         Dir.foreach(File.join('images', year)) do |file|
           # only process image files
           if file =~ /.jpg/ || file =~ /.png/
