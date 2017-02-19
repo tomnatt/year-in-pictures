@@ -6,15 +6,13 @@ module ImagePages
       @site = site
       @base = base
       @dir = dir
-
       @name = File.basename(filename, File.extname(filename)) + '.html' # name of the generated page
 
-      # the placeholder will have no year
-      year = (dir.split('/')[1] ? dir.split('/')[1] : '')
+      year = get_year_from_dir(dir)
+      yaml_data = YAML.load_file(File.join('images', year, '_data.yml'))['pictures']
 
       # read the config from a yml file
       index = nil
-      yaml_data = YAML.load_file(File.join('images', year, '_data.yml'))['pictures']
       yaml_data.each_with_index do |pic, i|
         if pic['image'] == filename
           index = i
@@ -34,15 +32,16 @@ module ImagePages
       self.data['month'] = image_data['month'] # which month
 
       # next and previous pictures for navigtion
-      self.data['next'] = yaml_data[next_index(index, yaml_data.length)]['image']
+      self.data['next'] = next_picture(index, yaml_data)
+
+
       self.data['previous'] = yaml_data[previous_index(index)]['image']
     end
 
-    def next_index(i, max)
-      i += 1
-      return i unless i == max
-      # return 0 if we've hit the end of the data array
-      0
+    def next_picture(i, picture_data)
+      # 'next' is 0 if we've hit the end of the data array
+      i = (i + 1 < picture_data.length ? i + 1 : 0)
+      picture_data[i]['image']
     end
 
     def previous_index(i)
@@ -50,9 +49,13 @@ module ImagePages
       i -= 1
     end
 
+    def get_year_from_dir(dir)
+      # the placeholder will have no year
+      dir.split('/')[1] ? dir.split('/')[1] : ''
+    end
+
     def year_specific_data(year)
-      data = Hash.new
-      data['year'] = year
+      data = { 'year': year }
 
       if year == '2017'
         data['title'] = 'Year of the Rooster'
@@ -72,13 +75,11 @@ module ImagePages
     end
 
     def picture_specific_data(picture_data)
-      data = Hash.new
-      data['image'] = picture_data['image']
-      data['photographer'] = picture_data['image'][/([a-z]+)/, 1]
-      data['image_title'] = picture_data['image_title']
-      data['description'] = picture_data['description']
-      data['alt'] = picture_data['alt']
-      data
+      { 'image': picture_data['image'],
+        'photographer': picture_data['image'][/([a-z]+)/, 1],
+        'image_title': picture_data['image_title'],
+        'description': picture_data['description'],
+        'alt': picture_data['alt'] }
     end
   end
 
