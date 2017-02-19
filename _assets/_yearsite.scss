@@ -9,6 +9,11 @@
   }
 }
 
+@mixin nav-link-hover {
+  text-decoration: underline;
+  background-color: $topbar-link-bg-hover;
+}
+
 @mixin polaroid-position($rot, $transX, $transY) {
   @media #{$large-up} {
     transform: rotate($rot) translate($transX, $transY);
@@ -180,8 +185,7 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
       a {
         padding: 10px 15px;
         &:hover {
-          text-decoration: underline;
-          background-color: $topbar-link-bg-hover;
+          @include nav-link-hover;
         }
       }
     }
@@ -193,6 +197,12 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         &:hover {
           text-decoration: underline;
         }
+      }
+    }
+    nav ul li a {
+      padding: rem-calc(10);
+      &:hover {
+        @include nav-link-hover;
       }
     }
   } // &.month, &.picture
