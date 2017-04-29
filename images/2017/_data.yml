@@ -177,10 +177,10 @@ pictures:
     month: february
   -
     image: 02-michael.jpg
-    image_title: Incoming...
-    caption: "Incoming..."
-    description: "Incoming..."
-    alt: missing picture
+    image_title: Everyone's a critic
+    caption: "Everyone's a critic"
+    description: "Hello child in my home, do you want to hear a story? Once upon a time, there were three little... oh, ok. I'll leave you with the dolls..."
+    alt: child with hands over ears
     month: february
   -
     image: 02-sean.jpg
@@ -283,10 +283,10 @@ pictures:
     month: march
   -
     image: 03-michael.jpg
-    image_title: Incoming...
-    caption: "Incoming..."
-    description: "Incoming..."
-    alt: missing picture
+    image_title: Out of the Valley
+    caption: "Out of the Valley"
+    description: "This photo was taken on a beautiful afternoon looking back into Cervinia. Off the right of the shot is the Matterhorn, and I expected to be sharing a photo of that magical mountain, but the light of this photo looking down into a wilderness with the solitary cable car disappearing into it captures so much of what I love about the aesthetics of skiing."
+    alt: ski lift on a snowy mountain
     month: march
   -
     image: 03-sean.jpg
