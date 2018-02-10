@@ -18,13 +18,19 @@
   @media #{$large-up} {
     position: relative;
     top: $transY;
-    left: $transY;
+    left: $transX;
     a {
       transform: rotate($rot);
       -webkit-transform: rotate($rot);
       -ms-transform:rotate($rot);
       -o-transform:rotate($rot);
     }
+  }
+}
+
+@mixin last-row {
+  @media #{$large-up} {
+    margin-bottom: -155px;
   }
 }
 
@@ -100,7 +106,7 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           @include polaroid-position(5deg, -25px, -40px);
         }
         &:nth-child(9) {
-          @include polaroid-position(33deg, -125px, 30px);
+          @include polaroid-position(-22deg, -140px, 0px);
           z-index: 2;
         }
         &:nth-child(10) {
@@ -111,35 +117,38 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           z-index: 2;
         }
         &:nth-child(12) {
-          @include polaroid-position(20deg, -170px, -10px);
+          @include polaroid-position(20deg, -130px, -10px);
         }
         &:nth-child(13) {
-          @include polaroid-position(-5deg, 90px, -160px);
+          @include polaroid-position(-5deg, 90px, -130px);
         }
         &:nth-child(14) {
           @include polaroid-position(17deg, -20px, -80px);
           z-index: 2;
         }
         &:nth-child(15) {
-          @include polaroid-position(-5deg, -50px, -60px);
+          @include polaroid-position(-5deg, -120px, -60px);
         }
         &:nth-child(16) {
           @include polaroid-position(10deg, 100px, -200px);
         }
         &:nth-child(17) {
-          @include polaroid-position(-5deg, -40px, -50px);
+          @include polaroid-position(-5deg, -40px, -100px);
         }
         &:nth-child(18) {
-          @include polaroid-position(25deg, -100px, -60px);
+          @include polaroid-position(25deg, -150px, -120px);
         }
         &:nth-child(19) {
-          @include polaroid-position(-15deg, 50px, -200px);
+          @include polaroid-position(-25deg, 50px, -240px);
+          @include last-row;
         }
-        &:nth-child(20) a {
-          @include polaroid-position(10deg, -100px, -120px);
+        &:nth-child(20) {
+          @include polaroid-position(10deg, -100px, -170px);
+          @include last-row;
         }
-        &:nth-child(21) a {
-          @include polaroid-position(2deg, -220px, -130px);
+        &:nth-child(21) {
+          @include polaroid-position(-10deg, -235px, -185px);
+          @include last-row;
         }
 
         // style the pics
