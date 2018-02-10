@@ -3,9 +3,9 @@ class PictureMarkup < Liquid::Tag
 
   def initialize(tag_name, text, tokens)
     super
-    params = text.split(" ")
+    params = text.split(' ')
     @image = params[0]
-    @year = (params[1] ? params[1] : '2017')
+    @year = (params[1] ? params[1] : '2018')
 
     # read the config from a yml file
     index = nil
@@ -22,7 +22,7 @@ class PictureMarkup < Liquid::Tag
     @alt = data[index]['alt']
   end
 
-  def render(context)
+  def render(_context)
 <<-eos
   <li>
     <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
@@ -32,5 +32,5 @@ class PictureMarkup < Liquid::Tag
 eos
   end
 
-  Liquid::Template.register_tag "picture", self
+  Liquid::Template.register_tag 'picture', self
 end

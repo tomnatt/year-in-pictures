@@ -1,0 +1,149 @@
+pictures:
+  -
+    image: 01-anna.jpg
+    image_title:  "Llyn Idwal"
+    caption: "Llyn Idwal"
+    description: "Here's a photo of Cwm Idwal from the descent off Y Garn in Snowdonia. My heart lives here."
+    alt: "foggy hillside"
+    month: january
+  -
+    image: 01-bonnie.jpg
+    image_title:  "After the rain and snow"
+    caption: "After the rain and snow"
+    description: "After the rain and snow of January"
+    alt: "house by a lake"
+    month: january
+  -
+    image: 01-dad.jpg
+    image_title:  "Springtime Promise"
+    caption: "Springtime Promise"
+    description: "First signs of new growth in the garden always makes me want Spring to hurry up and arrive. The Snowdrops are here, but also Daffodil bulbs are sprouting forth, with some hints from the Tulips just poking through the soil, and here and there some germinated seeds of various coloured Poppies are giving promise of a colourful ride through to summer. But the leftovers of winter are still evident elsewhere in the garden, with lots of branches broken by the weight of snow now waiting to be cut back and cleared away to the refuse tip. A garden never sleeps..."
+    alt: "bulbs sprouting in a garden"
+    month: january
+  -
+    image: 01-dan.jpg
+    image_title:  "The story of my life"
+    caption: "The story of my life"
+    description: "The box actually contained something far lovelier than wine :-)"
+    alt: "box that doesn't contain wine"
+    month: january
+  -
+    image: 01-ed.jpg
+    image_title:  "Butterfly"
+    caption: "Butterfly"
+    description: "The butterflies are back at Wisley so we spent one morning walking amongst them. A pretty way to start the year."
+    alt: "butterfly"
+    month: january
+  -
+    image: 01-gareth.jpg
+    image_title:  "Network"
+    caption: "Network"
+    description: "Moments before the start of Network at the National Theatre (13 minutes and 22 seconds, to be precise). The people on the right are audience members whose tickets included both dinner and the occasional actor wandering perilously close."
+    alt: "recording of Network at the National Theatre"
+    month: january
+  -
+    image: 01-gill.jpg
+    image_title:  "New Year Day's walk"
+    caption: "New Year Day's walk"
+    description: "New Year's Day has to include a walk, so we did a couple of bridges in downtown Portland, Oregon, namely Steel Bridge and Burnside Bridge (there are 12 in total across the Willamette River). The one behind the motley crew is imaginatively called Steel Bridge because .... well you can probably work out why! Built in 1905 it carries local trams, trains, vehicles and pedestrians. The middle section rises between the towers to allow shipping to pass through. Overall, it's quite a bit of Meccano."
+    alt: "family by a bridge"
+    month: january
+  -
+    image: 01-hanna.jpg
+    image_title:  "Frosty flower"
+    caption: "Frosty flower"
+    description: "On Ben’s nursery days I always head to the park for a walk with Filip first thing. One frosty morning I was there early enough to see the beautiful icy coating on everything before it melted away."
+    alt: "Pink flower and its leaves covered in frost."
+    month: january
+  -
+    image: 01-iris.jpg
+    image_title:  "Heads or fails?"
+    caption: "Heads or fails?"
+    description: "I started taking a ceramics class this month. I've discovered that I don't have any hidden talent for pottery, but I am having a good time."
+    alt: "Two unfired clay pots with partially-sculpted human faces on them"
+    month: january
+  -
+    image: 01-james.jpg
+    image_title:  "Spring Light"
+    caption: "Spring Light"
+    description: "I'm very taken with all the little details of buildings and how the light brings out certain patterns and shapes. Perhaps it comes with being a newbie to the city."
+    alt: "building in Bath"
+    month: january
+  -
+    image: 01-kat.jpg
+    image_title:  "Early January afternoon in Athens"
+    caption: "Early January afternoon in Athens"
+    description: "The second of Jan to be precise.  It was sunny and mild.  From where I stood you could see Athens stretch out in every direction; all the way to the sea (not in the picture); all the way to mount \"Aigaleo\" (in the picture); all the way to mount \"Parnitha\" (not in the picture); all the way to mount \"Pendeli\" and all the way to mount \"Ymmitos\" (also not in the picture.  Athens is pretty much surrounded by mountains!).  It really gives you a feel for the huge size of the capital, although admittedly only a fraction of the size of London (just for perspective).  Anyways, I love a good vantage point, especially if it involves a mountain.  Extra bonus if there are more than one!  :D"
+    alt: "view over Athens"
+    month: january
+  -
+    image: 01-kirsty.jpg
+    image_title:  "Bath canal"
+    caption: "Walking to work"
+    description: "In this picture you can just about make out a couple of birds. I think they are cormorants, mentioned in Swallows and Amazons as coming all the way from China and in Monty Python being rubbed with linseed oil. There was only one for many years but now more have arrived. I once saw him wrestle an eel which wrapped itself around his neck as he tried to swallow it. The cormorant won. They can stay under water for so long you assume they've surfaced elsewhere and stop looking, then it pops up right next to you with a fish in it's beak."
+    alt: "boats on a canal"
+    month: january
+  -
+    image: 01-lyns.jpg
+    image_title:  "Next The Sea"
+    caption: "Next The Sea"
+    description: "We spent a very out-of-season holiday to North Norfolk, and it was excellent but freezing. In the summer there would be approximately seventeen million people trying to park near this incredible beach at Wells-Next-The-Sea, which is why it is much better in the first week of January."
+    alt: "beach houses"
+    month: january
+  -
+    image: 01-phil.jpg
+    image_title:  "Year of the deformed pug"
+    caption: "Year of the deformed pug"
+    description: "This dog lip balm's ingredients include titanium dioxide, tin oxide and vanilla."
+    alt: "An extremely ugly plastic pug dog."
+    month: january
+  -
+    image: 01-rhiannon.jpg
+    image_title:  "January Jigging"
+    caption: "January Jigging"
+    description: "Januarys are for completing festive projects, no matter how long they take."
+    alt: "Moomin Jigsaw"
+    month: january
+  -
+    image: 01-sean.jpg
+    image_title:  "Not throwin' away my shot"
+    caption: "Not throwin' away my shot"
+    description: "*Finally* got to see Hamilton. It was excellent. So excellect in fact, that I'm going to go listen to the soundtrack again right now."
+    alt: "exterience of the Victoria Palace theatre where the musical Hamilton is playing"
+    month: january
+  -
+    image: 01-sheena.jpg
+    image_title:  "Cumbria"
+    caption: "Majestic Lakeland"
+    description: "Wastwater, the deepest lake in England, at 260 feet. Beloved of many including divers. Notice the scree without vegetation which shows the mountain is still shedding."
+    alt: "foggy hillside"
+    month: january
+  -
+    image: 01-sigrid.jpg
+    image_title:  "Stormy Sea"
+    caption: "Stormy Sea"
+    description: "Our walks along Bognor beach were especially exhilarating during the stormy January weather, when massive waves change the shoreline with each tide."
+    alt: "rough sea on the coast"
+    month: january
+  -
+    image: 01-sue.jpg
+    image_title:  "Part of wooden archway"
+    caption: "In the Park"
+    description: "Entrance to children's play area in 'Vassals Park' Bristol. It makes a change from a Dinosaur! The sun really brings out the algae patterning on the wood and gives it more life somehow as it ages. Spot the deliberate mistake or not -  the child at the top seems to be missing a trainer!"
+    alt: "wooden carving"
+    month: january
+  -
+    image: 01-teresa.jpg
+    image_title:  "Rain?"
+    caption: "Rain?"
+    description: "The forecast said rain but the morning brought this so I rushed out with boots and camera. Just as well as it was all gone by 3pm."
+    alt: "snowy garden"
+    month: january
+  -
+    image: 01-tom.jpg
+    image_title:  "New dice, please"
+    caption: "New dice, please"
+    description: "New year and new gaming opportunities, so I decided to get some new dice. These pretty things came from the Dice Shop Online who, frighteningly, seem to have worked out how to market to me. Who knows, maybe this year I'll move away from pen and paper and buy some props? Nah. But at least I have something brightly coloured to start the year.<br ><br >Sadly, only the D12 and D4 are likely to come up this high ever again.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/28409661229/\">Flickr</a>."
+    alt: "a luck of dice"
+    month: january
+

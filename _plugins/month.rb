@@ -1,5 +1,4 @@
 class MonthMarkup < Liquid::Tag
-
   def initialize(tag_name, text, tokens)
     super
     params = text.split(" ")
@@ -8,7 +7,7 @@ class MonthMarkup < Liquid::Tag
     @title_month = @month.slice(0,1).capitalize + @month.slice(1..-1)
   end
 
-  def render(context)
+  def render(_context)
     output = <<-eos
   <section class="row month future" id="#{@month}">
     <h2>#{@title_month}</h2>
@@ -35,6 +34,5 @@ eos
     output
   end
 
-  Liquid::Template.register_tag "month", self
-
+  Liquid::Template.register_tag 'month', self
 end

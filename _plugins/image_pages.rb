@@ -1,5 +1,4 @@
 module ImagePages
-
   class ImagePage < Jekyll::Page
     # An image page
     def initialize(site, base, dir, filename)
@@ -48,9 +47,12 @@ module ImagePages
     def year_specific_data(year)
       data = { 'year' => year }
 
-      if year == '2017'
-        data['title'] = 'Year of the Rooster'
+      if year == '2018'
+        data['title'] = 'Year of the Dog'
         data['index'] = ''
+      elsif year == '2017'
+        data['title'] = 'Year of the Rooster'
+        data['index'] = '2017.html'
       elsif year == '2016'
         data['title'] = 'Year of the Monkey'
         data['index'] = '2016.html'
@@ -93,7 +95,7 @@ module ImagePages
       omit_list = ['natural_paper.png']
 
       # iterate through all files in the directory
-      ['', '2015', '2016', '2017'].each do |year|
+      ['', '2015', '2016', '2017', '2018'].each do |year|
         Dir.foreach(File.join('images', year)) do |file|
           # only process image files
           if file =~ /.jpg/ || file =~ /.png/
@@ -107,5 +109,4 @@ module ImagePages
       end
     end
   end
-
 end
