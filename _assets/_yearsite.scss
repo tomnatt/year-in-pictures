@@ -111,7 +111,7 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           }
         }
         &:nth-child(10) a {
-          @include polaroid-position(-34deg, 110px, -80px);
+          @include polaroid-position(-34deg, 80px, -60px);
         }
         &:nth-child(11) {
           position: relative;
@@ -124,17 +124,52 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           @include polaroid-position(20deg, -170px, -10px);
         }
         &:nth-child(13) a {
-          @include polaroid-position(-5deg, -15px, -170px);
+          position: relative;
+          top: -160px;
+          left: 90px;
+          @include polaroid-position(-5deg, 0px, 0px);
         }
         &:nth-child(14) {
           position: relative;
           z-index: 2;
           a {
-            @include polaroid-position(17deg, -160px, -65px);
+            @include polaroid-position(17deg, -20px, -80px);
           }
         }
         &:nth-child(15) a {
-          @include polaroid-position(-5deg, -200px, -130px);
+          @include polaroid-position(-5deg, -50px, -60px);
+        }
+        &:nth-child(16) a {
+          position: relative;
+          top: -200px;
+          left: 100px;
+          @include polaroid-position(10deg, 0px, 0px);
+        }
+        &:nth-child(17) a {
+          @include polaroid-position(-5deg, -40px, -50px);
+        }
+        &:nth-child(18) a {
+          position: relative;
+          left: -100px;
+          @include polaroid-position(25deg, -50px, -60px);
+        }
+        &:nth-child(19) a {
+          position: relative;
+          top: -200px;
+          left: 50px;
+          @include polaroid-position(-15deg, 0px, 0px);
+        }
+        &:nth-child(20) a {
+          position: relative;
+          top: -120px;
+          left: -100px;
+          @include polaroid-position(10deg, 0px, 0px);
+        }
+        &:nth-child(21) a {
+          position: relative;
+          top: -130px;
+          left: -220px;
+          @include polaroid-position(2deg, 0px, 0px);
         }
 
         // style the pics
