@@ -1,10 +1,10 @@
 class MonthMarkup < Liquid::Tag
   def initialize(tag_name, text, tokens)
     super
-    params = text.split(" ")
+    params = text.split(' ')
     @month = params[0]
     @people = (params[1] ? params[1].to_i : 6)
-    @title_month = @month.slice(0,1).capitalize + @month.slice(1..-1)
+    @title_month = @month.sub(/^./, &:upcase)
   end
 
   def render(_context)
