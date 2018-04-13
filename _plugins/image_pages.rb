@@ -21,18 +21,18 @@ module ImagePages
 
       image_data = yaml_data[index]
 
-      self.process(@name)
-      self.read_yaml(File.join(@base, '_layouts'), 'picture.html')
+      process(@name)
+      read_yaml(File.join(@base, '_layouts'), 'picture.html')
 
-      self.data.merge!(year_specific_data(year))
-      self.data.merge!(picture_specific_data(image_data))
+      data.merge!(year_specific_data(year))
+      data.merge!(picture_specific_data(image_data))
 
-      self.data['months'] = 'false' # omit global month navigation
-      self.data['month'] = image_data['month'] # which month
+      data['months'] = 'false' # omit global month navigation
+      data['month'] = image_data['month'] # which month
 
       # next and previous pictures for navigtion
-      self.data['next'] = next_picture(index, yaml_data)
-      self.data['previous'] = previous_picture(index, yaml_data)
+      data['next'] = next_picture(index, yaml_data)
+      data['previous'] = previous_picture(index, yaml_data)
     end
 
     def get_generated_pagename(filename)
@@ -69,10 +69,15 @@ module ImagePages
 
     def picture_specific_data(picture_data)
       { 'image' => picture_data['image'],
-        'photographer' => picture_data['image'][/([a-z]+)/, 1],
+        'photographer' => get_photographer_name(picture_data['image']),
         'image_title' => picture_data['image_title'],
         'description' => picture_data['description'],
         'alt' => picture_data['alt'] }
+    end
+
+    def get_photographer_name(filename)
+      filename =~ /\d*-(.+)\..+/i
+      $1.split('-').map(&:capitalize).join(' and ')
     end
 
     def next_picture(i, picture_data)
