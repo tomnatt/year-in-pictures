@@ -80,7 +80,10 @@ module ImagePages
 
     def get_photographer_name(filename)
       filename =~ /\d*-(.+)\..+/i
-      $1.split('-').map(&:capitalize).join(' and ')
+      # Capitalize for multiple people
+      photographer_name = $1.split('-').map(&:capitalize).join(' and ')
+      # Capitalize for single person with a surname
+      photographer_name.split('_').map(&:capitalize).join(' ')
     end
 
     def next_picture(i, picture_data)
