@@ -115,7 +115,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   1.16.4
+   1.17.3
