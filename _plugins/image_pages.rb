@@ -47,9 +47,12 @@ module ImagePages
     def year_specific_data(year)
       data = { 'year' => year }
 
-      if year == '2018'
-        data['title'] = 'Year of the Dog'
+      if year == '2019'
+        data['title'] = 'Year of the Pig'
         data['index'] = ''
+      elsif year == '2018'
+        data['title'] = 'Year of the Dog'
+        data['index'] = '2018.html'
       elsif year == '2017'
         data['title'] = 'Year of the Rooster'
         data['index'] = '2017.html'
@@ -77,7 +80,16 @@ module ImagePages
 
     def get_photographer_name(filename)
       filename =~ /\d*-(.+)\..+/i
-      $1.split('-').map(&:capitalize).join(' and ')
+      # Capitalize for multiple people
+      photographer_name = $1.split('-').map(&:capitalize).join(' and ')
+
+      # Capitalize for single person with a surname
+      # Will be wrong for multiple people with surnames
+      if photographer_name.include?('_')
+        photographer_name = photographer_name.split('_').map(&:capitalize).join(' ')
+      end
+
+      photographer_name
     end
 
     def next_picture(i, picture_data)
@@ -100,7 +112,7 @@ module ImagePages
       omit_list = ['natural_paper.png']
 
       # iterate through all files in the directory
-      ['', '2015', '2016', '2017', '2018'].each do |year|
+      ['', '2015', '2016', '2017', '2018', '2019'].each do |year|
         Dir.foreach(File.join('images', year)) do |file|
           # only process image files
           if file =~ /.jpg/ || file =~ /.png/
