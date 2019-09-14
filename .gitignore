@@ -1,4 +1,5 @@
 .sass-cache
+.jekyll-cache
 compile
 _site
 css
