@@ -158,14 +158,19 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         }
         &:nth-child(25) {
           @include polaroid-position(-3deg, 50px, -290px);
-          @include last-row;
         }
         &:nth-child(26) {
           @include polaroid-position(7deg, -40px, -290px);
-          @include last-row;
         }
         &:nth-child(27) {
           @include polaroid-position(-4deg, -160px, -220px);
+        }
+        &:nth-child(28) {
+          @include polaroid-position(10deg, 0px, -200px);
+          @include last-row;
+        }
+        &:nth-child(29) {
+          @include polaroid-position(-2deg, -120px, -180px);
           @include last-row;
         }
 
