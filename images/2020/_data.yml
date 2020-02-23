@@ -1,1 +1,204 @@
 pictures:
+  -
+    image: 01-amy.jpg
+    image_title: "Royal Opera House"
+    caption: "Royal Opera House"
+    description: "An opulent evening with my best pal watching our favourite ballet, Onegin, was a sure fire way to get rid of the January blues."
+    alt: "The main hall of the royal opera house in London"
+    month: january
+  -
+    image: 01-anna.jpg
+    image_title: "New member of the family"
+    caption: "New member of the family"
+    description: "The highlight of my month was definitely getting to meet the beautiful new baby who has joined my family. It was completely heartwarming."
+    alt: "Mum and baby smiling."
+    month: january
+  -
+    image: 01-annette.jpg
+    image_title: "The river"
+    caption: "The river"
+    description: "River in the darkness."
+    alt: "River in the darkness"
+    month: january
+  -
+    image: 01-bonnie-richard.jpg
+    image_title: "What to do on Dark, Rainy, Miserable January Days"
+    caption: "What to do on Dark, Rainy, Miserable January Days"
+    description: "January always means a 1000 piece puzzle sits at the end of the dining room table for weeks on end.  This was actually a birthday present for Richard from July of a map with our village, Daglingworth, right in the middle. Magnifying glasses were necessary and perseverance a plus. Only one of us persevered... the other one watched Netflix!"
+    alt: "What to do on Dark, Rainy, Miserable January Days"
+    month: january
+  -
+    image: 01-clive.jpg
+    image_title: "Winter Classic"
+    caption: "Winter Classic"
+    description: "Impressed to see this open top Jaguar SS in Waitrose car park on a cold salty road early January day. I guess we may be running out of time to drive them as the petrol/diesel new car ban looms."
+    alt: "An open top classic Jaguar sports car is photographed between two modern vehicles in a supermarket car park."
+    month: january
+  -
+    image: 01-dad.jpg
+    image_title: "Tranquil reflection"
+    caption: "Tranquil reflection"
+    description: "With my Father I visited my Mother’s memorial this month where there is this lovely calming water feature as a back drop. Not a sad place, but one for quiet reflection in the surrounding countryside."
+    alt: "Water feature at a crematorium."
+    month: january
+  -
+    image: 01-dan.jpg
+    image_title: "High contrast skyline"
+    caption: "High contrast skyline"
+    description: "Starkly silhouetted trees framing a pastel January sky."
+    alt: "Tree branches over a pink and yellow sky"
+    month: january
+  -
+    image: 01-ed.jpg
+    image_title: "Chair"
+    caption: "Chair"
+    description: "This chair must have been sitting here for a long time. Be careful not to sit on it, the cactus looks painful"
+    alt: "Chair"
+    month: january
+  -
+    image: 01-emma.jpg
+    image_title: "Exploring Jerusalem"
+    caption: "The streets of Jerusalem"
+    description: "Exploring the Jewish quarter..."
+    alt: "Archway in the Jewish quarter of Jerusalem"
+    month: january
+  -
+    image: 01-gareth.jpg
+    image_title: "Tree"
+    caption: "Tree"
+    description: "A surprise on the A470 between Merthyr Tydfil and Brecon late one night. The rather dramatic lighting is thanks to both my own car's headlights and those of the police car which had just arrived on the scene."
+    alt: "A fallen tree lying across a road."
+    month: january
+  -
+    image: 01-gill.jpg
+    image_title: "A good start to 2020"
+    caption: "A good start to 2020"
+    description: "In itself, not a particularly interesting photograph. But, it was taken by our 4 year old granddaughter, Lola, in a railway carriage. We'd gone for a New Year's walk, a lovely crisp sunny day in the depths of Northumberland, followed by lunch in a converted railway carriage standing in defunct Bellingham Station (now a Tourist Information Centre). Good company, good walk, good food - what better way to start 2020!"
+    alt: "A good start to 2020"
+    month: january
+  -
+    image: 01-hanna.jpg
+    image_title: "Sunrise"
+    caption: "Sunrise"
+    description: "As the days get a tiny bit longer it’s nice to see the sun again on the nursery run."
+    alt: "White bridge in the sunrise"
+    month: january
+  -
+    image: 01-iris.jpg
+    image_title: "Arnie"
+    caption: "Arnie"
+    description: "I met Arnie at the New Forest Wildlife Park. He had a special laminated plaque warning everyone that he was on the naughty list, because he is a greedy boy and bites his keepers when they don't feed him quickly. I love him."
+    alt: "A blurry photo of an albino ferret licking its lips"
+    month: january
+  -
+    image: 01-james_collie.jpg
+    image_title: "Grand Greenwich and the Misty Metropolis"
+    caption: "Grand Greenwich and the Misty Metropolis"
+    description: "Photograph overlooking the historic buildings and university in Greenwich with London shrouded by fog in the distance."
+    alt: "Photograph overlooking the historic buildings and university in Greenwich with London shrouded by fog in the distance."
+    month: january
+  -
+    image: 01-james_wiggins.jpg
+    image_title: "The double take"
+    caption: "First impressions"
+    description: "Walking round a corner near Paddington station and I misread this sign...."
+    alt: "Part of a shop sign with the left side obscured to reveal the apparent sign 'Sex Bar'."
+    month: january
+  -
+    image: 01-jen.jpg
+    image_title: "Blowing away the Winter blues with a walk in the Surrey hills"
+    caption: "Start a new path"
+    description: "With the New Year's hangovers still lingering, we ventured into the Surrey hills for a long walk in the fresh air and with plenty of pub pit stops. What this photo doesn't show is 4 young bull calves hidden the other side of the hedge preparing to chase us down this very path. Nothing like a little bovine rage to make you pick up the pace."
+    alt: "A wooden footpath marker with yellow arrow points the way to a grassy path between two fields stretching into the distance."
+    month: january
+  -
+    image: 01-kat.jpg
+    image_title: "Sea of mist"
+    caption: "Sea of mist"
+    description: "I started a new job this month!  The commute takes me up and down a lot of hills including Brassknocker hill, which is where I parked to take this picture.  It was a particularly misty afternoon and the hill tops looked like islands poking out of a sea of mist.  The picture doesn't do the view much justice really, it looked amazing."
+    alt: "Hill tops jutting out of a sea of mist.  Picture taken from the top of one of the hill tops."
+    month: january
+  -
+    image: 01-kirsty.jpg
+    image_title: "Thirsty Meeples Bath"
+    caption: "Board game cafe"
+    description: "Start the year as you mean to go on."
+    alt: "The corner of a room filled with shelves of many different board games, chair and table with menu on."
+    month: january
+  -
+    image: 01-lyns.jpg
+    image_title: "Day 3"
+    caption: "Day 3"
+    description: "The main thing we did in January was have another baby. I didn't take a single photo in January which didn't contain either this baby or the older now-not-a-baby."
+    alt: "sleeping baby"
+    month: january
+  -
+    image: 01-pete_fairhurst.jpg
+    image_title: "Bailed"
+    caption: "Bailed"
+    description: "Snapped this whilst dropping off our eldest to talk to someone about animal volunteering. It had been a really misty morning, and just as the January sun starter to finally burn away the fog, these bails emerged from a blanket of white."
+    alt: "A short wall of large hay, circular bails, wrapped in pink plastic, standing in a field surrounded by mist"
+    month: january
+  -
+    image: 01-peter_chamberlin.jpg
+    image_title: "Under the Tyne Bridge"
+    caption: "Under the Tyne Bridge"
+    description: "Looking under and inside the structural steel of the Tyne Bridge in Newcastle."
+    alt: "Looking up into the criss cross of structural steel supporting the Tyne Bridge in Newcastle"
+    month: january
+  -
+    image: 01-rhiannon_lawson.jpg
+    image_title: "Stitches"
+    caption: "Stitches"
+    description: "When the evenings are cold what's better than getting crafty and making your friends gifts? Who doesn't want an anatomically correct heart?"
+    alt: "A stitched picture of a heart"
+    month: january
+  -
+    image: 01-richard.jpg
+    image_title: "Grote of Sint-Laurenskerk, Rotterdam"
+    caption: "Grote of Sint-Laurenskerk"
+    description: "I was in Rotterdam on conference in January for my science work. I snuck out for a quick tourist jaunte around the locale and snapped a canal, the market hall (worth a look) and this church; the Grote of Sint-Laurenskerk. A somewhat medieval church, presumably Catholic once, now protestant, it casts an imposing frame over the local area."
+    alt: "Grote of Sint-Laurenskerk, Rotterdam, medieval church"
+    month: january
+  -
+    image: 01-sean.jpg
+    image_title: "Dancing Robot"
+    caption: "Dancing Robot"
+    description: "Syd Mead’s (RIP) Gundam design’s linework has so much movement in it that it looks great dancing."
+    alt: "The Syd Mead designed Turn A Gundam mirroring a leaping dance pose of Mikhail Baryshnikov"
+    month: january
+  -
+    image: 01-sheena.jpg
+    image_title: "EX-TER-MIN-ATE!"
+    caption: "EX-TER-MIN-ATE!"
+    description: "So what did I choose this month? Pretty thatched cottages? Stunning seascapes with gulls and rainbows? Beautiful close up of a squirrel? No... as you can see I plumped for a Dalek! It was spotted as we approached a road junction, occupying most of a very small cottage front garden. Eccentricity... one of the many things I love about the British."
+    alt: "Dalek occupying most of cottage front garden"
+    month: january
+  -
+    image: 01-sigrid.jpg
+    image_title: "Pagham beach"
+    caption: "Ever changing landscape"
+    description: "This lagoon, that not long ago was created by the sea, looks like it is about to be claimed back again by the waves crashing over the shingle after the January storms."
+    alt: "This picture shows the waves crashing over the shingle wall of a lagoon"
+    month: january
+  -
+    image: 01-sue.jpg
+    image_title: "Dancing the night away!"
+    caption: "Dancing Diva!"
+    description: "Rain, rain and more rain ☹️, so I’ve been crafting in my kitchen! This was my first attempt at painting a journalling style picture using some new stencils, inks, shimmer paints and glitters. I surprised myself and was quite pleased with the result. I made it into a birthday card for my daughter-in-law."
+    alt: "An attempt at a journalling picture using stencils, inks, spray paints, shimmer paints and glitters. The result depicts a dancer with a fantail skirt, holding a bouquet of flowers in rusty colour with bursts of cranberry flashes her hair flowing and glittering. A cobweb hanging in the corner behind some bunting. Not a bad result I think!"
+    month: january
+  -
+    image: 01-teresa.jpg
+    image_title: "Early snowdrops"
+    caption: "Early snowdrops"
+    description: "Here in Lincolnshire (where the winter wind often comes straight from Siberia with very little in-between!) snowdrops don't usually appear until about February the 10th, primroses are out too.  I expect proper winter any day now."
+    alt: "Snowdrops growing in a garden"
+    month: january
+  -
+    image: 01-tom.jpg
+    image_title: "Gnomish judgement"
+    caption: "Gnomish judgement"
+    description: "January hasn't been an overly photogenic month. The most exciting picture I've taken was of <a href=\"https://www.flickr.com/photos/tomnatt/49465525376/\">my newly-repaired fridge</a> however I really didn't want to start the year with a picture of the inside of a fridge. Instead, here is a picture of gnome sitting in a bowl. He was judging me as I ordered a pizza (required because of the aforementioned broken fridge) and I've enjoyed this picture every time I've come across it.<br ><br >Here's hoping 2020 picks up!<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/49465762527/\">Flickr</a>."
+    alt: "white gnome sitting in a small bowl"
+    month: january
