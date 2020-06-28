@@ -1,9 +1,9 @@
-year-in-pictures
+Year in pictures
 =========
 
 Photos of the year.
 
-Built using https://github.com/tomnatt/jekyll-foundation
+Built using an old version of Zurb Foundation.
 
 Installation
 ------------
@@ -12,7 +12,7 @@ Installation
 1. `git submodule init`
 1. `git submodule update`
 1. `bundle install`
-1. `bundle exec guard`
+1. `bundle exec rake serve`
 1. http://localhost:4000/
 
 SCSS files are in _assets. You can dig any required Foundation javascript files out of the foundation directory.
@@ -42,21 +42,3 @@ http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag/1
 ## Todo
 
 1. Update to Foundation 6
-
-## People
-
-1. Dad
-1. Dan
-1. Ed
-1. Gareth
-1. Gill
-1. Hon
-1. Iris
-1. Kat
-1. Kirsty
-1. Lyns
-1. Michael
-1. Sean
-1. Sheena
-1. Teresa
-1. Tom

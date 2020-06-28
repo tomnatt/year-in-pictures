@@ -1,4 +1,13 @@
-task :default do
-    system "bundle exec compass compile --config _config/compass_config.rb "
-    system "bundle exec jekyll build --config _config/jekyll_config.yml --trace"
+require 'jekyll'
+
+task default: [:clean] do
+  Jekyll::Commands::Build.process({ config: '_config/jekyll_config.yml' })
+end
+
+task :serve do
+  Jekyll::Commands::Serve.process({ config: '_config/jekyll_config.yml' })
+end
+
+task :clean do
+  Jekyll::Commands::Clean.process({ config: '_config/jekyll_config.yml' })
 end

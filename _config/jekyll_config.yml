@@ -1,3 +1,5 @@
-markdown: redcarpet
-exclude: [Gemfile, Gemfile.lock, Guardfile, Rakefile, README.md, vendor]
+exclude: [Gemfile, Gemfile.lock, Rakefile, README.md, vendor]
 permalink: /:year/:month/:day/:title
+sass:
+  style: compressed
+  sass_dir: _assets
