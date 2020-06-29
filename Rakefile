@@ -5,7 +5,8 @@ task default: [:clean] do
 end
 
 task :serve do
-  Jekyll::Commands::Serve.process({ config: '_config/jekyll_config.yml' })
+  # Jekyll::Commands::Serve.process({ config: '_config/jekyll_config.yml' })
+  system 'bundle exec jekyll serve --config _config/jekyll_config.yml --incremental'
 end
 
 task :clean do
