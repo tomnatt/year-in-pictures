@@ -173,6 +173,10 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           @include polaroid-position(-2deg, -120px, -330px);
           @include last-row;
         }
+        &:nth-child(30) {
+          @include polaroid-position(-15deg, -160px, -265px);
+          @include last-row;
+        }
 
         // style the pics
         a:after {
