@@ -6,7 +6,7 @@ set :user, ENV['HOSTING_USER']
 set :deploy_to, ENV['YEARINPICTURES_HOSTING_DIR']
 set :domain, 'theyearinpictures.co.uk'
 set :repository, 'git@github.com:tomnatt/year-in-pictures.git'
-set :branch, 'master'
+set :branch, 'main'
 
 task :setup do
   command 'echo "-----> Create shared paths"'
