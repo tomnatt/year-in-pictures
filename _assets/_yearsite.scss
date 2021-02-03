@@ -233,6 +233,10 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
     figure {
       @include spacing;
 
+      img {
+        margin-bottom: rem-calc(20);
+      }
+
       figcaption a {
         color: $secondary-color;
         &:hover {
