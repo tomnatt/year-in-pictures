@@ -3,14 +3,15 @@ class MonthMarkup < Liquid::Tag
     super
     params = text.split(' ')
     @month = params[0]
-    @people = (params[1] ? params[1].to_i : 6)
+    @year = (params[1] ? params[1].to_i : Date.today.year)
+    @people = (params[2] ? params[2].to_i : 6)
     @title_month = @month.sub(/^./, &:upcase)
   end
 
   def render(_context)
     output = <<-eos
   <section class="row month future" id="#{@month}">
-    <h2>#{@title_month}</h2>
+    <h2>#{@title_month} #{@year}</h2>
     <div class="images">
       <ul class="polaroids large-block-grid-3 small-block-grid-2">
 eos
