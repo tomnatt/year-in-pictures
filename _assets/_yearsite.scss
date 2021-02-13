@@ -167,13 +167,22 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         }
         &:nth-child(28) {
           @include polaroid-position(10deg, 0px, -350px);
-          @include last-row;
         }
         &:nth-child(29) {
-          @include polaroid-position(-2deg, -120px, -330px);
-          @include last-row;
+          @include polaroid-position(-6deg, -120px, -330px);
         }
         &:nth-child(30) {
+          @include polaroid-position(-15deg, -160px, -265px);
+        }
+        &:nth-child(31) {
+          @include polaroid-position(-10deg, 0px, -350px);
+          @include last-row;
+        }
+        &:nth-child(32) {
+          @include polaroid-position(-15deg, -160px, -265px);
+          @include last-row;
+        }
+        &:nth-child(33) {
           @include polaroid-position(-15deg, -160px, -265px);
           @include last-row;
         }
