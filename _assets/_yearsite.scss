@@ -179,11 +179,11 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           @include last-row;
         }
         &:nth-child(32) {
-          @include polaroid-position(-15deg, -160px, -265px);
+          @include polaroid-position(-22deg, -100px, -325px);
           @include last-row;
         }
         &:nth-child(33) {
-          @include polaroid-position(-15deg, -160px, -265px);
+          @include polaroid-position(4deg, -220px, -275px);
           @include last-row;
         }
 
