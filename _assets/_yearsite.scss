@@ -176,14 +176,32 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         }
         &:nth-child(31) {
           @include polaroid-position(-10deg, 0px, -350px);
-          @include last-row;
         }
         &:nth-child(32) {
           @include polaroid-position(-22deg, -100px, -325px);
-          @include last-row;
         }
         &:nth-child(33) {
           @include polaroid-position(4deg, -220px, -275px);
+        }
+        &:nth-child(34) {
+          @include polaroid-position(4deg, 220px, -430px);
+        }
+        &:nth-child(35) {
+          @include polaroid-position(1deg, 50px, -390px);
+        }
+        &:nth-child(36) {
+          @include polaroid-position(-14deg, -140px, -325px);
+        }
+        &:nth-child(37) {
+          @include polaroid-position(-13deg, -10px, -530px);
+          @include last-row;
+        }
+        &:nth-child(38) {
+          @include polaroid-position(15deg, -160px, -455px);
+          @include last-row;
+        }
+        &:nth-child(39) {
+          @include polaroid-position(-20deg, -305px, -400px);
           @include last-row;
         }
 
