@@ -47,9 +47,12 @@ module ImagePages
     def year_specific_data(year)
       data = { 'year' => year }
 
-      if year == '2021'
-        data['title'] = 'Year of the Ox'
+      if year == '2022'
+        data['title'] = 'Year of the Tiger'
         data['index'] = ''
+      elsif year == '2021'
+        data['title'] = 'Year of the Ox'
+        data['index'] = '2021.html'
       elsif year == '2020'
         data['title'] = 'Year of the Rat'
         data['index'] = '2020.html'
@@ -118,7 +121,7 @@ module ImagePages
       omit_list = ['natural_paper.png']
 
       # iterate through all files in the directory
-      ['', '2015', '2016', '2017', '2018', '2019', '2020', '2021'].each do |year|
+      ['', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022'].each do |year|
         Dir.foreach(File.join('images', year)) do |file|
           # only process image files
           if file =~ /.jpg/ || file =~ /.png/
