@@ -1,0 +1,35 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Install SSH Key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        known_hosts: 'placeholder-to-avoid-errors'
+
+    - name: Adding Known Hosts
+      run: ssh-keyscan -H ${{ secrets.DEPLOY_TARGET }} >> ~/.ssh/known_hosts
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    - name: Run deploy
+      run: bundle exec mina -f _config/deploy.rb deploy
+      env:
+        HOSTING_USER: ${{ secrets.HOSTING_USER }}
+        YEARINPICTURES_HOSTING_DIR: ${{ secrets.YEARINPICTURES_HOSTING_DIR }}
+        DEPLOY_TARGET: ${{ secrets.DEPLOY_TARGET }}
