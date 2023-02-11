@@ -52,7 +52,7 @@ module ImagePages
         data['index'] = ''
       elsif year == '2022'
         data['title'] = 'Year of the Tiger'
-        data['index'] = ''
+        data['index'] = '2022.html'
       elsif year == '2021'
         data['title'] = 'Year of the Ox'
         data['index'] = '2021.html'
