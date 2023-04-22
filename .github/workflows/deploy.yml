@@ -6,7 +6,8 @@ on:
       - 'main'
 
 jobs:
-  test:
+  deploy:
+    name: Deploy to server
     runs-on: ubuntu-22.04
 
     steps:

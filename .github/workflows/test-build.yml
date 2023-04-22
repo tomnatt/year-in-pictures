@@ -8,6 +8,7 @@ on:
 
 jobs:
   test:
+    name: Test build the site
     runs-on: ubuntu-22.04
 
     steps:
