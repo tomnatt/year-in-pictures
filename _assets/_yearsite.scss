@@ -76,6 +76,9 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
       @include spacing;
 
       ul.polaroids li {
+        &:nth-last-child(-n + 3) {
+          // @include last-row;
+        }
 
         // make a pile of polaroids
         &:nth-child(1) {
@@ -194,15 +197,21 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
         }
         &:nth-child(37) {
           @include polaroid-position(-13deg, -10px, -530px);
-          @include last-row;
         }
         &:nth-child(38) {
           @include polaroid-position(15deg, -160px, -455px);
-          @include last-row;
         }
         &:nth-child(39) {
           @include polaroid-position(-20deg, -305px, -400px);
-          @include last-row;
+        }
+        &:nth-child(40) {
+          @include polaroid-position(5deg, 125px, -485px);
+        }
+        &:nth-child(41) {
+          @include polaroid-position(5deg, 125px, -485px);
+        }
+        &:nth-child(42) {
+          @include polaroid-position(5deg, 125px, -485px);
         }
 
         // style the pics
