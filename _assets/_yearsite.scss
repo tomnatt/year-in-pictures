@@ -16,9 +16,9 @@
 
 @mixin polaroid-position($rot, $transX, $transY) {
   @media #{$large-up} {
-    position: relative;
-    top: $transY;
-    left: $transX;
+    // position: relative;
+    // top: $transY;
+    // left: $transX;
     a {
       transform: rotate($rot);
       -webkit-transform: rotate($rot);
