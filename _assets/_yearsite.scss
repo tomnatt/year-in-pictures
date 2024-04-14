@@ -208,11 +208,21 @@ section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
           @include polaroid-position(5deg, 125px, -485px);
         }
         &:nth-child(41) {
-          @include polaroid-position(5deg, 125px, -485px);
+          @include polaroid-position(-25deg, 125px, -485px);
         }
         &:nth-child(42) {
-          @include polaroid-position(5deg, 125px, -485px);
+          @include polaroid-position(-4deg, 125px, -485px);
         }
+        &:nth-child(43) {
+          @include polaroid-position(15deg, 125px, -485px);
+        }
+        &:nth-child(44) {
+          @include polaroid-position(-8deg, 125px, -485px);
+        }
+        &:nth-child(45) {
+          @include polaroid-position(-12deg, 125px, -485px);
+        }
+
 
         // style the pics
         a:after {
