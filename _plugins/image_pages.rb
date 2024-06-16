@@ -1,3 +1,5 @@
+require './lib/year_data'
+
 module ImagePages
   class ImagePage < Jekyll::Page
     # An image page
@@ -121,7 +123,7 @@ module ImagePages
       # iterate through all files in the directory
       ['', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024'].each do |year|
         # Load YAML data once per year
-        yaml_data = YAML.load_file(File.join('images', year, '_data.yml'))['pictures']
+        yaml_data = YearData.instance.year(year)
 
         Dir.foreach(File.join('images', year)) do |file|
           # only process image files

@@ -9,28 +9,28 @@ class MonthMarkup < Liquid::Tag
   end
 
   def render(_context)
-    output = <<-eos
+    output = <<-SNIPPET
   <section class="row month future" id="#{@month}">
     <h2>#{@title_month} #{@year}</h2>
     <div class="images">
       <ul class="polaroids large-block-grid-3 small-block-grid-2">
-eos
+    SNIPPET
 
     @people.times do
-      output += <<-eos
+      output += <<-SNIPPET
         <li>
           <a title="placeholder" href="/photos/image-placeholder.html">
             <img alt="placeholder" src="/images/thumbnails/image-placeholder.png">
           </a>
         </li>
-eos
+      SNIPPET
     end
 
-    output += <<-eos
+    output += <<-SNIPPET
       </ul>
     </div>
   </section>
-eos
+    SNIPPET
 
     output
   end
