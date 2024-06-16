@@ -12,3 +12,7 @@ end
 task :clean do
   Jekyll::Commands::Clean.process({ config: '_config/jekyll_config.yml' })
 end
+
+task profile: [:clean] do
+  Jekyll::Commands::Build.process({ config: '_config/jekyll_config.yml', profile: true })
+end
