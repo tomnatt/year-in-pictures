@@ -1,3 +1,5 @@
+require './lib/year_data'
+
 class PictureMarkup < Liquid::Tag
   require 'yaml'
 
@@ -9,7 +11,7 @@ class PictureMarkup < Liquid::Tag
 
     # read the config from a yml file
     index = nil
-    data = YAML.load_file("images/#{@year}/_data.yml")['pictures']
+    data = YearData.instance.year(@year)
     data.each_with_index do |pic, i|
       if pic['image'] == @image
         index = i
@@ -23,13 +25,13 @@ class PictureMarkup < Liquid::Tag
   end
 
   def render(_context)
-<<-eos
+<<-SNIPPET
   <li>
     <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
       <img alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
     </a>
   </li>
-eos
+SNIPPET
   end
 
   Liquid::Template.register_tag 'picture', self

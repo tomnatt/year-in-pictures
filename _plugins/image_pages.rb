@@ -1,14 +1,13 @@
+require './lib/year_data'
+
 module ImagePages
   class ImagePage < Jekyll::Page
     # An image page
-    def initialize(site, base, dir, filename)
+    def initialize(site, base, dir, filename, yaml_data, year)
       @site = site
       @base = base
       @dir = dir
       @name = get_generated_pagename(filename) # name of the generated page
-
-      year = get_year_from_dir(dir)
-      yaml_data = YAML.load_file(File.join('images', year, '_data.yml'))['pictures']
 
       # read the config from a yml file
       index = nil
@@ -37,11 +36,6 @@ module ImagePages
 
     def get_generated_pagename(filename)
       File.basename(filename, File.extname(filename)) + '.html'
-    end
-
-    def get_year_from_dir(dir)
-      # the placeholder will have no year
-      dir.split('/')[1] ? dir.split('/')[1] : ''
     end
 
     def year_specific_data(year)
@@ -128,12 +122,16 @@ module ImagePages
 
       # iterate through all files in the directory
       ['', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024'].each do |year|
+        # Load YAML data once per year
+        yaml_data = YearData.instance.year(year)
+
         Dir.foreach(File.join('images', year)) do |file|
           # only process image files
           if file =~ /.jpg/ || file =~ /.png/
             # omit listed pictures
             unless omit_list.include?(file)
-              new_page = ImagePage.new(site, Dir.pwd, File.join('photos', year), file)
+
+              new_page = ImagePage.new(site, Dir.pwd, File.join('photos', year), file, yaml_data, year)
               site.pages << new_page
             end
           end

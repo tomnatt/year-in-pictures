@@ -3,3 +3,6 @@ permalink: /:year/:month/:day/:title
 sass:
   style: compressed
   sass_dir: _assets
+exclude:
+  - 'bin'
+  - 'lib'
