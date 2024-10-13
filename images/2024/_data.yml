@@ -2407,3 +2407,305 @@ pictures:
     description: "Fab holiday walking in the Swiss Alps and driving around Europe. 3 weeks off and I almost forgot my password.  Currently trying to re-acclimatize to sitting at a desk and working (feels weird)."
     alt: "Walking in the mountains"
     month: august
+
+  -
+    image: 09-amy.jpg
+    image_title: "Bryce Canyon"
+    caption: "Bryce Canyon"
+    description: "While we were road tripping across the US we spent a day visiting Bryce Canyon and Zion National Park. Truly awe inspiring."
+    alt: "Bryce Canyon pillars in the sun"
+    month: september
+  -
+    image: 09-az.jpg
+    image_title: "Japanese anemones in the front garden"
+    caption: "Japanese Anemones"
+    description: "Lucy was painting again in the late summer sunshine that feels a lifetime ago. These are in the front garden."
+    alt: "Japanese anemones being painted in watercolours"
+    month: september
+  -
+    image: 09-bonnie-richard.jpg
+    image_title: "Cafe With a Difference"
+    caption: "Cafe With a Difference"
+    description: "Richard went to the Somme this month for a WWI Battlefield Tour with members from the Cirencester U3A History group. The tour was very interesting and informative but very sombre. For lunch one day, we stopped at Le Tommy at Pozieres. The owners did an amazing job displaying authentic artefacts in an amusing way and the omelette and fries were rather good."
+    alt: "Cafe With a Difference"
+    month: september
+  -
+    image: 09-charlotte.jpg
+    image_title: "Paralympic flame"
+    caption: "Paralympic flame"
+    description: "Went to Paris to see the Paralympics. Goalball was a new sport for me and so glad we got tickets - so good to watch. The agility of the players is so impressive. \r\nWhen TeamGB got to the wheelchair basketball semi final we got tickets to that too. One player got nearly as many points as the entire German team put together! \r\nAlways love watching Paralympic Swimming, watching people with no arms, or no legs, or sometimes neither arms nor legs power down the pool is incredible to watch. \r\nAnd then got to watch Jonnie Peacock and the GB relay team win Silver, amongst so many other field events going on.\r\nAlso watched some canoeing and then thanks to EasyJet cancelling our flight we had an extra day so went to see the Powerlifting and it was so moving watching the Brit compete in his first paralympics and be so so happy with fifth place."
+    alt: "The paralympic flame powers a white hot air balloon and is illuminated in the night sky. It hovers near the effiel tower whichis lit up in gold"
+    month: september
+  -
+    image: 09-chris.jpg
+    image_title: "Shredder fail"
+    caption: "Shredder fail"
+    description: "When the lid comes off your shredder and covers the floor in really \"helpful\" confetti. There was some swearing."
+    alt: "A shredder that has decided to leave a lot of its paper contents on the floor"
+    month: september
+  -
+    image: 09-clive.jpg
+    image_title: "The Matterhorn Zermatt"
+    caption: "The Matterhorn Zermatt"
+    description: "The Matterhorn Zermatt."
+    alt: "The Matterhorn Zermatt"
+    month: september
+  -
+    image: 09-dad.jpg
+    image_title: "Worms Head"
+    caption: "Worms Head"
+    description: "A view of the end of Worms Head from halfway along. Worms Head is a peninsula on the SW tip of the Gower Peninsular in South Wales, and is cut off from the mainland at high tide. We didn’t get to the very end as we ran out of time before needing to turn back to beat the incoming tide."
+    alt: "A view of Worms Head on the Gower Peninsular."
+    month: september
+  -
+    image: 09-dan.jpg
+    image_title: "Bulldog side eye"
+    caption: "Bulldog side eye"
+    description: "Mils was not best pleased with my attempts to keep her warm using a nice fleecy blanket."
+    alt: "A grumpy looking dog staring at the camera from under a blanket"
+    month: september
+  -
+    image: 09-david_bonney.jpg
+    image_title: "Cotswold Inspiration"
+    caption: "The Stunning Cotswolds"
+    description: "This setting is in Frocester near Stonehouse. It is a marvelous spot to take time out and breath in that wonderful country air."
+    alt: "Cotswold View"
+    month: september
+  -
+    image: 09-ed.jpg
+    image_title: "Tractor"
+    caption: "Tractor"
+    description: "Parked outside my local village pub. The owner stumbled outside and drove off into the darkness, with no lights. The joys of living in a small village..."
+    alt: "Tractor"
+    month: september
+  -
+    image: 09-gareth.jpg
+    image_title: "Kim's Convenience"
+    caption: "Kim's Convenience"
+    description: "Kim's Convenience is probably best known as a sitcom set in a Toronto corner shop - 5 series of which are currently available on Netflix. However, the whole thing started off as a play which is currently running in London - with the writer, Ins Choi, having progressed from playing the son in 2011 to playing the dad in 2024."
+    alt: "A theatre stage with a set depicting a convnience store. In the foreground we see theatre seats with some people sitting down - above we can see lights. In the middle is the stage itself, with a counter on the left and various well stocked shelves and fridges."
+    month: september
+  -
+    image: 09-gill.jpg
+    image_title: "Summer House"
+    caption: "Summer House"
+    description: "Killerton National Trust House in Devon is a wonderful place to visit. In the gardens is this summer house, known as the bear hut, which was given as a wedding present to his new wife by Sir Thomas Acland. Inside is a wooden floor made from slices of logs in different sizes, a floor made from deer knuckles, a stained glass window and lots of pine cones decorating the ceiling and walls."
+    alt: "Summer House"
+    month: september
+  -
+    image: 09-hanna.jpg
+    image_title: "Foggy September"
+    caption: "Foggy September"
+    description: "We've had what feels like unusually foggy times in September. The weather's been eerily still and warm for this time of year."
+    alt: "Boats, water, fog"
+    month: september
+  -
+    image: 09-himal.jpg
+    image_title: "Big Ben through an arch"
+    caption: "Big Ben through an arch"
+    description: "Big Ben and Westminster Bridge seen through an arch from the south side as the sun sets. Busy with people rushing off after work."
+    alt: "Big Ben and Westminster Bridge at sunset through an arch with people passing by."
+    month: september
+  -
+    image: 09-iris.jpg
+    image_title: "Last light of summer"
+    caption: "Last light of summer"
+    description: "Enjoying some September sunshine before the rain set in."
+    alt: "A view from underneath a tree with stringy white seed blooms against a clear blue sky. Most of the tree is in shadow but the edges of the leaves and seeds are backlit by the sun."
+    month: september
+  -
+    image: 09-james_collie.jpg
+    image_title: "Big Steps For Our Little Girl"
+    caption: "Big Steps For Our Little Girl"
+    description: "Big steps for our little girl."
+    alt: "A pair of pink and white first trainers for baby girl with velcro straps"
+    month: september
+  -
+    image: 09-james_wiggins.jpg
+    image_title: "Sergeant Kor'Sar"
+    caption: "In the grim darkness of the (slight less) far future there is painting"
+    description: "September was hugely busy, but I carved a small amount of time out for some hobby. I'm running a 'tale of 4 gamers' style challenge for my local warhammer group for the next couple of months for Horus Heresy and this is my tester/first model for my shattered legions."
+    alt: "A green armoured space marine holds his hammer aloft surrounded by the tat on my desk"
+    month: september
+  -
+    image: 09-jen.jpg
+    image_title: "Cheers"
+    caption: "Cheers"
+    description: "How times have changed. Sitting in the sunshine in a beer garden halfway up a snowy mountain, but this time with a baby beaker as well as local schnapps."
+    alt: "A baby's beaker on a table next to a clear small glass of alcohol"
+    month: september
+  -
+    image: 09-jess_newby.jpg
+    image_title: "Goldsmiths Fair"
+    caption: "Goldsmiths Fair"
+    description: "My favourite piece from week 1 of the Goldsmiths Fair. A gorgeous purple/blue niobium and sterling silver brooch."
+    alt: "A sterling silver and purple/blue niobium brooch on a glass display cabinet."
+    month: september
+  -
+    image: 09-kat.jpg
+    image_title: "Mystery window in the hedge"
+    caption: "Hedge window"
+    description: "I love finding windows in hedges.  Aside for the lovely framing effect on the view beyond, it creates a sense of mystery, even though I've walked on the other side of the hedge just as often as not, and know the scenery well."
+    alt: "Foreground is a hedge lit up from behind by the setting sun.  Through a gap in the hedge the field and a lone tree can be seen."
+    month: september
+  -
+    image: 09-ken.jpg
+    image_title: "Sake"
+    caption: "Sake"
+    description: "That’s a lot of Sake."
+    alt: "Many jugs of sake on shelves"
+    month: september
+  -
+    image: 09-kirsty.jpg
+    image_title: "Cat"
+    caption: "Stroud"
+    description: "This looks like a nice place to sit."
+    alt: "Overlooking rolling hills and countryside. A low wall runs from left to right on which a black and white cat sits at the right side of the picture."
+    month: september
+  -
+    image: 09-louise.jpg
+    image_title: "Noodle living her best life"
+    caption: "Noodle living her best life"
+    description: "Another trip to the beach for the silly animal(s)."
+    alt: "Tiny dog on huge beach with dunes and the sea in the background"
+    month: september
+  -
+    image: 09-lyns.jpg
+    image_title: "Novel"
+    caption: "Novel"
+    description: "My friend has written a book and I got to read a preview copy. It's very good."
+    alt: "Novel \"Don't Make Me Laugh\" propped up on a hat on a table"
+    month: september
+  -
+    image: 09-matt_hobbs.jpg
+    image_title: "Ozzie stole another ball"
+    caption: "Innocent Ozzie"
+    description: "Look at those innocent eyes… it's like butter wouldn't melt in his mouth! But behind those eyes is a veracious dog ball stealer! It's funny, he never used to be bothered about chasing balls. But this year it has really developed into an obsession. Oh, well, it keeps him happy and healthy. And who can resist that cute face! Hard to believe, he is almost 3-years old!"
+    alt: "Our black dog Ozzie on the ground with a green ball in his mouth, looking into the camera."
+    month: september
+  -
+    image: 09-matt_holyoake.jpg
+    image_title: "A sunny squeeze"
+    caption: "A sunny squeeze"
+    description: "Cruise ship navigating some Thames traffic on a sunny morning."
+    alt: "A sunny squeeze"
+    month: september
+  -
+    image: 09-pete_fairhurst.jpg
+    image_title: "Ponies"
+    caption: "Ponies"
+    description: "I initially passed by this group of horses at a local farm at feeding time whilst I was out on a random errand. Realising the contrast of shapes and colours might make a nice photo, I drove back and managed to still get the shot I was hoping for."
+    alt: "A mixed group of five white and brown horses and ponies eat yellow hay in front of some green hills"
+    month: september
+  -
+    image: 09-pete_rogers.jpg
+    image_title: "Mercedes"
+    caption: "Mercedes"
+    description: "For our silver wedding anniversary, we disappeared for a one-night getaway to a country hotel in a vintage Mercedes. Bliss."
+    alt: "Vintage Mercedes sitting outside a Georgian building"
+    month: september
+  -
+    image: 09-peter_chamberlin.jpg
+    image_title: "Shrooms"
+    caption: "Shrooms"
+    description: "September is peak fungus finding month for those with the confidence to identify them. On this occasion I took the opportunity to slip away from an adventure play area where the kids were causing chaos with their cousins to bag a delicious haul of chanterelles from beside a lakeside path. Idyllic late summer endeavours."
+    alt: "A jumble of yellowy orange mushrooms are strewn on a wooden bench in a woodland"
+    month: september
+  -
+    image: 09-peter_smith.jpg
+    image_title: "Tree Troll"
+    caption: "Tree Troll"
+    description: "A particular type of troll from the wild hills and valleys of Wales must have caught the first rays of the sun and have been transformed into a tree. He retains his green cap though."
+    alt: "A particular type of troll from the wild hills and valleys of Wales must have caught the first rays of the sun and have been transformed into a tree. He retains his green cap though."
+    month: september
+  -
+    image: 09-rhiannon_lawson.jpg
+    image_title: "NFL"
+    caption: "NFL"
+    description: "Quite the view at the NFL! An absolutely awesome day! Go Vikings!"
+    alt: "Flags out on an American Football field with fireworks before the game"
+    month: september
+  -
+    image: 09-richard-monica.jpg
+    image_title: "Autumn is here"
+    caption: "Autumn is here"
+    description: "Autumn is here. Photo taken by my incredible and amazing wife."
+    alt: "Grapes in Autumn"
+    month: september
+  -
+    image: 09-sean.jpg
+    image_title: "River crossing"
+    caption: "River crossing"
+    description: "River crossing."
+    alt: "Black and white photo of someone crossing a river over a bridge. Strong contrast makes the figure and bridge all appear in sharp contrast, nearly fully silhouetted."
+    month: september
+  -
+    image: 09-sheena.jpg
+    image_title: "Appledore Book Festival"
+    caption: "Appledore Book Festival"
+    description: "The Appledore Book Festival was joyful, once again. Here’s a sample from the 13 events we attended. All were educational and inspiring. It’s wasn’t just talks - we also participated in a walk about weeds, a seafaring supper (with sea shanty band) and saw the internationally renowned guitarist Carlos Bonell."
+    alt: "Stage shots of authors and interviewers at the Appledore Book Festival"
+    month: september
+  -
+    image: 09-simon_field.jpg
+    image_title: "Pienaar and Friend?"
+    caption: "Pienaar and Friend?"
+    description: "Andy Serkis visits the Times Radio studio at the Labour Party conference in Liverpool. John Pienaar appears oblivious."
+    alt: "Camera multiview showing varioius angles of Andy Serkis and John Pienaar in the Times Radio outsifde broadcast studio"
+    month: september
+  -
+    image: 09-stephen.jpg
+    image_title: "Wild horses on Hergest Ridge"
+    caption: "Wild horses on Hergest Ridge"
+    description: "In Wales for my birthday and went walking on Hergest Ridge, which is part of Offa's Dyke path. These wild horses roam free there."
+    alt: "6 wild horses in the countryside."
+    month: september
+  -
+    image: 09-steve_fearn.jpg
+    image_title: "Blue Mosque, Istanbul"
+    caption: "Blue Mosque, Istanbul"
+    description: "Nightscape at the end of a sunset cruise on the Bosphorus."
+    alt: "A crescent moon hangs above the nightscape of the European side of Istanbul. The Blue Mosque sits in the centre of the image with the Galata Bridge lining the right hand side. Both have scattered reflections in the choppy water of the Bosphorus., in the foreground."
+    month: september
+  -
+    image: 09-sue.jpg
+    image_title: "River reflections"
+    caption: "River reflections"
+    description: "I captured a patch of blue sky in this image - what’s blue sky?? There hasn’t been much around this year in South Wales. I hope you’ve all had more of it where you are."
+    alt: "From an old wooden bridge over a river I captured an upside down image of trees in a patch of blue sky in the mirror like water. Blue sky - a rare sight this year in South Wales!"
+    month: september
+  -
+    image: 09-teresa.jpg
+    image_title: "Boasting moment"
+    caption: "Boasting moment!"
+    description: "But don't get too excited, just a little local traditional show that raises funds for local causes. Costs 50p per item to enter (such extravagance!) and you get a pound if you win. Unless a very special item it is expected that you donate your exhibit to the auction.  A gentle afternoon out with splendid tea and cakes and a hilarious auction - what's not to like?"
+    alt: "Prize winning cards for exhibits at local show"
+    month: september
+  -
+    image: 09-tim_blair.jpg
+    image_title: "Wet"
+    caption: "Wet"
+    description: "We found ourselves literally in the eye of the storm, and Thame saw a month-and-a-half's rain in a day. I got to London, made a cup of tea, got a message from D saying that the house next door was flooding, poured my tea away, and headed home. We live on the edge of a flood plain, and it usually takes days or weeks of sustained wet weather for us to reach any level of real concern. This day, the water level went from \"what water?\" to \"that water's about to come in our house\" in just a few hours (and in fact did, via groundwater seeping in around the edges of the floor at a low-point). Thankfully it stopped (just) short, but did cause a lot of worry, and the sewers were back up and blocked for days..."
+    alt: "A view along a railway flooded track"
+    month: september
+  -
+    image: 09-tim_oneill.jpg
+    image_title: "Have pass, will travel!"
+    caption: "L'Ariston Sanremo..."
+    description: "The band played at the Ariston in Sanremo which it transpires for Italians is a big deal. Was a lot of fun and met some interesting characters (and a lot of people who obviously spent more time making their costumes than learning their instruments!) and was a great experience to be part of."
+    alt: "Tiiiiiiiiiiiiiiiiiim"
+    month: september
+  -
+    image: 09-tom.jpg
+    image_title: "Worm's Head"
+    caption: "Worm's Head"
+    description: "A lovely trip to the Gower Peninsula this month, with many <a href=\"https://www.flickr.com/photos/tomnatt/albums/72177720320373660/\">photographs</a> of a beautiful area. This is Worm's Head, not Wyrm's Head as I expected. Dad and I walked out most of the way, before having to come back as the tide came in. During high tide the whole peninsula is cut off, leading to a long (and on this day very windy) huddling down on a small island with very little shelter. We decided to come back and have some soup instead!<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/54000821775\">Flickr</a>."
+    alt: "Small hills out into the sea"
+    month: september
+  -
+    image: 09-tom_bassett.jpg
+    image_title: "Sheep Southwark bridge"
+    caption: "Southwark bridge sheep drivve"
+    description: "Celebrating a Freeman’s ancient “right” to bring sheep to market over the Thames, toll free, lots of sheep plodding, people dressing up in gowns (guilds) and Damien Lewis (random). Sheep and tourists in mutual bemusement, but an interesting halt to my bike ride that day."
+    alt: "Sheep in pen on bridge"
+    month: september
