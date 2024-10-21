@@ -11,7 +11,7 @@ class MonthMarkup < Liquid::Tag
   def render(_context)
     output = <<-SNIPPET
   <section class="row month future" id="#{@month}">
-    <h2>#{@title_month} #{@year}</h2>
+    <h2><a href="#{@month}">#{@title_month} #{@year}</a></h2>
     <div class="images">
       <ul class="polaroids large-block-grid-3 small-block-grid-2">
     SNIPPET
