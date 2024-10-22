@@ -26,7 +26,7 @@ class PictureMarkup < Liquid::Tag
 
   def render(_context)
 <<-SNIPPET
-  <li class="pure-u-1 pure-u-md-1-3">
+  <li class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
     <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
       <img alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
     </a>
