@@ -18,8 +18,8 @@ $secondary-color: $red;
   }
 }
 
-header {
-  h1 a {
+header, footer {
+  h1 a, h6 {
     font-family: $header-font-family;
     color: $primary-color;
   }
