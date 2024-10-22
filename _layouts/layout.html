@@ -4,6 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="keywords" content="pictures photos"/>
   <meta name="description" content="Photos from {{ page.year }}"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" media="screen" type="text/css" href="/css/yearinpics.css" title="Default" />
 <!-- Favicons -->
@@ -17,10 +18,7 @@
   <meta name="msapplication-TileImage" content="/images/favicon/windows/mstile-144x144.png">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#9a3521">
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  <script src="/js/foundation.js"></script>
-  <script src="/js/foundation.topbar.js"></script>
-  <script src="/js/foundation.offcanvas.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="/js/yearinpics.js"></script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE6B2GRPJG"></script>
@@ -55,7 +53,7 @@
         </ul>
       </aside>
 
-      <header class="row">
+      <header class="pure-g">
         <h1><a href="/{{ page.index }}">{{ page.title }}</a></h1>
 
         {% if page.months == true %}
@@ -87,7 +85,7 @@
 
       {{ content }}
 
-      <footer class="row">
+      <footer class="pure-g">
         <h6>And a little footer</h6>
       </footer>
 
