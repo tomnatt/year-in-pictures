@@ -1,54 +1,89 @@
 @import url(//fonts.googleapis.com/css?family=Oldenburg|Permanent+Marker|Ribeye+Marrow);
 
+/* Variables */
 $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 $header-font-family: join("Ribeye Marrow", $body-font-family);
 
 $black: #222;
-$red: #9a3521;
-$primary-color: $black;
-$secondary-color: $red;
+$red: #9A3521;
+$orange: #FFEFD2;
+$primary-colour: $black;
+$secondary-colour: $red;
+$link-hover-colour: $orange;
 
-* {
-  text-rendering: optimizeLegibility;
-}
+$gutter-padding: 0 6.25rem;
 
-header h1 a, section h2, footer h6 {
-  color: $primary-color;
+/* Mixins */
+@mixin header-format {
+  color: $primary-colour;
   font-family: $header-font-family;
   font-weight: normal;
   text-decoration: none;
 }
 
-h1 {
-  font-size: 3.5rem;
-}
-h2 {
-  font-size: 2.5rem;
-}
-h6 {
-  font-size: 1.3rem;
+/* Global styles */
+* {
+  text-rendering: optimizeLegibility;
 }
 
-a {
-  font-family: $body-font-family;
-  color: $secondary-color;
-}
-
-section {
-  h2 {
-    border-bottom: solid 1px $red;
+/* Header styles */
+header {
+  padding: $gutter-padding;
+  h1 {
+    font-size: 3.5rem;
+    a {
+      @include header-format;
+    }
   }
+  div.pure-menu-horizontal {
+    margin-bottom: 0.625rem;
+  }
+  a.pure-menu-link {
+    font-family: $body-font-family;
+    font-size: 1.3rem;
+    color: $secondary-colour;
+    padding: 12px .9375rem;
 
+    &:hover {
+      text-decoration: underline;
+      background-color: $link-hover-colour;
+    }
+  }
+}
+
+/* Body and section styles */
+section {
   &.month, &.picture {
     background: url("/images/natural_paper.png") repeat scroll 0 0 #C2C2A3;
-    margin-bottom: rem-calc(10);
+    margin-bottom: 0.6rem;
     box-shadow: 0 10px 5px -5px #222;
 
     &.future {
       opacity: 0.5;
     }
   }
+  h2 {
+    @include header-format;
+    font-size: 2.5rem;
+    border-bottom: solid 1px $red;
+    padding: $gutter-padding;
+    margin-bottom: .5rem;
+    margin-top: .2rem;
+  }
+  ul.polaroids {
+    padding: $gutter-padding;
+  }
 }
+
+/* Footer styles */
+footer {
+  padding: $gutter-padding;
+  h6 {
+    @include header-format;
+    font-size: 1.3rem;
+  }
+}
+
 
 // @mixin spacing {
 //   @media #{$small-only} {
@@ -334,7 +369,7 @@ section {
 //       }
 
 //       figcaption a {
-//         color: $secondary-color;
+//         color: $secondary-colour;
 //         &:hover {
 //           text-decoration: underline;
 //         }

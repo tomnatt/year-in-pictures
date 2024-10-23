@@ -57,29 +57,22 @@
         <h1><a href="/{{ page.index }}">{{ page.title }}</a></h1>
 
         {% if page.months == true %}
-        <nav class="top-bar" data-topbar>
-          <ul class="title-area">
-            <li class="name"></li>
-            <li class="toggle-topbar menu-icon"><a href="#"><span>Months</span></a></li>
+        <div class="pure-menu pure-menu-horizontal">
+          <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#january">Jan</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#february">Feb</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#march">Mar</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#april">April</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#may">May</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#june">June</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#july">July</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#august">Aug</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#september">Sept</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#october">Oct</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#november">Nov</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="#december">Dec</a></li>
           </ul>
-
-          <section class="top-bar-section month-navigation">
-            <ul class="left">
-              <li><a href="#january">Jan</a></li>
-              <li><a href="#february">Feb</a></li>
-              <li><a href="#march">Mar</a></li>
-              <li><a href="#april">April</a></li>
-              <li><a href="#may">May</a></li>
-              <li><a href="#june">June</a></li>
-              <li><a href="#july">July</a></li>
-              <li><a href="#august">Aug</a></li>
-              <li><a href="#september">Sept</a></li>
-              <li><a href="#october">Oct</a></li>
-              <li><a href="#november">Nov</a></li>
-              <li><a href="#december">Dec</a></li>
-            </ul>
-          </section>
-        </nav>
+        </div>
         {% endif %}
       </header>
 
