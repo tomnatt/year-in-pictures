@@ -8,26 +8,35 @@ $red: #9a3521;
 $primary-color: $black;
 $secondary-color: $red;
 
-// Generic styles
 * {
-  font-family: $body-font-family;
-  color: $primary-color;
-
-  a {
-    color: $secondary-color;
-  }
+  text-rendering: optimizeLegibility;
 }
 
-header, footer {
-  h1 a, h6 {
-    font-family: $header-font-family;
-    color: $primary-color;
-  }
+header h1 a, section h2, footer h6 {
+  color: $primary-color;
+  font-family: $header-font-family;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h6 {
+  font-size: 1.3rem;
+}
+
+a {
+  font-family: $body-font-family;
+  color: $secondary-color;
 }
 
 section {
   h2 {
-    font-family: $header-font-family;
+    border-bottom: solid 1px $red;
   }
 
   &.month, &.picture {
