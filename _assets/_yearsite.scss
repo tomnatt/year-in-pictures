@@ -92,12 +92,151 @@ section {
   }
   ul.polaroids {
     padding: $gutter-padding;
+    margin-bottom: 0;
 
     // Polaroid effect
     li {
-      // make a pile of polaroids
+      // Make a pile of polaroids
       &:nth-child(1) {
         @include polaroid-position(-7deg, 70px, 0);
+      }
+      &:nth-child(2) {
+        @include polaroid-position(2deg, 0, 0);
+      }
+      &:nth-child(3) {
+        @include polaroid-position(-22deg, -105px, 32px);
+        z-index: 2;
+      }
+      &:nth-child(4) {
+        @include polaroid-position(10deg, 100px, -50px);
+      }
+      &:nth-child(5) {
+        @include polaroid-position(-21deg, 0, -40px);
+        z-index: 2;
+      }
+      &:nth-child(6) {
+        @include polaroid-position(22deg, -70px, 25px);
+      }
+      &:nth-child(7) {
+        @include polaroid-position(-11deg, 100px, -50px);
+        z-index: 2;
+      }
+      &:nth-child(8) {
+        @include polaroid-position(5deg, -25px, -40px);
+      }
+      &:nth-child(9) {
+        @include polaroid-position(-22deg, -140px, 0px);
+        z-index: 2;
+      }
+      &:nth-child(10) {
+        @include polaroid-position(-34deg, 80px, -90px);
+      }
+      &:nth-child(11) {
+        @include polaroid-position(-16deg, -40px, -70px);
+        z-index: 2;
+      }
+      &:nth-child(12) {
+        @include polaroid-position(20deg, -130px, -10px);
+      }
+      &:nth-child(13) {
+        @include polaroid-position(-5deg, 90px, -130px);
+      }
+      &:nth-child(14) {
+        @include polaroid-position(17deg, -20px, -80px);
+        z-index: 2;
+      }
+      &:nth-child(15) {
+        @include polaroid-position(-5deg, -120px, -60px);
+      }
+      &:nth-child(16) {
+        @include polaroid-position(10deg, 100px, -175px);
+      }
+      &:nth-child(17) {
+        @include polaroid-position(-5deg, -40px, -100px);
+      }
+      &:nth-child(18) {
+        @include polaroid-position(25deg, -150px, -120px);
+      }
+      &:nth-child(19) {
+        @include polaroid-position(-13deg, 50px, -220px);
+      }
+      &:nth-child(20) {
+        @include polaroid-position(10deg, -100px, -170px);
+      }
+      &:nth-child(21) {
+        @include polaroid-position(-10deg, -235px, -185px);
+      }
+      &:nth-child(22) {
+        @include polaroid-position(5deg, 30px, -250px);
+      }
+      &:nth-child(23) {
+        @include polaroid-position(-10deg, -10px, -220px);
+      }
+      &:nth-child(24) {
+        @include polaroid-position(10deg, -110px, -180px);
+      }
+      &:nth-child(25) {
+        @include polaroid-position(-3deg, 50px, -290px);
+      }
+      &:nth-child(26) {
+        @include polaroid-position(7deg, -40px, -290px);
+      }
+      &:nth-child(27) {
+        @include polaroid-position(-4deg, -160px, -220px);
+      }
+      &:nth-child(28) {
+        @include polaroid-position(10deg, 0px, -350px);
+      }
+      &:nth-child(29) {
+        @include polaroid-position(-6deg, -120px, -330px);
+      }
+      &:nth-child(30) {
+        @include polaroid-position(-15deg, -160px, -265px);
+      }
+      &:nth-child(31) {
+        @include polaroid-position(-10deg, 0px, -350px);
+      }
+      &:nth-child(32) {
+        @include polaroid-position(-22deg, -100px, -325px);
+      }
+      &:nth-child(33) {
+        @include polaroid-position(4deg, -220px, -275px);
+      }
+      &:nth-child(34) {
+        @include polaroid-position(4deg, 220px, -430px);
+      }
+      &:nth-child(35) {
+        @include polaroid-position(1deg, 50px, -390px);
+      }
+      &:nth-child(36) {
+        @include polaroid-position(-14deg, -140px, -325px);
+      }
+      &:nth-child(37) {
+        @include polaroid-position(-13deg, -10px, -530px);
+      }
+      &:nth-child(38) {
+        @include polaroid-position(15deg, -160px, -455px);
+      }
+      &:nth-child(39) {
+        @include polaroid-position(-20deg, -305px, -400px);
+      }
+      &:nth-child(40) {
+        @include polaroid-position(5deg, 125px, -485px);
+      }
+      &:nth-child(41) {
+        @include polaroid-position(-25deg, 125px, -485px);
+      }
+      &:nth-child(42) {
+        @include polaroid-position(-4deg, 125px, -485px);
+      }
+      &:nth-child(43) {
+        @include polaroid-position(15deg, 125px, -485px);
+      }
+      &:nth-child(44) {
+        @include polaroid-position(-8deg, 125px, -485px);
+      }
+      &:nth-child(45) {
+        @include polaroid-position(-12deg, 125px, -485px);
       }
 
       // style the pics
