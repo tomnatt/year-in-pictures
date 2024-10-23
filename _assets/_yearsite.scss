@@ -5,6 +5,9 @@ $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial,
 $header-font-family: join("Ribeye Marrow", $body-font-family);
 $polaroid-font-family: join("Permanent Marker", $body-font-family);
 
+// Define "large and up" media query - copied from Pure default (1024px)
+$large-up: "screen and (min-width: 64em)";
+
 $black: #222;
 $white: #FFF;
 $grey: #333;
@@ -22,6 +25,20 @@ $gutter-padding: 0 6.25rem;
   font-family: $header-font-family;
   font-weight: normal;
   text-decoration: none;
+}
+
+@mixin polaroid-position($rot, $transX, $transY) {
+  @media #{$large-up} {
+    // position: relative;
+    // top: $transY;
+    // left: $transX;
+    a {
+      transform: rotate($rot);
+      -webkit-transform: rotate($rot);
+      -ms-transform:rotate($rot);
+      -o-transform:rotate($rot);
+    }
+  }
 }
 
 /* Global styles */
@@ -78,6 +95,11 @@ section {
 
     // Polaroid effect
     li {
+      // make a pile of polaroids
+      &:nth-child(1) {
+        @include polaroid-position(-7deg, 70px, 0);
+      }
+
       // style the pics
       a:after {
         content: attr(title);
@@ -103,15 +125,15 @@ section {
           margin-bottom: 12px;
         }
 
-        // &:hover {
-        //   transform: scale(1.25, 1.25);
-        //   -ms-transform: scale(1.25, 1.25);
-        //   -moz-transform: scale(1.25, 1.25);
-        //   -webkit-transform: scale(1.25, 1.25);
-        //   -o-transform: scale(1.25, 1.25);
-        //   position: relative;
-        //   z-index: 5;
-        // }
+        &:hover {
+          transform: scale(1.25, 1.25);
+          -ms-transform: scale(1.25, 1.25);
+          -moz-transform: scale(1.25, 1.25);
+          -webkit-transform: scale(1.25, 1.25);
+          -o-transform: scale(1.25, 1.25);
+          position: relative;
+          z-index: 5;
+        }
       }
     }
   }
