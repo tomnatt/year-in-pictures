@@ -3,8 +3,11 @@
 /* Variables */
 $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 $header-font-family: join("Ribeye Marrow", $body-font-family);
+$polaroid-font-family: join("Permanent Marker", $body-font-family);
 
 $black: #222;
+$white: #FFF;
+$grey: #333;
 $red: #9A3521;
 $orange: #FFEFD2;
 $primary-colour: $black;
@@ -72,6 +75,45 @@ section {
   }
   ul.polaroids {
     padding: $gutter-padding;
+
+    // Polaroid effect
+    li {
+      // style the pics
+      a:after {
+        content: attr(title);
+      }
+      a {
+        background: $white;
+        margin: 0 0 27px 30px;
+        width: 190px;
+        padding: 10px 10px 15px;
+        float: left;
+        text-align: center;
+        font-family: $polaroid-font-family;
+        text-decoration: none;
+        color: $grey;
+        font-size: 18px;
+        box-shadow: 0 3px 6px rgba(0,0,0,.25);
+        transition-property: transform;
+        transition-duration: 0.3s, 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        -webkit-transition-duration: 0.3s, 0.3s;
+
+        img {
+          margin-bottom: 12px;
+        }
+
+        // &:hover {
+        //   transform: scale(1.25, 1.25);
+        //   -ms-transform: scale(1.25, 1.25);
+        //   -moz-transform: scale(1.25, 1.25);
+        //   -webkit-transform: scale(1.25, 1.25);
+        //   -o-transform: scale(1.25, 1.25);
+        //   position: relative;
+        //   z-index: 5;
+        // }
+      }
+    }
   }
 }
 
