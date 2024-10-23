@@ -144,7 +144,8 @@ footer {
   padding: $gutter-padding;
   h6 {
     @include header-format;
-    font-size: 1.3rem;
+    font-size: 1rem;
+    margin: 0.1rem 0 0.6rem;
   }
 }
 
