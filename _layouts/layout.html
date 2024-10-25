@@ -30,34 +30,33 @@
   </script>
 </head>
 <body>
-  <div class="off-canvas-wrap" data-offcanvas>
+  <div class="page-wrap">
     <div class="inner-wrap">
 
-      <section class="right">
-        <a class="right-off-canvas-toggle" >Select year</a>
-      </section>
-
       <!-- Off Canvas Menu -->
-      <aside class="right-off-canvas-menu">
-        <ul class="off-canvas-list">
-          <li><a href="/2015.html">2015</a></li>
-          <li><a href="/2016.html">2016</a></li>
-          <li><a href="/2017.html">2017</a></li>
-          <li><a href="/2018.html">2018</a></li>
-          <li><a href="/2019.html">2019</a></li>
-          <li><a href="/2020.html">2020</a></li>
-          <li><a href="/2021.html">2021</a></li>
-          <li><a href="/2022.html">2022</a></li>
-          <li><a href="/2023.html">2023</a></li>
-          <li><a href="/">2024</a></li>
-        </ul>
-      </aside>
+      <div class="year-menu">
+        <a class="year-menu-toggle" aria-expanded="true">Select year</a>
+        <aside class="pure-menu">
+          <ul class="pure-menu-list off-canvas-list">
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2015.html">2015</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2016.html">2016</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2017.html">2017</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2018.html">2018</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2019.html">2019</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2020.html">2020</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2021.html">2021</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2022.html">2022</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/2023.html">2023</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link" href="/">2024</a></li>
+          </ul>
+        </aside>
+      </div>
 
       <header class="pure-g">
         <h1><a href="/{{ page.index }}">{{ page.title }}</a></h1>
 
         {% if page.months == true %}
-        <div class="pure-menu pure-menu-horizontal">
+        <div class="month-navigation pure-menu pure-menu-horizontal">
           <ul class="pure-menu-list">
             <li class="pure-menu-item"><a class="pure-menu-link" href="#january">Jan</a></li>
             <li class="pure-menu-item"><a class="pure-menu-link" href="#february">Feb</a></li>
@@ -82,11 +81,7 @@
         <h6>And a little footer</h6>
       </footer>
 
-        <!-- close the off-canvas menu -->
-      <a class="exit-off-canvas"></a>
-
     </div>
   </div>
-
 </body>
 </html>

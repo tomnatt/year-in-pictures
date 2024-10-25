@@ -43,7 +43,40 @@ $gutter-padding: 0 6.25rem;
 
 /* Global styles */
 * {
+  font-family: $body-font-family;
   text-rendering: optimizeLegibility;
+}
+
+/* Year menu styles */
+.page-wrap {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.inner-wrap {
+  width: 100%;
+  position: relative;
+}
+
+.year-menu {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  .year-menu-toggle {
+    float: right;
+  }
+
+  aside {
+    transform: translate3d(100%, 0, 0);
+    // overflow-x: hidden;
+  }
+}
+
+.move-left {
+  &> .inner-wrap {
+    transform: translate3d(-6.25rem, 0, 0);
+  }
 }
 
 /* Header styles */

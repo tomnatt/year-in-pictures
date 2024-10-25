@@ -1,6 +1,6 @@
 $(function() {
-  $(document).foundation();
-  $("a.right-off-canvas-toggle").on("click", function() {
+  $("a.year-menu-toggle").on("click", function() {
+    $(".page-wrap").toggleClass("move-left");
   });
 });
 
