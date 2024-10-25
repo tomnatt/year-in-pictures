@@ -59,7 +59,6 @@ $gutter-padding: 0 6.25rem;
   width: 100%;
   position: relative;
   transition: transform 500ms ease;
-  box-shadow: -4px 0 4px $border-fade, 4px 0 4px $border-fade;
 }
 
 .year-menu {
@@ -102,6 +101,7 @@ $gutter-padding: 0 6.25rem;
   }
 
   .year-menu-close {
+    box-shadow: -4px 0 4px $border-fade, 4px 0 4px $border-fade;
     cursor: pointer;
     transition: background 300ms ease;
     background: rgba(255, 255, 255, 0.2);
