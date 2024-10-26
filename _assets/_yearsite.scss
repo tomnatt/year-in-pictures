@@ -120,6 +120,7 @@ header {
   padding: $gutter-padding;
   h1 {
     font-size: 3.5rem;
+    margin-bottom: 1.5rem;
     a {
       @include header-format;
     }
@@ -156,8 +157,9 @@ section {
     font-size: 2.5rem;
     border-bottom: solid 1px $red;
     padding: $gutter-padding;
-    margin-bottom: .5rem;
-    margin-top: .2rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.2rem;
+    line-height: 1.4;
   }
   ul.polaroids {
     padding: $gutter-padding;
@@ -323,6 +325,7 @@ section {
         text-decoration: none;
         color: $grey;
         font-size: 18px;
+        line-height: 1.6;
         box-shadow: 0 3px 6px rgba(0,0,0,.25);
         transition-property: transform;
         transition-duration: 0.3s, 0.3s;
