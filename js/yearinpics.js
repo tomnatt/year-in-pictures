@@ -1,5 +1,5 @@
 $(function() {
-  $("a.year-menu-toggle, a.year-menu-close").on("click", function() {
+  $("a.year-menu-toggle, .year-menu-close").on("click", function() {
     $(".page-wrap").toggleClass("move-left");
   });
 });
