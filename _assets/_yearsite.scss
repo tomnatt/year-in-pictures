@@ -370,6 +370,15 @@ section {
 
   figure {
     padding: $gutter-padding;
+
+    img {
+      margin-bottom: 1.25rem;
+    }
+
+    figcaption {
+      color: $black;
+      line-height: 1.5;
+    }
   }
 }
 
