@@ -154,11 +154,12 @@ section {
   }
   h2 {
     @include header-format;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     border-bottom: solid 1px $red;
     padding: $gutter-padding;
     margin-bottom: 0.5rem;
-    margin-top: 0.2rem;
+    margin-top: 0;
+    padding-top: 0.2rem;
     line-height: 1.4;
   }
   ul.polaroids {
@@ -348,6 +349,27 @@ section {
         }
       }
     }
+  }
+
+  .date {
+    padding: $gutter-padding;
+    margin: 0 0 1.25rem;
+    line-height: 1.6;
+
+    a {
+      color: $black;
+      padding: 12px .9375rem;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+        background-color: $link-hover-colour;
+      }
+    }
+  }
+
+  figure {
+    padding: $gutter-padding;
   }
 }
 
