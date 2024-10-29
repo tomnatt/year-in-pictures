@@ -7,6 +7,8 @@ $polaroid-font-family: join("Permanent Marker", $body-font-family);
 
 // Define "large and up" media query - copied from Pure default (1024px)
 $large-up: "screen and (min-width: 64em)";
+$medium-up: "screen and (min-width: 48em)";
+$small-up: "screen and (min-width: 35.5em)";
 
 $black: #222;
 $white: #FFF;
@@ -19,9 +21,18 @@ $secondary-colour: $red;
 $link-hover-colour: $orange;
 $border-fade: $soft-grey;
 
-$gutter-padding: 0 6.25rem;
+$gutter-large-padding: 0 6.25rem;
+$gutter-small-padding: 0 1.25rem;
 
 /* Mixins */
+@mixin gutter-size {
+  padding: $gutter-small-padding;
+
+  @media #{$large-up} {
+    padding: $gutter-large-padding;
+  }
+}
+
 @mixin header-format {
   color: $primary-colour;
   font-family: $header-font-family;
@@ -117,7 +128,7 @@ $gutter-padding: 0 6.25rem;
 
 /* Header styles */
 header {
-  padding: $gutter-padding;
+  @include gutter-size;
   h1 {
     font-size: 3.5rem;
     margin-bottom: 1.5rem;
@@ -162,14 +173,14 @@ section {
     @include header-format;
     font-size: 2.3rem;
     border-bottom: solid 1px $red;
-    padding: $gutter-padding;
+    @include gutter-size;
     margin-bottom: 0.5rem;
     margin-top: 0;
     padding-top: 0.2rem;
     line-height: 1.4;
   }
   ul.polaroids {
-    padding: $gutter-padding;
+    @include gutter-size;
     margin-bottom: 0;
 
     // Polaroid effect
@@ -323,8 +334,11 @@ section {
       }
       a {
         background: $white;
-        margin: 0 0 27px 30px;
-        width: 190px;
+        margin: 0 0 27px 0;
+        width: 140px;
+        @media #{$medium-up} {
+          width: 190px;
+        }
         padding: 10px 10px 15px;
         float: left;
         text-align: center;
@@ -341,7 +355,10 @@ section {
 
         img {
           margin-bottom: 12px;
-          width: 190px
+          width: 140px;
+          @media #{$medium-up} {
+            width: 190px;
+          }
         }
 
         &:hover {
@@ -358,7 +375,7 @@ section {
   }
 
   .date {
-    padding: $gutter-padding;
+    @include gutter-size;
     padding-top: 2px;
     margin: 0 0 1.25rem;
     line-height: 1.6;
@@ -376,9 +393,12 @@ section {
   }
 
   figure {
-    padding: $gutter-padding;
+    @include gutter-size;
+    margin-left: 0;
+    margin-right: 0;
     img {
       margin-bottom: 1.25rem;
+      max-width: 100%;
     }
     figcaption {
       color: $black;
@@ -394,7 +414,11 @@ section {
   }
 
   nav.picture-nav {
-    text-align: center;
+    position: relative;
+    left: 13%;
+    @media #{$medium-up} {
+      left: 25%;
+    }
     padding-bottom: 1.2rem;
     li {
       margin-left: 1.375rem;
@@ -413,7 +437,7 @@ section {
 
 /* Footer styles */
 footer {
-  padding: $gutter-padding;
+  @include gutter-size;
   h6 {
     @include header-format;
     font-size: 1rem;
