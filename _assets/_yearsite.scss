@@ -72,21 +72,24 @@ $gutter-small-padding: 0 1.25rem;
   transition: transform 500ms ease;
 }
 
+.year-menu-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  margin-right: 1.25rem;
+  line-height: 1.5;
+
+  &:hover {
+    cursor: pointer;
+    color: $grey;
+  }
+}
+
 .year-menu {
   position: absolute;
   top: 0;
   right: 0;
-
-  .year-menu-toggle {
-    float: right;
-    margin-right: 1.25rem;
-    line-height: 1.5;
-
-    &:hover {
-      cursor: pointer;
-      color: $grey;
-    }
-  }
 
   aside {
     transform: translate3d(100%, 0, 0);
