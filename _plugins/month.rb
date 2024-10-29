@@ -19,7 +19,7 @@ class MonthMarkup < Liquid::Tag
       output += <<-SNIPPET
         <li class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
           <a title="placeholder" href="/photos/image-placeholder.html">
-            <img alt="placeholder" src="/images/thumbnails/image-placeholder.png">
+            <img loading="lazy" alt="placeholder" src="/images/thumbnails/image-placeholder.png">
           </a>
         </li>
       SNIPPET

@@ -28,7 +28,7 @@ class PictureMarkup < Liquid::Tag
 <<-SNIPPET
   <li class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
     <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
-      <img alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
+      <img loading="lazy" alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
     </a>
   </li>
 SNIPPET
