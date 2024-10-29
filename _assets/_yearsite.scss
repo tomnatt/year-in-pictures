@@ -127,12 +127,16 @@ header {
   }
   div.pure-menu-horizontal {
     margin-bottom: 0.625rem;
+
+    ul.pure-menu-list {
+      display: inline-flex;
+    }
   }
   a.pure-menu-link {
     font-family: $body-font-family;
     font-size: 1.3rem;
     color: $secondary-colour;
-    padding: 12px .9375rem;
+    padding: 12px 1.9375rem;
 
     &:hover {
       text-decoration: underline;
