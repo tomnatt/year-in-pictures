@@ -1,34 +1,17 @@
 $(function() {
 
   $("a.year-menu-toggle, .year-menu-close").on("click", function() {
-    $(".year-menu-toggle").attr("aria-expanded", function (i, attr) {
-      return attr == "true" ? "false" : "true"
-    });
-    $(".page-wrap").toggleClass("move-left");
+    toggleYearMenu();
   });
 
   $("a.year-menu-toggle, .year-menu-close").on("keypress", function(e) {
     if(e.key == "Enter") {
-      $(".year-menu-toggle").attr("aria-expanded", function (i, attr) {
-        return attr == "true" ? "false" : "true"
-      });
-      $(".page-wrap").toggleClass("move-left");
+      toggleYearMenu();
     }
   });
 
-  // $(".year-menu aside ul li a").on("focus", function() {
-  $(".year-menu-toggle").on("focus", function() {
-    $(".year-menu-toggle").attr("aria-expanded", function (i, attr) {
-      return attr == "true" ? "false" : "true"
-    });
-    $(".page-wrap").toggleClass("move-left");
-  });
-
-  $('[TabIndex="30"]').on("focus", function() {
-    $(".year-menu-toggle").attr("aria-expanded", function (i, attr) {
-      return attr == "true" ? "false" : "true"
-    });
-    $(".page-wrap").toggleClass("move-left");
+  $('.year-menu-toggle, [TabIndex="30"]').on("focus", function() {
+    toggleYearMenu();
   });
 
   $(".month-navigation ul li a").click(function() {
@@ -38,3 +21,10 @@ $(function() {
     },"1000");
   });
 });
+
+function toggleYearMenu() {
+  $(".year-menu-toggle").attr("aria-expanded", function (i, attr) {
+    return attr == "true" ? "false" : "true"
+  });
+  $(".page-wrap").toggleClass("move-left");
+}
