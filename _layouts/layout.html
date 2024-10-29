@@ -35,6 +35,7 @@
 
       <!-- Off Canvas Menu -->
       <a class="year-menu-toggle" tabindex="13" aria-expanded="false">Select year</a>
+      <span tabindex="30"></span>
       <div class="year-menu">
         <aside class="pure-menu">
           <ul class="pure-menu-list off-canvas-list">
@@ -53,7 +54,7 @@
       </div>
 
       <header class="pure-g">
-        <h1 class="pure-u-1"><a tabindex="30" href="/{{ page.index }}">{{ page.title }}</a></h1>
+        <h1 class="pure-u-1"><a href="/{{ page.index }}">{{ page.title }}</a></h1>
 
         {% if page.months == true %}
         <div class="month-navigation">

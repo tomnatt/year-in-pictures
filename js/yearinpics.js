@@ -10,7 +10,7 @@ $(function() {
     }
   });
 
-  $('.year-menu-toggle, [TabIndex="30"]').on("focus", function() {
+  $('.year-menu-toggle, [TabIndex="30"]').focus(function() {
     toggleYearMenu();
   });
 
