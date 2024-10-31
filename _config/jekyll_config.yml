@@ -6,3 +6,4 @@ sass:
 exclude:
   - 'bin'
   - 'lib'
+host: 0.0.0.0

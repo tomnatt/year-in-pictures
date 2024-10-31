@@ -3,19 +3,17 @@ Year in pictures
 
 Photos of the year.
 
-Built using an old version of Zurb Foundation.
+Built using [PureCSS](https://pure-css.github.io/) using Jekyll. Requires a Ruby environment with Bundler installed.
 
 Installation
 ------------
 
 1. Clone to your chosen directory
-1. `git submodule init`
-1. `git submodule update`
 1. `bundle install`
 1. `bundle exec rake serve`
 1. http://localhost:4000/
 
-SCSS files are in _assets. You can dig any required Foundation javascript files out of the foundation directory.
+SCSS files are in `_assets`.
 
 To actually build the site from the command line, run:
 
@@ -32,13 +30,3 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 1. Put a thumbnail in `images/thumbnails` (190px x 190px)
 1. Update `images/_data.yml`
 1. Add a corresponding `{picture}` in `index.html`
-
-## Updating Foundation
-
-Handling upgrades to git submodules using branches:
-
-http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag/18799234#18799234
-
-## Todo
-
-1. Update to Foundation 6
