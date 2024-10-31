@@ -1,17 +1,43 @@
 @import url(//fonts.googleapis.com/css?family=Oldenburg|Permanent+Marker|Ribeye+Marrow);
 
-@mixin spacing {
-  @media #{$small-only} {
-    // TODO
-  }
-  @media #{$medium-up} {
-    padding: 0 rem-calc(100);
+/* Variables */
+$body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$header-font-family: join("Ribeye Marrow", $body-font-family);
+$polaroid-font-family: join("Permanent Marker", $body-font-family);
+
+// Define "large and up" media query - copied from Pure default (1024px)
+$large-up: "screen and (min-width: 64em)";
+$medium-up: "screen and (min-width: 48em)";
+$small-up: "screen and (min-width: 35.5em)";
+
+$black: #222;
+$white: #FFF;
+$grey: #333;
+$soft-grey: #00000080;
+$red: #9A3521;
+$orange: #FFEFD2;
+$primary-colour: $black;
+$secondary-colour: $red;
+$link-hover-colour: $orange;
+$border-fade: $soft-grey;
+
+$gutter-large-padding: 0 6.25rem;
+$gutter-small-padding: 0 1.25rem;
+
+/* Mixins */
+@mixin gutter-size {
+  padding: $gutter-small-padding;
+
+  @media #{$large-up} {
+    padding: $gutter-large-padding;
   }
 }
 
-@mixin nav-link-hover {
-  text-decoration: underline;
-  background-color: $topbar-link-bg-hover;
+@mixin header-format {
+  color: $primary-colour;
+  font-family: $header-font-family;
+  font-weight: normal;
+  text-decoration: none;
 }
 
 @mixin polaroid-position($rot, $transX, $transY) {
@@ -28,277 +54,396 @@
   }
 }
 
-@mixin last-row {
-  @media #{$large-up} {
-    margin-bottom: -250px;
+/* Global styles */
+* {
+  font-family: $body-font-family;
+  text-rendering: optimizeLegibility;
+}
+
+/* Year menu styles */
+.page-wrap {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.inner-wrap {
+  width: 100%;
+  position: relative;
+  transition: transform 500ms ease;
+}
+
+.year-menu-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  margin-right: 1.25rem;
+  line-height: 1.5;
+
+  &:hover {
+    cursor: pointer;
+    color: $grey;
   }
 }
 
-section.right a.right-off-canvas-toggle { margin-right: rem-calc(20); }
+.year-menu {
+  position: absolute;
+  top: 0;
+  right: 0;
 
-.row {
+  aside {
+    transform: translate3d(100%, 0, 0);
 
-  h1 {
-    @include spacing;
-    margin: rem-calc(25) 0;
-  }
+    ul.off-canvas-list li a {
+      border-bottom: 1px solid $secondary-colour;
+      color: $secondary-colour;
+      display: block;
+      padding: 0.67rem;
+      line-height: 2.5;
+      transition: background 300ms ease;
 
-  nav {
-    @include spacing;
-    .month-navigation ul li a {
-      @media only screen and (max-width: 1140px) {
-        font-size: rem-calc(16);
-      }
-      @media only screen and (min-width: 620px) and (max-width: 990px) {
-        font-size: rem-calc(12);
-      }
       &:hover {
-        text-decoration: underline;
+        background-color: $link-hover-colour;
       }
     }
   }
+}
 
+.move-left {
+  &> .inner-wrap {
+    transform: translate3d(-6.25rem, 0, 0);
+  }
+
+  .year-menu-close {
+    box-shadow: -4px 0 4px $border-fade, 4px 0 4px $border-fade;
+    cursor: pointer;
+    transition: background 300ms ease;
+    background: rgba(255, 255, 255, 0.2);
+    bottom: 0;
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1002;
+  }
+}
+
+/* Header styles */
+header {
+  @include gutter-size;
+  h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1.5rem;
+    a {
+      @include header-format;
+    }
+  }
+  .month-navigation {
+    ul {
+      padding: 0;
+      margin: 0 0 0.6rem -1rem;
+    }
+
+    a {
+      font-family: $body-font-family;
+      font-size: 1.3rem;
+      color: $secondary-colour;
+      padding: 12px 1.9375rem;
+      line-height: 2.5;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+        background-color: $link-hover-colour;
+      }
+    }
+  }
+}
+
+/* Body and section styles */
+section {
   &.month, &.picture {
     background: url("/images/natural_paper.png") repeat scroll 0 0 #C2C2A3;
-    margin-bottom: rem-calc(10);
-    box-shadow: 0 10px 5px -5px #222;
+    margin-bottom: 0.6rem;
+    box-shadow: 0 10px 5px -5px $border-fade;
 
     &.future {
       opacity: 0.5;
     }
+  }
+  h2 {
+    @include header-format;
+    font-size: 2.3rem;
+    border-bottom: solid 1px $red;
+    @include gutter-size;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+    padding-top: 0.2rem;
+    line-height: 1.4;
+  }
+  ul.polaroids {
+    @include gutter-size;
+    margin-bottom: 0;
 
-    h2 {
-      @include spacing;
-      border-bottom: solid 1px #9a3521;
-    }
+    // Polaroid effect
+    li {
+      // Make a pile of polaroids
+      &:nth-child(1) {
+        @include polaroid-position(-7deg, 70px, 0);
+      }
+      &:nth-child(2) {
+        @include polaroid-position(2deg, 0, 0);
+      }
+      &:nth-child(3) {
+        @include polaroid-position(-22deg, -105px, 32px);
+        z-index: 2;
+      }
+      &:nth-child(4) {
+        @include polaroid-position(10deg, 100px, -50px);
+      }
+      &:nth-child(5) {
+        @include polaroid-position(-21deg, 0, -40px);
+        z-index: 2;
+      }
+      &:nth-child(6) {
+        @include polaroid-position(22deg, -70px, 25px);
+      }
+      &:nth-child(7) {
+        @include polaroid-position(-11deg, 100px, -50px);
+        z-index: 2;
+      }
+      &:nth-child(8) {
+        @include polaroid-position(5deg, -25px, -40px);
+      }
+      &:nth-child(9) {
+        @include polaroid-position(-22deg, -140px, 0px);
+        z-index: 2;
+      }
+      &:nth-child(10) {
+        @include polaroid-position(-34deg, 80px, -90px);
+      }
+      &:nth-child(11) {
+        @include polaroid-position(-16deg, -40px, -70px);
+        z-index: 2;
+      }
+      &:nth-child(12) {
+        @include polaroid-position(20deg, -130px, -10px);
+      }
+      &:nth-child(13) {
+        @include polaroid-position(-5deg, 90px, -130px);
+      }
+      &:nth-child(14) {
+        @include polaroid-position(17deg, -20px, -80px);
+        z-index: 2;
+      }
+      &:nth-child(15) {
+        @include polaroid-position(-5deg, -120px, -60px);
+      }
+      &:nth-child(16) {
+        @include polaroid-position(10deg, 100px, -175px);
+      }
+      &:nth-child(17) {
+        @include polaroid-position(-5deg, -40px, -100px);
+      }
+      &:nth-child(18) {
+        @include polaroid-position(25deg, -150px, -120px);
+      }
+      &:nth-child(19) {
+        @include polaroid-position(-13deg, 50px, -220px);
+      }
+      &:nth-child(20) {
+        @include polaroid-position(10deg, -100px, -170px);
+      }
+      &:nth-child(21) {
+        @include polaroid-position(-10deg, -235px, -185px);
+      }
+      &:nth-child(22) {
+        @include polaroid-position(5deg, 30px, -250px);
+      }
+      &:nth-child(23) {
+        @include polaroid-position(-10deg, -10px, -220px);
+      }
+      &:nth-child(24) {
+        @include polaroid-position(10deg, -110px, -180px);
+      }
+      &:nth-child(25) {
+        @include polaroid-position(-3deg, 50px, -290px);
+      }
+      &:nth-child(26) {
+        @include polaroid-position(7deg, -40px, -290px);
+      }
+      &:nth-child(27) {
+        @include polaroid-position(-4deg, -160px, -220px);
+      }
+      &:nth-child(28) {
+        @include polaroid-position(10deg, 0px, -350px);
+      }
+      &:nth-child(29) {
+        @include polaroid-position(-6deg, -120px, -330px);
+      }
+      &:nth-child(30) {
+        @include polaroid-position(-15deg, -160px, -265px);
+      }
+      &:nth-child(31) {
+        @include polaroid-position(-10deg, 0px, -350px);
+      }
+      &:nth-child(32) {
+        @include polaroid-position(-22deg, -100px, -325px);
+      }
+      &:nth-child(33) {
+        @include polaroid-position(4deg, -220px, -275px);
+      }
+      &:nth-child(34) {
+        @include polaroid-position(4deg, 220px, -430px);
+      }
+      &:nth-child(35) {
+        @include polaroid-position(1deg, 50px, -390px);
+      }
+      &:nth-child(36) {
+        @include polaroid-position(-14deg, -140px, -325px);
+      }
+      &:nth-child(37) {
+        @include polaroid-position(-13deg, -10px, -530px);
+      }
+      &:nth-child(38) {
+        @include polaroid-position(15deg, -160px, -455px);
+      }
+      &:nth-child(39) {
+        @include polaroid-position(-20deg, -305px, -400px);
+      }
+      &:nth-child(40) {
+        @include polaroid-position(5deg, 125px, -485px);
+      }
+      &:nth-child(41) {
+        @include polaroid-position(-25deg, 125px, -485px);
+      }
+      &:nth-child(42) {
+        @include polaroid-position(-4deg, 125px, -485px);
+      }
+      &:nth-child(43) {
+        @include polaroid-position(15deg, 125px, -485px);
+      }
+      &:nth-child(44) {
+        @include polaroid-position(-8deg, 125px, -485px);
+      }
+      &:nth-child(45) {
+        @include polaroid-position(-12deg, 125px, -485px);
+      }
 
-    div.images {
-      @include spacing;
-
-      ul.polaroids li {
-        &:nth-last-child(-n + 3) {
-          // @include last-row;
-        }
-
-        // make a pile of polaroids
-        &:nth-child(1) {
-          @include polaroid-position(-7deg, 70px, 0);
-        }
-        &:nth-child(2) {
-          @include polaroid-position(2deg, 0, 0);
-        }
-        &:nth-child(3) {
-          @include polaroid-position(-22deg, -105px, 32px);
-          z-index: 2;
-        }
-        &:nth-child(4) {
-          @include polaroid-position(10deg, 100px, -50px);
-        }
-        &:nth-child(5) {
-          @include polaroid-position(-21deg, 0, -40px);
-          z-index: 2;
-        }
-        &:nth-child(6) {
-          @include polaroid-position(22deg, -70px, 25px);
-        }
-        &:nth-child(7) {
-          @include polaroid-position(-11deg, 100px, -50px);
-          z-index: 2;
-        }
-        &:nth-child(8) {
-          @include polaroid-position(5deg, -25px, -40px);
-        }
-        &:nth-child(9) {
-          @include polaroid-position(-22deg, -140px, 0px);
-          z-index: 2;
-        }
-        &:nth-child(10) {
-          @include polaroid-position(-34deg, 80px, -90px);
-        }
-        &:nth-child(11) {
-          @include polaroid-position(-16deg, -40px, -70px);
-          z-index: 2;
-        }
-        &:nth-child(12) {
-          @include polaroid-position(20deg, -130px, -10px);
-        }
-        &:nth-child(13) {
-          @include polaroid-position(-5deg, 90px, -130px);
-        }
-        &:nth-child(14) {
-          @include polaroid-position(17deg, -20px, -80px);
-          z-index: 2;
-        }
-        &:nth-child(15) {
-          @include polaroid-position(-5deg, -120px, -60px);
-        }
-        &:nth-child(16) {
-          @include polaroid-position(10deg, 100px, -175px);
-        }
-        &:nth-child(17) {
-          @include polaroid-position(-5deg, -40px, -100px);
-        }
-        &:nth-child(18) {
-          @include polaroid-position(25deg, -150px, -120px);
-        }
-        &:nth-child(19) {
-          @include polaroid-position(-13deg, 50px, -220px);
-        }
-        &:nth-child(20) {
-          @include polaroid-position(10deg, -100px, -170px);
-        }
-        &:nth-child(21) {
-          @include polaroid-position(-10deg, -235px, -185px);
-        }
-        &:nth-child(22) {
-          @include polaroid-position(5deg, 30px, -250px);
-        }
-        &:nth-child(23) {
-          @include polaroid-position(-10deg, -10px, -220px);
-        }
-        &:nth-child(24) {
-          @include polaroid-position(10deg, -110px, -180px);
-        }
-        &:nth-child(25) {
-          @include polaroid-position(-3deg, 50px, -290px);
-        }
-        &:nth-child(26) {
-          @include polaroid-position(7deg, -40px, -290px);
-        }
-        &:nth-child(27) {
-          @include polaroid-position(-4deg, -160px, -220px);
-        }
-        &:nth-child(28) {
-          @include polaroid-position(10deg, 0px, -350px);
-        }
-        &:nth-child(29) {
-          @include polaroid-position(-6deg, -120px, -330px);
-        }
-        &:nth-child(30) {
-          @include polaroid-position(-15deg, -160px, -265px);
-        }
-        &:nth-child(31) {
-          @include polaroid-position(-10deg, 0px, -350px);
-        }
-        &:nth-child(32) {
-          @include polaroid-position(-22deg, -100px, -325px);
-        }
-        &:nth-child(33) {
-          @include polaroid-position(4deg, -220px, -275px);
-        }
-        &:nth-child(34) {
-          @include polaroid-position(4deg, 220px, -430px);
-        }
-        &:nth-child(35) {
-          @include polaroid-position(1deg, 50px, -390px);
-        }
-        &:nth-child(36) {
-          @include polaroid-position(-14deg, -140px, -325px);
-        }
-        &:nth-child(37) {
-          @include polaroid-position(-13deg, -10px, -530px);
-        }
-        &:nth-child(38) {
-          @include polaroid-position(15deg, -160px, -455px);
-        }
-        &:nth-child(39) {
-          @include polaroid-position(-20deg, -305px, -400px);
-        }
-        &:nth-child(40) {
-          @include polaroid-position(5deg, 125px, -485px);
-        }
-        &:nth-child(41) {
-          @include polaroid-position(-25deg, 125px, -485px);
-        }
-        &:nth-child(42) {
-          @include polaroid-position(-4deg, 125px, -485px);
-        }
-        &:nth-child(43) {
-          @include polaroid-position(15deg, 125px, -485px);
-        }
-        &:nth-child(44) {
-          @include polaroid-position(-8deg, 125px, -485px);
-        }
-        &:nth-child(45) {
-          @include polaroid-position(-12deg, 125px, -485px);
-        }
-
-
-        // style the pics
-        a:after {
-          content: attr(title);
-        }
-        a {
-          background: #fff;
-          margin: 0 0 27px 30px;
-          width: 210px;
-          padding: 10px 10px 15px;
-          display: inline;
-          float: left;
-          text-align: center;
-          font-family: join("Permanent Marker", $body-font-family);
-          text-decoration: none;
-          color: #333;
-          font-size: 18px;
-          box-shadow: 0 3px 6px rgba(0,0,0,.25);
-          transition-property: transform;
-          transition-duration: 0.3s, 0.3s;
-          -webkit-transition-property: -webkit-transform;
-          -webkit-transition-duration: 0.3s, 0.3s;
-
-          img {
-            display: block;
-            width: 190px;
-            margin-bottom: 12px;
-          }
-
-          &:hover {
-            transform: scale(1.25, 1.25);
-            -ms-transform: scale(1.25, 1.25);
-            -moz-transform: scale(1.25, 1.25);
-            -webkit-transform: scale(1.25, 1.25);
-            -o-transform: scale(1.25, 1.25);
-            position: relative;
-            z-index: 5;
-          }
-        }
-      } // ul.polaroids li
-    } // div.images
-
-    // full page image
-    .date {
-      @include spacing;
-
+      // style the pics
+      a:after {
+        content: attr(title);
+      }
       a {
-        padding: 10px 15px;
+        background: $white;
+        margin: 0 0 27px 0;
+        width: 140px;
+        @media #{$medium-up} {
+          width: 190px;
+        }
+        padding: 10px 10px 15px;
+        float: left;
+        text-align: center;
+        font-family: $polaroid-font-family;
+        text-decoration: none;
+        color: $grey;
+        font-size: 18px;
+        line-height: 1.6;
+        box-shadow: 0 3px 6px rgba(0,0,0,.25);
+        transition-property: transform;
+        transition-duration: 0.3s, 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        -webkit-transition-duration: 0.3s, 0.3s;
+
+        img {
+          margin-bottom: 12px;
+          width: 140px;
+          @media #{$medium-up} {
+            width: 190px;
+          }
+        }
+
         &:hover {
-          @include nav-link-hover;
+          transform: scale(1.25, 1.25);
+          -ms-transform: scale(1.25, 1.25);
+          -moz-transform: scale(1.25, 1.25);
+          -webkit-transform: scale(1.25, 1.25);
+          -o-transform: scale(1.25, 1.25);
+          position: relative;
+          z-index: 5;
         }
       }
     }
-    figure {
-      @include spacing;
+  }
 
-      img {
-        margin-bottom: rem-calc(20);
+  .date {
+    @include gutter-size;
+    padding-top: 2px;
+    margin: 0 0 1.25rem;
+    line-height: 1.6;
+
+    a {
+      color: $black;
+      padding: 12px .9375rem;
+      text-decoration: none;
+      transition: background 300ms ease;
+      &:hover {
+        text-decoration: underline;
+        background-color: $link-hover-colour;
       }
+    }
+  }
 
-      figcaption a {
-        color: $secondary-color;
+  figure {
+    @include gutter-size;
+    margin-left: 0;
+    margin-right: 0;
+    img {
+      margin-bottom: 1.25rem;
+      max-width: 100%;
+    }
+    figcaption {
+      color: $black;
+      line-height: 1.5;
+      a {
+        color: $secondary-colour;
+        text-decoration: none;
         &:hover {
           text-decoration: underline;
         }
       }
     }
-    nav ul li a {
-      padding: rem-calc(10);
-      &:hover {
-        @include nav-link-hover;
+  }
+
+  nav.picture-nav {
+    position: relative;
+    left: 13%;
+    @media #{$medium-up} {
+      left: 25%;
+    }
+    padding-bottom: 1.2rem;
+    li {
+      margin-left: 1.375rem;
+      a {
+        color: $black;
+        padding: 1rem;
+        transition: background 300ms ease;
+        &:hover {
+          text-decoration: underline;
+          background-color: $link-hover-colour;
+        }
       }
     }
-  } // &.month, &.picture
-} // .row
+  }
+}
 
+/* Footer styles */
 footer {
-  @include spacing;
+  @include gutter-size;
+  h6 {
+    @include header-format;
+    font-size: 1rem;
+    margin: 0.2rem 0 0.6rem;
+  }
 }
