@@ -181,6 +181,16 @@ section {
     margin-top: 0;
     padding-top: 0.2rem;
     line-height: 1.4;
+
+    a {
+      font-family: inherit;
+      color: inherit;
+      text-decoration: inherit;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
   ul.polaroids {
     @include gutter-size;
