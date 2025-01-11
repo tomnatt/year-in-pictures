@@ -337,6 +337,15 @@ section {
       &:nth-child(45) {
         @include polaroid-position(-12deg, 125px, -485px);
       }
+      &:nth-child(46) {
+        @include polaroid-position(-3deg, 125px, -485px);
+      }
+      &:nth-child(47) {
+        @include polaroid-position(15deg, 125px, -485px);
+      }
+      &:nth-child(48) {
+        @include polaroid-position(-7deg, 125px, -485px);
+      }
 
       // style the pics
       a:after {
