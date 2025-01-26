@@ -41,7 +41,10 @@ module ImagePages
     def year_specific_data(year)
       data = { 'year' => year }
 
-      if year == '2024'
+      if year == '2025'
+        data['title'] = 'Year of the Snake'
+        data['index'] = ''
+      elsif year == '2024'
         data['title'] = 'Year of the Dragon'
         data['index'] = ''
       elsif year == '2023'
@@ -121,7 +124,7 @@ module ImagePages
       omit_list = ['natural_paper.png']
 
       # iterate through all files in the directory
-      ['', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024'].each do |year|
+      ['', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'].each do |year|
         # Load YAML data once per year
         yaml_data = YearData.instance.year(year)
 
