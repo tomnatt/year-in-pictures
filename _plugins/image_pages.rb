@@ -106,15 +106,29 @@ module ImagePages
       photographer_name
     end
 
+    def get_month_picture(index, picture_data, offset)
+      # Get current month from the current picture
+      current_month = picture_data[index]['month']
+
+      # Filter pictures to only those in the same month
+      month_pictures = picture_data.select { |pic| pic['month'] == current_month }
+
+      # Find current index within month's pictures
+      month_index = month_pictures.find_index { |pic| pic['image'] == picture_data[index]['image'] }
+
+      # Get adjacent picture in month (with wrapping)
+      adjacent_index = (month_index + offset) % month_pictures.length
+
+      # Return the filename
+      get_generated_pagename(month_pictures[adjacent_index]['image'])
+    end
+
     def next_picture(index, picture_data)
-      # 'next' is 0 if we've hit the end of the data array
-      index = (index + 1 < picture_data.length ? index + 1 : 0)
-      get_generated_pagename(picture_data[index]['image'])
+      get_month_picture(index, picture_data, 1)
     end
 
     def previous_picture(index, picture_data)
-      # array will wrap automatically
-      get_generated_pagename(picture_data[index - 1]['image'])
+      get_month_picture(index, picture_data, -1)
     end
   end
 
