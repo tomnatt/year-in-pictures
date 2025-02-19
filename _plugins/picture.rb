@@ -7,7 +7,7 @@ class PictureMarkup < Liquid::Tag
     super
     params = text.split(' ')
     @image = params[0]
-    @year = (params[1] ? params[1] : '2024')
+    @year = (params[1] ? params[1] : '2025')
 
     # read the config from a yml file
     index = nil

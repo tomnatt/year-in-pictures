@@ -1,9 +1,13 @@
-exclude: [Gemfile, Gemfile.lock, Rakefile, README.md, vendor]
 permalink: /:year/:month/:day/:title
 sass:
   style: compressed
   sass_dir: _assets
 exclude:
   - 'bin'
+  - 'Gemfile'
+  - 'Gemfile.lock'
   - 'lib'
+  - 'Rakefile'
+  - 'README.md'
+  - 'vendor'
 # host: 0.0.0.0
