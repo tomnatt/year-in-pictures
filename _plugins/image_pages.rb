@@ -1,6 +1,9 @@
+# frozen_string_literal: true
+
 require './lib/year_data'
 
 module ImagePages
+  # Generate individual image page, each instance called by iterator in ImagePageGenerator
   class ImagePage < Jekyll::Page
     # An image page
     def initialize(site, base, dir, filename, yaml_data, year)
@@ -35,43 +38,44 @@ module ImagePages
     end
 
     def get_generated_pagename(filename)
-      File.basename(filename, File.extname(filename)) + '.html'
+      "#{File.basename(filename, File.extname(filename))}.html"
     end
 
     def year_specific_data(year)
       data = { 'year' => year }
 
-      if year == '2025'
+      case year
+      when '2025'
         data['title'] = 'Year of the Snake'
         data['index'] = ''
-      elsif year == '2024'
+      when '2024'
         data['title'] = 'Year of the Dragon'
         data['index'] = ''
-      elsif year == '2023'
+      when '2023'
         data['title'] = 'Year of the Rabbit'
         data['index'] = '2023.html'
-      elsif year == '2022'
+      when '2022'
         data['title'] = 'Year of the Tiger'
         data['index'] = '2022.html'
-      elsif year == '2021'
+      when '2021'
         data['title'] = 'Year of the Ox'
         data['index'] = '2021.html'
-      elsif year == '2020'
+      when '2020'
         data['title'] = 'Year of the Rat'
         data['index'] = '2020.html'
-      elsif year == '2019'
+      when '2019'
         data['title'] = 'Year of the Pig'
         data['index'] = '2019.html'
-      elsif year == '2018'
+      when '2018'
         data['title'] = 'Year of the Dog'
         data['index'] = '2018.html'
-      elsif year == '2017'
+      when '2017'
         data['title'] = 'Year of the Rooster'
         data['index'] = '2017.html'
-      elsif year == '2016'
+      when '2016'
         data['title'] = 'Year of the Monkey'
         data['index'] = '2016.html'
-      elsif year == '2015'
+      when '2015'
         data['title'] = 'Year of the Sheep'
         data['index'] = '2015.html'
       else
@@ -93,29 +97,28 @@ module ImagePages
     def get_photographer_name(filename)
       filename =~ /\d*-(.+)\..+/i
       # Capitalize for multiple people
-      photographer_name = $1.split('-').map(&:capitalize).join(' and ')
+      photographer_name = Regexp.last_match(1).split('-').map(&:capitalize).join(' and ')
 
       # Capitalize for single person with a surname
       # Will be wrong for multiple people with surnames
-      if photographer_name.include?('_')
-        photographer_name = photographer_name.split('_').map(&:capitalize).join(' ')
-      end
+      photographer_name = photographer_name.split('_').map(&:capitalize).join(' ') if photographer_name.include?('_')
 
       photographer_name
     end
 
-    def next_picture(i, picture_data)
+    def next_picture(index, picture_data)
       # 'next' is 0 if we've hit the end of the data array
-      i = (i + 1 < picture_data.length ? i + 1 : 0)
-      get_generated_pagename(picture_data[i]['image'])
+      index = (index + 1 < picture_data.length ? index + 1 : 0)
+      get_generated_pagename(picture_data[index]['image'])
     end
 
-    def previous_picture(i, picture_data)
+    def previous_picture(index, picture_data)
       # array will wrap automatically
-      get_generated_pagename(picture_data[i - 1]['image'])
+      get_generated_pagename(picture_data[index - 1]['image'])
     end
   end
 
+  # Iterate over all image files and generate page per image
   class ImagePageGenerator < Jekyll::Generator
     safe true
 
@@ -129,14 +132,10 @@ module ImagePages
         yaml_data = YearData.instance.year(year)
 
         Dir.foreach(File.join('images', year)) do |file|
-          # only process image files
-          if file =~ /.jpg/ || file =~ /.png/
-            # omit listed pictures
-            unless omit_list.include?(file)
-
-              new_page = ImagePage.new(site, Dir.pwd, File.join('photos', year), file, yaml_data, year)
-              site.pages << new_page
-            end
+          # only process image files and omit listed pictures
+          if (file =~ /.jpg/ || file =~ /.png/) && !omit_list.include?(file)
+            new_page = ImagePage.new(site, Dir.pwd, File.join('photos', year), file, yaml_data, year)
+            site.pages << new_page
           end
         end
       end
