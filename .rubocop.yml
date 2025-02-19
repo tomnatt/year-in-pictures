@@ -1,0 +1,29 @@
+plugins: rubocop-rake
+
+AllCops:
+  NewCops: enable
+
+Layout/HashAlignment:
+  EnforcedColonStyle: table
+
+Layout/LineLength:
+  Max: 120
+
+Lint/MissingSuper:
+  Exclude:
+    - '_plugins/*'
+
+Metrics/MethodLength:
+  Max: 12
+
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/SymbolArray:
+  EnforcedStyle: brackets
