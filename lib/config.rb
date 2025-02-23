@@ -12,7 +12,11 @@ class Config
     2025
   end
 
-  def self.source_files
-    (first_year..latest_year).map { |year| "images/#{year}/_data.yml" }
+  def self.year_range
+    (first_year..latest_year)
+  end
+
+  def self.source_file_from_year(year)
+    "images/#{year}/_data.yml"
   end
 end

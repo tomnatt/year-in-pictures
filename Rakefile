@@ -38,7 +38,12 @@ task :db_delete do
   DbControl.delete
 end
 
-desc 'Add pictures to database'
+desc 'Add all pictures to database'
+task :db_add_all_pictures do
+  DbControl.add_all_pictures
+end
+
+desc 'Update pictures from latest year'
 task :db_update do
-  DbControl.add_pictures
+  DbControl.update
 end
