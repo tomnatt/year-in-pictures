@@ -7,9 +7,14 @@ gem 'jekyll-sass-converter', '~> 2.1'
 gem 'mina'
 gem 'rake'
 gem 'rb-readline'
+gem 'webrick'
+
+# SQLite implementation
+gem 'sqlite3'
+
+# Rubocop
 gem 'rubocop'
 gem 'rubocop-rake'
-gem 'webrick'
 
 # Added for new versions of Ruby
 gem 'bigdecimal'
