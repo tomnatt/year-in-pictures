@@ -3,7 +3,9 @@ source 'https://rubygems.org'
 ruby File.read('.ruby-version').strip
 
 gem 'jekyll'
+gem 'jekyll-datapage-generator'
 gem 'jekyll-sass-converter', '~> 2.1'
+gem 'jekyll-sqlite'
 gem 'mina'
 gem 'rake'
 gem 'rb-readline'

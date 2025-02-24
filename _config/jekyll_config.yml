@@ -1,4 +1,108 @@
 permalink: /:year/:month/:day/:title
+plugins:
+  - jekyll_sqlite
+  - jekyll-datapage-generator
+sqlite:
+  - data: pictures-2015
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2015;
+  - data: pictures-2016
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2016;
+  - data: pictures-2017
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2017;
+  - data: pictures-2018
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2018;
+  - data: pictures-2019
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2019;
+  - data: pictures-2020
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2020;
+  - data: pictures-2021
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2021;
+  - data: pictures-2022
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2022;
+  - data: pictures-2023
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2023;
+  - data: pictures-2024
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2024;
+  - data: pictures-2025
+    file: _db/yip.db
+    query: SELECT * FROM pictures WHERE year=2025;
+page_gen:
+  - data: pictures-2015
+    page_data_prefix: pictures
+    dir: pics/2015
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2016
+    page_data_prefix: pictures
+    dir: pics/2016
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2017
+    page_data_prefix: pictures
+    dir: pics/2017
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2018
+    page_data_prefix: pictures
+    dir: pics/2018
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2019
+    page_data_prefix: pictures
+    dir: pics/2019
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2020
+    page_data_prefix: pictures
+    dir: pics/2020
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2021
+    page_data_prefix: pictures
+    dir: pics/2021
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2022
+    page_data_prefix: pictures
+    dir: pics/2022
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2023
+    page_data_prefix: pictures
+    dir: pics/2023
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2024
+    page_data_prefix: pictures
+    dir: pics/2024
+    template: picture-db
+    name: filename
+    debug: true
+  - data: pictures-2025
+    page_data_prefix: pictures
+    dir: pics/2025
+    template: picture-db
+    name: filename
+    debug: true
 sass:
   style: compressed
   sass_dir: _assets
@@ -6,7 +110,6 @@ exclude:
   - 'bin'
   - 'Gemfile'
   - 'Gemfile.lock'
-  - 'lib'
   - 'Rakefile'
   - 'README.md'
   - 'vendor'
