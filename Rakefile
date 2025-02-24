@@ -1,5 +1,5 @@
 require 'jekyll'
-require_relative 'lib/db_control'
+require_relative '_lib/db_control'
 
 task :default do
   Rake::Task['build'].invoke

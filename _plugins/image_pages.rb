@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require './lib/year_data'
+require './_lib/year_data'
 
 module ImagePages
   # Generate individual image page, each instance called by iterator in ImagePageGenerator

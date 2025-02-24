@@ -1,4 +1,4 @@
-require './lib/year_data'
+require './_lib/year_data'
 
 class PictureMarkup < Liquid::Tag
   require 'yaml'

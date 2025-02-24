@@ -1,6 +1,6 @@
 class Config
   def self.database_path
-    'db/yip.db'
+    '_db/yip.db'
   end
 
   # TODO: This type of config should be YAML?
