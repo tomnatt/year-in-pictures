@@ -4,6 +4,9 @@ plugins:
   - jekyll-datapage-generator
 
 sqlite:
+  - data: pictures-unknown
+    file: _db/yip.db
+    query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year WHERE pictures.year=0;
   - data: pictures-2015
     file: _db/yip.db
     query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year WHERE pictures.year=2015;
@@ -39,6 +42,11 @@ sqlite:
     query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year WHERE pictures.year=2025;
 
 page_gen:
+  - data: pictures-unknown
+    page_data_prefix: pictures
+    dir: photos
+    template: picture
+    name: filename
   - data: pictures-2015
     page_data_prefix: pictures
     dir: photos/2015

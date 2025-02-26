@@ -8,7 +8,11 @@ layout: layout
     <a href="/{{ page.pictures.homepage }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
   </p>
   <figure>
-    <img src="/images/{{ page.pictures.year}}/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
+    {% if page.pictures.year == 0 %}
+    <img src="/images/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
+    {% else %}
+    <img src="/images/{{ page.pictures.year }}/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
+    {% endif %}
     <figcaption>{{ page.pictures.description }}</figcaption>
   </figure>
 

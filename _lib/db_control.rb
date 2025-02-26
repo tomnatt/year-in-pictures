@@ -9,6 +9,11 @@ class DbControl
     db.execute Picture.create_table_sql
     db.execute Year.create_table_sql
 
+    # Add Unknown pic
+    pic_data = YAML.load_file(Config.unknown_pic_path).first
+    pic = Picture.new(pic_data, 0, '', '')
+    db.execute(pic.insert_sql, pic.values)
+
     # Populate years
     years_data = YAML.load_file(Config.years_path)
     years_data.each do |year_data|

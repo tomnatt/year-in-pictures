@@ -7,6 +7,10 @@ class Config
     '_config/years.yml'
   end
 
+  def self.unknown_pic_path
+    '_config/unknown_pic.yml'
+  end
+
   # TODO: This type of config should be YAML?
   def self.first_year
     2015
