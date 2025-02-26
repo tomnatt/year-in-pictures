@@ -9,17 +9,9 @@ class DbControl
     db.execute Picture.create_table_sql
     db.execute Year.create_table_sql
 
-    # Add Unknown pic
-    pic_data = YAML.load_file(Config.unknown_pic_path).first
-    pic = Picture.new(pic_data, 0, '', '')
-    db.execute(pic.insert_sql, pic.values)
-
-    # Populate years
-    years_data = YAML.load_file(Config.years_path)
-    years_data.each do |year_data|
-      year = Year.new(year_data)
-      db.execute(year.insert_sql, year.values)
-    end
+    # Add setup data
+    add_years
+    add_unknown_pic
   end
 
   def self.delete
@@ -33,6 +25,24 @@ class DbControl
   def self.update
     # Eg range 2025 -> 2025
     add_pictures(Config.latest_year..Config.latest_year)
+  end
+
+  def self.add_years
+    db = SQLite3::Database.open Config.database_path
+
+    years_data = YAML.load_file(Config.years_path)
+    years_data.each do |year_data|
+      year = Year.new(year_data)
+      db.execute(year.insert_sql, year.values)
+    end
+  end
+
+  def self.add_unknown_pic
+    db = SQLite3::Database.open Config.database_path
+
+    pic_data = YAML.load_file(Config.unknown_pic_path).first
+    pic = Picture.new(pic_data, 0, '', '')
+    db.execute(pic.insert_sql, pic.values)
   end
 
   # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
