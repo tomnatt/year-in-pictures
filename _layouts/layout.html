@@ -3,9 +3,14 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="keywords" content="pictures photos"/>
-  <meta name="description" content="Photos from {{ page.year }}"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.pictures.zodiac %}
+  <meta name="description" content="Photos from {{ page.pictures.year }}"/>
+  <title>{{ page.pictures.zodiac }}</title>
+  {% else %}
+  <meta name="description" content="Photos from {{ page.year }}"/>
   <title>{{ page.title }}</title>
+  {% endif %}
   <link rel="stylesheet" media="screen" type="text/css" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" title="Default" />
   <link rel="stylesheet" media="screen" type="text/css" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css" title="Default" />
   <link rel="stylesheet" media="screen" type="text/css" href="/css/yearinpics.css" title="Default" />
@@ -57,7 +62,11 @@
       </div>
 
       <header class="pure-g">
+        {% if page.pictures.zodiac %}
         <h1 class="pure-u-1"><a href="/{{ page.pictures.homepage }}">{{ page.pictures.zodiac }}</a></h1>
+        {% else %}
+        <h1 class="pure-u-1"><a href="/{{ page.index }}">{{ page.title }}</a></h1>
+        {% endif %}
 
         {% if page.months == true %}
         <div class="month-navigation">

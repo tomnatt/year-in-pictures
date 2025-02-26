@@ -2,6 +2,7 @@ permalink: /:year/:month/:day/:title
 plugins:
   - jekyll_sqlite
   - jekyll-datapage-generator
+
 sqlite:
   - data: pictures-2015
     file: _db/yip.db
@@ -36,73 +37,63 @@ sqlite:
   - data: pictures-2025
     file: _db/yip.db
     query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year WHERE pictures.year=2025;
+
 page_gen:
   - data: pictures-2015
     page_data_prefix: pictures
-    dir: pics/2015
-    template: picture-db
+    dir: photos/2015
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2016
     page_data_prefix: pictures
-    dir: pics/2016
-    template: picture-db
+    dir: photos/2016
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2017
     page_data_prefix: pictures
-    dir: pics/2017
-    template: picture-db
+    dir: photos/2017
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2018
     page_data_prefix: pictures
-    dir: pics/2018
-    template: picture-db
+    dir: photos/2018
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2019
     page_data_prefix: pictures
-    dir: pics/2019
-    template: picture-db
+    dir: photos/2019
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2020
     page_data_prefix: pictures
-    dir: pics/2020
-    template: picture-db
+    dir: photos/2020
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2021
     page_data_prefix: pictures
-    dir: pics/2021
-    template: picture-db
+    dir: photos/2021
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2022
     page_data_prefix: pictures
-    dir: pics/2022
-    template: picture-db
+    dir: photos/2022
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2023
     page_data_prefix: pictures
-    dir: pics/2023
-    template: picture-db
+    dir: photos/2023
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2024
     page_data_prefix: pictures
-    dir: pics/2024
-    template: picture-db
+    dir: photos/2024
+    template: picture
     name: filename
-    debug: true
   - data: pictures-2025
     page_data_prefix: pictures
-    dir: pics/2025
-    template: picture-db
+    dir: photos/2025
+    template: picture
     name: filename
-    debug: true
 sass:
   style: compressed
   sass_dir: _assets
