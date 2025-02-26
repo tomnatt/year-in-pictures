@@ -4,6 +4,9 @@ plugins:
   - jekyll-datapage-generator
 
 sqlite:
+  - data: years
+    file: _db/yip.db
+    query: SELECT year, homepage FROM years WHERE year !=0 ORDER BY year ASC;
   - data: pictures-unknown
     file: _db/yip.db
     query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year WHERE pictures.year=0;
