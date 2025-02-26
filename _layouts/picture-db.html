@@ -5,7 +5,7 @@ layout: layout
 <section class="picture">
   <h2>{{ page.pictures.title }}</h2>
   <p class="date">
-    <a href="/{{ page.index }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
+    <a href="/{{ page.pictures.homepage }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
   </p>
   <figure>
     <img src="/images/{{ page.pictures.year}}/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />

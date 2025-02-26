@@ -68,11 +68,12 @@ class Picture
         description TEXT,
         alt TEXT,
         month TEXT,
-        year INT,
+        year INT NOT NULL,
         photographer TEXT,
         prev TEXT,
         next TEXT,
-        unique_name TEXT UNIQUE
+        unique_name TEXT UNIQUE,
+        FOREIGN KEY (year) REFERENCES years (year)
       );
     SQL
   end

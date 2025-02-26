@@ -3,6 +3,10 @@ class Config
     '_db/yip.db'
   end
 
+  def self.years_path
+    '_config/years.yml'
+  end
+
   # TODO: This type of config should be YAML?
   def self.first_year
     2015

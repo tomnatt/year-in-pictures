@@ -1,11 +1,20 @@
 require 'sqlite3'
 require_relative 'config'
 require_relative 'picture'
+require_relative 'year'
 
 class DbControl
   def self.create
     db = SQLite3::Database.new Config.database_path unless File.exist? Config.database_path
     db.execute Picture.create_table_sql
+    db.execute Year.create_table_sql
+
+    # Populate years
+    years_data = YAML.load_file(Config.years_path)
+    years_data.each do |year_data|
+      year = Year.new(year_data)
+      db.execute(year.insert_sql, year.values)
+    end
   end
 
   def self.delete
