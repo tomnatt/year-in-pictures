@@ -1,7 +1,5 @@
 class Picture
-  attr_reader :filename, :image_filename, :title, :caption, :description, :alt, :month, :year, :photographer
-
-  def initialize(data, year)
+  def initialize(data, year, next_pic, prev_pic)
     @image_filename = data['image']
     @title = data['image_title']
     @caption = data['caption']
@@ -9,6 +7,8 @@ class Picture
     @alt = data['alt']
     @month = data['month']
     @year = year
+    @next = next_pic
+    @prev = prev_pic
 
     # Calculated values
     @filename = generate_pagename
@@ -32,6 +32,7 @@ class Picture
   end
 
   # Add new or overwrite if already present
+  # rubocop:disable Metrics/MethodLength
   def insert_sql
     'INSERT OR REPLACE INTO pictures (filename,
                                       image_filename,
@@ -42,13 +43,18 @@ class Picture
                                       month,
                                       year,
                                       photographer,
+                                      prev,
+                                      next,
                                       unique_name)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
   end
+  # rubocop:enable Metrics/MethodLength
 
   def values
     unique_name = "#{@filename}#{@month}#{@year}"
-    [@filename, @image_filename, @image_title, @caption, @description, @alt, @month, @year, @photographer, unique_name]
+    [@filename, @image_filename, @title, @caption, @description,
+     @alt, @month, @year, @photographer, @prev,
+     @next, unique_name]
   end
 
   # Create picture table - unique_name is to give a unique identifier
@@ -64,6 +70,8 @@ class Picture
         month TEXT,
         year INT,
         photographer TEXT,
+        prev TEXT,
+        next TEXT,
         unique_name TEXT UNIQUE
       );
     SQL

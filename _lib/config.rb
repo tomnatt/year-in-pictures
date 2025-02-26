@@ -19,4 +19,8 @@ class Config
   def self.source_file_from_year(year)
     "images/#{year}/_data.yml"
   end
+
+  def self.get_generated_pagename(filename)
+    "#{File.basename(filename, File.extname(filename))}.html"
+  end
 end

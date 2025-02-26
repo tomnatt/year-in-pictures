@@ -3,7 +3,7 @@ layout: layout
 ---
 
 <section class="picture">
-  <h2>{{ page.pictures.caption }}</h2>
+  <h2>{{ page.pictures.title }}</h2>
   <p class="date">
     <a href="/{{ page.index }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
   </p>
@@ -14,7 +14,7 @@ layout: layout
 
   <nav class="picture-nav pure-menu pure-menu-horizontal">
     <ul class="pure-menu-list">
-      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.previous }}">&lt; Previous</a></li>
+      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.prev }}">&lt; Previous</a></li>
       <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.next }}">Next &gt;</a></li>
     </ul>
   </nav>
