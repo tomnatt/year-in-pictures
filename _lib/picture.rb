@@ -77,4 +77,9 @@ class Picture
       );
     SQL
   end
+
+  # SQL to get a picture from image filename and year
+  def self.get_picture_sql_image_year(image_filename, year)
+    "select filename, caption, alt from pictures where image_filename='#{image_filename}' and year=#{year};"
+  end
 end

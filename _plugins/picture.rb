@@ -1,37 +1,28 @@
-require './_lib/year_data'
+require './_lib/db_control'
 
 class PictureMarkup < Liquid::Tag
-  require 'yaml'
-
   def initialize(tag_name, text, tokens)
     super
-    params = text.split(' ')
+    params = text.split
     @image = params[0]
-    @year = (params[1] ? params[1] : '2025')
+    @year = params[1] || Time.now.year
 
-    # read the config from a yml file
-    index = nil
-    data = YearData.instance.year(@year)
-    data.each_with_index do |pic, i|
-      if pic['image'] == @image
-        index = i
-        break
-      end
-    end
+    # Get the picture details
+    pic = DbControl.get_picture(@image, @year)
 
-    @link = File.basename(@image, File.extname(@image)) + '.html'
-    @caption = data[index]['caption']
-    @alt = data[index]['alt']
+    @link = pic[0]
+    @caption = pic[1]
+    @alt = pic[2]
   end
 
   def render(_context)
-<<-SNIPPET
+    <<-SNIPPET
   <li class="pure-u-1-2 pure-u-sm-1-2 pure-u-lg-1-3">
     <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
       <img loading="lazy" alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
     </a>
   </li>
-SNIPPET
+    SNIPPET
   end
 
   Liquid::Template.register_tag 'picture', self
