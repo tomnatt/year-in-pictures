@@ -75,10 +75,8 @@ class DbControl
   end
   # rubocop:enable Metrics/AbcSize, Metrics/MethodLength
 
-  def self.get_picture(image_filename, year)
+  def self.get_month_pictures(month, year)
     db = SQLite3::Database.open Config.database_path
-
-    # Should only be one response so just get first
-    db.execute(Picture.get_picture_sql_image_year(image_filename, year)).first
+    db.execute(Picture.get_all_by_month(month, year))
   end
 end

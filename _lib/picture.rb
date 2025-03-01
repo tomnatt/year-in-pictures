@@ -78,8 +78,9 @@ class Picture
     SQL
   end
 
-  # SQL to get a picture from image filename and year
-  def self.get_picture_sql_image_year(image_filename, year)
-    "select filename, caption, alt from pictures where image_filename='#{image_filename}' and year=#{year};"
+  # SQL to get all pictures for a given month and year
+  def self.get_all_by_month(month, year)
+    "SELECT filename, image_filename, caption, alt FROM pictures
+     WHERE month='#{month}' and year=#{year} ORDER BY filename ASC;"
   end
 end
