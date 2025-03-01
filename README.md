@@ -35,7 +35,6 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 1. Move `index.html` to `year.hml` (and commit)
 1. Add new `index.html` file set up with new year
-   * Make sure new list adds / removes photographers!
 1. Create new `year/thumbnails` directory in `/images/`
 1. Create `_data.yml` in `/images/year/` and remember to put `pictures:` at the top
 1. Add new year sql query and data blocks in `_config/jekyll_config.yml`
