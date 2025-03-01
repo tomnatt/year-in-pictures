@@ -38,6 +38,7 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
    * Make sure new list adds / removes photographers!
 1. Create new `year/thumbnails` directory in `/images/`
 1. Create `_data.yml` in `/images/year/` and remember to put `pictures:` at the top
-1. Update side nav in `_layouts/layout.html`
-1. Update year if / else and year array in `_plugins/image_pages.rb`
+1. Add new year sql query and data blocks in `_config/jekyll_config.yml`
+1. Update new year in `_config/years.yml`
+1. Update new year in `_lib/config.rb`
 1. Add January photos as normal
