@@ -1,3 +1,5 @@
+require_relative 'year'
+
 class Config
   def self.database_path
     '_db/yip.db'
@@ -11,17 +13,8 @@ class Config
     '_config/unknown_pic.yml'
   end
 
-  # TODO: This type of config should be YAML?
-  def self.first_year
-    2015
-  end
-
-  def self.latest_year
-    2025
-  end
-
   def self.year_range
-    (first_year..latest_year)
+    (Year.first_year..Year.last_year)
   end
 
   def self.source_file_from_year(year)
@@ -30,5 +23,9 @@ class Config
 
   def self.get_generated_pagename(filename)
     "#{File.basename(filename, File.extname(filename))}.html"
+  end
+
+  def self.yaml_url(year)
+    "https://year-in-pictures-helper.koyeb.app/year/#{year}?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
   end
 end

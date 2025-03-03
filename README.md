@@ -33,11 +33,10 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## New year updates
 
-1. Move `index.html` to `year.hml` (and commit)
+1. Move `index.html` to `year.html` (and commit)
 1. Add new `index.html` file set up with new year
 1. Create new `year/thumbnails` directory in `/images/`
 1. Create `_data.yml` in `/images/year/` and remember to put `pictures:` at the top
 1. Add new year data block in `_config/jekyll_config.yml`
 1. Update new year in `_config/years.yml`
-1. Update new year in `_lib/config.rb`
 1. Add January photos as normal
