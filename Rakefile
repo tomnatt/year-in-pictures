@@ -53,11 +53,14 @@ end
 desc 'Update pictures'
 
 desc 'Download all picture data files'
-task :files_download_all do
+task :yaml_download_all do
   FileControl.download_all
 end
 
 desc 'Download latest picture data file'
+task :yaml_update do
+  FileControl.download_latest
+end
 
 # Site integrity checks
 desc 'Check all assets'
