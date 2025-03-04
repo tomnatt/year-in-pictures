@@ -22,4 +22,30 @@ class FileControl
     # Save to disk
     File.write(Config.source_file_from_year_path(year), yaml_content)
   end
+
+  def self.copy_pictures
+    copy_main_pics
+    copy_thumbnails
+    optimise_thumbnails
+  end
+
+  def self.copy_main_pics
+    pics = Dir["#{Config.image_source_directory(Config.last_month)}/*.jpg"]
+    pics.each do |pic|
+      FileUtils.cp(pic, Config.image_directory(Config.last_month))
+    end
+  end
+
+  def self.copy_thumbnails
+    pics = Dir["#{Config.thumbnails_source_directory(Config.last_month)}/*.jpg"]
+    pics.each do |pic|
+      FileUtils.cp(pic, Config.thumbnails_directory(Config.last_month))
+    end
+  end
+
+  def self.optimise_thumbnails
+    # Optimise the thumbnails with a command line script
+    optimise_command = "jpegoptim -sq #{Config.thumbnails_directory(Config.last_month)}/*.jpg"
+    system(optimise_command)
+  end
 end

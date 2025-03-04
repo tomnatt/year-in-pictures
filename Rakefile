@@ -50,7 +50,10 @@ task :db_update do
 end
 
 # File management tasks
-desc 'Update pictures'
+desc 'Copy pictures'
+task :copy_pictures do
+  FileControl.copy_pictures
+end
 
 desc 'Download all picture data files'
 task :yaml_download_all do
