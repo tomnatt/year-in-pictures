@@ -24,7 +24,7 @@ class DbControl
 
   def self.update
     # Eg range 2025 -> 2025
-    add_pictures(Config.latest_year..Config.latest_year)
+    add_pictures(Year.last_year..Year.last_year)
   end
 
   def self.add_years
