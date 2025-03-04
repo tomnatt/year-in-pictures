@@ -1,5 +1,6 @@
 require 'jekyll'
 require_relative '_lib/db_control'
+require_relative '_lib/file_control'
 
 task :default do
   Rake::Task['build'].invoke
@@ -47,3 +48,19 @@ desc 'Update pictures from latest year'
 task :db_update do
   DbControl.update
 end
+
+# File management tasks
+desc 'Update pictures'
+
+desc 'Download all picture data files'
+task :files_download_all do
+  FileControl.download_all
+end
+
+desc 'Download latest picture data file'
+
+# Site integrity checks
+desc 'Check all assets'
+
+# Monthly tasks
+desc 'Monthly data update task'

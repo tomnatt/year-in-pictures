@@ -17,8 +17,8 @@ class Config
     (Year.first_year..Year.last_year)
   end
 
-  def self.source_file_from_year(year)
-    "images/#{year}/_data.yml"
+  def self.source_file_from_year_path(year)
+    "_db/data/#{year}.yml"
   end
 
   def self.get_generated_pagename(filename)

@@ -51,7 +51,7 @@ class DbControl
 
     # Read each source file and add pictures to db
     year_range.each do |year|
-      pics_data = YAML.load_file(Config.source_file_from_year(year))['pictures']
+      pics_data = YAML.load_file(Config.source_file_from_year_path(year))['pictures']
       # Get the pics by month { month => [ pics ] } to enable "next" and "previous"
       pics_by_month = pics_data.group_by { |pic| pic['month'] }
 
