@@ -66,7 +66,13 @@ task :yaml_update do
 end
 
 # Site integrity checks
-desc 'Check all assets'
+desc 'Check all assets ready for build'
 
 # Monthly tasks
 desc 'Monthly data update task'
+task :month_update do
+  Rake::Task['yaml_update'].invoke
+  Rake::Task['copy_pictures'].invoke
+  Rake::Task['db_update'].invoke
+  # Rake::Task['check_ready'].invoke
+end
