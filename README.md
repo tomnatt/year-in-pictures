@@ -3,10 +3,18 @@ Year in pictures
 
 Photos of the year.
 
-Built using [PureCSS](https://pure-css.github.io/) using Jekyll and Sqlite3. Requires a Ruby environment with Bundler installed and appropriate native Sqlite3 bindings / support. Up-to-date YAML is stored in this repo, but Rake task to udpate with new entries requires a [YiP Rails helper](https://github.com/tomnatt/year-in-pictures-rails-helper) running with location configured in and environment variable, or direct editing of YAML in `_db/data`.
+Built using [PureCSS](https://pure-css.github.io/) using Jekyll and Sqlite3. Requires a Ruby environment with Bundler installed and appropriate native Sqlite3 bindings / support. Image optimisation is done with `jpegoptim`. Up-to-date YAML is stored in this repo, but Rake task to udpate with new entries requires a [YiP Rails helper](https://github.com/tomnatt/year-in-pictures-rails-helper) running with location configured in and environment variable, or direct editing of YAML in `_db/data`.
+
+Image sizes
+-----------
+
+Main images are 1020px wide. Thumbnails are 190px x 190px.
 
 Environment variables
 ---------------------
+
+Image copying:
+* `YIP_IMAGE_SOURCE_DIR` - copy images and thumbnails from here (thumbnails stored as `YIP_IMAGE_SOURCE_DIR/thumbnails`)
 
 Deployment:
 * `HOSTING_USER` - remote server user
@@ -40,8 +48,7 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## To add a picture
 
-1. Put an image in `images/$year/` (1020px wide)
-1. Put a thumbnail in `images/$year/thumbnails` (190px x 190px)
+1. Run `bundle exec rake copy_pictures` to copy the pictures and thumbnails from storage to the project, then optimise
 1. Run `bundle exec rake yaml_update` - this fetches updated yaml from an install of [the YiP Rails helper](https://github.com/tomnatt/year-in-pictures-rails-helper)
 1. Run `bundle exec rake db_update`
 1. Commit changes
