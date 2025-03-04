@@ -26,6 +26,6 @@ class Config
   end
 
   def self.yaml_url(year)
-    "https://year-in-pictures-helper.koyeb.app/year/#{year}?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
+    "#{ENV.fetch('YIP_RAILS_HELPER_LOCATION')}/year/#{year}?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
   end
 end
