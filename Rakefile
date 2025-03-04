@@ -1,4 +1,5 @@
 require 'jekyll'
+require_relative '_lib/asset_check'
 require_relative '_lib/db_control'
 require_relative '_lib/file_control'
 
@@ -67,6 +68,9 @@ end
 
 # Site integrity checks
 desc 'Check all assets ready for build'
+task :check_ready do
+  AssetCheck.do_checks
+end
 
 # Monthly tasks
 desc 'Monthly data update task'

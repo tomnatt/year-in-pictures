@@ -145,6 +145,7 @@ DEPENDENCIES
   jekyll-sqlite
   logger
   mina
+  rainbow
   rake
   rb-readline
   rubocop
