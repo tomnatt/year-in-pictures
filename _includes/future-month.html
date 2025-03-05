@@ -1,0 +1,12 @@
+<section class="month future" id="{{ include.month }}">
+  <h2><a href="#{{ include.month }}">{{ include.month | capitalize }} {{ page.year }}</a></h2>
+  <ul class="polaroids pure-g">
+    {% for i in (1..6) %}
+    <li class="pure-u-1-2 pure-u-sm-1-2 pure-u-lg-1-3">
+      <a title="placeholder" href="/photos/image-placeholder.html">
+        <img loading="lazy" alt="placeholder" src="/images/thumbnails/image-placeholder.png">
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

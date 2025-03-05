@@ -1,4 +1,101 @@
 permalink: /:year/:month/:day/:title
+plugins:
+  - jekyll_sqlite
+  - jekyll-datapage-generator
+
+sqlite:
+  - data: years
+    file: _db/yip.db
+    query: SELECT year, homepage FROM years WHERE year !=0 ORDER BY year ASC;
+  - data: pictures
+    file: _db/yip.db
+    query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year;
+
+page_gen:
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 0"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2015
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2015"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2016
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2016"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2017
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2017"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2018
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2018"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2019
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2019"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2020
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2020"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2021
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2021"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2022
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2022"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2023
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2023"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2024
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2024"
+
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2025
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2025"
+
 sass:
   style: compressed
   sass_dir: _assets
@@ -6,7 +103,6 @@ exclude:
   - 'bin'
   - 'Gemfile'
   - 'Gemfile.lock'
-  - 'lib'
   - 'Rakefile'
   - 'README.md'
   - 'vendor'

@@ -1,0 +1,47 @@
+- year: 2025
+  zodiac: Year of the Snake
+  homepage: ''
+
+- year: 2024
+  zodiac: Year of the Dragon
+  homepage: 2024.html
+
+- year: 2023
+  zodiac: Year of the Rabbit
+  homepage: 2023.html
+
+- year: 2022
+  zodiac: Year of the Tiger
+  homepage: 2022.html
+
+- year: 2021
+  zodiac: Year of the Ox
+  homepage: 2021.html
+
+- year: 2020
+  zodiac: Year of the Rat
+  homepage: 2020.html
+
+- year: 2019
+  zodiac: Year of the Pig
+  homepage: 2019.html
+
+- year: 2018
+  zodiac: Year of the Dog
+  homepage: 2018.html
+
+- year: 2017
+  zodiac: Year of the Rooster
+  homepage: 2017.html
+
+- year: 2016
+  zodiac: Year of the Monkey
+  homepage: 2016.html
+
+- year: 2015
+  zodiac: Year of the Sheep
+  homepage: 2015.html
+
+- year: 0
+  zodiac: Year of the Unknown
+  homepage: ''

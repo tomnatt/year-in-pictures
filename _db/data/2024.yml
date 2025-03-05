@@ -286,7 +286,6 @@ pictures:
     description: "Path to the logged part of the woods."
     alt: "Forest track"
     month: january
-
   -
     image: 02-amy.jpg
     image_title: "Fotografiska"
@@ -571,10 +570,9 @@ pictures:
     image: 02-tom_bassett.jpg
     image_title: "The \"listening ears\""
     caption: "Sound Mirrors at Denge"
-    description: "Near Dungeoness, pre radar attempts at hearing enemy planes. A technology dead end, but somehow still fits into the bleak landscape."
+    description: "Near Dungeoness, pre-radar attempts at hearing enemy planes. A technology dead end, but somehow still fits into the bleak landscape."
     alt: "Sound mirrors"
     month: february
-
   -
     image: 03-amy.jpg
     image_title: "Museum of Hunting & Nature"
@@ -883,7 +881,6 @@ pictures:
     description: "Self reintroduced red squirrel in Wensleydale."
     alt: "Red Squirrel"
     month: march
-
   -
     image: 04-amy.jpg
     image_title: "Pika"
@@ -1185,7 +1182,6 @@ pictures:
     description: "Art based on nature show at the Hayward on the South Bank.  Not sure if Instagram or the art came first, awful lot of people taking selfies, and some people dressed up to look the art."
     alt: "Bubble art"
     month: april
-
   -
     image: 05-amy.jpg
     image_title: "Eltham Palace"
@@ -1469,7 +1465,7 @@ pictures:
   -
     image: 05-tim_oneill.jpg
     image_title: "Festa di vino"
-    caption: "We 'May' have had wine..."
+    caption: "We \"May\" have had wine..."
     description: "A wine festival. Five tasters from the local vineyard plus lunch with wine obviously followed by some special wine. <br ><br >Did someone mention wine?"
     alt: "WINE"
     month: may
@@ -1494,7 +1490,6 @@ pictures:
     description: "It must be spring as Crystal Palace perform their annual resurgence up the table before inevitable decline next winter. Both sets of fans sang throughout and Palace achieve their second best league finish ever of errrm tenth."
     alt: "Palace good shock"
     month: may
-
   -
     image: 06-amy.jpg
     image_title: "Let’s Go Mets!"
@@ -1796,7 +1791,6 @@ pictures:
     description: "Camping near Bedgebury in Kent. Sun between showers."
     alt: "Field in Kent"
     month: june
-
   -
     image: 07-amy.jpg
     image_title: "Stockholm summer nights"
@@ -2098,7 +2092,6 @@ pictures:
     description: "What happened in July?  Blimey, it was hot and our cat slept a lot...  Neither I or our cat are good in heat, I think the cat has more excuses."
     alt: "Cat sleeping silly"
     month: july
-
   -
     image: 08-amy.jpg
     image_title: "40"
@@ -2407,7 +2400,6 @@ pictures:
     description: "Fab holiday walking in the Swiss Alps and driving around Europe. 3 weeks off and I almost forgot my password.  Currently trying to re-acclimatize to sitting at a desk and working (feels weird)."
     alt: "Walking in the mountains"
     month: august
-
   -
     image: 09-amy.jpg
     image_title: "Bryce Canyon"
@@ -2709,7 +2701,6 @@ pictures:
     description: "Celebrating a Freeman’s ancient “right” to bring sheep to market over the Thames, toll free, lots of sheep plodding, people dressing up in gowns (guilds) and Damien Lewis (random). Sheep and tourists in mutual bemusement, but an interesting halt to my bike ride that day."
     alt: "Sheep in pen on bridge"
     month: september
-
   -
     image: 10-amy.jpg
     image_title: "Stokesley"
@@ -2992,8 +2983,8 @@ pictures:
     month: october
   -
     image: 10-teresa.jpg
-    image_title: "pumpkin time"
-    caption: "pumpkin time"
+    image_title: "Pumpkin time"
+    caption: "Pumpkin time"
     description: "The farm next door does pumpkin events every October and every year I say I'm going to take pictures - although this one was taken by my daughter. She brought back excellent venison sausages from their shop too!"
     alt: "Hay bale seat with pumpkins for parents and children to use as a photo opportunity"
     month: october
@@ -3025,7 +3016,6 @@ pictures:
     description: "This month I left Macmillan after nearly three years of building and leading the software engineering division. While I spent a lot of time talking about technology, the rest of my \"leadership shadow\" consisted of telling terrible jokes, talking about Elden Ring and Lego and trying to explain Dungeons and Dragons to people. It seems this last sunk in at least!<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/54076694877/\">Flickr</a>."
     alt: "Massive book about Dungeons and Dragons, a set of dice and a dice holder"
     month: october
-
   -
     image: 11-amy.jpg
     image_title: "House"
@@ -3348,7 +3338,6 @@ pictures:
     description: "Packed house, great atmosphere, unintelligible Geordie chanting, very suspect pie, and err slightly underwhelming match. British football at its best."
     alt: "Selhurst Park"
     month: november
-
   -
     image: 12-amy.jpg
     image_title: "Jiminy Cricket"

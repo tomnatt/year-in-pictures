@@ -10,7 +10,7 @@ pictures:
     image: 01-anna.jpg
     image_title: "Help"
     caption: "Help"
-    description: "A cry for help, strong and true, \r\nif you don't help me, what will I do?<br ><br >Seriously though, I'm stuck."
+    description: "A cry for help, strong and true,\r\nif you don't help me, what will I do?<br ><br >Seriously though, I'm stuck."
     alt: "Anna pulling a face by sucking in her cheeks"
     month: january
   -
@@ -272,7 +272,6 @@ pictures:
     description: "A lovely evening eating noodles was followed by a walk around Bath covered in freezing fog. This is St Michael's, looming out the fog like some ghostly lighthouse shining across the city. Love the fog.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51844437961/\">Flickr</a>."
     alt: "Church tower glowing with light in the fog"
     month: january
-
   -
     image: 02-amy.jpg
     image_title: "New perspectives"
@@ -282,9 +281,9 @@ pictures:
     month: february
   -
     image: 02-anna.jpg
-    image_title: "Sunset"
+    image_title: "February Sunset"
     caption: "Sunset"
-    description: "Not pictured - me yelling at Peanut to leave the sheep alone!"
+    description: "I tend to dislike February. This one was more exception. But there were some beautiful moments. This photo for instance, taken just before I stepped in poop.<br ><br >Not pictured - me yelling at Peanut to leave the sheep alone!"
     alt: "Sunset breaking through the treeline"
     month: february
   -
@@ -546,7 +545,6 @@ pictures:
     description: "February saw my first work trip to London in around two years. It was a long day, and I remembered why I dislike commuting but I met a lot of lovely people for the first time (in person) and generally it was nice to be around humans again. I also got to see spectacular sights like this as I walked back to the tube, reminding me that there are aspects of London I miss.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51862261474/\">Flickr</a>."
     alt: "London high-rise buildings along the Thames, lit up at night"
     month: february
-
   -
     image: 03-amy.jpg
     image_title: "Springtime in Paris"
@@ -820,7 +818,6 @@ pictures:
     description: "I finally finished this fine model of Boba Fett's head. It carried me through some dark times at work, and was a lot of fun to make. Now I've  rearranged my living room and this lives on a newly-cleared space on my shelves.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51937039945/in/datetaken-public/\">Flickr</a>."
     alt: "Lego model of Boba Fett's helmet"
     month: march
-
   -
     image: 04-amy.jpg
     image_title: "York Minster"
@@ -1094,7 +1091,6 @@ pictures:
     description: "Out and about with my parents and grandad. I took a lot of (actually not bad) pictures of flowers, but this was my favourite of the day. I will let you add your own narrative to the scene.<br ><br >Visual effects going on here to make the background monochrome - we weren't really standing in front of The Past.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52056170853/\">Flickr</a>."
     alt: "Lady peeping out from behind a tree"
     month: april
-
   -
     image: 05-amy.jpg
     image_title: "Tool"
@@ -1361,7 +1357,6 @@ pictures:
     description: "This month, I went to a great course on barbecue cooking with my Dad. We had a lot of fun building fires (and not being entirely successful), learning about different types of barbecue setups and butchering a chicken. Pictured is a shakshuka made from something like bacon (pig cheek I think? A very rich meaty thing) rendered down and a pile of other things added. This is something I've made at home several times before, but mine contains entirely different base ingredients (and a lot more spice). This version was delightful and colourful and looks very impressive on a multi-tier cooking fire.<br ><br >Not pictured was the MurderFish incident, where a fresh Rainbow Trout was filleted (not by me) with the delicacy usually displayed by the Hulk when particularly angry. The result was a scene which should have come with a CSI unit.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52137108903\">Flickr</a>."
     alt: "Shakshuka being cooked on a barbecue with a plate of additional ingredients next to it"
     month: may
-
   -
     image: 06-amy.jpg
     image_title: "A zen moment"
@@ -1499,7 +1494,7 @@ pictures:
     image: 06-kat.jpg
     image_title: "Evening mindfulness"
     caption: "Evening mindfulness"
-    description: "I always thought candles were just for birthday cakes, special dinners and power cuts.  But I've discovered that the process of lighting one can help bring you into the present.   That little bit of focus required to strike the match right, carefully holding it to the candle and watching for it to light, followed by excitedly waving the match about to extinguish it before it burns my fingers... then watching the little flame flicker and grow.  It helps!"
+    description: "I always thought candles were just for birthday cakes, special dinners and power cuts. But I've discovered that the process of lighting one can help bring you into the present. That little bit of focus required to strike the match right, carefully holding it to the candle and watching for it to light, followed by excitedly waving the match about to extinguish it before it burns my fingers... then watching the little flame flicker and grow. It helps!"
     alt: "Lit tea light on a windowsill against a twilight sky"
     month: june
   -
@@ -1628,7 +1623,6 @@ pictures:
     description: "These fellows are flying around Southgate in Bath - the entire street is filled with a riot of colour. I took this shot after a day in London in the Microsoft building with the Macmillan tech leadership team. It was a great day and we learned a lot from being in the same space. I like remote working, but I do miss being around people during the day. Not enough to commute regularly though...<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52137322124/\">Flickr</a>."
     alt: "Large model butterflies hanging in a street in Bath"
     month: june
-
   -
     image: 07-amy.jpg
     image_title: "Cardiff"
@@ -1717,7 +1711,7 @@ pictures:
     image: 07-gareth.jpg
     image_title: "Pan"
     caption: "Pan"
-    description: "As part of the Gower Festival 2022, I found myself performing in Reynoldston Village Hall - where I found this attached to a plinth and mounted backstage. I wonder if they use a new pan every year or find themselves taking this one down. I'm tempted to return to the hall next February, just to find out."
+    description: "As part of the Gower Festival 2022, I found myself performing in Reynoldston Village Hall - where I saw this attached to a plinth and mounted backstage. I wonder if they use a new pan every year or just take this one down. I'm tempted to return to the hall next February to find out."
     alt: "A frying pan mounted on a wooden stand with a metal plaque underneath which says \"Reynoldston Village - Annual Pancake Race - Team Event\""
     month: july
   -
@@ -1895,7 +1889,6 @@ pictures:
     description: "I think we've reached the definition of \"too much food\". I attended an excellent cookery class at the <a href=\"https://www.thebertinetkitchen.com/\">Bertinet Kitchen cookery school</a> where we baked all manner of summer goods - doughnuts, burger buns, sweet dough nibbles, and some amazing filled bread. Pictured is a small fraction of what we made, and just as we thought the table wouldn't hold any more they brought out some delicious cooked meat and cheese...<br ><br >I took a LOT home with me.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52202074337/\">Flickr</a>."
     alt: "Large pile of delicious baked goods"
     month: july
-
   -
     image: 08-amy.jpg
     image_title: "Cres"
@@ -2075,7 +2068,7 @@ pictures:
     image: 08-pete_fairhurst.jpg
     image_title: "Waterlily"
     caption: "Waterlily"
-    description: "Earlier this summer we replaced our old – and regularly leaking – pond with a free-standing disused whiskey barrel, which I cleaned and lined before populating with some fish and new plants. This included a waterlily, which we've not tried keeping before as the previous pond was too small and shallow to fit much in.<br ><br >After a few weeks, and likely thanks to the intense sunshine we've had during August 2023, it suddenly burst into flower one morning, the bud having pushed its way up to – and then above – the surface of the water over the previous few days."
+    description: "Earlier this summer we replaced our old - and regularly leaking - pond with a free-standing disused whiskey barrel, which I cleaned and lined before populating with some fish and new plants. This included a waterlily, which we've not tried keeping before as the previous pond was too small and shallow to fit much in.<br ><br >After a few weeks, and likely thanks to the intense sunshine we've had during August 2022, it suddenly burst into flower one morning, the bud having pushed its way up to - and then above - the surface of the water over the previous few days."
     alt: "A bright yellow waterlily flower"
     month: august
   -
@@ -2155,7 +2148,6 @@ pictures:
     description: "Our annual trip to Lee Abbey was the usual excellent mix of tranquillity, beautiful views and learning. It is such a special place and it doesn't hurt that this is the view every morning while drinking a mug of coffee.<br ><br >This particular shot was taken at sunset, with some stunning God rays and the blue of the bay still very strong. Later on it became more red and got a bit Lion King.<br ><br >I look <a href=\"https://www.flickr.com/photos/tomnatt/albums/72177720301642273\">a whole load of shots from this spot</a>. Never get tired of this view.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52315346260/in/album-72177720301642273/\">Flickr</a>."
     alt: "Sun setting over the sea"
     month: august
-
   -
     image: 09-amy.jpg
     image_title: "NYC"
@@ -2415,7 +2407,6 @@ pictures:
     description: "This was a shot of the beautiful and rugged Pembrokeshire coast during a lengthy walk down and up and down and up and ...<br ><br >It was a stunning walk and an amazing holiday. We also visited St David's, an iron age village, and some 5000 year old floating stones, as well as escaping an escape room. A wonderful end to my 30s.<br ><br >You can see the photos in <a href=\"https://www.flickr.com/photos/tomnatt/albums/72177720302213549\">this album on Flickr</a>.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52367693327\">Flickr</a>."
     alt: "Heavy sky over a blue sea on the Pembrokeshire coast"
     month: september
-
   -
     image: 10-amy.jpg
     image_title: "Sandhurst"
@@ -2682,7 +2673,6 @@ pictures:
     description: "I decided to celebrate becoming a director in Macmillan by buying something properly stupid. I've always controlled my LEGO habit through abstinence, but I suspect this may be cracking. Still, I'm a grown-up and definitely wouldn't order a 13kg LEGO set to the local John Lewis with no thought as to how I'd get it home (thank you for the rescue Dan!).<br ><br >This thing is massive. I mean, properly huge. LEGO Superman is included for scale. It's taking up most of my sofa and I have no idea what I'm going to do with the finished model. But in the priority listing of life, a LEGO Imperial Star Destroyer ranks higher than most other things out there.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52484733991/\">Flickr</a>."
     alt: "LEGO Star Destroyer box"
     month: october
-
   -
     image: 11-amy.jpg
     image_title: "Stockholm"
@@ -2935,7 +2925,6 @@ pictures:
     description: "It's November so time for another picture of fire. I love a bonfire, and this year was a surprisingly good one in Minch. It was a wet day, so I was expecting some steam and not much else. Instead, the thing went up like ... well, a bonfire ... and managed to singe the onlookers before the marshals frantically moved the safety fence further away.<br ><br >This particular shot is from <a href=\"https://www.flickr.com/photos/tomnatt/albums/72177720303530847\">a large collection of pictures</a> I took of the heart of the fire.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/52486864111/\">Flickr</a>."
     alt: "The heart of a flaming bonfire"
     month: november
-
   -
     image: 12-amy.jpg
     image_title: "Yarm"

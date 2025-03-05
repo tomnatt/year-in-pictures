@@ -1,37 +1,48 @@
-require './lib/year_data'
+require './_lib/db_control'
 
 class PictureMarkup < Liquid::Tag
-  require 'yaml'
-
   def initialize(tag_name, text, tokens)
     super
-    params = text.split(' ')
-    @image = params[0]
-    @year = (params[1] ? params[1] : '2025')
-
-    # read the config from a yml file
-    index = nil
-    data = YearData.instance.year(@year)
-    data.each_with_index do |pic, i|
-      if pic['image'] == @image
-        index = i
-        break
-      end
-    end
-
-    @link = File.basename(@image, File.extname(@image)) + '.html'
-    @caption = data[index]['caption']
-    @alt = data[index]['alt']
+    params = text.split
+    @month = params[0]
   end
 
-  def render(_context)
-<<-SNIPPET
-  <li class="pure-u-1-2 pure-u-sm-1-2 pure-u-lg-1-3">
-    <a title="#{@caption}" href="/photos/#{@year}/#{@link}">
-      <img loading="lazy" alt="#{@alt}" src="/images/#{@year}/thumbnails/#{@image}">
-    </a>
-  </li>
-SNIPPET
+  def render(context)
+    # Get the year from the page frontmatter and picture details from the db
+    year = context.registers[:page]['year']
+    pics = DbControl.get_month_pictures(@month, year)
+
+    "#{head_html(year)}#{middle_html(pics, year)}#{foot_html}"
+  end
+
+  def head_html(year)
+    <<-HEAD
+  <section class="month" id="#{@month}">
+    <h2><a href="##{@month}">#{@month.capitalize} #{year}</a></h2>
+    <ul class="polaroids pure-g">
+    HEAD
+  end
+
+  def middle_html(pics, year)
+    middle = ''
+    pics.each do |pic|
+      middle += <<-ITERATOR
+        <li class="pure-u-1-2 pure-u-sm-1-2 pure-u-lg-1-3">
+          <a title="#{pic[2]}" href="/photos/#{year}/#{pic[0]}">
+            <img loading="lazy" alt="#{pic[3]}" src="/images/#{year}/thumbnails/#{pic[1]}">
+          </a>
+        </li>
+      ITERATOR
+    end
+
+    middle
+  end
+
+  def foot_html
+    <<-FOOT
+    </ul>
+  </section>
+    FOOT
   end
 
   Liquid::Template.register_tag 'picture', self

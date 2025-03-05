@@ -2,9 +2,9 @@ require 'mina/bundler'
 require 'mina/rails'
 require 'mina/git'
 
-set :user, ENV['HOSTING_USER']
-set :deploy_to, ENV['YEARINPICTURES_HOSTING_DIR']
-set :domain, ENV['DEPLOY_TARGET']
+set :user, ENV.fetch('HOSTING_USER')
+set :deploy_to, ENV.fetch('YEARINPICTURES_HOSTING_DIR')
+set :domain, ENV.fetch('DEPLOY_TARGET')
 set :repository, 'git@github.com:tomnatt/year-in-pictures.git'
 set :branch, 'main'
 
