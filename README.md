@@ -46,11 +46,11 @@ bundle exec rake
 
 The photo stuff started life on [one of the Zurb example pages](http://zurb.com/playground/css3-polaroids).
 
-## To add a picture
+## To add a new month of pictures
 
-1. Run `bundle exec rake copy_pictures` to copy the pictures and thumbnails from storage to the project, then optimise
-1. Run `bundle exec rake yaml_update` - this fetches updated yaml from an install of [the YiP Rails helper](https://github.com/tomnatt/year-in-pictures-rails-helper)
-1. Run `bundle exec rake db_update`
+1. Run `bundle exec rake month_update` to download latest YAML, copy pics and optimise, update the database and run checks
+1. Update `index.html` with new month
+1. Build and check locally with `bundle exec rake serve`
 1. Commit changes
 
 ## To update for a new year

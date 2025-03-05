@@ -78,5 +78,5 @@ task :month_update do
   Rake::Task['yaml_update'].invoke
   Rake::Task['copy_pictures'].invoke
   Rake::Task['db_update'].invoke
-  # Rake::Task['check_ready'].invoke
+  Rake::Task['check_ready'].invoke
 end
