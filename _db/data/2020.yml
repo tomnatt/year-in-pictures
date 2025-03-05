@@ -8,10 +8,10 @@ pictures:
     month: january
   -
     image: 01-anna.jpg
-    image_title: "The Wye Valley and Bigsweir bridge"
-    caption: "Floods!"
-    description: "The dramatic flooding near me of the Wye Valley. Normally a slim ribbon of water, suddenly a lake."
-    alt: "Flooded River with Bigsweir Bridge just holding on."
+    image_title: "New member of the family"
+    caption: "New member of the family"
+    description: "The highlight of my month was definitely getting to meet the beautiful new baby who has joined my family. It was completely heartwarming."
+    alt: "Mum and baby smiling."
     month: january
   -
     image: 01-annette.jpg
@@ -213,7 +213,7 @@ pictures:
     image: 02-anna.jpg
     image_title: "The Wye Valley and Bigsweir bridge"
     caption: "Floods!"
-    description: "It's a weird time for us all. Floods, viruses, political upheaval."
+    description: "It's a weird time for us all. Floods, viruses, political upheaval.<br ><br >The dramatic flooding near me of the Wye Valley. Normally a slim ribbon of water, suddenly a lake."
     alt: "Flooded River with Bigsweir Bridge just holding on."
     month: february
   -
@@ -346,8 +346,8 @@ pictures:
     image: 02-rhiannon_lawson.jpg
     image_title: "Rwandan Memorial"
     caption: "Rwandan Memorial"
-    description: "Hard to remember, but shouldn't forget.\r\nThis is the UN Belgium peacekeeper memorial in rwanda. So moving"
-    alt: "genocide memorial in Rwanda"
+    description: "Hard to remember, but shouldn't forget.<br ><br >This is the UN Belgium peacekeeper memorial in Rwanda. So moving."
+    alt: "Genocide memorial in Rwanda"
     month: february
   -
     image: 02-richard.jpg
@@ -732,7 +732,7 @@ pictures:
     image_title: "Thank you NHS"
     caption: "Thank you NHS"
     description: "A colourful homemade \"Thank you NHS\" banner, pinned to a planter on a main road through our village in North Somerset."
-    alt: "A colourful homemade \\\"Thank you NHS\\\" banner, pinned to a planter on a main road through a village in North Somerset"
+    alt: "A colourful homemade \"Thank you NHS\" banner, pinned to a planter on a main road through a village in North Somerset"
     month: april
   -
     image: 04-peter_chamberlin.jpg
@@ -1908,7 +1908,7 @@ pictures:
     image_title: "Social Explosion"
     caption: "Social Explosion"
     description: "I stumbled across a local shop window installation. It was completely engulfed in balloons, emblazoned with the words \"socially distance\" and crowned with an illustration of an explosion. A colourful way and well-meaning way of encouraging us to all stay safe, whilst unapologetically hiding another empty shop and what is a very empty time for many."
-    alt: "A local shop window installation completely engulfed in balloons, emblazoned with the words \\\"socially distance\\\" and crowned with an illustration of an explosion."
+    alt: "A local shop window installation completely engulfed in balloons, emblazoned with the words \"socially distance\" and crowned with an illustration of an explosion."
     month: october
   -
     image: 10-james_wiggins.jpg
@@ -1963,7 +1963,7 @@ pictures:
     image: 10-rhiannon_lawson.jpg
     image_title: "The Lakes"
     caption: "The Lakes"
-    description: "A trip to the lakes district. This was a brief sunny moment during 15 mile walk on a serendipitous trip pre-lock down. "
+    description: "A trip to the lakes district. This was a brief sunny moment during 15 mile walk on a serendipitous trip pre-lock down."
     alt: "rolling hills with a river running through them"
     month: october
   -

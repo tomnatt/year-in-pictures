@@ -233,7 +233,7 @@ pictures:
   -
     image: 01-steve_fearn.jpg
     image_title: "Church door, Stow-on-the-Wold"
-    caption: "'Say Friend and enter'"
+    caption: "Say Friend and enter"
     description: "Claimed to be Tolkien's inspiration for Doors of Durin, the West-door of Moria.<br ><br >Photographed by many and by me a few times. Close in and in black and white suits it best, I feel."
     alt: "Old church wooden door framed by old Yew trees whose trunks and roots have encroached on the threshold"
     month: january
@@ -570,7 +570,7 @@ pictures:
     image: 02-tom_bassett.jpg
     image_title: "The \"listening ears\""
     caption: "Sound Mirrors at Denge"
-    description: "Near Dungeoness, pre radar attempts at hearing enemy planes.  A technology dead end, but somehow still fits into the bleak landscape."
+    description: "Near Dungeoness, pre-radar attempts at hearing enemy planes. A technology dead end, but somehow still fits into the bleak landscape."
     alt: "Sound mirrors"
     month: february
   -

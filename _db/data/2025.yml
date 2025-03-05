@@ -24,7 +24,7 @@ pictures:
     image: 01-bonnie-richard.jpg
     image_title: "The Moon and Venus"
     caption: "The Moon and Venus"
-    description: "On January 2nd there was a crescent moon in close alignment with Venus and Saturn.  Surprisingly, it was a clear night and we were able to see this alignment in great detail unlike the other alignments that occurred later in the month.  January has been a quiet month. We hope you are all keeping well."
+    description: "On January 2nd there was a crescent moon in close alignment with Venus and Saturn. Surprisingly, it was a clear night and we were able to see this alignment in great detail unlike the other alignments that occurred later in the month. January has been a quiet month. We hope you are all keeping well."
     alt: "The Moon and Venus"
     month: january
   -
@@ -334,6 +334,13 @@ pictures:
     caption: "Bunk'Art 2"
     description: "This is the entrance to Bunk'Art 2 - A museum in Tirana, Albania, dedicated to the country's communist era and, in particular, the techniques used by the Ministry of Internal Affairs and police force to monitor the population. The museum itself is inside an enormous underground bunker which comprises over 24 rooms and designed for ministerial staff to use in the event of chemical or nuclear attack. It's actually one of over 175,000 bunkers, of wildly varying sizes, scattered about the country,"
     alt: "On a pedestrianized street, outside a yellow building, there is a concrete dome, about 10 foot tall, with a door at the front an the words \"Museum\" written along the side. Through the glass door we see the start of a staircase, and little else."
+    month: february
+  -
+    image: 02-gill.jpg
+    image_title: "Our granddog"
+    caption: "Our granddog"
+    description: "Our granddog trying to disguise himself as a chocolate Labrador. :)"
+    alt: "Our granddog"
     month: february
   -
     image: 02-himal.jpg

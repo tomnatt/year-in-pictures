@@ -8,10 +8,10 @@ pictures:
     month: january
   -
     image: 01-anna.jpg
-    image_title: "February Sunset"
-    caption: "Sunset"
-    description: "I tend to dislike February. This one was more exception. But there were some beautiful moments. This photo for instance, taken just before I stepped in poop."
-    alt: "A sunset with a ray of sunshine coming through the trees."
+    image_title: "Help"
+    caption: "Help"
+    description: "A cry for help, strong and true,\r\nif you don't help me, what will I do?<br ><br >Seriously though, I'm stuck."
+    alt: "Anna pulling a face by sucking in her cheeks"
     month: january
   -
     image: 01-annette.jpg
@@ -281,9 +281,9 @@ pictures:
     month: february
   -
     image: 02-anna.jpg
-    image_title: "Sunset"
+    image_title: "February Sunset"
     caption: "Sunset"
-    description: "Not pictured - me yelling at Peanut to leave the sheep alone!"
+    description: "I tend to dislike February. This one was more exception. But there were some beautiful moments. This photo for instance, taken just before I stepped in poop.<br ><br >Not pictured - me yelling at Peanut to leave the sheep alone!"
     alt: "Sunset breaking through the treeline"
     month: february
   -
@@ -827,10 +827,10 @@ pictures:
     month: april
   -
     image: 04-anna.jpg
-    image_title: "My garden looks a mess but trust me, big improvement."
-    caption: "Garden transformation!"
-    description: "Hoooooopefully this is going to be a clover lawn."
-    alt: "A muddy mess."
+    image_title: "Spot the Squirrel"
+    caption: "Spot the Squirrel"
+    description: "Squirrels in Southampton are remarkably tame. Climbed a tree and sat with one."
+    alt: "A squirrel up a tree."
     month: april
   -
     image: 04-annette.jpg
@@ -1494,7 +1494,7 @@ pictures:
     image: 06-kat.jpg
     image_title: "Evening mindfulness"
     caption: "Evening mindfulness"
-    description: "I always thought candles were just for birthday cakes, special dinners and power cuts.  But I've discovered that the process of lighting one can help bring you into the present.   That little bit of focus required to strike the match right, carefully holding it to the candle and watching for it to light, followed by excitedly waving the match about to extinguish it before it burns my fingers... then watching the little flame flicker and grow.  It helps!"
+    description: "I always thought candles were just for birthday cakes, special dinners and power cuts. But I've discovered that the process of lighting one can help bring you into the present. That little bit of focus required to strike the match right, carefully holding it to the candle and watching for it to light, followed by excitedly waving the match about to extinguish it before it burns my fingers... then watching the little flame flicker and grow. It helps!"
     alt: "Lit tea light on a windowsill against a twilight sky"
     month: june
   -
@@ -2068,7 +2068,7 @@ pictures:
     image: 08-pete_fairhurst.jpg
     image_title: "Waterlily"
     caption: "Waterlily"
-    description: "Earlier this summer we replaced our old – and regularly leaking – pond with a free-standing disused whiskey barrel, which I cleaned and lined before populating with some fish and new plants. This included a waterlily, which we've not tried keeping before as the previous pond was too small and shallow to fit much in.<br ><br >After a few weeks, and likely thanks to the intense sunshine we've had during August 2023, it suddenly burst into flower one morning, the bud having pushed its way up to – and then above – the surface of the water over the previous few days."
+    description: "Earlier this summer we replaced our old - and regularly leaking - pond with a free-standing disused whiskey barrel, which I cleaned and lined before populating with some fish and new plants. This included a waterlily, which we've not tried keeping before as the previous pond was too small and shallow to fit much in.<br ><br >After a few weeks, and likely thanks to the intense sunshine we've had during August 2022, it suddenly burst into flower one morning, the bud having pushed its way up to - and then above - the surface of the water over the previous few days."
     alt: "A bright yellow waterlily flower"
     month: august
   -
