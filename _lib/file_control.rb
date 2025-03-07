@@ -23,6 +23,13 @@ class FileControl
     File.write(Config.source_file_from_year_path(year), yaml_content)
   end
 
+  def self.download_user_data
+    # Get the YAML from the app
+    yaml_content = URI.parse(Config.users_yaml_url).open.read
+    # Save to disk
+    File.write(Config.source_file_users_path, yaml_content)
+  end
+
   def self.copy_pictures
     copy_main_pics
     copy_thumbnails

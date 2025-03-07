@@ -47,11 +47,19 @@ class Config
     "_db/data/#{year}.yml"
   end
 
+  def self.source_file_users_path
+    '_db/data/users.yml'
+  end
+
   def self.get_generated_pagename(filename)
     "#{File.basename(filename, File.extname(filename))}.html"
   end
 
   def self.pictures_yaml_url(year)
     "#{ENV.fetch('YIP_RAILS_HELPER_LOCATION')}/year/#{year}?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
+  end
+
+  def self.users_yaml_url
+    "#{ENV.fetch('YIP_RAILS_HELPER_LOCATION')}/admin/list/users?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
   end
 end

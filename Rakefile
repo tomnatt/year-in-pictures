@@ -66,6 +66,11 @@ task :pics_yaml_update do
   FileControl.download_latest_pictures_data
 end
 
+desc 'Download latest photographer data file'
+task :users_yaml_download do
+  FileControl.download_user_data
+end
+
 # Site integrity checks
 desc 'Check all assets ready for build'
 task :check_ready do
