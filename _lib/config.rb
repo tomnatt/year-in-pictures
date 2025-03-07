@@ -51,7 +51,7 @@ class Config
     "#{File.basename(filename, File.extname(filename))}.html"
   end
 
-  def self.yaml_url(year)
+  def self.pictures_yaml_url(year)
     "#{ENV.fetch('YIP_RAILS_HELPER_LOCATION')}/year/#{year}?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
   end
 end
