@@ -57,13 +57,13 @@ task :copy_pictures do
 end
 
 desc 'Download all picture data files'
-task :yaml_download_all do
-  FileControl.download_all
+task :pics_yaml_download_all do
+  FileControl.download_all_pictures_data
 end
 
 desc 'Download latest picture data file'
-task :yaml_update do
-  FileControl.download_latest
+task :pics_yaml_update do
+  FileControl.download_latest_pictures_data
 end
 
 # Site integrity checks
@@ -75,7 +75,7 @@ end
 # Monthly tasks
 desc 'Monthly data update task'
 task :month_update do
-  Rake::Task['yaml_update'].invoke
+  Rake::Task['pics_yaml_update'].invoke
   Rake::Task['copy_pictures'].invoke
   Rake::Task['db_update'].invoke
   Rake::Task['check_ready'].invoke
