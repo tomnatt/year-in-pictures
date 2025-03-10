@@ -344,22 +344,6 @@ pictures:
     month: january
     photographer: 86
   -
-    image: 02-amy.jpg
-    image_title: "Cactus League"
-    caption: "Cactus League"
-    description: "We travelled to Arizona to see my beloved Cubs play at Spring Training. Is there anything more perfect than an afternoon in the sun watching the poetry of baseball? I think not!"
-    alt: "Sign for Cubs baseball with flower pots in front"
-    month: february
-    photographer: 32
-  -
-    image: 02-az.jpg
-    image_title: "Flying Scotsman Hornby model"
-    caption: "Hornby Heaven"
-    description: "Happiness is a Flying Scotsman Hornby model - looks like we'll need to build a bigger track..."
-    alt: "Picture if child looking at a Hornby Flying Scotsman model on a table"
-    month: february
-    photographer: 81
-  -
     image: 02-bek.jpg
     image_title: "Change your brain change your life!"
     caption: "Change your brain change your life!"
@@ -376,18 +360,10 @@ pictures:
     month: february
     photographer: 5
   -
-    image: 02-charlotte.jpg
-    image_title: "Spring flower"
-    caption: "Spring flower"
-    description: "Lovely weather means being able to enjoy being outside in nature - my favourite thing to do - and in February too!"
-    alt: "Close up of a purple flower with an orange stigma on display, in the background lush green grass and a few other purple flowers"
-    month: february
-    photographer: 77
-  -
     image: 02-chloe.jpg
     image_title: "Paddington visits Norwich"
     caption: "Paddington visits Norwich"
-    description: "The new Paddington Bear bench just outside Norwich Cathedral."
+    description: "The new Paddington Bear bench just outside Norwich Cathedral"
     alt: "A statue of Paddington Bear sitting on a bench eating a marmalade sandwich"
     month: february
     photographer: 96
@@ -403,7 +379,7 @@ pictures:
     image: 02-clive.jpg
     image_title: "St Martins Dorking"
     caption: "St Martins Dorking"
-    description: "Blue evening - St Martins Dorking."
+    description: "Blue evening - St Martins Dorking"
     alt: "Blue evening frames St Martins Dorking"
     month: february
     photographer: 26
@@ -435,7 +411,7 @@ pictures:
     image: 02-gareth.jpg
     image_title: "Bunk'Art 2"
     caption: "Bunk'Art 2"
-    description: "This is the entrance to Bunk'Art 2 - A museum in Tirana, Albania, dedicated to the country's communist era and, in particular, the techniques used by the Ministry of Internal Affairs and police force to monitor the population. The museum itself is inside an enormous underground bunker which comprises over 24 rooms and designed for ministerial staff to use in the event of chemical or nuclear attack. It's actually one of over 175,000 bunkers, of wildly varying sizes, scattered about the country."
+    description: "This is the entrance to Bunk'Art 2 - A museum in Tirana, Albania, dedicated to the country's communist era and, in particular, the techniques used by the Ministry of Internal Affairs and police force to monitor the population. The museum itself is inside an enormous underground bunker which comprises over 24 rooms and designed for ministerial staff to use in the event of chemical or nuclear attack. It's actually one of over 175,000 bunkers, of wildly varying sizes, scattered about the country,"
     alt: "On a pedestrianized street, outside a yellow building, there is a concrete dome, about 10 foot tall, with a door at the front an the words \"Museum\" written along the side. Through the glass door we see the start of a staircase, and little else."
     month: february
     photographer: 8
@@ -448,14 +424,6 @@ pictures:
     month: february
     photographer: 9
   -
-    image: 02-hanna.jpg
-    image_title: "Beautiful Scotland"
-    caption: "Beautiful Scotland"
-    description: "We visited Scotland in February and were yet again so impressed by the history and amazing landscapes. The castle ruins in Finland tend to be just boring piles of rock, and while our coast is beautiful, it's just got a very different vibe going."
-    alt: "View from castle ruins on a coast"
-    month: february
-    photographer: 10
-  -
     image: 02-himal.jpg
     image_title: "Moon and Venus"
     caption: "Moon and Venus"
@@ -467,7 +435,7 @@ pictures:
     image: 02-james_wiggins.jpg
     image_title: "The Hydra"
     caption: "Why did it have to be snakes?"
-    description: "It's seemed like a long February to me, but managed to get some D&D games run. Here is the hydra that faces down my Thursday night group as they wander through the Crypt of the Talhund."
+    description: "It's seemed like a long February to me, but managed to get some D&D games run. Here is the hydra that faces down my Thursday night group as they wander through the Crypt of the Talhund"
     alt: "A green painted, 5-headed snake miniature stands next the edge of an underground lake"
     month: february
     photographer: 29
@@ -475,7 +443,7 @@ pictures:
     image: 02-jen.jpg
     image_title: "Reading material"
     caption: "Reading material"
-    description: "A rare moment of downtime, lunch to myself, and a new book to dip into."
+    description: "A rare moment of downtime, lunch to myself, and a new book to dip into"
     alt: "The cover of a book titled 'women living deliciously' placed on a table in a restaurant"
     month: february
     photographer: 34
@@ -483,7 +451,7 @@ pictures:
     image: 02-jennie.jpg
     image_title: "Ardman"
     caption: "Ardman"
-    description: "We went to see the festival of lights in Bristol - just around the corner was Morph waving!"
+    description: "We went to see the festival if lights in Bristol - just around the corner was Morph waving!"
     alt: "Ardman in Bristol wall art"
     month: february
     photographer: 98
@@ -507,23 +475,15 @@ pictures:
     image: 02-ken.jpg
     image_title: "Cold!"
     caption: "Cold!"
-    description: "A wee trip to Wisconsin and enjoying the balmy evening -14C. I didn’t run, but I saw some folk out running at -12C to-15C. Also amusing how many alarms go off in cars as all the sensors and electrics fail and the tyres deflate."
+    description: "A wee trip to Wisconsin and enjoying the balmy evening -14C. I didn’t run, but I saw some folk out running at -12C to-15C. Also amusing how many alarms go off in car as all the sensors and electrics fail and the tyres deflate."
     alt: "Snow covered bike leaning against a lamp post in a snow covered scene"
     month: february
     photographer: 80
   -
-    image: 02-kirsty.jpg
-    image_title: "Nordic cafe"
-    caption: "Cake"
-    description: "It seems like every time I go out I find a new cafe. Which means new cake to try. Also it was warm enough to sit outside in Feb so double win."
-    alt: "View from a table outside at a cafe next to Bath Abbey. The sun is shining, there is a plate with pastries on the table and beyond the tables there is the front of the Abbey."
-    month: february
-    photographer: 14
-  -
     image: 02-louise.jpg
     image_title: "February means frogs"
     caption: "February means frogs"
-    description: "It’s breeding time once again for our amphibious friends."
+    description: "It’s breeding time once again for our amphibious friends"
     alt: "Two frogs in an amorous embrace in a small pond"
     month: february
     photographer: 76
@@ -539,7 +499,7 @@ pictures:
     image: 02-matt_hobbs.jpg
     image_title: "I loved our visit to {{changestation}}"
     caption: "{{changestation}}"
-    description: "During half-term, I took my 2 sons on the train up to see my parents' new house that is currently going through a major renovation. From a 17th century house to a modern liveable space takes a while! Maybe I'll post a few photos on here in the future!<br ><br >On the train from Birmingham, Snow Hill to Stourbridge Junction, I noticed a minor issue on one of their train screens. It happened at every station. I think someone must have forgotten to write a set of robust tests to check for these issues! But hey, it made me smile every time it popped up. My sons were both confused about what I was taking a photo of and why I was smiling. I'm curious about what language they use to power these screens. My current theory is a Python-based framework with Jinja2 as the templating language. <br ><br >That being said, I thoroughly enjoyed our trip through {{changestation}}!"
+    description: "During half-term, I took my 2 sons on the train up to see my parent's new house that is currently going through a major renovation. From a 17th century house to a modern liveable space takes a while! Maybe I'll post a few photos on here in the future!<br ><br >On the train from Birmingham, Snow Hill to Stourbridge Junction, I noticed a minor issue on one of their train screens. It happened at every station. I think someone must have forgotten to write a set of robust tests to check for these issues! But hey, it made me smile every time it popped up. My sons were both confused about what I was taking a photo of and why I was smiling. I'm curious about what language they use to power these screens. My current theory is a Python-based framework with Jinja2 as the templating language. <br ><br >That being said, I thoroughly enjoyed our trip through {{changestation}}!"
     alt: "Image of a train screen with the caption \"Change here for {{changestation}}\""
     month: february
     photographer: 78
@@ -555,7 +515,7 @@ pictures:
     image: 02-pete_fairhurst.jpg
     image_title: "Shrimple"
     caption: "Shrimple"
-    description: "February spurred a bout of rejuvenation at home, mainly overhauling my home office which included a new, bigger tank for my tropical fish."
+    description: "February spurred a bought of rejuvenation at home, mainly overhauling my home office, which included a new, bigger tank for my tropical fish."
     alt: "An orange-red Taiwanese \"cherry\" shrimp, resting in a bright green aquatic plant"
     month: february
     photographer: 28
@@ -567,14 +527,6 @@ pictures:
     alt: "Elongated egg in an egg cup"
     month: february
     photographer: 87
-  -
-    image: 02-peter_chamberlin.jpg
-    image_title: "Addis Ababa"
-    caption: "Addis Ababa"
-    description: "Last month work took me to Addis Ababa. It was a fascinating trip for all kinds of reasons, but it was particularly striking that huge swathes of the city have been levelled recently. In a matter of weeks. There are acres and acres of rubble behind hoardings in the centre and throughout the wider city. I didn't see any plant machinery around, but a few days into the trip I saw a work party and I realised it was people with sledgehammers. Taking down a whole city."
-    alt: "Two women walk in front of a tall blue corrugated fence which runs along a dusty roadside in the bright African sun behind it new buildings are being constructed"
-    month: february
-    photographer: 27
   -
     image: 02-richard-monica.jpg
     image_title: "Heavy winter"
@@ -592,14 +544,6 @@ pictures:
     month: february
     photographer: 3
   -
-    image: 02-sheena.jpg
-    image_title: "Gentoo Penguin"
-    caption: "Gentoo Penguin"
-    description: "The gentoo penguin is a character. They fall over frequently, they waddle, they bicker, they chase each other, they slide on the snow on their stomachs, they waddle. they cross in front of you, they lead you back to your ‘tender’ etc. We have watched them for many hours in the Falklands, South Georgia and Antartica and they have never failed to entertain us."
-    alt: "Gentoo penguin walks along the shoreline"
-    month: february
-    photographer: 18
-  -
     image: 02-simon_field.jpg
     image_title: "Hidden Beauty"
     caption: "Hidden Beauty"
@@ -611,18 +555,10 @@ pictures:
     image: 02-steve_fearn.jpg
     image_title: "Poetic license?"
     caption: "Poetic license?"
-    description: "The words of the poem do well to conjure the image of an idyllic river meadow, I just found it hugely ironic that it looks like the developers have built all over it!!"
+    description: "The words of the poem do well to conjure the image of an idyllic river meadow, I just found it hugely ironic that it looks like the developers have built all over it !!"
     alt: "A plaque on a road bridge display the following poem by Greta Rowse...We've found a river wide and slow  We've found place where kingcups grow  We've found a meadow yellow-white  and watched the swallows dip in flight  The meadow mist is white as lace We've found another magic. Unfortunately the view over the bridge is of a stream channeled between  the backs of modern buildings."
     month: february
     photographer: 88
-  -
-    image: 02-steve_newstead.jpg
-    image_title: "Unloved Dog"
-    caption: "Unloved dog"
-    description: "Our dog doing all she can to get attention when the kids are watching YouTube."
-    alt: "Dog lying in the garden after stealing shoes and kids toys."
-    month: february
-    photographer: 95
   -
     image: 02-sue.jpg
     image_title: "Seeing Red!!!"
@@ -640,14 +576,6 @@ pictures:
     month: february
     photographer: 21
   -
-    image: 02-tim_blair.jpg
-    image_title: "Perch"
-    caption: "Perch"
-    description: "Over half term, we took the trip up to the West Midlands Safari Park, for a stay in a Tiger Lodge. This was a lodge with huge windows looking directly into the tiger enclosure! Such incredible creatures, and sitting or waking just outside the window! Just before we left, we visited “Lorikeet Landing,” and they really did land everywhere."
-    alt: "A bright green lorikeet perched on the flat cap of a bearded gentleman."
-    month: february
-    photographer: 71
-  -
     image: 02-tim_oneill.jpg
     image_title: "Glass brick wall"
     caption: "Still no living room but a rainbow!"
@@ -659,23 +587,15 @@ pictures:
     image: 02-tinus.jpg
     image_title: "Rune"
     caption: "Rune"
-    description: "The new lady in my life 😁"
+    description: "The new lady in my life😁"
     alt: "Rune"
     month: february
     photographer: 94
   -
-    image: 02-tom.jpg
-    image_title: "Sun indoors"
-    caption: "Sun indoors"
-    description: "It has been a cold and dark winter, so it was nice to see the sun - even if it was inside the Assembly Rooms. This was from the Helios exhibition - the \"sun\" version of the series which has so far seen the moon, Mars and Earth. While it wasn't as grand as the moon in the Abbey, this location was quieter and had beanbags around the room so you could sit and look. <br ><br >I sat for about an hour gazing at this orb and thinking. Highly evocative and very beautiful. It was also a weird experience - the room was lit with a soft orange glow and this huge ball of what looked like fire was hanging in the middle of the room. And yet, with a draft from the main entrance (behind the position of this photograph) it was also rather cold...<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/54326297100/\">Flickr</a>."
-    alt: "Large sculpt of the sun hanging in the middle of a Georgian hall"
-    month: february
-    photographer: 1
-  -
     image: 02-tom_bassett.jpg
     image_title: "Squatting"
     caption: "Squatting"
-    description: "Nothing much happened in freezing cold February. The cat was very much keen on not going out and nabbed my desk seat at every possible opportunity. This is very symbolic of something or other."
+    description: "Nothing much happened in freezing cold February.  The cat was very much keen on not going out and nabbed my desk seat at every possible opportunity.  This is very symbolic of something or other"
     alt: "Cat at desk"
     month: february
     photographer: 86
