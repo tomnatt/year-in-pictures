@@ -45,6 +45,11 @@ task :db_add_all_pictures do
   DbControl.add_all_pictures
 end
 
+desc 'Add all users to database'
+task :db_add_all_users do
+  DbControl.add_users
+end
+
 desc 'Update pictures from latest year'
 task :db_update do
   DbControl.update

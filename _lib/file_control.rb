@@ -27,7 +27,7 @@ class FileControl
     # Get the YAML from the app
     yaml_content = URI.parse(Config.users_yaml_url).open.read
     # Save to disk
-    File.write(Config.source_file_users_path, yaml_content)
+    File.write(Config.users_path, yaml_content)
   end
 
   def self.copy_pictures

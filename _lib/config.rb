@@ -9,6 +9,10 @@ class Config
     '_config/years.yml'
   end
 
+  def self.users_path
+    '_db/data/users.yml'
+  end
+
   def self.unknown_pic_path
     '_config/unknown_pic.yml'
   end
@@ -45,10 +49,6 @@ class Config
 
   def self.source_file_from_year_path(year)
     "_db/data/#{year}.yml"
-  end
-
-  def self.source_file_users_path
-    '_db/data/users.yml'
   end
 
   def self.get_generated_pagename(filename)
