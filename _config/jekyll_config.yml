@@ -6,10 +6,13 @@ plugins:
 sqlite:
   - data: years
     file: _db/yip.db
-    query: SELECT year, homepage FROM years WHERE year !=0 ORDER BY year ASC;
+    query: SELECT year, homepage, zodiac FROM years WHERE year !=0 ORDER BY year ASC;
   - data: pictures
     file: _db/yip.db
     query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year;
+  - data: photographers
+    file: _db/yip.db
+    query: SELECT * FROM users;
 
 page_gen:
   - data: pictures
@@ -95,6 +98,12 @@ page_gen:
     template: picture
     name: filename
     filter_condition: "record['year'] == 2025"
+
+  - data: photographers
+    page_data_prefix: photographer
+    dir: photographers
+    template: photographer
+    name: id
 
 sass:
   style: compressed

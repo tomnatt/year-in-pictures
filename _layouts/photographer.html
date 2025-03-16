@@ -1,0 +1,27 @@
+---
+layout: layout
+---
+
+<section class="photographer">
+  <h2>{{ page.photographer.name }}</h2>
+  <p>{{ site.data.years.last.year }}</p>
+
+  <p class="date">
+    <a href="/{{ page.pictures.homepage }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
+  </p>
+  <figure>
+    {% if page.pictures.year == 0 %}
+    <img src="/images/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
+    {% else %}
+    <img src="/images/{{ page.pictures.year }}/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
+    {% endif %}
+    <figcaption>{{ page.pictures.description }}</figcaption>
+  </figure>
+
+  <nav class="picture-nav pure-menu pure-menu-horizontal">
+    <ul class="pure-menu-list">
+      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.prev }}">&lt; Previous</a></li>
+      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.next }}">Next &gt;</a></li>
+    </ul>
+  </nav>
+</section>
