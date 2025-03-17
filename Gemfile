@@ -20,6 +20,9 @@ group :development, :test do
   gem 'rubocop-rake'
 end
 
+# AI control
+gem 'ruby_llm'
+
 # Added for new versions of Ruby
 gem 'bigdecimal'
 gem 'logger'
