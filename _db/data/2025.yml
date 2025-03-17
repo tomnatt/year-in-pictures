@@ -6,6 +6,7 @@ pictures:
     description: "January was long and dark for many reasons but seeing friends in cosy places makes things easier."
     alt: "Pub decorated with ephemera lit with cosy lighting"
     month: january
+    photographer: 32
   -
     image: 01-az.jpg
     image_title: "Slopes of Morzine"
@@ -13,6 +14,7 @@ pictures:
     description: "Lovely day on the slopes, but felt more like March rather than Jan on the mountains... no prizes for guessing why..."
     alt: "Blue sky day on the ski slopes of Morzine"
     month: january
+    photographer: 81
   -
     image: 01-bek.jpg
     image_title: "Potential Space"
@@ -20,6 +22,7 @@ pictures:
     description: "I love potential, it’s what dreams and vision are made of!"
     alt: "Looking inside the back door of an empty Luton van."
     month: january
+    photographer: 97
   -
     image: 01-bonnie-richard.jpg
     image_title: "The Moon and Venus"
@@ -27,6 +30,7 @@ pictures:
     description: "On January 2nd there was a crescent moon in close alignment with Venus and Saturn. Surprisingly, it was a clear night and we were able to see this alignment in great detail unlike the other alignments that occurred later in the month. January has been a quiet month. We hope you are all keeping well."
     alt: "The Moon and Venus"
     month: january
+    photographer: 5
   -
     image: 01-charlotte.jpg
     image_title: "The beauty of a bookstore"
@@ -34,6 +38,7 @@ pictures:
     description: "I will always support my local bookshop just around the corner, but it has been far far too long since I stepped inside Toppings in town.<br ><br >The smell of books, the sight of wall to ceiling shelves, the cool old fashion ladders on rails that you can use... Beautiful."
     alt: "Inside a bookstore. There is a table stacked with books in the centre and all the walls are stacked floor to ceiling with books. Against a wall, there is a wooden ladder on a rail that runs the length of the shelves"
     month: january
+    photographer: 77
   -
     image: 01-chloe.jpg
     image_title: "Castillo de Gibralfaro"
@@ -41,6 +46,7 @@ pictures:
     description: "The castle walls of the Castillo de Gibralfaro in Malaga during a short but sunny winter getaway."
     alt: "A path in the sunshine bordered by two castle walls, beyond which on each side is a sharp drop. The walls have trees growing on each side."
     month: january
+    photographer: 96
   -
     image: 01-chris.jpg
     image_title: "Unhelpful assistant"
@@ -48,6 +54,7 @@ pictures:
     description: "Salem taking up most of the table during a tutoring session. Clearly fuss is more important?"
     alt: "Black cat Salem, laying across work whilst intently watching a student"
     month: january
+    photographer: 91
   -
     image: 01-clive.jpg
     image_title: "Chessboard Sunset"
@@ -55,6 +62,7 @@ pictures:
     description: "Outdoor chessboard in the grounds of Hartsfield Manor, Betchworth."
     alt: "we see an outdoor chessboard in the grounds of Hartsfield Manor, Betchworth"
     month: january
+    photographer: 26
   -
     image: 01-dad.jpg
     image_title: "Magnificent ceiling"
@@ -62,6 +70,7 @@ pictures:
     description: "Saw this painted tower ceiling at the village church in Kempsford near to Swindon. I visit lots of churches all over the country during bellringing outings, and this recently restored ceiling must be the best I’ve seen in a village church."
     alt: "An ornate painted ceiling in a church at Kempsford."
     month: january
+    photographer: 22
   -
     image: 01-dan.jpg
     image_title: "Postural congruence twixt doge and table"
@@ -69,6 +78,7 @@ pictures:
     description: "A long dog on a beige carpet."
     alt: "A sleeping dog stretched out on a sandy coloured carpet"
     month: january
+    photographer: 6
   -
     image: 01-ed.jpg
     image_title: "Canal"
@@ -76,6 +86,7 @@ pictures:
     description: "The canal (which is circa 5mins walk from my house) frozen over, which made for some nice photos and children walking on the ice."
     alt: "Canal"
     month: january
+    photographer: 7
   -
     image: 01-gareth.jpg
     image_title: "Festival!"
@@ -83,6 +94,7 @@ pictures:
     description: "It's not actually a festival. This is Miniatur Wunderland in Hamburg, a model \"village\" which contains the largest model railway system in the world and is spread over several floors with rooms representing each continent. No train in this shot though, representing the real festival experience."
     alt: "To the casual observer a photo of a busy festival site, taken from an elevated point, surveying the whole scene. The main stage is on the right, there is a large crowd and, in the distance, a car park. The area is surrounded by mountainous terrain."
     month: january
+    photographer: 8
   -
     image: 01-gill.jpg
     image_title: "Sunset"
@@ -90,6 +102,7 @@ pictures:
     description: "Beautiful sunset and reflection, whilst walking through the grounds of Blenheim Palace."
     alt: "Sunset"
     month: january
+    photographer: 9
   -
     image: 01-hanna.jpg
     image_title: "Gloomy January"
@@ -97,6 +110,7 @@ pictures:
     description: "We've had so little snow this year that January has had an extra gloomy feel to it. Bring back proper winters!"
     alt: "Foggy landscape"
     month: january
+    photographer: 10
   -
     image: 01-himal.jpg
     image_title: "Whitehall haze"
@@ -104,6 +118,7 @@ pictures:
     description: "Looking down Whitehall from Trafalgar Square with Big Ben in the distance."
     alt: "Looking down Whitehall from Trafalgar Square with Big Ben in the distance."
     month: january
+    photographer: 82
   -
     image: 01-james_wiggins.jpg
     image_title: "Tiny War"
@@ -111,6 +126,7 @@ pictures:
     description: "January was mostly filled with being unwell in one way or another. I managed to get out the house for an epic scale tournament, so here are some of my terminators engaging the enemy (they are in yellow)."
     alt: "Small plastic miniatures close in to melee combat around their drop craft"
     month: january
+    photographer: 29
   -
     image: 01-jen.jpg
     image_title: "Iced"
@@ -118,6 +134,7 @@ pictures:
     description: "A crispy snowy morning at Stowe, perfect for a stomp around with our little one who has just learned to walk."
     alt: "A leaf in the foreground edged with ice crystals. Out of focus behind is a ornate domed building"
     month: january
+    photographer: 34
   -
     image: 01-jennie.jpg
     image_title: "Raaahhhh!"
@@ -125,6 +142,7 @@ pictures:
     description: "We went to the Natural History museum & I was told off for looking at the beautiful building rather than the exhibits! Such beautiful architecture and so much thought in the design details, plus wonderful shadows!"
     alt: "Dinosaur shadow"
     month: january
+    photographer: 98
   -
     image: 01-jess_newby.jpg
     image_title: "Reflections"
@@ -132,6 +150,7 @@ pictures:
     description: "The top half shows a bright blue cloudy sky. The bottom half shows that sky reflected in the water pooled in the rippled sand of the beach. The horizon in the centre shows Margate, a variety of buildings."
     alt: "The top half shows a bright blue cloudy sky. The bottom half shows that sky reflected in the water pooled in the rippled sand of the beach. The horizon in the centre shows Margate, a variety of buildings."
     month: january
+    photographer: 89
   -
     image: 01-kat.jpg
     image_title: "Lovely journals"
@@ -139,6 +158,7 @@ pictures:
     description: "I was so excited when these arrived in the post!  I've journalled on and off for most of my  life but had fallen out of the habit in the last year or so. This is what I needed to jump start it again.  I love the journal and also Donna's writing, very inspiring."
     alt: "A daily journal called Words to live by, alongside a blank notebook with a cheerfully colourful tree drawn in the cover."
     month: january
+    photographer: 13
   -
     image: 01-ken.jpg
     image_title: "Star Beers"
@@ -146,6 +166,7 @@ pictures:
     description: "Some lovely Star Wars themed beers from a friend."
     alt: "Beers with Star Wars pictures on them"
     month: january
+    photographer: 80
   -
     image: 01-kirsty.jpg
     image_title: "Bath"
@@ -153,6 +174,7 @@ pictures:
     description: "This is likely to take a while."
     alt: "A jigsaw puzzle with the edges completed a small scene at the bottom and a big gap remaining to be filled with a giant tree"
     month: january
+    photographer: 14
   -
     image: 01-louise.jpg
     image_title: "Me and my little shadow"
@@ -160,6 +182,7 @@ pictures:
     description: "Taken from a cliff side lump in Dorset."
     alt: "Green countryside with a small shadow of a person and a little dog"
     month: january
+    photographer: 76
   -
     image: 01-lyns.jpg
     image_title: "Test Hut"
@@ -167,6 +190,7 @@ pictures:
     description: "Test Hut - found in Brighton or Hove."
     alt: "Multicoloured beach huts painted like the test card"
     month: january
+    photographer: 15
   -
     image: 01-matt_hobbs.jpg
     image_title: "January walk in Blenheim"
@@ -174,6 +198,7 @@ pictures:
     description: "Due to the horrible weather on New Years Day we bumped our annual tradition of walking the Blenheim community walk to the 2nd. Very muddy but beautiful day!<br ><br >Fantastic walk around the edge of the estate, highly recommended if you are in the Long Hanbrough area.<br ><br >While on the walk I happened to notice this gate in the middle of the main path. I remember it from last year, but forgot to take a picture of it. <br ><br >It looks like it could be a meme for some cybersecurity technology as you can literally walk around either side of it! High security indeed!"
     alt: "Photo of a gate in the middle of a path with no fencing either side so it's pretty pointless."
     month: january
+    photographer: 78
   -
     image: 01-matt_holyoake.jpg
     image_title: "New Year, new house"
@@ -181,6 +206,7 @@ pictures:
     description: "Out with the plain 70s wallpaper, in with a bold colour."
     alt: "New Year, new house"
     month: january
+    photographer: 74
   -
     image: 01-pete_fairhurst.jpg
     image_title: "Getting some colour back"
@@ -188,6 +214,7 @@ pictures:
     description: "January was another generally washed out and interminably grey month. We did catch the fringes of a few of the storms that have battered the UK in recent weeks though, which sometimes left clearer skies and brighter sunshine in their wake for a while."
     alt: "A green paddock rolling slightly downhill to a stand of leafless grey-brown trees, with bright town buildings in the further distance, and the sea in the background"
     month: january
+    photographer: 28
   -
     image: 01-pete_rogers.jpg
     image_title: "Logo design"
@@ -195,6 +222,7 @@ pictures:
     description: "I spend a reasonable amount of time coming up with ideas that will never see the light of day. Here's to January's concept of tumbling coal chunks that are dislodged as the client's campaign logo comes pushing through. Hmmm."
     alt: "Draft design of a logo consisting of coal falling"
     month: january
+    photographer: 87
   -
     image: 01-peter_chamberlin.jpg
     image_title: "New Year's Day"
@@ -202,6 +230,7 @@ pictures:
     description: "Our village has a tradition of meeting for a dram around a fire on New Year's Day. The fire is set on the hill in the woods, up a steep track from the village. We each carry our own piece of firewood and welcome the new year with a neighbourly blether."
     alt: "Numerous warmly attired villagers gathered around a bonfire in the cold woods with a dram of whisky for a neighbourly blether"
     month: january
+    photographer: 27
   -
     image: 01-rhiannon_lawson.jpg
     image_title: "Big changes afoot..."
@@ -209,6 +238,7 @@ pictures:
     description: "Big changes afoot..."
     alt: "Ultrasound of a baby"
     month: january
+    photographer: 35
   -
     image: 01-richard-monica.jpg
     image_title: "Neighbour's dog"
@@ -216,6 +246,7 @@ pictures:
     description: "Friendly dog in warm Winter. Photo taken by my amazing and wonderful wife."
     alt: "Dog in warm Winter"
     month: january
+    photographer: 31
   -
     image: 01-sean.jpg
     image_title: "Richmond street"
@@ -223,6 +254,7 @@ pictures:
     description: "Downtown Toronto on a sunny day after snowfall."
     alt: "Couple walks down a quiet street in downtown Toronto on a bright day after snowfall. They are silhouetted in a bright patch of sun and light reflected off snow on the ground"
     month: january
+    photographer: 3
   -
     image: 01-sheena.jpg
     image_title: "Cleaning"
@@ -230,6 +262,7 @@ pictures:
     description: "We’ve spent much of January preparing our new home for occupation. The previous owners clearly had an aversion to cleaning."
     alt: "Dirty yellow cloth"
     month: january
+    photographer: 18
   -
     image: 01-simon_field.jpg
     image_title: "Frosty Pontoon"
@@ -237,6 +270,7 @@ pictures:
     description: "Westbere Frostbite Sailing Association lives up to its name on a frosty morning in glorious sunshine. Ice breaking was the first order of duty before racing could begin."
     alt: "Sun rises over a frosty lake mooring pontoon"
     month: january
+    photographer: 90
   -
     image: 01-steve_fearn.jpg
     image_title: "Lost boot"
@@ -244,6 +278,7 @@ pictures:
     description: "I've never seen a bridle path sign using images and the lost/found wellington made it more interesting."
     alt: "The foreground contains an old fencepost next to a bridleway sign. Instead of words the sign shows three outlines of horses. And on top of the fence post someone has placed a single blue  child's wellington."
     month: january
+    photographer: 88
   -
     image: 01-steve_newstead.jpg
     image_title: "Kit Kat?"
@@ -251,6 +286,7 @@ pictures:
     description: "Little old Kit Kat straying way of its lane."
     alt: "A new style of Kit Kat"
     month: january
+    photographer: 95
   -
     image: 01-sue.jpg
     image_title: "The meeting of Angels!"
@@ -258,6 +294,7 @@ pictures:
     description: "Our two Angels have grown big and are looking splendid! Not much to photograph in January - the weather has not been great. Hope you have all had a better month."
     alt: "Our two Angel Fish in our five foot aquarium have grown quite big and are looking splendid in their white attire and black and orange markings."
     month: january
+    photographer: 20
   -
     image: 01-teresa.jpg
     image_title: "But I was Sleeeeping!"
@@ -265,6 +302,7 @@ pictures:
     description: "Called the cat for breakfast and he was a no-show. Spent time checking chilly garage and several even chillier farm buildings. How come the one who was having a cosy sleep in a fabric basket gets to look annoyed?!"
     alt: "Cross looking ginger cat getting out of a basket"
     month: january
+    photographer: 21
   -
     image: 01-tim_blair.jpg
     image_title: "Wake the Tiger"
@@ -272,6 +310,7 @@ pictures:
     description: "We decided to have a January blues-busting trip out, and our \"pin in a map\" approach landed us in Bristol for the weekend. Given we were only there for about 30 hours, we packed a lot in!<br ><br >A boat tour; headed to a lovely restaurant which had been recommended by colleagues (Root) for lunch; visited M Shed, a museum about Bristol right on the dockside, including seeing the book made from the skin of a prisoner sentenced to death!; briefly helped / hindered a wedding photo shoot on the Christmas Steps;  drinking Belgian beers and playing Yahtzee in the Strawberry Thief (and felt the effects of those beers in the morning...); met up with a colleague and his family to play some ice-free curling.<br ><br >On the Sunday morning, we headed out to an industrial estate to a experience called \"Wake the Tiger.\" It was absolutely bonkers, and my son and I loved it. It's described as a \"labyrinth of exploration which begins in an abandoned paint factory before journeying into the Dream Factory, and finally transcending to the OUTERverse.\" It's not the sort of thing that you can really describe well, but it was fantastic, and I can definitely recommend it!"
     alt: "Typewriters, keyboards, rotary phones, game controllers, and TV remote controls stuck on a red wall."
     month: january
+    photographer: 71
   -
     image: 01-tim_oneill.jpg
     image_title: "Splaaaaat"
@@ -279,6 +318,7 @@ pictures:
     description: "House sitting for some friends and their pets whilst ours is having work done. This is their dog. Absurd."
     alt: "Absurd"
     month: january
+    photographer: 83
   -
     image: 01-tinus.jpg
     image_title: "London Skyline"
@@ -286,6 +326,7 @@ pictures:
     description: "London Skyline outside our new office."
     alt: "London Skyline"
     month: january
+    photographer: 94
   -
     image: 01-tom.jpg
     image_title: "Let's Go!"
@@ -293,6 +334,7 @@ pictures:
     description: "You've seen the Longest Yarn on this site before and I wanted to share my picture of the event. I took <a href=\"https://www.flickr.com/photos/tomnatt/albums/72177720323211974/\">photos of the entire exhibition</a> which I think are worth a look, but this is my favourite. It shows the allied leaders discussing the D-Day landings with General Eisenhower giving the \"go\" order. I love the how expressive the dolls are and the level of craft on display - generally amazing throughout, but this one stood out. <br ><br >The Longest Yarn is a series of woollen tableaux depicting the D-Day landings and the invasion of Europe. There are 80 of them, to celebrate the 80th anniversary.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/54267415937/\">Flickr</a>."
     alt: "Woollen dolls of military leaders planning the invasion of Europe"
     month: january
+    photographer: 1
   -
     image: 01-tom_bassett.jpg
     image_title: "Frozen teazel"
@@ -300,6 +342,31 @@ pictures:
     description: "-1 in Arundel, at last some proper winter!"
     alt: "Frozen plant"
     month: january
+    photographer: 86
+  -
+    image: 02-amy.jpg
+    image_title: "Cactus League"
+    caption: "Cactus League"
+    description: "We travelled to Arizona to see my beloved Cubs play at Spring Training. Is there anything more perfect than an afternoon in the sun watching the poetry of baseball? I think not!"
+    alt: "Sign for Cubs baseball with flower pots in front"
+    month: february
+    photographer: 32
+  -
+    image: 02-az.jpg
+    image_title: "Flying Scotsman Hornby model"
+    caption: "Hornby Heaven"
+    description: "Happiness is a Flying Scotsman Hornby model - looks like we'll need to build a bigger track..."
+    alt: "Picture if child looking at a Hornby Flying Scotsman model on a table"
+    month: february
+    photographer: 81
+  -
+    image: 02-bek.jpg
+    image_title: "Change your brain change your life!"
+    caption: "Change your brain change your life!"
+    description: "We work with the anterior cingulate cortex in art therapy, it is the part of the brain responsible for decision making! It is located the lymbic system (the emotion centre) not in the pre frontal cortex (the thinking part). 90% of decision making is made from our unconscious self, the part made up of repetitious behavioural and relational patterns formed from our life experiences."
+    alt: "A cross section diagram of the brain, mostly pink with a small C shaped part close to the middle coloured blue to represent the point of interest."
+    month: february
+    photographer: 97
   -
     image: 02-bonnie-richard.jpg
     image_title: "Loft Treasure"
@@ -307,6 +374,23 @@ pictures:
     description: "February has been a very wet month so we decided to do some clearing of the loft.<br ><br >One of the items \"cleared\" was my old LP collection that has been gathering dust in various lofts for decades. <br ><br >Bonnie took some LPs to the Oxfam Book shop where she volunteers as they also sell vinyl records.<br ><br >They were very grateful for them and subsequently sold some for £50.  However, one of her fellow volunteers told her he stopped looking at the value after it reached £300. Unsurprisingly, she asked for the LP back!  I bought it in 1971 but did not like it - so it was hardly played.<br ><br >So much time has been spent trying to understand how to value LPs and how to sell them (mind boggling). In the end, this LP has been accepted for auction in the coming months. <br ><br >We wait to see what happens - but you may wish to check any old collections you have - just a suggestion."
     alt: "Loft Treasure"
     month: february
+    photographer: 5
+  -
+    image: 02-charlotte.jpg
+    image_title: "Spring flower"
+    caption: "Spring flower"
+    description: "Lovely weather means being able to enjoy being outside in nature - my favourite thing to do - and in February too!"
+    alt: "Close up of a purple flower with an orange stigma on display, in the background lush green grass and a few other purple flowers"
+    month: february
+    photographer: 77
+  -
+    image: 02-chloe.jpg
+    image_title: "Paddington visits Norwich"
+    caption: "Paddington visits Norwich"
+    description: "The new Paddington Bear bench just outside Norwich Cathedral."
+    alt: "A statue of Paddington Bear sitting on a bench eating a marmalade sandwich"
+    month: february
+    photographer: 96
   -
     image: 02-chris.jpg
     image_title: "A simple cottage pie"
@@ -314,6 +398,23 @@ pictures:
     description: "A lovingly made cottage pie to feed the D&D boys on a Tuesday. <br ><br >No cottages were harmed in the making of this meal."
     alt: "A lightly crispy potato top of a cottage pie, to feed 5 very grateful D&D players"
     month: february
+    photographer: 91
+  -
+    image: 02-clive.jpg
+    image_title: "St Martins Dorking"
+    caption: "St Martins Dorking"
+    description: "Blue evening - St Martins Dorking."
+    alt: "Blue evening frames St Martins Dorking"
+    month: february
+    photographer: 26
+  -
+    image: 02-dad.jpg
+    image_title: "Snowdrop season"
+    caption: "Snowdrop season"
+    description: "Snowdrops at the annual Colesbourne Snowdrop Festival."
+    alt: "Snowdrop growing at Colesbourne"
+    month: february
+    photographer: 22
   -
     image: 02-dan.jpg
     image_title: "Class in a (shot) glass"
@@ -321,6 +422,7 @@ pictures:
     description: "I was delighted to be served a pickled egg perched atop a standard pub measure shot glass. It made the egg taste even more sophisticated than usual."
     alt: "A pickled egg sat in a small glass on a wooden pub bar"
     month: february
+    photographer: 6
   -
     image: 02-ed.jpg
     image_title: "Rugby"
@@ -328,13 +430,15 @@ pictures:
     description: "I attended Twickenham, in some pretty decent seats, to watch England just about beat Scotland."
     alt: "Rubgy"
     month: february
+    photographer: 7
   -
     image: 02-gareth.jpg
     image_title: "Bunk'Art 2"
     caption: "Bunk'Art 2"
-    description: "This is the entrance to Bunk'Art 2 - A museum in Tirana, Albania, dedicated to the country's communist era and, in particular, the techniques used by the Ministry of Internal Affairs and police force to monitor the population. The museum itself is inside an enormous underground bunker which comprises over 24 rooms and designed for ministerial staff to use in the event of chemical or nuclear attack. It's actually one of over 175,000 bunkers, of wildly varying sizes, scattered about the country,"
+    description: "This is the entrance to Bunk'Art 2 - A museum in Tirana, Albania, dedicated to the country's communist era and, in particular, the techniques used by the Ministry of Internal Affairs and police force to monitor the population. The museum itself is inside an enormous underground bunker which comprises over 24 rooms and designed for ministerial staff to use in the event of chemical or nuclear attack. It's actually one of over 175,000 bunkers, of wildly varying sizes, scattered about the country."
     alt: "On a pedestrianized street, outside a yellow building, there is a concrete dome, about 10 foot tall, with a door at the front an the words \"Museum\" written along the side. Through the glass door we see the start of a staircase, and little else."
     month: february
+    photographer: 8
   -
     image: 02-gill.jpg
     image_title: "Our granddog"
@@ -342,6 +446,15 @@ pictures:
     description: "Our granddog trying to disguise himself as a chocolate Labrador. :)"
     alt: "Our granddog"
     month: february
+    photographer: 9
+  -
+    image: 02-hanna.jpg
+    image_title: "Beautiful Scotland"
+    caption: "Beautiful Scotland"
+    description: "We visited Scotland in February and were yet again so impressed by the history and amazing landscapes. The castle ruins in Finland tend to be just boring piles of rock, and while our coast is beautiful, it's just got a very different vibe going."
+    alt: "View from castle ruins on a coast"
+    month: february
+    photographer: 10
   -
     image: 02-himal.jpg
     image_title: "Moon and Venus"
@@ -349,13 +462,31 @@ pictures:
     description: "The moon and Venus close together in the sky at the start of February 2025."
     alt: "Crescent moon with Venus as hard white dot beneath."
     month: february
+    photographer: 82
   -
     image: 02-james_wiggins.jpg
     image_title: "The Hydra"
     caption: "Why did it have to be snakes?"
-    description: "It's seemed like a long February to me, but managed to get some D&D games run. Here is the hydra that faces down my Thursday night group as they wander through the Crypt of the Talhund"
+    description: "It's seemed like a long February to me, but managed to get some D&D games run. Here is the hydra that faces down my Thursday night group as they wander through the Crypt of the Talhund."
     alt: "A green painted, 5-headed snake miniature stands next the edge of an underground lake"
     month: february
+    photographer: 29
+  -
+    image: 02-jen.jpg
+    image_title: "Reading material"
+    caption: "Reading material"
+    description: "A rare moment of downtime, lunch to myself, and a new book to dip into."
+    alt: "The cover of a book titled 'women living deliciously' placed on a table in a restaurant"
+    month: february
+    photographer: 34
+  -
+    image: 02-jennie.jpg
+    image_title: "Ardman"
+    caption: "Ardman"
+    description: "We went to see the festival of lights in Bristol - just around the corner was Morph waving!"
+    alt: "Ardman in Bristol wall art"
+    month: february
+    photographer: 98
   -
     image: 02-jess_newby.jpg
     image_title: "Chained decadence"
@@ -363,13 +494,39 @@ pictures:
     description: "3 bottles of Champagne on a shelf with a chain wrapped around the necks to connect them. Below them are white squares of card with descriptions of each Champagne."
     alt: "3 bottles of Champagne on a shelf with a chain wrapped around the necks to connect them. Below them are white squares of card with descriptions of each Champagne."
     month: february
+    photographer: 89
+  -
+    image: 02-kat.jpg
+    image_title: "Joys of February"
+    caption: "Joys of February"
+    description: "February celebrations: my boy's birthday!  The first shoots of green, sunset walks and a bit of poetry :)"
+    alt: "Pink hyacinths, snowdrops, a chocolate cake and a poem \"The call of the sea\" by Vanessa Wylie"
+    month: february
+    photographer: 13
   -
     image: 02-ken.jpg
     image_title: "Cold!"
     caption: "Cold!"
-    description: "A wee trip to Wisconsin and enjoying the balmy evening -14C. I didn’t run, but I saw some folk out running at -12C to-15C. Also amusing how many alarms go off in car as all the sensors and electrics fail and the tyres deflate."
+    description: "A wee trip to Wisconsin and enjoying the balmy evening -14C. I didn’t run, but I saw some folk out running at -12C to-15C. Also amusing how many alarms go off in cars as all the sensors and electrics fail and the tyres deflate."
     alt: "Snow covered bike leaning against a lamp post in a snow covered scene"
     month: february
+    photographer: 80
+  -
+    image: 02-kirsty.jpg
+    image_title: "Nordic cafe"
+    caption: "Cake"
+    description: "It seems like every time I go out I find a new cafe. Which means new cake to try. Also it was warm enough to sit outside in Feb so double win."
+    alt: "View from a table outside at a cafe next to Bath Abbey. The sun is shining, there is a plate with pastries on the table and beyond the tables there is the front of the Abbey."
+    month: february
+    photographer: 14
+  -
+    image: 02-louise.jpg
+    image_title: "February means frogs"
+    caption: "February means frogs"
+    description: "It’s breeding time once again for our amphibious friends."
+    alt: "Two frogs in an amorous embrace in a small pond"
+    month: february
+    photographer: 76
   -
     image: 02-lyns.jpg
     image_title: "Poo Monitor"
@@ -377,13 +534,47 @@ pictures:
     description: "This egg interrupted a work meeting to make me clear up electronic excrement. Little else has happened in February."
     alt: "Colourful Tamagotchi doing a poo"
     month: february
+    photographer: 15
   -
     image: 02-matt_hobbs.jpg
     image_title: "I loved our visit to {{changestation}}"
     caption: "{{changestation}}"
-    description: "During half-term, I took my 2 sons on the train up to see my parent's new house that is currently going through a major renovation. From a 17th century house to a modern liveable space takes a while! Maybe I'll post a few photos on here in the future!<br ><br >On the train from Birmingham, Snow Hill to Stourbridge Junction, I noticed a minor issue on one of their train screens. It happened at every station. I think someone must have forgotten to write a set of robust tests to check for these issues! But hey, it made me smile every time it popped up. My sons were both confused about what I was taking a photo of and why I was smiling. I'm curious about what language they use to power these screens. My current theory is a Python-based framework with Jinja2 as the templating language. <br ><br >That being said, I thoroughly enjoyed our trip through {{changestation}}!"
+    description: "During half-term, I took my 2 sons on the train up to see my parents' new house that is currently going through a major renovation. From a 17th century house to a modern liveable space takes a while! Maybe I'll post a few photos on here in the future!<br ><br >On the train from Birmingham, Snow Hill to Stourbridge Junction, I noticed a minor issue on one of their train screens. It happened at every station. I think someone must have forgotten to write a set of robust tests to check for these issues! But hey, it made me smile every time it popped up. My sons were both confused about what I was taking a photo of and why I was smiling. I'm curious about what language they use to power these screens. My current theory is a Python-based framework with Jinja2 as the templating language. <br ><br >That being said, I thoroughly enjoyed our trip through {{changestation}}!"
     alt: "Image of a train screen with the caption \"Change here for {{changestation}}\""
     month: february
+    photographer: 78
+  -
+    image: 02-matt_holyoake.jpg
+    image_title: "A sunny morning over the Thames"
+    caption: "A sunny morning over the Thames"
+    description: "Took this walking over London Bridge - is spring finally here?"
+    alt: "A sunny morning over the Thames"
+    month: february
+    photographer: 74
+  -
+    image: 02-pete_fairhurst.jpg
+    image_title: "Shrimple"
+    caption: "Shrimple"
+    description: "February spurred a bout of rejuvenation at home, mainly overhauling my home office which included a new, bigger tank for my tropical fish."
+    alt: "An orange-red Taiwanese \"cherry\" shrimp, resting in a bright green aquatic plant"
+    month: february
+    photographer: 28
+  -
+    image: 02-pete_rogers.jpg
+    image_title: "Eggs"
+    caption: "Eggs"
+    description: "One of our chickens has started laying funny shaped eggs..."
+    alt: "Elongated egg in an egg cup"
+    month: february
+    photographer: 87
+  -
+    image: 02-peter_chamberlin.jpg
+    image_title: "Addis Ababa"
+    caption: "Addis Ababa"
+    description: "Last month work took me to Addis Ababa. It was a fascinating trip for all kinds of reasons, but it was particularly striking that huge swathes of the city have been levelled recently. In a matter of weeks. There are acres and acres of rubble behind hoardings in the centre and throughout the wider city. I didn't see any plant machinery around, but a few days into the trip I saw a work party and I realised it was people with sledgehammers. Taking down a whole city."
+    alt: "Two women walk in front of a tall blue corrugated fence which runs along a dusty roadside in the bright African sun behind it new buildings are being constructed"
+    month: february
+    photographer: 27
   -
     image: 02-richard-monica.jpg
     image_title: "Heavy winter"
@@ -391,6 +582,7 @@ pictures:
     description: "A heavy winter. Photo taken by my amazing and brilliant wife."
     alt: "BW photo of winter snow"
     month: february
+    photographer: 31
   -
     image: 02-sean.jpg
     image_title: "Take my fucking picture"
@@ -398,6 +590,15 @@ pictures:
     description: "When you finally convince someone it is in fact legal to take photos of strangers on the street, and they insist on you taking theirs."
     alt: "A man angrily flipping off the photographer, in black and white. He is wearing a knit beanie hat, has a small tattoo under his right eye, and is glaring at close range directly into the camera. His finger covers the lower part of his face."
     month: february
+    photographer: 3
+  -
+    image: 02-sheena.jpg
+    image_title: "Gentoo Penguin"
+    caption: "Gentoo Penguin"
+    description: "The gentoo penguin is a character. They fall over frequently, they waddle, they bicker, they chase each other, they slide on the snow on their stomachs, they waddle. they cross in front of you, they lead you back to your ‘tender’ etc. We have watched them for many hours in the Falklands, South Georgia and Antartica and they have never failed to entertain us."
+    alt: "Gentoo penguin walks along the shoreline"
+    month: february
+    photographer: 18
   -
     image: 02-simon_field.jpg
     image_title: "Hidden Beauty"
@@ -405,13 +606,23 @@ pictures:
     description: "Access for minor repairs to a Hungarian Twelco TW-LP44s location mixer afforded this view of the insides of a rather nicely built unit."
     alt: "Interior of portable audio mixer showing circuitry"
     month: february
+    photographer: 90
   -
     image: 02-steve_fearn.jpg
     image_title: "Poetic license?"
     caption: "Poetic license?"
-    description: "The words of the poem do well to conjure the image of an idyllic river meadow, I just found it hugely ironic that it looks like the developers have built all over it !!"
+    description: "The words of the poem do well to conjure the image of an idyllic river meadow, I just found it hugely ironic that it looks like the developers have built all over it!!"
     alt: "A plaque on a road bridge display the following poem by Greta Rowse...We've found a river wide and slow  We've found place where kingcups grow  We've found a meadow yellow-white  and watched the swallows dip in flight  The meadow mist is white as lace We've found another magic. Unfortunately the view over the bridge is of a stream channeled between  the backs of modern buildings."
     month: february
+    photographer: 88
+  -
+    image: 02-steve_newstead.jpg
+    image_title: "Unloved Dog"
+    caption: "Unloved dog"
+    description: "Our dog doing all she can to get attention when the kids are watching YouTube."
+    alt: "Dog lying in the garden after stealing shoes and kids toys."
+    month: february
+    photographer: 95
   -
     image: 02-sue.jpg
     image_title: "Seeing Red!!!"
@@ -419,6 +630,7 @@ pictures:
     description: "My Amarylis has done me proud again -  after having been rested in a dark cupboard for some months, starved of food and water, this year it has produced two stems one of which is 3 ft high with a total of eight beautiful large blooms. Last year it produced twelve blooms. I bought it for just £6 so I have really had my money’s worth from it and look forward to more flowers next year. I usually manage to kill most house plants but seem to be good with Orchids and now Amarylis 🙂."
     alt: "A tall plant growing in a pot on a window sill consisting of two tall sturdy stems, one 3ft high, bearing two flower heads of eight beautiful large trumpet like scarlet blooms . My Amarylis has done it again, second year running. A wonderful show of colour to brighten the grey days of January and February."
     month: february
+    photographer: 20
   -
     image: 02-teresa.jpg
     image_title: "Snowdrops"
@@ -426,3 +638,44 @@ pictures:
     description: "Just the thing for a misty morning - lying in the wet grass taking photos!"
     alt: "Snowdrops blooming near a tree trunk"
     month: february
+    photographer: 21
+  -
+    image: 02-tim_blair.jpg
+    image_title: "Perch"
+    caption: "Perch"
+    description: "Over half term, we took the trip up to the West Midlands Safari Park, for a stay in a Tiger Lodge. This was a lodge with huge windows looking directly into the tiger enclosure! Such incredible creatures, and sitting or waking just outside the window! Just before we left, we visited “Lorikeet Landing,” and they really did land everywhere."
+    alt: "A bright green lorikeet perched on the flat cap of a bearded gentleman."
+    month: february
+    photographer: 71
+  -
+    image: 02-tim_oneill.jpg
+    image_title: "Glass brick wall"
+    caption: "Still no living room but a rainbow!"
+    description: "New wall of colour!"
+    alt: "Brickageddon"
+    month: february
+    photographer: 83
+  -
+    image: 02-tinus.jpg
+    image_title: "Rune"
+    caption: "Rune"
+    description: "The new lady in my life 😁"
+    alt: "Rune"
+    month: february
+    photographer: 94
+  -
+    image: 02-tom.jpg
+    image_title: "Sun indoors"
+    caption: "Sun indoors"
+    description: "It has been a cold and dark winter, so it was nice to see the sun - even if it was inside the Assembly Rooms. This was from the Helios exhibition - the \"sun\" version of the series which has so far seen the moon, Mars and Earth. While it wasn't as grand as the moon in the Abbey, this location was quieter and had beanbags around the room so you could sit and look. <br ><br >I sat for about an hour gazing at this orb and thinking. Highly evocative and very beautiful. It was also a weird experience - the room was lit with a soft orange glow and this huge ball of what looked like fire was hanging in the middle of the room. And yet, with a draft from the main entrance (behind the position of this photograph) it was also rather cold...<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/54326297100/\">Flickr</a>."
+    alt: "Large sculpt of the sun hanging in the middle of a Georgian hall"
+    month: february
+    photographer: 1
+  -
+    image: 02-tom_bassett.jpg
+    image_title: "Squatting"
+    caption: "Squatting"
+    description: "Nothing much happened in freezing cold February. The cat was very much keen on not going out and nabbed my desk seat at every possible opportunity. This is very symbolic of something or other."
+    alt: "Cat at desk"
+    month: february
+    photographer: 86
