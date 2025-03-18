@@ -17,6 +17,10 @@ class Config
     '_config/unknown_pic.yml'
   end
 
+  def self.photographer_pages_dir
+    'photographers'
+  end
+
   def self.image_source_directory(prev_month)
     "#{ENV.fetch('YIP_IMAGE_SOURCE_DIR')}/#{prev_month[:year]}/#{prev_month[:month].to_s.rjust(2, '0')}"
   end

@@ -56,10 +56,8 @@
       <header class="pure-g">
         {% if page.pictures.zodiac %}
         <h1 class="pure-u-1"><a href="/{{ page.pictures.homepage }}">{{ page.pictures.zodiac }}</a></h1>
-        {% elsif page.index %}
-        <h1 class="pure-u-1"><a href="/{{ page.index }}">{{ page.title }}</a></h1>
         {% else %}
-        <h1 class="pure-u-1"><a href="/{{ site.data.years.last.homepage }}">{{ site.data.years.last.zodiac }}</a></h1>
+        <h1 class="pure-u-1"><a href="/{{ page.index }}">{{ page.title }}</a></h1>
         {% endif %}
 
         {% if page.months == true %}

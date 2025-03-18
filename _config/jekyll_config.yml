@@ -99,12 +99,6 @@ page_gen:
     name: filename
     filter_condition: "record['year'] == 2025"
 
-  - data: photographers
-    page_data_prefix: photographer
-    dir: photographers
-    template: photographer
-    name: id
-
 sass:
   style: compressed
   sass_dir: _assets
