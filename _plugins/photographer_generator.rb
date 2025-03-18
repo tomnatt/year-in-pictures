@@ -12,6 +12,7 @@ module PhotographerGenerator
     end
   end
 
+  # rubocop:disable Metrics/MethodLength
   class PhotographerPage < Jekyll::Page
     def initialize(site, photographer)
       @site = site                                  # the current site instance
@@ -36,4 +37,5 @@ module PhotographerGenerator
       }
     end
   end
+  # rubocop:enable Metrics/MethodLength
 end
