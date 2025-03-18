@@ -67,6 +67,7 @@ $gutter-small-padding: 0 1.25rem;
   width: 100%;
   position: relative;
   transition: transform 500ms ease;
+  min-height: 50rem;
 }
 
 .year-menu-toggle {
