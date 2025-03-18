@@ -30,6 +30,7 @@ module PhotographerGenerator
       @data = {
         'layout' => 'photographer',
         'title' => "Photographs from #{photographer['name']}",
+        'description' => photographer['name'],
         'years' => pics_by_year.keys,
         'pics' => pics_by_year
       }

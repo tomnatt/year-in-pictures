@@ -7,6 +7,9 @@
   {% if page.pictures.zodiac %}
   <meta name="description" content="Photos from {{ page.pictures.year }}"/>
   <title>{{ page.pictures.zodiac }}</title>
+  {% elsif page.description %}
+  <meta name="description" content="Photos from {{ page.description }}"/>
+  <title>{{ page.title }}</title>
   {% else %}
   <meta name="description" content="Photos from {{ page.year }}"/>
   <title>{{ page.title }}</title>
