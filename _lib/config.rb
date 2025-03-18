@@ -9,8 +9,16 @@ class Config
     '_config/years.yml'
   end
 
+  def self.users_path
+    '_db/data/users.yml'
+  end
+
   def self.unknown_pic_path
     '_config/unknown_pic.yml'
+  end
+
+  def self.photographer_pages_dir
+    'photographers'
   end
 
   def self.image_source_directory(prev_month)
@@ -51,7 +59,11 @@ class Config
     "#{File.basename(filename, File.extname(filename))}.html"
   end
 
-  def self.yaml_url(year)
+  def self.pictures_yaml_url(year)
     "#{ENV.fetch('YIP_RAILS_HELPER_LOCATION')}/year/#{year}?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
+  end
+
+  def self.users_yaml_url
+    "#{ENV.fetch('YIP_RAILS_HELPER_LOCATION')}/admin/list/users?token=#{ENV.fetch('YIP_YEAR_TOKEN_PROD')}"
   end
 end

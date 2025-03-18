@@ -1,16 +1,19 @@
 require 'sqlite3'
 require_relative 'config'
 require_relative 'picture'
+require_relative 'user'
 require_relative 'year'
 
 class DbControl
   def self.create
     db = SQLite3::Database.new Config.database_path unless File.exist? Config.database_path
     db.execute Picture.create_table_sql
+    db.execute User.create_table_sql
     db.execute Year.create_table_sql
 
     # Add setup data
     add_years
+    add_users
     add_unknown_pic
   end
 
@@ -34,6 +37,16 @@ class DbControl
     years_data.each do |year_data|
       year = Year.new(year_data)
       db.execute(year.insert_sql, year.values)
+    end
+  end
+
+  def self.add_users
+    db = SQLite3::Database.open Config.database_path
+
+    users_data = YAML.load_file(Config.users_path)['users']
+    users_data.each do |user_data|
+      user = User.new(user_data)
+      db.execute(user.insert_sql, user.values)
     end
   end
 
@@ -78,5 +91,10 @@ class DbControl
   def self.get_month_pictures(month, year)
     db = SQLite3::Database.open Config.database_path
     db.execute(Picture.get_all_by_month(month, year))
+  end
+
+  def self.get_photographer_pictures(photographer_id)
+    db = SQLite3::Database.open Config.database_path
+    db.execute(Picture.get_all_by_photographer(photographer_id))
   end
 end

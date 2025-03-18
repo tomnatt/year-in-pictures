@@ -6,6 +6,7 @@ pictures:
     description: The first snow of the year in the front garden.
     alt: snowy guarden
     month: january
+    photographer: 22
   -
     image: 01-ed.jpg
     image_title: Man spilling Lego everywhere
@@ -13,6 +14,7 @@ pictures:
     description: Visited the fantastic Lego (Art of the Brick) exhibition with some old Uni friends in the not-so-fantastic Shoreditch.
     alt: man full of Lego
     month: january
+    photographer: 7
   -
     image: 01-gareth.jpg
     image_title: The Cereal Killer Cafe in Shoreditch, East London
@@ -20,6 +22,7 @@ pictures:
     description: A trip to East London to see what all the fuss was about. I had a bowl of something that was mainly blue and two hours later made me feel very weird indeed.
     alt: cereal wall
     month: january
+    photographer: 8
   -
     image: 01-lyns.jpg
     image_title: Airplane
@@ -27,6 +30,7 @@ pictures:
     description: Waiting at the gate in Heathrow T5. It later transpired that this was not, in fact, my plane and I was actually technically sitting in the seating for the adjacent gate.
     alt: airplane
     month: january
+    photographer: 15
   -
     image: 01-sheena.jpg
     image_title: Skating
@@ -34,6 +38,7 @@ pictures:
     description: Walking in the Berkshire countryside on a cold winter's morning.
     alt: duck on ice
     month: january
+    photographer: 18
   -
     image: 01-tom.jpg
     image_title: Budget work
@@ -41,6 +46,7 @@ pictures:
     description: This is what it takes to make a budget. From <a href="https://www.flickr.com/photos/tomnatt/16237546902/">Flickr</a>.
     alt: empty glasses and bottles
     month: january
+    photographer: 1
   -
     image: 02-dad.jpg
     image_title: The Severn Bore
@@ -48,6 +54,7 @@ pictures:
     description: The Bore is a large surge wave that shoots down the River Severn with a load of surfers hanging on. The wave can be as big as 50 feet.
     alt: Severn Bore
     month: february
+    photographer: 22
   -
     image: 02-ed.jpg
     image_title: Damn Birthdays
@@ -55,6 +62,7 @@ pictures:
     description: Still trying to eat healthy for the start of 2015, but people keep having Birthdays. Damn them.
     alt: doughnuts
     month: february
+    photographer: 7
   -
     image: 02-gareth.jpg
     image_title: Me reading a book about Welsh music and listening to Datblygu on a train.
@@ -62,6 +70,7 @@ pictures:
     description: Blerwytirhwng? translates as "Whereareyoubetween?" At the time the photo was taken, I was somewhere between Cardiff and Newport and somewhere between doing the interviews and writing up the script for a documentary on Welsh music for Radio 4. I was also between breakfast and lunch.
     alt: looking out a train window
     month: february
+    photographer: 8
   -
     image: 02-lyns.jpg
     image_title: Skyline
@@ -69,6 +78,7 @@ pictures:
     description: Stood for 2 hours at Top of the Rock, watching the sun set over Manhattan.  It was so cold that the blood in my feet genuinely stopped circulating and I found it physically difficult to walk away.
     alt: skyline
     month: february
+    photographer: 15
   -
     image: 02-sheena.jpg
     image_title: Guess Who?
@@ -76,6 +86,7 @@ pictures:
     description: "Equestrian statue of the Queen, erected in Windsor Great Park, for Her Majesty's Golden Jubilee."
     alt: statue of the Queen on a horse
     month: february
+    photographer: 18
   -
     image: 02-tom.jpg
     image_title: Inside the RPG House
@@ -83,6 +94,7 @@ pictures:
     description: What happens when seven men are locked in a house for a weekend? Games happen. From <a href="https://www.flickr.com/photos/tomnatt/16736538895/">Flickr</a>.
     alt: men playing tabletop roleplaying games
     month: february
+    photographer: 1
   -
     image: 03-dad.jpg
     image_title: Viewing the eclipse
@@ -90,6 +102,7 @@ pictures:
     description: 11 years to the next one if you missed it!
     alt: eclipse through a telescope
     month: march
+    photographer: 22
   -
     image: 03-ed.jpg
     image_title: Snails can be cute
@@ -97,6 +110,7 @@ pictures:
     description: Turns out my male snail was in fact female and pregnant. Now to think of a new name for him/her. Fish kindly swam on the right in the photo for scale.
     alt: snail in a fish tank
     month: march
+    photographer: 7
   -
     image: 03-gareth.jpg
     image_title: "A Record Shop In Valletta, Malta"
@@ -104,6 +118,7 @@ pictures:
     description: "While on holiday in Malta I visited this record shop which had a lengthy Guardian article printed-out and stuck in the window. The headline read \"The World's Oldest Record Shop: on the vinyl frontier since 1894\" - and celebrated the history Spillers Records in Cardiff. As a product of both Wales and Malta, I spent ages trying to work out why a shop in Valletta would be so interested in the history of a store in Cardiff... Until I spotted the date above their own door."
     alt: record shop
     month: march
+    photographer: 8
   -
     image: 03-lyns.jpg
     image_title: Maida Vale 6
@@ -111,6 +126,7 @@ pictures:
     description: Recording the third series of 'Alice's Wunderland' at Maida Vale Studios - last bastion of old-school BBC buildings, current home of the BBC Orchestras and erstwhile home of the Radiophonic Workshop. This sign is above the entrance to the MV6 control room. Note the 80s font and BBC logo of our childhood.
     alt: bbc sign
     month: march
+    photographer: 15
   -
     image: 03-sheena.jpg
     image_title: Driving across the North York moors
@@ -118,6 +134,7 @@ pictures:
     description: "Enroute between Whitby and Guisborough, the weather suddenly deteriorated."
     alt: moors in the snow
     month: march
+    photographer: 18
   -
     image: 03-tom.jpg
     image_title: The bubble hotel
@@ -125,6 +142,7 @@ pictures:
     description: It cost £50 a night to stay in this clear plastic bubble set up in the centre of Bath. Apparently the people staying there were somewhat extroverted. No; really. From <a href="https://www.flickr.com/photos/tomnatt/16211693334/">Flickr</a>.
     alt: bubble hotel
     month: march
+    photographer: 1
   -
     image: 04-dad.jpg
     image_title: Spring bursts forth
@@ -132,6 +150,7 @@ pictures:
     description: This tree was bare 3 weeks ago!
     alt: blossom
     month: april
+    photographer: 22
   -
     image: 04-ed.jpg
     image_title: An evening at the O2
@@ -139,6 +158,7 @@ pictures:
     description: "WWE came to the UK and actually filmed it as one of the real shows broadcast across the world. A rare thing, which was exciting stuff. Yes it was stupid, but it was great fun."
     alt: WWE comes to the O2
     month: april
+    photographer: 7
   -
     image: 04-gareth.jpg
     image_title: The Vote Now Show
@@ -146,6 +166,7 @@ pictures:
     description: Listening to an episode of The Vote Now Show I'd worked on that very day and seen recorded only 4 hours earlier.
     alt: DAB radio
     month: april
+    photographer: 8
   -
     image: 04-lyns.jpg
     image_title: Ham Man
@@ -153,6 +174,7 @@ pictures:
     description: "Encumbered by a lack of kitchen cupboard space, Rhiannon stumbles upon an innovative storage solution for a full leg of cured ham."
     alt: A man made of ham
     month: april
+    photographer: 15
   -
     image: 04-sheena.jpg
     image_title: "Spring Walk at Hindhead Commons and the Devil's Punchbowl, Surrey"
@@ -160,6 +182,7 @@ pictures:
     description: 'The stone "commerates the events of 24th September 1786, when an unknown sailor travelling the Old Portsmouth Road was murdered by three assailants". A Celtic Cross stands nearby to mark the place where the three were hanged in chains on a gibbet and left for nearly three years until brought down by a storm.'
     alt: moors in the snow
     month: april
+    photographer: 18
   -
     image: 04-tom.jpg
     image_title: Mr Robin
@@ -167,6 +190,7 @@ pictures:
     description: We walked past this fellow guarding a lift next to a church. He cheerfully sung a hello to us - or shrieked at us to keep our distance. Probably the latter. From <a href="https://www.flickr.com/photos/tomnatt/17345445235/">Flickr</a>.
     alt: robin
     month: april
+    photographer: 1
   -
     image: 05-dad.jpg
     image_title: New neighbours move in
@@ -174,6 +198,7 @@ pictures:
     description: "300 head of cattle moved back onto Minchinhampton Common on May 11th, and this little bundle was one of the very early family additions. They'll be there until about October, wandering around the Common, eating the buttercups and grass."
     alt: cattle by a tree
     month: may
+    photographer: 22
   -
     image: 05-ed.jpg
     image_title: Bekonscot
@@ -181,6 +206,7 @@ pictures:
     description: "I have driven past this model village hundreds of times and now finally I have been. The Queen visited in the 1930s, and from the photos not much has changed. The shops have hilarious names. Worth a visit if you are ever on the M40."
     alt: shops in Bekonscot
     month: may
+    photographer: 7
   -
     image: 05-gareth.jpg
     image_title: Machynlleth Comedy Festival
@@ -188,6 +214,7 @@ pictures:
     description: This is the sign which overlooks the town during the weekend of the Machynlleth Comedy Festival and the Dyfi Enduro. The picture was taken on the Sunday afternoon of the Machynlleth Comedy Festival during a brief break in the rain and just after we'd finished recording an episode of "Elis James' Guide To...". "Cymru Rydd" means "Free Wales".
     alt: the sign which overlooks the town during the weekend of the Machynlleth Comedy Festival and the Dyfi Enduro
     month: may
+    photographer: 8
   -
     image: 05-lyns.jpg
     image_title: Barbican
@@ -195,6 +222,7 @@ pictures:
     description: My favourite new spot to sit and enjoy a book on a sunny day.
     alt: outside the Barbican
     month: may
+    photographer: 15
   -
     image: 05-sheena.jpg
     image_title: Spring
@@ -202,6 +230,7 @@ pictures:
     description: "We've been walking through many 'bluebell' woods this month in Berkshire, Surrey and Hampshire (including near to where Jane Austen lived for the first 25 years of her life)."
     alt: bluebells
     month: may
+    photographer: 18
   -
     image: 05-tom.jpg
     image_title: Onion bhajis
@@ -209,6 +238,7 @@ pictures:
     description: It turns out that bhajis are simple to make and really tasty as long as you don't go too mad with the curry powder. These are the ones Dad and I didn't immediately eat and you can tell they are healthy - check out that leaf. From <a href="https://www.flickr.com/photos/tomnatt/17618213514/">Flickr</a>.
     alt: onion bhajis in a bowl
     month: may
+    photographer: 1
   -
     image: 06-dad.jpg
     image_title: A proper summer at last
@@ -216,6 +246,7 @@ pictures:
     description: 'This is on a north facing wall of my house, not on holiday in the Med!'
     alt: weather readings
     month: june
+    photographer: 22
   -
     image: 06-ed.jpg
     image_title: Seaside
@@ -223,6 +254,7 @@ pictures:
     description: This month work took me on a seaside adventure to Broadstairs. Work can be fun sometimes!
     alt: seaside
     month: june
+    photographer: 7
   -
     image: 06-gareth.jpg
     image_title: The BBC Radio Theatre - recreated in Lego by Jack Bernhardt
@@ -230,6 +262,7 @@ pictures:
     description: "As a leaving present for out-going News Quiz host Sandi Toksvig, writer <a href=\"https://twitter.com/jackbern23\">Jack Bernhardt</a> made this model of the BBC Radio Theatre out of Lego. Jeremy Hardy is represented by a Lego Wayne Rooney. My own contribution to Sandi's final episode is available <a href=\"http://www.bbc.co.uk/programmes/p02vnmwc\">on the BBC website</a>."
     alt: lego model of a radio theatre
     month: june
+    photographer: 8
   -
     image: 06-lyns.jpg
     image_title: Cheerio!
@@ -237,6 +270,7 @@ pictures:
     description: "A standing ovation for Sandi Toksvig as she signs off from the News Quiz for the last time. I was about 5 seconds too late in taking this photo, which is why everyone is starting to sit down again."
     alt: production booth at the recording of the News Quiz
     month: june
+    photographer: 15
   -
     image: 06-sheena.jpg
     image_title: BBC Gardeners' World Live Show
@@ -244,6 +278,7 @@ pictures:
     description: This shot shows a section from the "Solihull Neighbourhoods in Bloom" show garden.
     alt: garden
     month: june
+    photographer: 18
   -
     image: 06-tom.jpg
     image_title: Victory in the British Library
@@ -251,6 +286,7 @@ pictures:
     description: I took part in <a href="http://blogs.bath.ac.uk/digital/2015/07/06/a-hack-day-out-with-futurelearn/">a hack day at FutureLearn</a> in the British Library. A really interesting day spent discussing the future of the FutureLearn and mocking up some new features. And we won! From <a href="https://www.flickr.com/photos/tomnatt/19146258741/">Flickr</a>.
     alt: notebook
     month: june
+    photographer: 1
   -
     image: 07-dad.jpg
     image_title: A walk around Skomer Island
@@ -258,6 +294,7 @@ pictures:
     description: "In one of the best scenic counties in the UK (Pembrokeshire), Skomer Island is a haven for 50% of the world's population of Manx Shearwaters (300,000 pairs) plus thousands of Puffin like this little chappie sharing the rain with me. I think his waterproof coat was better than mine.... I was soaked to the skin!"
     alt: puffin
     month: july
+    photographer: 22
   -
     image: 07-ed.jpg
     image_title: Copenhagen
@@ -265,6 +302,7 @@ pictures:
     description: "Some strange architecture in Copenhagen, such as this slide/ramp into the river."
     alt: slide
     month: july
+    photographer: 7
   -
     image: 07-gareth.jpg
     image_title: Readthrough
@@ -272,6 +310,7 @@ pictures:
     description: "John-Luke Roberts and I make alterations to the scripts for the sitcom Bull, following a readthrough. Within a week the props and set had arrived, but I'm not allowed to post photos of those yet."
     alt: script and diet coke
     month: july
+    photographer: 8
   -
     image: 07-lyns.jpg
     image_title: Scottish Summer
@@ -279,6 +318,7 @@ pictures:
     description: "Admiring the spectacular view from the top of Conic Hill on the Balmaha Millennium Forest Trail, recording for Susan Calman's new Radio 4 series."
     alt: two people on a windy hill
     month: july
+    photographer: 15
   -
     image: 07-sheena.jpg
     image_title: Unique Museum in Budapest
@@ -286,6 +326,7 @@ pictures:
     description: "Not the usual Danube photo! This shocking museum is housed in the former secret police HQ. It records the grim reality of interrogation and torture, during both Nazi and Stalinist occupation. No photography is allowed inside the museum. Another moving memorial we visited is 30m of the original Jewish ghetto wall (rebuilt in 2010), hidden behind run-down flats."
     alt: memorial
     month: july
+    photographer: 18
   -
     image: 07-tom.jpg
     image_title: The end of an era
@@ -293,6 +334,7 @@ pictures:
     description: 'After nearly ten years working in 2 South we moved out to new pastures elsewhere on campus. The new offices are nice, but it is very much the end of an era. From <a href="https://www.flickr.com/photos/tomnatt/19185606743/">Flickr</a>.'
     alt: empty office
     month: july
+    photographer: 1
   -
     image: 08-dad.jpg
     image_title: Harvest time!
@@ -300,6 +342,7 @@ pictures:
     description: "I always know when August is coming to an end as the apples start to fall. Good crop of Worcester Pearmain apples this year, so need to harvest before the birds and wasps beat me to it."
     alt: apple tree
     month: august
+    photographer: 22
   -
     image: 08-ed.jpg
     image_title: 30 years
@@ -307,6 +350,7 @@ pictures:
     description: "I turned old this month. Now that my age starts with a 3, I feel much more eligible to tut at the youth."
     alt: birthday cake
     month: august
+    photographer: 7
   -
     image: 08-gareth.jpg
     image_title: Green Man Festival
@@ -314,6 +358,7 @@ pictures:
     description: Hot Chip conclude their Green Man Festival set by releasing a bunch of enormous glowing balloons into the crowd and covering Dancing In The Dark.
     alt: Green Man Festival
     month: august
+    photographer: 8
   -
     image: 08-lyns.jpg
     image_title: The Gower
@@ -321,6 +366,7 @@ pictures:
     description: I assume the weather in Wales is always this lovely.
     alt: The Gower
     month: august
+    photographer: 15
   -
     image: 08-sheena.jpg
     image_title: "Deer, on Exmoor"
@@ -328,6 +374,7 @@ pictures:
     description: 'Whilst walking on Exmoor, in heavy rain, we stumbled across a "mob" of over 60 deer. We stood and observed each other for a long time.'
     alt: deer on exmoor
     month: august
+    photographer: 18
   -
     image: 08-tom.jpg
     image_title: New Wine
@@ -335,6 +382,7 @@ pictures:
     description: 'Martin Smith played in the main tent at New Wine. It was a fantastic event; extremely powerful and we were very blessed to have him there. From <a href="https://www.flickr.com/photos/tomnatt/20248703839/">Flickr</a>.'
     alt: concert
     month: august
+    photographer: 1
   -
     image: 09-dad.jpg
     image_title: Red squirrel on Brownsea Island
@@ -342,6 +390,7 @@ pictures:
     description: "An interesting visit to Brownsea Island in Poole Harbour. Not that much wildlife about, but lots of cheeky red squirrels like this one."
     alt: red squirrel
     month: september
+    photographer: 22
   -
     image: 09-ed.jpg
     image_title: Office Treats
@@ -349,6 +398,7 @@ pictures:
     description: "Someone in the office said they liked Cricket - someone else got the wrong end of the stick. A selection of the tasty snacks on offer in our office this month."
     alt: insect snacks
     month: september
+    photographer: 7
   -
     image: 09-gareth.jpg
     image_title: Hotel Katajanokka
@@ -356,6 +406,7 @@ pictures:
     description: "The oldest part of what was Helsinki County Prison dates back to 1837. Over the years it was extended, became a remand prison before closing in 2002 when it was refurbished and reopened as Hotel Katajanokka. They have left a single solitary confinement cell and a rather grim looking group-cell exactly as they were for visitors to check out... Although, as you can see, I'm sure the narrow metal staircases and location of the \"rooms\" would probably be familiar to former inmates."
     alt: inside Hotel Katajanokka
     month: september
+    photographer: 8
   -
     image: 09-lyns.jpg
     image_title: Mr Egg
@@ -363,6 +414,7 @@ pictures:
     description: "I haven't taken many photos this month because I have had Shingles and been touring with the BBC New Comedy Awards. So here's an amusingly named takeaway restaurant in close proximity to Birmingham's Glee Club."
     alt: takeaway restaurant
     month: september
+    photographer: 15
   -
     image: 09-sheena.jpg
     image_title: Countryside Walk
@@ -370,6 +422,7 @@ pictures:
     description: "I spotted this pheasant whilst walking in an area of Buckinghamshire, frequently used for film and tv locations (Vicar of Dibley, Midsomer Murders, Chitty Chitty Bang Bang etc). Thankfully the only shooting I do is with a camera!"
     alt: pheasant
     month: september
+    photographer: 18
   -
     image: 09-tom.jpg
     image_title: Boats on the beach at Beer
@@ -377,6 +430,7 @@ pictures:
     description: "We found these boats on the beach at Beer after a couple of hours hiking along the cliff tops. I like this picture because it isn't just a random snap of the boats that turned out nicely - I actually planned the composition while we were eating lunch before going and taking it and it actually turned out quite well. For comparison, I also took <a href=\"https://www.flickr.com/photos/tomnatt/21118275174/\">a less composed picture</a>. From <a href=\"https://www.flickr.com/photos/tomnatt/21553139638/\">Flickr</a>."
     alt: boats on a beach
     month: september
+    photographer: 1
   -
     image: 10-dad.jpg
     image_title: Home grown beef?
@@ -384,6 +438,7 @@ pictures:
     description: Strange what you find wandering around your back garden!
     alt: cow in garden
     month: october
+    photographer: 22
   -
     image: 10-ed.jpg
     image_title: Bug Hotel
@@ -391,6 +446,7 @@ pictures:
     description: "I saw this and thought it seemed an excellent place to live. If you know any insects, direct them to Wisley Gardens, much better than slumming it outside."
     alt: insect hotel
     month: october
+    photographer: 7
   -
     image: 10-gareth.jpg
     image_title: Come On The Rugby
@@ -398,6 +454,7 @@ pictures:
     description: New Zealand take on South Africa in the Rugby World Cup Semi-Final in Twickenham.
     alt: rugby world cup game
     month: october
+    photographer: 8
   -
     image: 10-lyns.jpg
     image_title: Autumnal South Bank
@@ -405,6 +462,7 @@ pictures:
     description: "London can sometimes look quite nice, even though there are too many people and too much dog poo contained within it. Also, as a bonus, Gareth and Rhiannon (who I was waiting to meet up with) managed to find me based solely on this photograph."
     alt: south bank
     month: october
+    photographer: 15
   -
     image: 10-sheena.jpg
     image_title: Autumnal Colour
@@ -412,6 +470,7 @@ pictures:
     description: "Whilst walking in the arboretum, at the RHS Wisley Garden, I was charmed by the fiery red leaves of this Scarlet Oak (Quercus coccinea 'Splendens')."
     alt: Autumnal leaves
     month: october
+    photographer: 18
   -
     image: 10-tom.jpg
     image_title: Bath Abbey by Night
@@ -419,6 +478,7 @@ pictures:
     description: "Not a great month for taking photos, but I did find a moment to reproduce one of the more famous tourist shots of Bath Abbey. It was a warm night and Bath is lovely in all lights. From <a href=\"https://www.flickr.com/photos/tomnatt/22667784670/\">Flickr</a>."
     alt: bath abbey at night
     month: october
+    photographer: 1
   -
     image: 11-dad.jpg
     image_title: Why is there only half a spire?
@@ -426,6 +486,7 @@ pictures:
     description: "The local church trying to brighten up a windy, rainy, cold November evening. Did the local benefactor run out of money and so couldn't complete the spire; was there originally a full spire which was reduced in height on safety grounds; were the stonemasons in competition with those building a nearby church and stopped once they lost the race when the other one was completed? These are all reasons given around the village for this unusually shaped tower and spire, but there seems to be no record of the real reason."
     alt: church with half a spire
     month: november
+    photographer: 22
   -
     image: 11-ed.jpg
     image_title: Monkey!
@@ -433,6 +494,7 @@ pictures:
     description: We went to Longleat Safari park and found that monkeys love riding on your car.
     alt: monkeys
     month: november
+    photographer: 7
   -
     image: 11-gareth.jpg
     image_title: Showstopper!
@@ -440,6 +502,7 @@ pictures:
     description: "The stage is set for \"Showstopper! The Improvised Musical\". The board in the corner of this photo shows the previous night's title (\"We Will Chop You\") and musical styles, but based on audience suggestions, I ended up seeing \"A Marrow Escape\" - A Rocky Horror/Wicked/Thriller/Lion King inspired musical set on an allotment."
     alt: showstopper set
     month: november
+    photographer: 8
   -
     image: 11-lyns.jpg
     image_title: Sexy Undies
@@ -447,6 +510,7 @@ pictures:
     description: Ramsgate has some brilliant junk shops. No wonder Simon moved there.
     alt: underwear vending machine
     month: november
+    photographer: 15
   -
     image: 11-sheena.jpg
     image_title: Autumnal Therapy
@@ -454,6 +518,7 @@ pictures:
     description: Much of November was spent visiting sick relatives so walking amongst the trees at National Trust Sheffield Park was a welcome respite.
     alt: trees by a lake
     month: november
+    photographer: 18
   -
     image: 11-tom.jpg
     image_title: Minchinhampton bonfire
@@ -461,6 +526,7 @@ pictures:
     description: "The first time I've been to a bonfire in years and it was a really good one. I took a lot of photos, playing with different settings and spent rather too long gazing into the flames. From <a href=\"https://www.flickr.com/photos/tomnatt/22234033954/\">Flickr</a>."
     alt: bonfire
     month: november
+    photographer: 1
   -
     image: 12-dad.jpg
     image_title: You wait all year for one Christmas Tree to come along...
@@ -468,6 +534,7 @@ pictures:
     description: ... and then 100+ appear at once (in Stroud church Christmas Tree Festival).
     alt: christmas trees
     month: december
+    photographer: 22
   -
     image: 12-ed.jpg
     image_title: Head Hedge
@@ -475,6 +542,7 @@ pictures:
     description: The all-seeing hedge. I think his quiff needs a trim.
     alt: hedge cut to shape of a head
     month: december
+    photographer: 7
   -
     image: 12-gareth.jpg
     image_title: VHS
@@ -482,6 +550,7 @@ pictures:
     description: "Finally got round to sorting through my VHS collection and binning anything I now have (or could get) on DVD. Ended up getting rid of 91 tapes in total (and keeping a bunch where there's 30mins of something worth seeing, surrounded by 150 minutes of a film you can see on YouTube for free). One thing I've learnt is that in the mid-90s, there must have been a Spike Milligan documentary on about once a week. He was on TV more than Blur."
     alt: VHS tapes
     month: december
+    photographer: 8
   -
     image: 12-lyns.jpg
     image_title: Christmas Day Wolf
@@ -489,6 +558,7 @@ pictures:
     description: "This is Coco the dog, who belongs to Nathan's Dad. She has the looks and size of a wolf, and the brain and joyful temperament of a tiny puppy. I was trying to get a picture of her lovely face, but she was too delighted by all the fuss (and proximity of Christmas food) to be still for long enough for the camera to focus."
     alt: dog
     month: december
+    photographer: 15
   -
     image: 12-sheena.jpg
     image_title: 'Is it Christmas, or Easter?'
@@ -496,6 +566,7 @@ pictures:
     description: On all of our 'Christmas' walks we encountered daffodils in flower. Global warming?
     alt: daffodils
     month: december
+    photographer: 18
   -
     image: 12-tom.jpg
     image_title: Sunset over Minch common
@@ -503,3 +574,4 @@ pictures:
     description: "The sun setting on the day and the year. It has been quite a journey. This was sunset over Minch common - cold, clear and beautiful. Only slighly marred by it being quite a hike home over unlit commons, and very little daylight with which to manage it... From <a href=\"https://www.flickr.com/photos/tomnatt/23570535303/\">Flickr</a>."
     alt: sunset
     month: december
+    photographer: 1

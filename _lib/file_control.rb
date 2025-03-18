@@ -3,24 +3,31 @@ require_relative 'config'
 require_relative 'year'
 
 class FileControl
-  def self.download_all
+  def self.download_all_pictures_data
     Config.year_range.each do |year|
       # Skip the early years - this predates the Rails application so no data there
       next if (2015..2018).include? year
 
       # Get the YAML from the app
-      yaml_content = URI.parse(Config.yaml_url(year)).open.read
+      yaml_content = URI.parse(Config.pictures_yaml_url(year)).open.read
       # Save to disk
       File.write(Config.source_file_from_year_path(year), yaml_content)
     end
   end
 
-  def self.download_latest
+  def self.download_latest_pictures_data
     year = Year.last_year
     # Get the YAML from the app
-    yaml_content = URI.parse(Config.yaml_url(year)).open.read
+    yaml_content = URI.parse(Config.pictures_yaml_url(year)).open.read
     # Save to disk
     File.write(Config.source_file_from_year_path(year), yaml_content)
+  end
+
+  def self.download_user_data
+    # Get the YAML from the app
+    yaml_content = URI.parse(Config.users_yaml_url).open.read
+    # Save to disk
+    File.write(Config.users_path, yaml_content)
   end
 
   def self.copy_pictures

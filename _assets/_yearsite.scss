@@ -67,6 +67,7 @@ $gutter-small-padding: 0 1.25rem;
   width: 100%;
   position: relative;
   transition: transform 500ms ease;
+  min-height: 50rem;
 }
 
 .year-menu-toggle {
@@ -160,7 +161,10 @@ header {
 
 /* Body and section styles */
 section {
-  &.month, &.picture {
+  &.year:first-of-type {
+    margin-top: 2em;
+  }
+  &.month, &.picture, &.year {
     background: url("/images/natural_paper.png") repeat scroll 0 0 #C2C2A3;
     margin-bottom: 0.6rem;
     box-shadow: 0 10px 5px -5px $border-fade;

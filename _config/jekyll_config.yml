@@ -6,10 +6,13 @@ plugins:
 sqlite:
   - data: years
     file: _db/yip.db
-    query: SELECT year, homepage FROM years WHERE year !=0 ORDER BY year ASC;
+    query: SELECT year, homepage, zodiac FROM years WHERE year !=0 ORDER BY year ASC;
   - data: pictures
     file: _db/yip.db
-    query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year;
+    query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year INNER JOIN users ON pictures.photographer = users.id;
+  - data: photographers
+    file: _db/yip.db
+    query: SELECT * FROM users WHERE id NOT IN (23, 37, 84); # omit users with no pics
 
 page_gen:
   - data: pictures

@@ -5,7 +5,8 @@ layout: layout
 <section class="picture">
   <h2>{{ page.pictures.title }}</h2>
   <p class="date">
-    <a href="/{{ page.pictures.homepage }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
+    <a href="/{{ page.pictures.homepage }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a>
+     - <a href="/photographers/{{ page.pictures.id }}.html">{{ page.pictures.name }}</a>
   </p>
   <figure>
     {% if page.pictures.year == 0 %}

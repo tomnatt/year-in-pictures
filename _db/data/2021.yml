@@ -6,6 +6,7 @@ pictures:
     description: "A difficult walk up Cave Hill. The last journey for our dear Dennis. Rest in peace, big man."
     alt: "Waterfall on Cave Hill in Belfast"
     month: january
+    photographer: 32
   -
     image: 01-anna.jpg
     image_title: "Snow on the old landing strip"
@@ -13,6 +14,7 @@ pictures:
     description: "I live in a housing estate built on an old airfield. The sun rises at one end and sets at the other. This sunrise was hazy and twinkly."
     alt: "."
     month: january
+    photographer: 4
   -
     image: 01-annette.jpg
     image_title: "Morning walk"
@@ -20,6 +22,7 @@ pictures:
     description: "Morning walk in Syleham with a puppy."
     alt: "sunrise over a park"
     month: january
+    photographer: 33
   -
     image: 01-bonnie-richard.jpg
     image_title: "Snow Orb"
@@ -27,6 +30,7 @@ pictures:
     description: "I saw a woman use a glass orb last year so asked her about it and where she got it (Amazon - where else). So when trying to think of a Christmas present for Richard,  I remembered the orb.  He has a very expensive camera that is not being used as much as it could be as the phone is so easy, isn’t it. It’s been interesting and he is still working on technique. I held it once in my hand on a sunny day and within seconds my hand became really hot.  The speed was quite shocking.  Hope you are all keeping well. Life just feels a bit hollow at the moment but jabs for us oldies are hopefully coming soon."
     alt: "Snow Orb"
     month: january
+    photographer: 5
   -
     image: 01-clayton.jpg
     image_title: "#winterishere"
@@ -34,6 +38,7 @@ pictures:
     description: "A typically cold January walk followed by a nice cup of coffee."
     alt: "street in the snow"
     month: january
+    photographer: 70
   -
     image: 01-clive.jpg
     image_title: "The snow men begin to gather"
@@ -41,6 +46,7 @@ pictures:
     description: "Several snow men begin to gather in Meadow Bank Dorking."
     alt: "We see several snow men gathering together in Meadow Bank Dorking"
     month: january
+    photographer: 26
   -
     image: 01-dad.jpg
     image_title: "Shopping in the snow"
@@ -48,6 +54,7 @@ pictures:
     description: "My father returning from a walk to the village across the common. Note the very long shadows despite this being around noon, showing how low the sun is at its highest on a winter’s day."
     alt: "Man walking in snow across a common"
     month: january
+    photographer: 22
   -
     image: 01-dan.jpg
     image_title: "The most exciting thing to happen in January"
@@ -55,6 +62,7 @@ pictures:
     description: "St Saviours church looks warm and welcoming in the January snow."
     alt: "A church with a lit up window against a snowy background"
     month: january
+    photographer: 6
   -
     image: 01-ed.jpg
     image_title: "Parking ticket"
@@ -62,6 +70,7 @@ pictures:
     description: "I didn't include a snow picture as I'm sure this will be covered by other contributors this month. Instead, my photo is of a parking ticket I received whilst out in London, despite having a permit in my windscreen. I fought the war, but I won. At least it gave me something to do this month and something different to talk about."
     alt: "Parking"
     month: january
+    photographer: 7
   -
     image: 01-gareth.jpg
     image_title: "Wormwood Scrubs"
@@ -69,6 +78,7 @@ pictures:
     description: "As well as being the name of a nearby prison, Wormwood Scrubs is also the official title of an enormous open space in west London, the corner of which is due to be lost to HS2. This corner, in fact."
     alt: "A sign which reads \"Everything you see behind this sign will start being destroyed in seven weeks. January 2021\"."
     month: january
+    photographer: 8
   -
     image: 01-gill.jpg
     image_title: "Sunset and snow in Slaley"
@@ -76,6 +86,7 @@ pictures:
     description: "The picture doesn’t do justice to this glorious sunset but here it is anyway."
     alt: "Sunset and snow in Slaley"
     month: january
+    photographer: 9
   -
     image: 01-hanna.jpg
     image_title: "Winter cycling"
@@ -83,6 +94,7 @@ pictures:
     description: "January has been super snowy but the bike is still out!"
     alt: "Handlebar of a bike against a snowy backdrop."
     month: january
+    photographer: 10
   -
     image: 01-iris.jpg
     image_title: "New views"
@@ -90,6 +102,7 @@ pictures:
     description: "I moved house in January, so I've been enjoying getting to know my new area... and this sunny day after the snowfall made for a pretty special walk."
     alt: "A view of hills, fields and trees, all lightly dusted with snow, under a clear sky"
     month: january
+    photographer: 11
   -
     image: 01-james_collie.jpg
     image_title: "Bath in snow"
@@ -97,6 +110,7 @@ pictures:
     description: "The view from Victoria Bridge of the River Avon, hemmed in by snow-laden paths."
     alt: "The a view from Victoria Bridge of the River Avon hemmed in by snow-laden paths."
     month: january
+    photographer: 12
   -
     image: 01-james_wiggins.jpg
     image_title: "Hobby progress"
@@ -104,6 +118,7 @@ pictures:
     description: "January seemed to last forever. I made more hobby progress than most months thanks to the time vortex and this was my favourite piece."
     alt: "A red armoured space marine miniature sits of a table"
     month: january
+    photographer: 29
   -
     image: 01-jen.jpg
     image_title: "Reflections"
@@ -111,6 +126,7 @@ pictures:
     description: "Our local swimming spot on a January evening. It's usually full of swimmers or crashing waves, but this evening was calm and tranquil."
     alt: "A man stands at the edge of a calm pool of water in the setting sun, his shape reflected in the water below him"
     month: january
+    photographer: 34
   -
     image: 01-kat.jpg
     image_title: "Christmas hangover"
@@ -118,6 +134,7 @@ pictures:
     description: "I really didn't want to take the tree down this year.  I read somewhere that apparently you can leave it up until candlemas on the 2nd Feb, and that sounded like a good idea to me.  But by the time we got to the 31st of Jan I felt like the time had come, so I took this picture and then packed it all away.\r\nHappy new year!"
     alt: "Christmas tree still up at the end of January"
     month: january
+    photographer: 13
   -
     image: 01-kirsty.jpg
     image_title: "Bath"
@@ -125,6 +142,7 @@ pictures:
     description: "Cold weather with mist and snow transforming familiar places."
     alt: "Dark and foggy night, street lights behind a tree look like alien suns in the night sky"
     month: january
+    photographer: 14
   -
     image: 01-lyns.jpg
     image_title: "Oh deer oh deer"
@@ -132,6 +150,7 @@ pictures:
     description: "Wakehurst, our brilliant local massive garden, does an incredible Christmas light trail called Glow Wild. This deer sculpture was part of it. If you look closely, you may be able to spot my firstborn son pretending to be a deer poo."
     alt: "small boy hiding under a wicker deer sculpture"
     month: january
+    photographer: 15
   -
     image: 01-maree.jpg
     image_title: "Reflections"
@@ -139,6 +158,7 @@ pictures:
     description: "The picture was taken just as the sun was beginning to set in early January. I was struck by the clarity of reflection the clear mirror-glaze on the sand from the tide going out created. Nature is beautiful."
     alt: "Portrait of clouds reflected in water on Westward Ho! beach at sunset."
     month: january
+    photographer: 72
   -
     image: 01-matt_holyoake.jpg
     image_title: "Fiiiiiiiiiiiiiiiiire"
@@ -146,6 +166,7 @@ pictures:
     description: "It's hot, it's pretty, and it makes the depths of winter that much more bearable."
     alt: "Fiiiiiiiiiiiiiiiiire"
     month: january
+    photographer: 74
   -
     image: 01-pete_fairhurst.jpg
     image_title: "Year of the Lizard"
@@ -153,6 +174,7 @@ pictures:
     description: "A new member joined our menagerie in the first week of January - a juvenile Yemen (or \"veiled\") chameleon, in the care of our son, sourced from a local breeder we've been talking to since last year. This snap was taken on his second day with us.<br ><br >He's since had his first skin shed during January, and almost doubled in size already. However, he's still quite shy around people a month in, but does enjoy being hand-fed live crickets!"
     alt: "Close-up photograph of a green Yemen/veiled chameleon, resting on some large wet leaves"
     month: january
+    photographer: 28
   -
     image: 01-peter_chamberlin.jpg
     image_title: "Chain Bridge"
@@ -160,6 +182,7 @@ pictures:
     description: "Another cold early evening walk."
     alt: "Crossing the Chain Bridge in Melrose, looking towards the Eilon hills with a dusting of snow"
     month: january
+    photographer: 27
   -
     image: 01-peter_smith.jpg
     image_title: "Lime Walk"
@@ -167,6 +190,7 @@ pictures:
     description: "A walk through the snow around Minchinhampton common."
     alt: "Avenue of pollarded lime trees with snow underfoot"
     month: january
+    photographer: 73
   -
     image: 01-rhiannon_lawson.jpg
     image_title: "New addition"
@@ -174,6 +198,7 @@ pictures:
     description: "A new addition to the house making lockdown much better - although tiring. This is Castiel. He does not like the sound of drills, other dogs barking or the reverse noise of lorries. Loves hotdogs, licking the outside of glasses and his toy lion."
     alt: "black puppy"
     month: january
+    photographer: 35
   -
     image: 01-sheena.jpg
     image_title: "Dogfish"
@@ -181,6 +206,7 @@ pictures:
     description: "Unlike most of the UK there was not much snow in Devon (even on Exmoor) so I chose the photo that had the most impact on me. \r\nWhilst walking on Saunton Sands beach we were shocked to encounter over 40 dead dogfish on the strand-line. They had been slit on their underbellies and some of the flesh had been removed. Researching, I discovered they are classified as small sharks. Unfortunately, dogfish have little commercial value, but are often caught by fisherman as by-catch. The flesh has to be removed as soon as they are caught, otherwise the skin leaks ammonia into the flesh. Apparently they used to be widely sold by fish & chip shops as Huss or Rock Salmon."
     alt: "Beach shot showing underside of the small shark called Dogfish with large slit where flesh has been removed"
     month: january
+    photographer: 18
   -
     image: 01-sigrid.jpg
     image_title: "Swanlake"
@@ -188,6 +214,7 @@ pictures:
     description: "A family of swans enjoying the winter sunshine on Pagham Lagoon."
     alt: "Swans and other birds gliding over clear blue waters with some suncoloured reeds in the foreground"
     month: january
+    photographer: 19
   -
     image: 01-sue.jpg
     image_title: "Sunset under house arrest!"
@@ -195,6 +222,7 @@ pictures:
     description: "Not much to photograph lately as it’s been very grey and wet, but this lifted my spirits, taken one evening from my bedroom window!"
     alt: "Not much to photograph this month as grey skies and rain prevailed but this glorious sunset lifted my spirits, seen from my bedroom window whilst under ‘ house arrest’,  glorious!!!"
     month: january
+    photographer: 20
   -
     image: 01-teresa.jpg
     image_title: "Lots of luck"
@@ -202,6 +230,7 @@ pictures:
     description: "Obviously needed something better to do in lockdown - took ages. Less lucky if one falls down while I am opening the garage door."
     alt: "row of multicolour horseshoes nailed above garage doors"
     month: january
+    photographer: 21
   -
     image: 01-tim_blair.jpg
     image_title: "Wet feet"
@@ -209,6 +238,7 @@ pictures:
     description: "The last day of my \"run every day\" January, up and out before the sun, in -2ºC. The area around home is quite low-lying which, combined with all the rain over the last week, means lots of water where it usually isn't. The amount of water flowing from this lake / field across the footpath meant a fairly substantial detour, but at least I got a great photo out of it."
     alt: "Sunrise over a flooded field, with water flowing from the field across a footpath in the foreground."
     month: january
+    photographer: 71
   -
     image: 01-tom.jpg
     image_title: "Starting again"
@@ -216,6 +246,7 @@ pictures:
     description: "This year is about more cooking and doing more things. So of course we're going to start the year with a tree at dusk. In many ways, 2021 has started very much the same as 2020 ended.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/50918313311/\">Flickr</a>."
     alt: "tree silhouetted against a sunset"
     month: january
+    photographer: 1
   -
     image: 02-amy.jpg
     image_title: "Sunshine Shard"
@@ -223,6 +254,7 @@ pictures:
     description: "Finding a view of the London skyline is one of my favourite lockdown activities. It makes me miss my pre-lockdown life but also gives me hope that my new post-lockdown life is around the corner. The Shard is trying its best to give me a sign here I think."
     alt: "View of London skyline including the Shard"
     month: february
+    photographer: 32
   -
     image: 02-anna.jpg
     image_title: "A birthday cake - cream, raspberries and Victoria sponge"
@@ -230,6 +262,7 @@ pictures:
     description: "Lockdown birthday. There goes another year!"
     alt: "A birthday cake."
     month: february
+    photographer: 4
   -
     image: 02-annette.jpg
     image_title: "A Morning View"
@@ -237,6 +270,7 @@ pictures:
     description: "View of Syleham in the snow."
     alt: "Waverley River view from Syleham bridge."
     month: february
+    photographer: 33
   -
     image: 02-bonnie-richard.jpg
     image_title: "A Lovely Evening"
@@ -244,6 +278,7 @@ pictures:
     description: "February... a month for a birthday, Valentine’s Day and a wedding anniversary all in one week!  The birthday fell on an extremely frigid, sunny day. Difficult to take a camera out while we were in the lovely village of Painswick doing an illegal Treasure Trail. Then lots of grey, rainy days interspersed with cloudy days. However, the days are getting longer and we got our first jab which was really the highlight of the month. Near the end of the month, we were a bit shocked to have a sunny, windless and sort of warm evening.  It felt special.  So our photo choice is the lovely view by the fire pit. Hope you have all been enjoying the last few days of February sunshine and keeping well."
     alt: "A Lovely Evening"
     month: february
+    photographer: 5
   -
     image: 02-clayton.jpg
     image_title: "The bike"
@@ -251,6 +286,7 @@ pictures:
     description: "My first ride of the year. Ouch."
     alt: "My bicycle with helmet"
     month: february
+    photographer: 70
   -
     image: 02-clive.jpg
     image_title: "Monkey Puzzle Tree Leith Hill"
@@ -258,6 +294,7 @@ pictures:
     description: "Monkey puzzle tree framed by the North Downs. Picture taken from the rear of Leith Hill Tower."
     alt: "Monkey puzzle tree framed by the North Downs, picture taken from the rear of Leith Hill Tower"
     month: february
+    photographer: 26
   -
     image: 02-dad.jpg
     image_title: "Silver Birch"
@@ -265,6 +302,7 @@ pictures:
     description: "I thought this Silver Birch rather summed up a lot of February... bright sun shining off its silver bark with totally clear blue skies behind it. A very pleasant sit in the garden for half an hour during which the list of gardening jobs I could see as I looked around me just grew and grew!"
     alt: "Sun shining off the bark of a Silver Birch tree."
     month: february
+    photographer: 22
   -
     image: 02-dan.jpg
     image_title: "Sanitised"
@@ -272,6 +310,7 @@ pictures:
     description: "The ongoing strangeness of empty public spaces and furniture spread 2 metres apart."
     alt: "Two folding chairs in a large, mostly empty, room. One of the chairs has a sign on it that says ‘Sanitised’."
     month: february
+    photographer: 6
   -
     image: 02-ed.jpg
     image_title: "Captured in light"
@@ -279,6 +318,7 @@ pictures:
     description: "I took this photo and it reminded me of the Mr Bean intro."
     alt: "Light"
     month: february
+    photographer: 7
   -
     image: 02-emma.jpg
     image_title: "Pink water, pink sky"
@@ -286,6 +326,7 @@ pictures:
     description: "Sun setting pink over Emsworth."
     alt: "Pink sunset over water, pebbles over beach."
     month: february
+    photographer: 24
   -
     image: 02-gareth.jpg
     image_title: "Is It Over Yet?"
@@ -293,6 +334,7 @@ pictures:
     description: "No.<br ><br >(Artwork by Magda Archer)"
     alt: "A billboard poster which features a small child looking scared in bed and the caption \"Is it over yet?\""
     month: february
+    photographer: 8
   -
     image: 02-gill.jpg
     image_title: "Redwoods"
@@ -300,6 +342,7 @@ pictures:
     description: "We had a lovely walk amongst the Redwoods at Minsteracres Roman Catholic Retreat nearby our house. To get a better sense of the height of these majestic trees, spot the person walking along underneath them."
     alt: "Redwoods"
     month: february
+    photographer: 9
   -
     image: 02-hanna.jpg
     image_title: "Freezing February"
@@ -307,6 +350,7 @@ pictures:
     description: "Sunsets seem extra pretty in -15C. We’re lucky to not have to travel far to get to cross-country skiing routes in landscapes like this. It’s been cold though!"
     alt: "Snowy landscape and a light pink sky."
     month: february
+    photographer: 10
   -
     image: 02-iris.jpg
     image_title: "Woolley woolies"
@@ -314,6 +358,7 @@ pictures:
     description: "Walks are still the primary source of excitement in my life right now. This one was a muddy but enjoyable trip around the Woolley Valley. These locals suit the name."
     alt: "A photo of sheep and lambs in the Woolley Valley, with the suburbs of Bath in the distance"
     month: february
+    photographer: 11
   -
     image: 02-james_collie.jpg
     image_title: "One Disconcerting Word"
@@ -321,6 +366,7 @@ pictures:
     description: "Here is my existential condiment crisis. If this is \"real\" mayonnaise, what does that mean for all the other mayonnaise jars out there that do not claim to be \"real\"? What does it mean about all the Sainsbury's mayo I purchased prior to the rebrand? Where else am I seeing the word \"real\" where it is falsely applied to claim superiority?<br ><br >You might think this rather random rambling about mayonnaise means I am a snob about home brands, or have somewhat lost trust in Sainsbury's. For me it's more just disconcerting to think of the very flimsy oneupmanship that must generally go on in marketing and how cheaply a word such as \"real\" can be applied.<br ><br >In all honesty, this nonsense waffle of mine is all talk. I purchased a jar and am making my way through it with a swagger, knowing I can saved £1.60 per jar whilst barely telling the difference between it and Hellmann's. Hopefully the world will become a safe enough place that I can capture and share more interesting things in future."
     alt: "A jar of Sainsbury's mayonnaise in black and white."
     month: february
+    photographer: 12
   -
     image: 02-james_wiggins.jpg
     image_title: "Degu sunshine"
@@ -328,6 +374,7 @@ pictures:
     description: "Wally is 8 years old (the vet is as suprised as we are). After a rocky end/start of the year he's no longer having TIAs and is once again full of energy. It's nice to see him get to enjoy this time of year again where he can chill out in the sun."
     alt: "A brown degu sleeps in the afternoon sun"
     month: february
+    photographer: 29
   -
     image: 02-jen.jpg
     image_title: "Puzzling"
@@ -335,6 +382,7 @@ pictures:
     description: "A new box ticked on the lockdown bingo; completing a jigsaw puzzle."
     alt: "A close up shot of a jigsaw puzzle of a bird surrounded by foliage."
     month: february
+    photographer: 34
   -
     image: 02-kat.jpg
     image_title: "Twilight walk"
@@ -342,6 +390,7 @@ pictures:
     description: "I rarely manage to get the moon into a picture.  Last time I tried, the whole pic was black with one tiny blob of light.  But this one came out well as far as I can see (I have no knowledge of photography!). It was an enjoyable and very windy walk, it felt great to be out in the elements for a while."
     alt: "A tree without its leaves silhouetted against a twilight sky and the moon"
     month: february
+    photographer: 13
   -
     image: 02-kirsty.jpg
     image_title: "Window box"
@@ -349,6 +398,7 @@ pictures:
     description: "I mixed together some dirt and bulbs in a box and left it outside all winter. Now it's alive and growing and green with the potential for other colours as well."
     alt: "A window box full of green shoots"
     month: february
+    photographer: 14
   -
     image: 02-lyns.jpg
     image_title: "Spiderbaby"
@@ -356,6 +406,7 @@ pictures:
     description: "Who IS this mysterious infant?"
     alt: "A baby wearing a Spiderman mask"
     month: february
+    photographer: 15
   -
     image: 02-maree.jpg
     image_title: "Reflections: in thought"
@@ -363,6 +414,7 @@ pictures:
     description: "A different kind of reflection for this one. The person sat looking at the sea struck me when I was out walking, I wondered what they were thinking or reflecting on. Perfect location for delving into the ocean of your mind."
     alt: "Silhouette of person on beach"
     month: february
+    photographer: 72
   -
     image: 02-matt_holyoake.jpg
     image_title: "Caged sun"
@@ -370,6 +422,7 @@ pictures:
     description: "What is this unusual shining thing, and why can't I get to it?"
     alt: "Caged sun"
     month: february
+    photographer: 74
   -
     image: 02-pete_fairhurst.jpg
     image_title: "Early spring on the Mendips"
@@ -377,6 +430,7 @@ pictures:
     description: "Spring comes early to the Mendips."
     alt: "Colour photograph showing green hills in the foreground, with a dense copse of bare trees to the right, and a hill in the background with a crooked peak"
     month: february
+    photographer: 28
   -
     image: 02-peter_chamberlin.jpg
     image_title: "Buzzard over the Loch of the Lowes"
@@ -384,6 +438,7 @@ pictures:
     description: "It was a joy to get out into the Southern Uplands at the beginning of February. It was chilly but exceptionally beautiful. Here's the view from the car park at St Mary's Loch."
     alt: "A buzzard flies out of the glare of the sun over an icy loch bounded by wintery hills."
     month: february
+    photographer: 27
   -
     image: 02-peter_smith.jpg
     image_title: "Spring Sunshine"
@@ -391,6 +446,7 @@ pictures:
     description: "A few bright narcissi contrast some dark hellebores to highlight springtime."
     alt: "A few bright narcissi contrast some dark hellebores to highlight springtime"
     month: february
+    photographer: 73
   -
     image: 02-rhiannon_lawson.jpg
     image_title: "Win!"
@@ -398,6 +454,7 @@ pictures:
     description: "Free beer (thank you Brew Dog) and free refrigeration."
     alt: "Beer cans in the snow"
     month: february
+    photographer: 35
   -
     image: 02-richard.jpg
     image_title: "Golden ducks"
@@ -405,6 +462,7 @@ pictures:
     description: "A pair of Mallards enjoying the setting sun. Photo taken by my beautiful, amazing and talented wife."
     alt: "Ducks on pond in setting sun"
     month: february
+    photographer: 31
   -
     image: 02-sheena.jpg
     image_title: "Peregrine Falcon"
@@ -412,6 +470,7 @@ pictures:
     description: "Our walks were curtailed by my breaking of a toe (again). Ouch! \r\nThankfully after a few days I was able to hobble short distances, so we visited a local town including church grounds. Spotting remains of crows on the pathway our attention was drawn upwards, to the church tower where we glimpsed a Peregrine Falcon sitting on its nesting site. Thankfully the Falcon flew to perch on a more visible spot, where this shot was taken. Hopefully it will successfully breed and there will be chicks to see soon. \r\nApologies for the poor clarity of the image."
     alt: "A Peregrine Falcon, perched high up on a church tower, looking for its next prey."
     month: february
+    photographer: 18
   -
     image: 02-sigrid.jpg
     image_title: "Spring flowers"
@@ -419,6 +478,7 @@ pictures:
     description: "This colourful display of spring flowers in our garden, together with a few warm sunny days and the prospect of restrictions being lifted really lifts the spirit."
     alt: "A mass of purple and yellow crocuses, daffodils and snowdrops on a sunny springtime day"
     month: february
+    photographer: 19
   -
     image: 02-sue.jpg
     image_title: "Ominous portent?!"
@@ -426,6 +486,7 @@ pictures:
     description: "Heading home from house hunting in Wales this sight met us as we got to the Severn Bridge. Quite threatening - I couldn't help but feel it was an ominous portent of things to come!"
     alt: "Heading home after house hunting we et this sight as we reached the Severn Bridge heading to Bristol - a threatening sight of a heavy huge black cloud practically covering the road ahead. Was this a portent of things to come!!! I hope not."
     month: february
+    photographer: 20
   -
     image: 02-teresa.jpg
     image_title: "Teabreak"
@@ -433,6 +494,7 @@ pictures:
     description: "The real result of snowfall! Having shovelled 5 inches from the garage apron it was tea and a pee before clearing a path to the letterbox for the postman."
     alt: "Abandoned shovel and brush on edge of snow-covered farmyard"
     month: february
+    photographer: 21
   -
     image: 02-tim_blair.jpg
     image_title: "Roll initiative"
@@ -440,6 +502,7 @@ pictures:
     description: "I've managed to find a group of willing victims... er, people who are prepared to play D&D with me. They've never played before, and nor have I, so at least we're learning together, and it's a great bit of escapism. So far we've had four sessions (~2hrs each) and folks are still keen to keep playing, so I consider it a success. I made this initiative tracker to help me keep things in order (and so I had something obvious to look at when I forget the characters names...)."
     alt: "An initiative tracker made from a vertical dowel inserted into a base, with named and coloured clothes pegs for each character"
     month: february
+    photographer: 71
   -
     image: 02-tom.jpg
     image_title: "Rain-slicked cobbles"
@@ -447,6 +510,7 @@ pictures:
     description: "The month was cold, wet and dark but even combining those you can find some beauty. This was from a long walk around the streets of Bath with the wet cobbles catching the light.<br ><br >The walk left me so cold I had to curl up in bed for hours to warm up, but it was worth it.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/50965579076\">Flickr</a>."
     alt: "Wet cobbles from a backstreet in Bath"
     month: february
+    photographer: 1
   -
     image: 03-amy.jpg
     image_title: "Vaccination"
@@ -454,6 +518,7 @@ pictures:
     description: "March is my birthday month, and while I had a wonderful birthday celebration, despite lockdown, the day I want to commemorate is the day I got my first dose of the covid vaccine.<br ><br >It was the most purely joyful, objectively happy, and genuinely grateful I have felt in a very long time."
     alt: "Woman with covid vaccine sticker."
     month: march
+    photographer: 32
   -
     image: 03-anna.jpg
     image_title: "Pen Y Fan"
@@ -461,6 +526,7 @@ pictures:
     description: "It was lovely to get away for the first time in goodness knows how long. ️This is the walk up Pen Y Fan, empty, and glorious sunshine. Spring is excellent."
     alt: "Road into the Brecon Beacons, with no people in sight"
     month: march
+    photographer: 4
   -
     image: 03-annette.jpg
     image_title: "Brockdish hideout"
@@ -468,6 +534,7 @@ pictures:
     description: "Brockdish hideout in Norfolk."
     alt: "Cat sitting on a wall by a stone cat"
     month: march
+    photographer: 33
   -
     image: 03-bonnie-richard.jpg
     image_title: "Bee Delight"
@@ -475,6 +542,7 @@ pictures:
     description: "March has been grey and cold here in the Cotswolds -  at least for the first half of the month when we submitted this photo to Tom.  So what a surprise to come upon a huge blackthorn bush blooming in the Abbey Grounds in Cirencester on a dismal, cold Sunday. Looking closer we were delighted to see so many bees on the bush. However, as we have been having frosts everyday this week we are worried about their survival. Richard managed to get a closeup. By the time you see this photo we will all have a bit more freedom. Hopefully.  Enjoy."
     alt: "Bee Delight"
     month: march
+    photographer: 5
   -
     image: 03-clayton.jpg
     image_title: "Visitor"
@@ -482,6 +550,7 @@ pictures:
     description: "A spring visitor in sunny Croydon."
     alt: "Pheasant on a lawn"
     month: march
+    photographer: 70
   -
     image: 03-clive.jpg
     image_title: "Sea and Sunlight"
@@ -489,6 +558,7 @@ pictures:
     description: "Taken at Goring on Sea on the hottest spring day since 1968."
     alt: "We see sunlight dance on the sea at Goring on Sea with a paddleboarder in the distance"
     month: march
+    photographer: 26
   -
     image: 03-dad.jpg
     image_title: "Peaceful locks?"
@@ -496,6 +566,7 @@ pictures:
     description: "I usually find time near canals to be very peaceful and relaxing, watching the water slowly go by and the boats progress through the locks. But this last visit included 2 y.o. and 4 y.o. grandchildren... not so relaxing!!!"
     alt: "View of canal locks."
     month: march
+    photographer: 22
   -
     image: 03-dan.jpg
     image_title: "Spring parking mishaps"
@@ -503,6 +574,7 @@ pictures:
     description: "Anyone who’s spent any time in Bath knows not to park your car near one of the myriad steep wooded hills around town."
     alt: "A yellow car parked at the side of the road. There is a tree that was been blown over in a storm resting across the car."
     month: march
+    photographer: 6
   -
     image: 03-ed.jpg
     image_title: "Cow Bike"
@@ -510,6 +582,7 @@ pictures:
     description: "We're moving house soon, in fact, by the time this is published we will have already moved house. Part of the process has been sorting out lots of stuff and selling things. This cow bike has served us well for both our kids, but they're now both too old and have outgrown it. Sad to see it go. End of era, just like our house move."
     alt: "Bike"
     month: march
+    photographer: 7
   -
     image: 03-emma.jpg
     image_title: "Hyde Park Golden Hour"
@@ -517,6 +590,7 @@ pictures:
     description: "A rare moment of peace in central London just as the sun sets."
     alt: "Sunset over a fountain at golden hour"
     month: march
+    photographer: 24
   -
     image: 03-gareth.jpg
     image_title: "Is It A Bird?"
@@ -524,6 +598,7 @@ pictures:
     description: "No, seriously, is it? Because I thought it was, but those ears have really  thrown me. <br ><br >Taken in the gardens of Cliveden House."
     alt: "A bush which has been cut into the shape of what I think is meant to be a bird, but has round ears on sticks."
     month: march
+    photographer: 8
   -
     image: 03-gill.jpg
     image_title: "Resident Pheasant"
@@ -531,6 +606,7 @@ pictures:
     description: "One of our resident pheasants taking a break from feeding to give other birds an opportunity."
     alt: "Resident pheasant"
     month: march
+    photographer: 9
   -
     image: 03-hanna.jpg
     image_title: "Sewing project"
@@ -538,6 +614,7 @@ pictures:
     description: "Made a cycling cap in March."
     alt: "Yellow hat."
     month: march
+    photographer: 10
   -
     image: 03-iris.jpg
     image_title: "This month's view"
@@ -545,6 +622,7 @@ pictures:
     description: "Cloudy and a little bit dramatic, with lots of ups and downs."
     alt: "A view of hilly fields and distant houses under a cloudy sky"
     month: march
+    photographer: 11
   -
     image: 03-james_collie.jpg
     image_title: "A Dreich Day"
@@ -552,6 +630,7 @@ pictures:
     description: "A woman overlooking an estuary with rail bridge ruins silhouetted against the grey waters and skies."
     alt: "A woman overlooking an estuary with rail bridge ruins silhouetted against the grey waters and skies."
     month: march
+    photographer: 12
   -
     image: 03-james_wiggins.jpg
     image_title: "Grumpy bunny"
@@ -559,6 +638,7 @@ pictures:
     description: "Fleur has an annual ritual of being slightly more mischievous in the spring. Last year this was tempered by the joy of having human company constantly but that's left her more naughty this year. At this moment she was up to no good. When challenged I got... 'a look'."
     alt: "A white rabbit looks around and up at the camera... incredulously"
     month: march
+    photographer: 29
   -
     image: 03-jen.jpg
     image_title: "We all scream for ice cream"
@@ -566,6 +646,7 @@ pictures:
     description: "A little taste of freedom after a long walk. Roll on summer!"
     alt: "A hand holding a small tub of ice cream with a wooden spoon stuck out of the top, with a wide river in the background"
     month: march
+    photographer: 34
   -
     image: 03-kat.jpg
     image_title: "Sunset walk"
@@ -573,6 +654,7 @@ pictures:
     description: "Continuing in a theme of lockdown walks, we went out on this one on the eve of my birthday.  The colours were beautiful and the day that followed was filled with flowers and cake :)"
     alt: "Setting sun on the horizon, the canal water shimmering in the evening light, bare trees reflected in the water"
     month: march
+    photographer: 13
   -
     image: 03-kirsty.jpg
     image_title: "Botanical gardens"
@@ -580,6 +662,7 @@ pictures:
     description: "I may have lost all track of time but the trees still seem to know what they're doing."
     alt: "Cherry blossom"
     month: march
+    photographer: 14
   -
     image: 03-lyns.jpg
     image_title: "Prick"
@@ -587,6 +670,7 @@ pictures:
     description: "Good riddance to the last of these horrible painful little bastards."
     alt: "syringe held between two fingers"
     month: march
+    photographer: 15
   -
     image: 03-maree.jpg
     image_title: "Reflections: in celebration"
@@ -594,6 +678,7 @@ pictures:
     description: "Had fun with this one... it's actually vintage champagne which was opened to mark me receiving my Zumba Instructor license. It was at this moment I was able to reflect on the last year, understand what my motivations and interests were, and go and get them."
     alt: "Glass of champagne with reflection of house in the liquid"
     month: march
+    photographer: 72
   -
     image: 03-matt_holyoake.jpg
     image_title: "Do not disturb..."
@@ -601,6 +686,7 @@ pictures:
     description: "... unless with treats."
     alt: "Cosy"
     month: march
+    photographer: 74
   -
     image: 03-pete_fairhurst.jpg
     image_title: "Thank goodness for BST"
@@ -608,6 +694,7 @@ pictures:
     description: "British Summer Time returns at last for 2021, after what has felt like one of the longest, perpetually grey winters for many years."
     alt: "A low sun turns the sky from blue to burning orange, as it sets over the distant sea in front of the British seaside town of Weston-super-Mare"
     month: march
+    photographer: 28
   -
     image: 03-peter_chamberlin.jpg
     image_title: "Waiting"
@@ -615,6 +702,7 @@ pictures:
     description: "Toys waiting for the kids to get home after their first day back at school."
     alt: "Toys waiting for the kids to get home after their first day back at school."
     month: march
+    photographer: 27
   -
     image: 03-peter_smith.jpg
     image_title: "A Stroll Through the Woods"
@@ -622,6 +710,7 @@ pictures:
     description: "A late March stroll along a track through woods with leaf litter covering the ground."
     alt: "A late March stroll along a track through woods with leaf litter covering the ground."
     month: march
+    photographer: 73
   -
     image: 03-rhiannon_lawson.jpg
     image_title: "Nickelcreek"
@@ -629,6 +718,7 @@ pictures:
     description: "Not the best photo but... as lockdown continues, it brings the opportunity to see a band who haven't performed together for years. Watching this band with a friend virtually was a real treat #nickelcreek."
     alt: "Band performing on the TV"
     month: march
+    photographer: 35
   -
     image: 03-richard.jpg
     image_title: "Windmill"
@@ -636,6 +726,7 @@ pictures:
     description: "Windmill, up on the hill."
     alt: "Windmill and bench on a hill"
     month: march
+    photographer: 31
   -
     image: 03-sheena.jpg
     image_title: "Sea Mist"
@@ -643,6 +734,7 @@ pictures:
     description: "It was wonderful walking on the coastal path again, despite limited visibility. It felt like the calm before the storm as we encountered few people. Holidaymakers are already arriving (illegally) and we in the South West expect to be deluged in the months ahead. Who can blame them for wanting to see views like this, after a third lockdown?"
     alt: "Sea mist rolling in to the South West coastal path."
     month: march
+    photographer: 18
   -
     image: 03-sigrid.jpg
     image_title: "Pagham Harbour entrance"
@@ -650,6 +742,7 @@ pictures:
     description: "Only a few weeks ago we walked straight over to the headland in the centre of this picture but the recent storms and high tides eroded this path and made way for this massive inlet out of the entrance to Pagham harbour which completely changed this landscape."
     alt: "There is a bush of bright yellow gorse overlooking an expanse of water to the right of the channel leading into Pagham harbour"
     month: march
+    photographer: 19
   -
     image: 03-sue.jpg
     image_title: "Castle Skull"
@@ -657,6 +750,7 @@ pictures:
     description: "This is my first attempt at decorating a bottle, Gothic style, complete with bats, dragons and snake. On the sides I have put some trees and parts of castle wall. On the back a daunting rusty gate over which hangs an elaborate sign with the name on. I have used air dried clay mainly and cut out the clouds of paper. This has been my project this month - which has kept me sane!!!"
     alt: "A wine bottle painted black and decorated Gothic style with a dark and daunting castle, made more eerie in the light of a bright moon complete with flying bats, dragons approaching the castle, dark clouds hanging over, and a snake entwined around the neck of the bottle. A dark rusty old gate features on the back, over which hangs an elaborate sign with the name Castle Skull on it. I used mainly air dried clay except for the clouds which are paper cut outs. Not bad for my first attempt, I think!"
     month: march
+    photographer: 20
   -
     image: 03-teresa.jpg
     image_title: "Still sewing!"
@@ -664,6 +758,7 @@ pictures:
     description: "This particular day I was having a change from scrubs and sewing dresses for the \"Dress a girl around the world\" charity. The idea of sewing \"God's best dress\" appeals to me. Yes, we do shorts for boys too. Yes, we clothe children of any religion or none."
     alt: "Two red and poppy print girls dresses hanging on tree branches"
     month: march
+    photographer: 21
   -
     image: 03-tim_blair.jpg
     image_title: "Expecto Covidium"
@@ -671,6 +766,7 @@ pictures:
     description: "Despite still being in lockdown, World Book Day was still a thing, so a young Harry Potter appeared in our midst for the day."
     alt: "A small, blonde-haired child dressed as Harry Potter (wearing black robes with a Gryffindor badge, round glasses, and with a lightning scar drawn on his forehead), holding out a wand and shouting a spell."
     month: march
+    photographer: 71
   -
     image: 03-tom.jpg
     image_title: "Bath by night"
@@ -678,6 +774,7 @@ pictures:
     description: "As the days are getting longer and my fitness has hit a distressingly low level, I've started taking longer walks after work. A good one is up the hill to the University of Bath - pretty punishing, but some fantastic views across the city.<br ><br >Finishing late and spending some time looking at ducks does mean sometimes walking through the fields in the dark. Not great for the ankles, but it does give access to night views of Bath illuminated by the lights of the town and the setting sun. Like this one.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51010143961/\">Flickr</a>."
     alt: "View across Bath at sunset with all the lights of the town turned on"
     month: march
+    photographer: 1
   -
     image: 04-amy.jpg
     image_title: "Nostos"
@@ -685,6 +782,7 @@ pictures:
     description: "“The Greek word for return is nostos. Algos means suffering. So nostalgia is the suffering caused by an unappeased yearning to return”.<br ><br >This month we started to return. And it felt very good."
     alt: "Champagne coupes on a marble table in the sun"
     month: april
+    photographer: 32
   -
     image: 04-anna.jpg
     image_title: "Nugget"
@@ -692,6 +790,7 @@ pictures:
     description: "This is Nugget. She is my cat. She is wonderfully snuggly.<br ><br >... and only sometimes wees on my jumpers."
     alt: "picture of a cat with a hand-drawn filter applied"
     month: april
+    photographer: 4
   -
     image: 04-annette.jpg
     image_title: "Spring in Syleham"
@@ -699,6 +798,7 @@ pictures:
     description: "Rapeseed in full bloom in the Syleham sunshine."
     alt: "Rapeseed in full bloom in Syleham."
     month: april
+    photographer: 33
   -
     image: 04-bonnie-richard.jpg
     image_title: "A Little Fairy House"
@@ -706,6 +806,7 @@ pictures:
     description: "This photo was taken on the last day of April. We happily had quite a few choices in April which makes a nice change.  We did a circular walk in Castle Combe. Wild garlic everywhere along with some bluebells. Gorgeous woods and views. And then we came upon this little home and just felt so joyful to have done so.  Inside was a tin of doggie biscuits and a Guestbook which we happily signed.  It wasn’t a geocache just somebody’s quirky, delightful idea to make people like us smile. It certainly made our day."
     alt: "A Little Fairy House"
     month: april
+    photographer: 5
   -
     image: 04-clive.jpg
     image_title: "The day the (non-essential) shops opened"
@@ -713,6 +814,7 @@ pictures:
     description: "Snow greets us on 11th April."
     alt: "We see a winter scene with a fence in the foreground and three trees in the background"
     month: april
+    photographer: 26
   -
     image: 04-dad.jpg
     image_title: "The Dali Diver"
@@ -720,6 +822,7 @@ pictures:
     description: "On a treasure trail around Faringdon (Oxfordshire) this month, we came across this \"Dali Diver\", strange to see so far away from the sea. Apparently, the original was made for Salvador Dali who was visiting the eccentric Lord Berners in Faringdon. Dali attempted to give a lecture in the suit. The eccentricity of Lord Berners went as far as dyeing all pigeons in the town pink, and having a tall tower built as a folly on a nearby hill which has a sign high up on it saying \"Please do not feed the giraffes\". We could do with a few more of his type around at the moment to lighten the mood."
     alt: "A stone replica of a diver's suit"
     month: april
+    photographer: 22
   -
     image: 04-dan.jpg
     image_title: "Blizzard at the Batheaston Stadium during the final of the 2021 Covid Cup"
@@ -727,6 +830,7 @@ pictures:
     description: "April week one was bright sunshine and 19 degrees. April week two was a blizzard and 6 degrees. Lovely."
     alt: "A footballer celebrating a successful shot on goal during a blizzard"
     month: april
+    photographer: 6
   -
     image: 04-ed.jpg
     image_title: "Canal"
@@ -734,6 +838,7 @@ pictures:
     description: "We have now been in our new house for 1 month. This canal is a 5 mins walk from our front door. Not that peaceful with two small children, but it's a lovely place to walk."
     alt: "Canal"
     month: april
+    photographer: 7
   -
     image: 04-emma.jpg
     image_title: "Silver Sands"
@@ -741,6 +846,7 @@ pictures:
     description: "Beautiful afternoon at West Wittering beach."
     alt: "sunlight on sea and sand making a silver effect"
     month: april
+    photographer: 24
   -
     image: 04-gareth.jpg
     image_title: "Staple Diet Of Half The World"
@@ -748,6 +854,7 @@ pictures:
     description: "<a href=\"https://designmuseumshop.com/pages/supermarket\">SUPERMARKET</a> was an installation in the Design Museum in London in which everyday household objects were given limited edition packaging - and were available to buy. I picked up some bread and washing up liquid, but this is the rice designed by Joey Yu."
     alt: "A box of rice featuring a painting of a woman at a table."
     month: april
+    photographer: 8
   -
     image: 04-gill.jpg
     image_title: "Down at the seashore"
@@ -755,6 +862,7 @@ pictures:
     description: "Beautiful different colours of seaweed whilst rock pooling with our granddaughters at Longhoughton beach in Northumberland. To round off a wonderful day out we had fish and chips in nearby Alnwick town square. You really can’t beat a bucket and spade day out!"
     alt: "Down at the seashore"
     month: april
+    photographer: 9
   -
     image: 04-hanna.jpg
     image_title: "Making pasta"
@@ -762,6 +870,7 @@ pictures:
     description: "Inspired by our Sardinian extended family, we crafted these culurgione pasta parcels during the Easter hols. They’re notoriously difficult to close, but we managed a decent amount and even a few pretty ones!"
     alt: "Homemade ravioli laid out on the table waiting to be cooked."
     month: april
+    photographer: 10
   -
     image: 04-iris.jpg
     image_title: "Field #4"
@@ -769,6 +878,7 @@ pictures:
     description: "It's starting to look a lot greener around here."
     alt: "Looking downhill into a field. In the background are budding trees, hills and dark clouds."
     month: april
+    photographer: 11
   -
     image: 04-james_collie.jpg
     image_title: "Northern Ireland is alright I suppose"
@@ -776,6 +886,7 @@ pictures:
     description: "Photo taken from the top of Binevenagh, Northern Ireland on a beautiful day."
     alt: "Photo taken from the top of Binevenagh, Northern Ireland on a beautiful day."
     month: april
+    photographer: 12
   -
     image: 04-james_wiggins.jpg
     image_title: "A sleepy rodent"
@@ -783,6 +894,7 @@ pictures:
     description: "Wally, having had a few difficulties a few months ago, has rallied spectacularly. At 8 he's in really good health and is much more active. The vets are a bit surprised with his age and his health but the main thing is that he's got the sun back in the afternoons and enjoys lounging. I didn't think he'd get to enjoy this time of year again but on he goes."
     alt: "A brown degu lounges in the sun"
     month: april
+    photographer: 29
   -
     image: 04-jen.jpg
     image_title: "Blue skies ahead"
@@ -790,6 +902,7 @@ pictures:
     description: "A windy walk in the spring sunshine at Bedruthan - almost tropical!"
     alt: "Taken from a cliff top, a sandy cove with bright blue waters and yellow sand"
     month: april
+    photographer: 34
   -
     image: 04-kat.jpg
     image_title: "Returning to an old hobby"
@@ -797,6 +910,7 @@ pictures:
     description: "Over April I rediscovered the joy of tarot reading. It's been nearly 20 years since I last spent any significant amount of time on them and so I feel I am looking at the cards with fresh eyes. Take The Chariot, for example; I used to see struggle in it... but now I notice his happy face! He seems to be relishing the challenge... If I close my eyes I can see him go by, hooves pummelling the earth, dust flying, his voice projecting encouragement and direction. There is passion and energy in the image. Yes, the horses are pulling in different directions but he's in control, driving forwards from a place of exhilaration and enthusiasm.  What a great feeling!"
     alt: "Tarot card depicting a charioteer in action, horses galloping through the desert"
     month: april
+    photographer: 13
   -
     image: 04-kirsty.jpg
     image_title: "Victoria Park"
@@ -804,6 +918,7 @@ pictures:
     description: "Getting up early at the weekend is not easy but spring morning sunlight and lack of crowds almost makes up for it."
     alt: "A pond surrounded by trees reflecting off the water in the morning sunlight"
     month: april
+    photographer: 14
   -
     image: 04-lyns.jpg
     image_title: "Spring"
@@ -811,6 +926,7 @@ pictures:
     description: "Spring, we need to talk."
     alt: "Snow in the garden"
     month: april
+    photographer: 15
   -
     image: 04-maree.jpg
     image_title: "Reflections: in food"
@@ -818,6 +934,7 @@ pictures:
     description: "This month there was a lot going on but taking the time to have a cup of tea and a buttered hot cross bun helped reflect on what was important in life, and gave me the space to think about all the other lovely things that I'd seen this month such as Easter celebrations, lambs and the return of the sun."
     alt: "buttered hot cross bun and tea"
     month: april
+    photographer: 72
   -
     image: 04-matt_holyoake.jpg
     image_title: "Baa?"
@@ -825,6 +942,7 @@ pictures:
     description: "Wild sheep encountered while out for lunch."
     alt: "Baa?"
     month: april
+    photographer: 74
   -
     image: 04-pete_fairhurst.jpg
     image_title: "King of the monsters"
@@ -832,6 +950,7 @@ pictures:
     description: "Our pet chameleon, Flint, must have heard that <i>Godzilla vs. Kong</i> was out this month, so he decided to do his best impression of both at once."
     alt: "A juvenile 'veiled' (aka Yemen) chameleon, displaying rusty orange and light green banding (his \"happy\" colours), perched on top of a green-and-white variegated ficus houseplant, against a painted blue room wall in the background"
     month: april
+    photographer: 28
   -
     image: 04-peter_chamberlin.jpg
     image_title: "Spring at last?"
@@ -839,6 +958,7 @@ pictures:
     description: "Here's hoping we're through the wintry spell and will continue to see fair weather. This viola didn't seem to mind to cold though!"
     alt: "A potted viola in flower"
     month: april
+    photographer: 27
   -
     image: 04-peter_smith.jpg
     image_title: "Checking Development Progress"
@@ -846,6 +966,7 @@ pictures:
     description: "A small boy peers through a gap in a fence which carries a sign stating 'Closed for redevelopment'."
     alt: "A small boy peers through a gap in a fence which carries a sign stating 'Closed for redevelopment'. The boy is at bottom right, the sign at top left, and the remainder of the scene is a fence made from vertical willow poles."
     month: april
+    photographer: 73
   -
     image: 04-rhiannon_lawson.jpg
     image_title: "Normality"
@@ -853,6 +974,7 @@ pictures:
     description: "The first pint back in the freezing cold. Cass enjoyed himself but we had to get him a fake ID!"
     alt: "black puppy with a pint"
     month: april
+    photographer: 35
   -
     image: 04-richard-monica.jpg
     image_title: "Sunset"
@@ -860,6 +982,7 @@ pictures:
     description: "Amazing sunset from our alley!"
     alt: "Sunset"
     month: april
+    photographer: 31
   -
     image: 04-sheena.jpg
     image_title: "It's Not a Lamb!"
@@ -867,6 +990,7 @@ pictures:
     description: "Spring has sprung, and it's glorious. I hope you have been able to enjoy its beauty in some form. \r\nMost of the photos I have taken this month have been of adorable lambs, and so my husband has assumed that's what I submitted. Surprise!"
     alt: "Mother with her calf. Both are sitting down in a field."
     month: april
+    photographer: 18
   -
     image: 04-sigrid.jpg
     image_title: "Shipwreck"
@@ -874,6 +998,7 @@ pictures:
     description: "This is the wreck of one of the many concrete barges that were used for the D Day landings in the 2nd wold war. It sank just off Bognor beach and is exposed at low tide."
     alt: "The remains of a concrete  barge lying on its side on a sandy beach"
     month: april
+    photographer: 19
   -
     image: 04-sue.jpg
     image_title: "They Are All Perfect!"
@@ -881,6 +1006,7 @@ pictures:
     description: "Not much choice this month as preparing to move house at end May/June. Cherry blossom is always so beautiful and in the dying words of the great Samurai: ”They are all perfect!” Love that film!!!"
     alt: "A row of Cherry blossom trees in full bloom, showing off their elegance and beauty. They were all in the pink and perfect!"
     month: april
+    photographer: 20
   -
     image: 04-teresa.jpg
     image_title: "Easter Tree"
@@ -888,6 +1014,7 @@ pictures:
     description: "Tom's mum gave me painted wooden eggs from Poland, over the years the collection has been joined by more eggs and other things so a decorated branch is now a tradition here."
     alt: "A blackthorn branch decorated with eggs, birds nests and rabbits"
     month: april
+    photographer: 21
   -
     image: 04-tim_blair.jpg
     image_title: "Sheep dogs"
@@ -895,6 +1022,7 @@ pictures:
     description: "I've been continuing getting out every day for a run, which is wonderful for my mental state, and I'm now able to travel further afield to explore new areas. This reading of this sign thoroughly entertained me, which just added to a glorious day to be out and about."
     alt: "A rural footpath gate into a field, with a makeshift wooden sign next to it reading \"sheep: please keep your dog on a lead\""
     month: april
+    photographer: 71
   -
     image: 04-tom.jpg
     image_title: "The apocalypse?"
@@ -902,6 +1030,7 @@ pictures:
     description: "I normally rely on composition and technique on my pictures and keep away from editing and filters, however this month a friend was teaching me her techniques for doing amazing things with colours. This picture was taken while on a walk up to the university (a walk I used to do regularly, and after a year sitting on a sofa nearly kills me) and I managed to get some impressive colours from the natural sunset.<br ><br >You can see <a href=\"https://www.flickr.com/photos/tomnatt/51136340740/\">the original picture on Flickr</a> and I wrote <a href=\"https://tomnatt.blogspot.com/2021/04/a-return-to-filters.html\">a blog post about the techniques</a> I learned.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51135442423/\">Flickr</a>."
     alt: "Colourful sunset with the sky the colours of fire"
     month: april
+    photographer: 1
   -
     image: 05-amy.jpg
     image_title: "Shangri La"
@@ -909,6 +1038,7 @@ pictures:
     description: "View over my city from the Shangri La."
     alt: "View of London skyline from the shard"
     month: may
+    photographer: 32
   -
     image: 05-anna.jpg
     image_title: "Peanut"
@@ -916,6 +1046,7 @@ pictures:
     description: "Here is my beautiful puppy Peanut. She has taken over my life. I love her oodles."
     alt: "A puppy resting her head on my knee."
     month: may
+    photographer: 4
   -
     image: 05-annette.jpg
     image_title: "Chilled GSD"
@@ -923,6 +1054,7 @@ pictures:
     description: "Chilled pup after a long day playing with other dogs at the beach."
     alt: "German Shepherd on a sofa"
     month: may
+    photographer: 33
   -
     image: 05-bonnie-richard.jpg
     image_title: "Jacobite Train (Harry Potter as well)"
@@ -930,6 +1062,7 @@ pictures:
     description: "Difficult choice this month as we spent 2 weeks in the Highlands so lots of lovely scenes and memories.    Richard spent a good deal of time hanging out of windows to get a good view of the train on the viaduct.  Hope you all enjoy it and are getting out and about more now."
     alt: "Jacobite Train (Harry Potter as well)"
     month: may
+    photographer: 5
   -
     image: 05-clayton.jpg
     image_title: "Summer nights"
@@ -937,6 +1070,7 @@ pictures:
     description: "Lager by candlelight."
     alt: "Beer bottle by a lit tea light outside at dusk"
     month: may
+    photographer: 70
   -
     image: 05-clive.jpg
     image_title: "Taillights and Tail Fins"
@@ -944,6 +1078,7 @@ pictures:
     description: "'65 Ford Galaxie 500 convertible on right hand side of the picture parked next to some friends. A mid -90s Lincoln Town Car (beige), front wing of a '56 T bird (blue), rear of a '59 Plymouth wagon (light green), '59 Ford Skyliner in the background (coral)."
     alt: "We see a '65 Ford Galaxie 500 convertible on right hand side of the picture parked next to some friends - A mid -90s Lincoln Town Car (beige), front wing of a '56 T bird (blue), rear of a '59 Plymouth wagon (light green) , '59 Ford Skyliner in the background (coral)."
     month: may
+    photographer: 26
   -
     image: 05-dad.jpg
     image_title: "My village... a different view"
@@ -951,6 +1086,7 @@ pictures:
     description: "No, not a drone photo, but one from the top of the truncated church spire! A view of the High Street in Minchinhampton with Gatcombe Park (the trees) in the distance."
     alt: "Aerial view of Minchinhampton"
     month: may
+    photographer: 22
   -
     image: 05-dan.jpg
     image_title: "A pertinent message for our times"
@@ -958,6 +1094,7 @@ pictures:
     description: "I’ve really enjoyed seeing kids reclaiming the streets during lockdown. Finding rainbows, dinosaurs, spaceships and family scenes chalked across every nearby road has provided a little spark of joy."
     alt: "Looking down at a rough concrete pavement where someone has written ‘Nearly there’ in blue chalk. A line, also in chalk, leads away from the message to an unknown destination."
     month: may
+    photographer: 6
   -
     image: 05-ed.jpg
     image_title: "Sheep"
@@ -965,6 +1102,7 @@ pictures:
     description: "We went to feed some friendly sheep at a local farm. Everyone had a great time, including the sheep."
     alt: "Sheep"
     month: may
+    photographer: 7
   -
     image: 05-gareth.jpg
     image_title: "It's A Sweet Little Flyover"
@@ -972,6 +1110,7 @@ pictures:
     description: "Turns out the Chiswick Flyover, at Junction 1 of the M4, was opened by the film star Jayne Mansfield. I think she was being polite."
     alt: "A road sign on a roundabout with the message \"It's A Sweet Little Flyover - Jayne  Mansfield 1959\"."
     month: may
+    photographer: 8
   -
     image: 05-gill.jpg
     image_title: "Stripes"
@@ -979,6 +1118,7 @@ pictures:
     description: "We enjoyed lunch in the garden of a pub just outside our Northumberland village whilst watching a farmer putting perfect stripes in the next field (the farmer was clearly not simply putting stripes in the field, but we’re not exactly sure what the process was)."
     alt: "Stripes"
     month: may
+    photographer: 9
   -
     image: 05-hanna.jpg
     image_title: "A new dawn, a new life"
@@ -986,6 +1126,7 @@ pictures:
     description: "The roads were empty, the air still, and the sky gorgeous when cycling home at 3am after witnessing a friend give birth."
     alt: "Sun rising in the horizon behind water"
     month: may
+    photographer: 10
   -
     image: 05-iris.jpg
     image_title: "Field frame"
@@ -993,6 +1134,7 @@ pictures:
     description: "The field photo series continues. This one came with a built-in frame."
     alt: "A circular hole in a rock slab, showing a view of a field, trees, houses and a clear sky behind"
     month: may
+    photographer: 11
   -
     image: 05-james_collie.jpg
     image_title: "When Generosity Stretches"
@@ -1000,6 +1142,7 @@ pictures:
     description: "As far as I can remember, no one has ever bought me flowers, much as I appreciate them (and yet understand zilch about them). I guess it's just not the \"done thing\". I've always had to buy my own. But never has a bunch lasted as long in my home as these ones that were bought for us after we got married. Pretty they are too. It made me think... I love it when a relatively small token of generosity goes further than originally intended."
     alt: "A bunch of white and pink flowers by a window."
     month: may
+    photographer: 12
   -
     image: 05-james_wiggins.jpg
     image_title: "Savernake"
@@ -1007,6 +1150,7 @@ pictures:
     description: "I managed to get out for a nice walk in Savernake. It feels like 'unlocking' is still a few weeks out but the woods are nice and not too busy."
     alt: "A Wiltshire woodland with bluebells in bloom"
     month: may
+    photographer: 29
   -
     image: 05-jen.jpg
     image_title: "A new path"
@@ -1014,6 +1158,7 @@ pictures:
     description: "My favourite view near home. The perfect spot to rest before strolling down to the cove for a swim and a picnic."
     alt: "A wide shot of a coastline in the bright sunshine, curved beach in a secluded cove, in the forefront surrounded by bright flowers is a signpost with multiple directions"
     month: may
+    photographer: 34
   -
     image: 05-kat.jpg
     image_title: "Cider and sheep!"
@@ -1021,6 +1166,7 @@ pictures:
     description: "I took this quickly from the road side as it struck me as a very west country kind of sight.  I love seeing all this when I go out to visit sewage treatment works!"
     alt: "Sheep grazing in an apple orchard"
     month: may
+    photographer: 13
   -
     image: 05-kirsty.jpg
     image_title: "Bognor"
@@ -1028,6 +1174,7 @@ pictures:
     description: "Rainbow, dog, beach."
     alt: "Rainbow, dog, beach"
     month: may
+    photographer: 14
   -
     image: 05-lyns.jpg
     image_title: "S.O.S."
@@ -1035,6 +1182,7 @@ pictures:
     description: "Because of some plot, we ended up doing a stand up gig to raise awareness of chalk streams drying up on one of the heaviest, thunderstormiest days May had to offer. Thankfully, all of the acts managed to keep their heads above water, if not their coats."
     alt: "lady in a raincoat standing waist-deep in water in front of a \"save our streams\" sign"
     month: may
+    photographer: 15
   -
     image: 05-maree.jpg
     image_title: "Reflections: In Nature"
@@ -1042,6 +1190,7 @@ pictures:
     description: "I am always very thankful for where I live and never more so than with this sunset, the clouds are perfectly reflected in the mirror-like water glaze on the beach and I love the stark contrast between the reflections and the solid black figure almost centred, walking towards a new day."
     alt: "Man walking towards sunset on beach"
     month: may
+    photographer: 72
   -
     image: 05-matt_holyoake.jpg
     image_title: "Barbieee"
@@ -1049,6 +1198,7 @@ pictures:
     description: "BBQ season is upon us!"
     alt: "BBQ season is upon us!"
     month: may
+    photographer: 74
   -
     image: 05-pete_fairhurst.jpg
     image_title: "Shiny"
@@ -1056,6 +1206,7 @@ pictures:
     description: "After an almost entirely wet, murky and thoroughly muddy May, I was finally able to clean my car properly again and get to grips a bit more with polishing and 'detailing' it."
     alt: "A 'Series 2' 2016 Abarth 595 Competizione in bright yellow (\"Giallo\") with black livery and wheels"
     month: may
+    photographer: 28
   -
     image: 05-peter_chamberlin.jpg
     image_title: "Project"
@@ -1063,6 +1214,7 @@ pictures:
     description: "I've been fulfilling a long held ambition to build a guitar. It doesn't take too much luthiery to put together a Stratocaster from bits, but it's still quite a detailed job."
     alt: "A part-built sunburst and black Fender Stratocaster on a workbench"
     month: may
+    photographer: 27
   -
     image: 05-peter_smith.jpg
     image_title: "Canal Watcher"
@@ -1070,6 +1222,7 @@ pictures:
     description: "A carved wooden statue overlooks the Wallbridge Upper Lock outside the Lock Keepers Cafe, Stroud."
     alt: "A carved wooden statue overlooks the Wallbridge Upper Lock outside the Lock Keepers Cafe, Stroud. The statue is in the foreground, and the canal and lock recede into the distance."
     month: may
+    photographer: 73
   -
     image: 05-rhiannon_lawson.jpg
     image_title: "London 2012"
@@ -1077,6 +1230,7 @@ pictures:
     description: "When you can finally go places and see stuff, these sorts of things seem to have even more significance. A trip to the museum of London where I saw the London 2012 cauldron. Found myself with goosebumps."
     alt: "art display of London 2012 cauldron from Olympic Games"
     month: may
+    photographer: 35
   -
     image: 05-richard-monica.jpg
     image_title: "Sunny ducks"
@@ -1084,6 +1238,7 @@ pictures:
     description: "Three ducks enjoying the dusk sun on a still pond."
     alt: "Three ducks on a pond in the sun"
     month: may
+    photographer: 31
   -
     image: 05-sheena.jpg
     image_title: "Wildflowers"
@@ -1091,6 +1246,7 @@ pictures:
     description: "We have been fortunate to see a profusion of wildflowers including the Red Campion pictured. However our walks have been slowed down considerably by my trialling of appropriate ID apps. Hopefully some of the knowledge will be retained!"
     alt: "Wildflowers in woodland setting with Red Campion in the foreground."
     month: may
+    photographer: 18
   -
     image: 05-sigrid.jpg
     image_title: "Clematis"
@@ -1098,6 +1254,7 @@ pictures:
     description: "This clematis has been flowering in our carport for the whole of May, brightening up this wet and dreary month."
     alt: "Climbing plant with large purple daisy shaped flowers with a creamy coloured centre"
     month: may
+    photographer: 19
   -
     image: 05-sue.jpg
     image_title: "That’s not a salad, it’s a banquet!!!"
@@ -1105,6 +1262,7 @@ pictures:
     description: "My husband is not a cook, but he loves making salads. They are scrumptiously amazing and are a work of art, very filling too!"
     alt: "Imagine a landscape with various shapes and full of colour. That’s what my husband’s salads look like! He is no cook but boy can he create a salad! It ends up looking like a piece of art, and tastes amazing !!!"
     month: may
+    photographer: 20
   -
     image: 05-teresa.jpg
     image_title: "At the tyre fitters"
@@ -1112,6 +1270,7 @@ pictures:
     description: "Thought this was more fun than  a \"we are open\" A-board!"
     alt: "Brightly painted motorbike advertising local tyre fitting depot"
     month: may
+    photographer: 21
   -
     image: 05-tim_blair.jpg
     image_title: "Sunny sphinx"
@@ -1119,6 +1278,7 @@ pictures:
     description: "We have two very fat, lazy cats who spend about 98% of their lives asleep on the bed in our bedroom. I work in this bedroom, so they've been regular background companions when I'm on video calls. As the day wears on, the sun changes direction through the windows, and the cats migrate across the bed, chasing the beam. On this day, I caught Chairman Meow (Cherry, for short), looking extremely regal, almost sphinx-like."
     alt: "A contemporary bedroom, with a black, orange, and white calico cat on a grey blanket on the bed. The cat is sitting in a sunbeam, in a position like a sphinx, and looking very happy to be there."
     month: may
+    photographer: 71
   -
     image: 05-tom.jpg
     image_title: "Stained light"
@@ -1126,6 +1286,7 @@ pictures:
     description: "Early morning in church I was treated to this beautiful display. Morning sunlight pouring through our stained glass window, bathing the front in colour. It was one of my first services back after an eternity of being locked away, and it was worth the wait. Good to be back.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51166852302/\">Flickr</a>."
     alt: "stained glass window with sunlight creating a splash of colour on a stage"
     month: may
+    photographer: 1
   -
     image: 06-amy.jpg
     image_title: "Eight"
@@ -1133,6 +1294,7 @@ pictures:
     description: "Jack, my nephew, turned eight this month. I hadn’t seen him in nearly a year so it felt like a real gift to be able to give him his birthday present in person."
     alt: "Picture of boy playing guitar in garden"
     month: june
+    photographer: 32
   -
     image: 06-anna.jpg
     image_title: "Summer walks in the Wye Valley"
@@ -1140,6 +1302,7 @@ pictures:
     description: "A beautiful hot summers walk from Chepstow to Wintours Leap. Then back for rum and raisin ice cream!"
     alt: "Me smiling in a field."
     month: june
+    photographer: 4
   -
     image: 06-annette.jpg
     image_title: "This is what I think of my rosette"
@@ -1147,6 +1310,7 @@ pictures:
     description: "A pup biting a rosette."
     alt: "German shepherd puppy with a rosette in his mouth."
     month: june
+    photographer: 33
   -
     image: 06-bonnie-richard.jpg
     image_title: "Our Neighbours"
@@ -1154,6 +1318,7 @@ pictures:
     description: "Every summer we enjoy the daily visits from our bovine neighbours peering over the fence of the field at the back of our house. A footpath runs along our back garden but very rarely used. All the other homes have put up hedges - we assume for privacy.  We love to see walkers go by and always wave when they pass through. We also go up and speak to these “neighbours” when we are outside. They usually visit in early evening. Hope all is well. We really enjoy all your photos each month. Stay well."
     alt: "Cows peering over a fence"
     month: june
+    photographer: 5
   -
     image: 06-clayton.jpg
     image_title: "Grenfell"
@@ -1161,6 +1326,7 @@ pictures:
     description: "I went to see the memorials for the Grenfell tower fire.<br ><br >#Grenfell #neverforget"
     alt: "Memorials for Grenfell tower"
     month: june
+    photographer: 70
   -
     image: 06-clive.jpg
     image_title: "A day out at the London Concours"
@@ -1168,6 +1334,7 @@ pictures:
     description: "This is how Bertone reimagined the Jaguar XK150 in 1957 - beautiful."
     alt: "We see how Bertone reimagined the Jaguar XK 150 in 1957."
     month: june
+    photographer: 26
   -
     image: 06-dad.jpg
     image_title: "Never too old…"
@@ -1175,6 +1342,7 @@ pictures:
     description: "…to learn, I hope! Reached a BIG birthday this month, so in the enforced absence of a fancy holiday to celebrate, my wife bought me a new hobby. One beautiful new woodturning lathe. If all goes well you may be treated (?) to future photos of items made, but I need lots and lots of practice first."
     alt: "Picture of a new woodturning lathe."
     month: june
+    photographer: 22
   -
     image: 06-dan.jpg
     image_title: "Making the best of the June sunshine"
@@ -1182,6 +1350,7 @@ pictures:
     description: "Brodie and I decided we needed to make the most of the new decking at the back of our house. Brodie watched the little birds in the trees and I tried some deadlifts."
     alt: "An exercise mat and some weights in a small back garden. There’s a dog laying down next to the mat looking sleepy."
     month: june
+    photographer: 6
   -
     image: 06-ed.jpg
     image_title: "Lego"
@@ -1189,6 +1358,7 @@ pictures:
     description: "I finally finished my Nintendo lego, the biggest build by far. It's very impressive and has a lot of detail."
     alt: "Lego"
     month: june
+    photographer: 7
   -
     image: 06-emma.jpg
     image_title: "Chapel light"
@@ -1196,6 +1366,7 @@ pictures:
     description: "Golden hour inside Eton College chapel."
     alt: "Light from stained glass window reflecting colours on wall inside chapel"
     month: june
+    photographer: 24
   -
     image: 06-gareth.jpg
     image_title: "By Noir"
@@ -1203,6 +1374,7 @@ pictures:
     description: "Another piece of enormous South Acton street art, this time by Noir and described by the artist as \"A message to the Children of London. Brush your Teeth, at least, three times a day.\" This is situated very near the former home of <a href=\"/photos/2018/04-gareth.html\">this mural by Stik</a> which I photographed in April 2018 and, just like Stik's, I'm submitting before the building itself is demolished."
     alt: "An enormous cartoon character with large teeth painted on the side of a block of flats."
     month: june
+    photographer: 8
   -
     image: 06-gill.jpg
     image_title: "A mammoth day out"
@@ -1210,6 +1382,7 @@ pictures:
     description: "We visited a country park on the outskirts of Leicester with my Dad where a Mammoth has been built to commemorate finding Mammoth bones in what was originally a gravel quarry. I had not realised that mammoths were only about the same size as modern African elephants and not giant creatures."
     alt: "A mammoth day out"
     month: june
+    photographer: 9
   -
     image: 06-hanna.jpg
     image_title: "Midsummer by the lake"
@@ -1217,6 +1390,7 @@ pictures:
     description: "We spent midsummer at our friends’ place which has a tiny lakeside beach about a 100 yards from the house. The kids absolutely loved it. And it was pretty idyllic for the grown ups too."
     alt: "Three children running along a forest road with swimming toys."
     month: june
+    photographer: 10
   -
     image: 06-iris.jpg
     image_title: "Jab day"
@@ -1224,6 +1398,7 @@ pictures:
     description: "A first dose and a nice walk. Not a bad start to June."
     alt: "Close-up on flowering cow parsley, with a path and hedgerows in the background"
     month: june
+    photographer: 11
   -
     image: 06-james_collie.jpg
     image_title: "Charmed by a Farm"
@@ -1231,6 +1406,7 @@ pictures:
     description: "Never have I ever met such sociable sheep, chilled horses or chatty puppies all in one place. This farm, which kind of feels a bit clumsily tacked on to Broadway, is easily one of the least put-together and picturesque parts of the village and yet it's fields were as green as anything and everyone around us seem to be loving stumbling across it too."
     alt: "Proud horse stands surrounded by a field of buttercups."
     month: june
+    photographer: 12
   -
     image: 06-james_wiggins.jpg
     image_title: "To lay waste to their citadels with hurricanes of fire!"
@@ -1238,6 +1414,7 @@ pictures:
     description: "I was especially pleased with this particular bit of painting. As ever the best bits seem to just happen with less work than you would think and the bits you labour over end up as a bit of a dogs dinner. This was the former so yay for random chance."
     alt: "A bronze/copper component painted on a warhammer model."
     month: june
+    photographer: 29
   -
     image: 06-jen.jpg
     image_title: "Time for a dip"
@@ -1245,6 +1422,7 @@ pictures:
     description: "We're lucky to have this oversized rockpool as a local swim spot when the heat gets too much. What started out as a natural pool was made even larger by the locals who expanded it with the help of something hefty dynamite from Cornwall's mining days. It's a little haven for relaxation (and not found by the emmetts when they come by in their droves!)"
     alt: "A woman swimming away from the camera in a still sea pool. In the background, a sailing ship passes by."
     month: june
+    photographer: 34
   -
     image: 06-kat.jpg
     image_title: "Summer sunset"
@@ -1252,6 +1430,7 @@ pictures:
     description: "I'm finding that sitting quietly by the window around 9:30/10pm and simply watching the sky change colour is a lovely way to unwind at the end of the day.  Even better with a cup of tea and some music.  It's becoming something of a ritual and my phone is filling up with pictures of the same view with slightly different colours, clouds and birds in different places."
     alt: "Sunset view with multi colour sky and clouds"
     month: june
+    photographer: 13
   -
     image: 06-kirsty.jpg
     image_title: "Bath"
@@ -1259,6 +1438,7 @@ pictures:
     description: "I like the long summer evenings when it stays warm and light in an extended twilight in between time."
     alt: "Sunset over the river Avon in Bath. Mix of urban building, greenery along the river and water mirroring the sky"
     month: june
+    photographer: 14
   -
     image: 06-lyns.jpg
     image_title: "Garden"
@@ -1266,6 +1446,7 @@ pictures:
     description: "If the sun ever comes out, this lot'll really take off..."
     alt: "garden pots and boxes filled with immature plants"
     month: june
+    photographer: 15
   -
     image: 06-maree.jpg
     image_title: "Reflections: In Colour"
@@ -1273,6 +1454,7 @@ pictures:
     description: "I spotted this little beauty in the sand while I was having a reflective moment. Before I knew it, I was digging it out and washing it in the sea and totally taken with how simple and elegant the pattern was but also how well formed the shell was. I spent so long admiring it, I think it technically counted as a mindfulness session."
     alt: "brown sea shell held up in front of sea"
     month: june
+    photographer: 72
   -
     image: 06-matt_holyoake.jpg
     image_title: "Game day..."
@@ -1280,6 +1462,7 @@ pictures:
     description: "... but it's not going well."
     alt: "Game day"
     month: june
+    photographer: 74
   -
     image: 06-pete_fairhurst.jpg
     image_title: "Poppies"
@@ -1287,6 +1470,7 @@ pictures:
     description: "Early June is poppy season around where we live, the hedgerows and verges suddenly littered with bright burst of reds and pinks almost overnight."
     alt: "Bright pink poppies with green stems and leaves, in front of a grey stone wall"
     month: june
+    photographer: 28
   -
     image: 06-peter_chamberlin.jpg
     image_title: "Lupin"
@@ -1294,6 +1478,7 @@ pictures:
     description: "Not many plants thrive in our shady garden but this lupin seems to love it."
     alt: "A big, bold lupin flower catching the evening sun"
     month: june
+    photographer: 27
   -
     image: 06-peter_smith.jpg
     image_title: "Whitby Swing Bridge"
@@ -1301,6 +1486,7 @@ pictures:
     description: "View looking down the River Esk towards the swing bridge with the buildings on the North side of the river stacked up the hill, and in the foreground, a herring gull stands on a wall and calls noisily."
     alt: "View looking down the River Esk towards the swing bridge with the buildings on the North side of the river stacked up the hill, and in the foreground, a herring gull stands on a wall and calls noisily."
     month: june
+    photographer: 73
   -
     image: 06-rhiannon_lawson.jpg
     image_title: "Out"
@@ -1308,6 +1494,7 @@ pictures:
     description: "NOW I feel normal again. To say I found this emotional was perhaps an understatement."
     alt: "Theatre ticket"
     month: june
+    photographer: 35
   -
     image: 06-richard-monica.jpg
     image_title: "Carousel of lights"
@@ -1315,6 +1502,7 @@ pictures:
     description: "A carousel of lights and horses, waiting for the end of quarantine to start galloping again. Photo taken by my beautiful wife."
     alt: "Carousel of horses with lights"
     month: june
+    photographer: 31
   -
     image: 06-sheena.jpg
     image_title: "Family and Friends"
@@ -1322,6 +1510,7 @@ pictures:
     description: "This represents the many shared meals we enjoyed this month with both family and friends. It was wonderful to finally see some of those we have dearly missed 'in the flesh'. Also it was fantastic being able to join in the celebrations of two milestone birthdays."
     alt: "Platter of food with open sandwich, little salad and fries"
     month: june
+    photographer: 18
   -
     image: 06-sigrid.jpg
     image_title: "Erosion in Chichester Harbour"
@@ -1329,6 +1518,7 @@ pictures:
     description: "We came across these ghostly looking dead trees on a walk along Chichester Harbour. They are still rooted to the ground which is eroding fast beneath them."
     alt: "Two dead trees leaning on the ground with their branches standing out against the blue of the sea and sky like sceletons"
     month: june
+    photographer: 19
   -
     image: 06-sue.jpg
     image_title: "Sitting there like a jewel!"
@@ -1336,6 +1526,7 @@ pictures:
     description: "I was surprised when I saw this near our log pile! It's a Common Cardinal Beetle apparently - never seen one before so not so common, haha!"
     alt: "I spied a beautiful bright red beetle on some ivy above our log pile. To my surprise it is called a Common Cardinal Beetle which i had never seen before, so not so common i guess!"
     month: june
+    photographer: 20
   -
     image: 06-teresa.jpg
     image_title: "Poppy"
@@ -1343,6 +1534,7 @@ pictures:
     description: "The large garden poppies were wonderful this year but didn't last long."
     alt: "Large red poppy with wonderful black middle"
     month: june
+    photographer: 21
   -
     image: 06-tim_blair.jpg
     image_title: "Mega Den"
@@ -1350,6 +1542,7 @@ pictures:
     description: "Making the most of being able to go for a pub lunch again (and the on-again-off-again lovely-not-lovely weather), we went for a building-up-a-hunger walk in the hills surrounding Fingest in the Chilterns, and came across this HUGE den that had been built in the woods nearby. 6.5yo inside to show off the scale of this beast!"
     alt: "An enormous, teepee-shaped den built from discarded and fallen branches, situated in woodland with dappled light, with a child inside to show off the scale of the build"
     month: june
+    photographer: 71
   -
     image: 06-tom.jpg
     image_title: "Unchanged"
@@ -1357,6 +1550,7 @@ pictures:
     description: "Back in the simpler times of 2001, I attended the University of Bath and for my first year lived in the mighty John Wood halls. This month I went for a walk past my old halls and took this picture through the gate. Aside from a newer lock, the view is exactly the same as it was 20 years ago down to the security camera (which was set on fire) and the open green space (which we wrote messages on in letters made of carrots). Even that bin and metal trolley thing look hauntingly familiar.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51276737746/\">Flickr</a>."
     alt: "View through a gate into a courtyard"
     month: june
+    photographer: 1
   -
     image: 07-amy.jpg
     image_title: "Feels on Wheels"
@@ -1364,6 +1558,7 @@ pictures:
     description: "Spotted this on the last evening of a staycation in London and it summed up the lovely break I had in my own city and also the city itself."
     alt: "White van in East end London."
     month: july
+    photographer: 32
   -
     image: 07-anna.jpg
     image_title: "First travels away with the pupper"
@@ -1371,6 +1566,7 @@ pictures:
     description: "The joint joys of a normalish wedding, the lake district and introducing Peanut to sheep were a pleasure."
     alt: "Puppy curled up looking cute."
     month: july
+    photographer: 4
   -
     image: 07-annette.jpg
     image_title: "Hot"
@@ -1378,6 +1574,7 @@ pictures:
     description: "I left my phone outside during the heat wave and it did not appreciate it.<br ><br >A trip to the fridge saved the day."
     alt: "Screenshot of the iPhone overheat warning screen"
     month: july
+    photographer: 33
   -
     image: 07-bonnie-richard.jpg
     image_title: "Bee Experience in London"
@@ -1385,6 +1582,7 @@ pictures:
     description: "We went to London this month for Richard's birthday. One of the aims was to finally use a Bee Experience voucher given to us by our son and his girlfriend this past Christmas. It was located in Kennington. We learned a lot, got to put on the nifty bee attire and were even allowed to hold the bee frame which seem to be missing the queen and had too many drones. The bee keeper thought things were a bit amiss in that hive. The Bee Experience also included a beer tasting (made with honey of course) along with some food which was a lovely way to end. London was a bit of a shock initially. We haven't seen so many young people in one place in over 18 months! It just felt so normal. A good feeling."
     alt: "Bee Experience in London"
     month: july
+    photographer: 5
   -
     image: 07-clayton.jpg
     image_title: "Park"
@@ -1392,6 +1590,7 @@ pictures:
     description: "Trip to Purley playing fields."
     alt: "Path lined by trees through a park"
     month: july
+    photographer: 70
   -
     image: 07-clive.jpg
     image_title: "Living next-door to Dungeness Power Station"
@@ -1399,6 +1598,7 @@ pictures:
     description: "The surreal landscape of a Dungeness wooden cabin framed by the nuclear power station (currently being decommissioned)"
     alt: "We see the surreal landscape of a Dungeness wooden cabin framed by the nuclear power station"
     month: july
+    photographer: 26
   -
     image: 07-dad.jpg
     image_title: "Chateau Lafite anyone?"
@@ -1406,6 +1606,7 @@ pictures:
     description: "This is one of a pair of “sculptures” in the shape of candlesticks either side of the main path to Waddesden Manor, a National Trust property in Bucks formerly the country home of the Rothschilds. Of course the Rothchilds are famous for being rich, but also for owning vineyards in Bordeaux producing Chateau Lafite wine. Hence the sculptures, each made of over 1000 magnums of Lafite Rothschild wine. I guess it was a tough job for someone to drain over 2000 magnums so the designer could create the sculptures, but someone had to do it..."
     alt: "A sculpture of 1000 wine magnums"
     month: july
+    photographer: 22
   -
     image: 07-dan.jpg
     image_title: "Nature is healing"
@@ -1413,6 +1614,7 @@ pictures:
     description: "Nature is healing. The SoccerBird has laid a new clutch."
     alt: "Four scruffy footballs lying in a clearing. They look like giant eggs in a nest."
     month: july
+    photographer: 6
   -
     image: 07-ed.jpg
     image_title: "Formula 1"
@@ -1420,6 +1622,7 @@ pictures:
     description: "I went to Silverstone to watch the Formula 1 race. Being the first full capacity event and the most people I've been around for over a year, it was both daunting and good to experience something 'normal'."
     alt: "Cars"
     month: july
+    photographer: 7
   -
     image: 07-emma.jpg
     image_title: "Summer Sunset"
@@ -1427,6 +1630,7 @@ pictures:
     description: "Magical dusk at Lee Abbey Devon."
     alt: "Dusk sunset over sea"
     month: july
+    photographer: 24
   -
     image: 07-gareth.jpg
     image_title: "The Acton Giant - The Sequel"
@@ -1434,6 +1638,7 @@ pictures:
     description: "Same spot as <a href=\"/photos/2021/06-gareth.html\">last time</a>, exactly one month later."
     alt: "The block of flats, pictured in June's photograph, half-way through being demolished."
     month: july
+    photographer: 8
   -
     image: 07-gill.jpg
     image_title: "Holy Island or Lindisfarne"
@@ -1441,6 +1646,7 @@ pictures:
     description: "A lovely day on Holy Island, Northumberland on our maiden trip in our new (to us) motor home. This picture is taken from the beautiful Gertrude Jekyll Garden looking to the Castle. To the left of the Castle you will see some upturned old boats now used for storage, a feature in many parts of the island - great upcycling."
     alt: "Lindisfarne or Holy Island"
     month: july
+    photographer: 9
   -
     image: 07-hanna.jpg
     image_title: "Boat trip"
@@ -1448,6 +1654,7 @@ pictures:
     description: "We had a chance to join the boys’ friend on their motorboat for a tour around Helsinki shoreline. The late July afternoon was perfect for it and it was cool to see familiar sights from a new perspective."
     alt: "Two boys wearing life vests in a boat."
     month: july
+    photographer: 10
   -
     image: 07-iris.jpg
     image_title: "Corfe Castle"
@@ -1455,6 +1662,7 @@ pictures:
     description: "One of the ruined towers of Corfe Castle in Dorset. I half expected Monty Python's God to pop out of the clouds in the background there."
     alt: "The ruins of Corfe Castle, with the sun breaking through clouds in the background"
     month: july
+    photographer: 11
   -
     image: 07-james_collie.jpg
     image_title: "St Mellitus"
@@ -1462,6 +1670,7 @@ pictures:
     description: "It felt very surreal to be freelancing as a photographer again post-lockdown, but an absolute privilege to pop down to St Mellitus and capture some of the life of the community on the last day of their academic year."
     alt: "Church steeple against a deep blue sky."
     month: july
+    photographer: 12
   -
     image: 07-james_wiggins.jpg
     image_title: "Bunny in a bin"
@@ -1469,6 +1678,7 @@ pictures:
     description: "One morning I came downstairs and wasn't greeted by the bunny like I normally am. I looked around and could not find her. Starting to feel mild panic, I checked the doors and other places.<br ><br >I eventually return to the dining room, where she spends her nights, and see a small face peering out of the bunny toy bin."
     alt: "A white rabbit looks out of a copper coloured bin"
     month: july
+    photographer: 29
   -
     image: 07-jen.jpg
     image_title: "At anchor"
@@ -1476,6 +1686,7 @@ pictures:
     description: "A boat moors up in Polperro's natural harbour. A good perch for a spot of swimming and people watching."
     alt: "A small boat in the centre of a curved bay with cliffs reaching high behind. In the foreground, tall white flowers frame the scene."
     month: july
+    photographer: 34
   -
     image: 07-kat.jpg
     image_title: "July full moon"
@@ -1483,6 +1694,7 @@ pictures:
     description: "Took this on the way home from my first night out in at least 12 months. I pulled over near the top of Brassknocker Hill to take this, it was a beautiful night view. Can't tell a whole lot from the picture though, I think I need better equipment for night time pictures. I actually wonder if turning off my headlights would have changed anything? If the opportunity comes up again I'll try that and see what difference it makes. It's fun to experiment :)"
     alt: "Full moon over a night-time view of the valley and hills."
     month: july
+    photographer: 13
   -
     image: 07-kirsty.jpg
     image_title: "Bognor"
@@ -1490,6 +1702,7 @@ pictures:
     description: "There used to be more of the pier but it's slowly being claimed by the sea. When the tide was in people used to jump off the end in homemade wings."
     alt: "View looking out to see at low tide from under the pier"
     month: july
+    photographer: 14
   -
     image: 07-lyns.jpg
     image_title: "Wonder"
@@ -1497,6 +1710,7 @@ pictures:
     description: "A Welsh introduction to the world of virtual reality."
     alt: "Man wearing a VR headset and an expression of wonder"
     month: july
+    photographer: 15
   -
     image: 07-maree.jpg
     image_title: "Reflections: on the coast"
@@ -1504,6 +1718,7 @@ pictures:
     description: "With the world opening back up and trying to deal with the emotions and anxieties of a different world once again, I went in search for a spot to reflect that wasn't my usual rock and found a new area of the coast which was stunning. Change isn't always bad."
     alt: "Big twig on rocks with the beach in the background."
     month: july
+    photographer: 72
   -
     image: 07-matt_holyoake.jpg
     image_title: "A sunny day in the city"
@@ -1511,6 +1726,7 @@ pictures:
     description: "Beautiful view in St James' Park."
     alt: "A sunny day in the city"
     month: july
+    photographer: 74
   -
     image: 07-pete_fairhurst.jpg
     image_title: "Chook Watch"
@@ -1518,6 +1734,7 @@ pictures:
     description: "Early July, we had a clutch of chicks from the local primary school home to look after. They were all really friendly - surprisingly so - but we particularly warmed to this little chap."
     alt: "A young chicken with beige and brown speckled feathers, nestling on a blue chequered dressing gown"
     month: july
+    photographer: 28
   -
     image: 07-peter_chamberlin.jpg
     image_title: "Grey Mullet"
@@ -1525,6 +1742,7 @@ pictures:
     description: "Grey Mullet swimming in a tank."
     alt: "fish swimming in a tank"
     month: july
+    photographer: 27
   -
     image: 07-peter_smith.jpg
     image_title: "Goodrich Castle"
@@ -1532,6 +1750,7 @@ pictures:
     description: "Archer's eye view looking east from Goodrich Castle over the rolling countryside, with the River Wye is in the fold of the hill. The arrowslit or loophole is a narrow vertical opening in the stonework through which the archer can loose his arrow."
     alt: "Archer's eye view looking east from Goodrich Castle over the rolling countryside, with the River Wye is in the fold of the hill. The arrowslit or loophole is a narrow vertical opening in the stonework through which the archer can loose his arrow."
     month: july
+    photographer: 73
   -
     image: 07-rhiannon_lawson.jpg
     image_title: "Classic wedding"
@@ -1539,6 +1758,7 @@ pictures:
     description: "Just a standard wedding! Is this \"something bow-rowed\"?"
     alt: "lady dressed up drawing a bow"
     month: july
+    photographer: 35
   -
     image: 07-richard-monica.jpg
     image_title: "Lights in sunset"
@@ -1546,6 +1766,7 @@ pictures:
     description: "The big M and some smaller lights fighting the sunset for centre stage. Taken by my beautiful and amazing wife."
     alt: "Lamp posts and McDonalds sign in a sunset"
     month: july
+    photographer: 31
   -
     image: 07-sheena.jpg
     image_title: "Tai Y Tylwyth Teg?"
@@ -1553,6 +1774,7 @@ pictures:
     description: "Do you believe in Welsh Faeries? We discovered this enchanted place whilst walking in Snowdonia National Park. If you visit North Wales we recommend you also visit National Trust Bodnant Garden, as we believe it to be one of the best gardens in the UK."
     alt: "Fairy dwelling in a Welsh wood"
     month: july
+    photographer: 18
   -
     image: 07-sigrid.jpg
     image_title: "Feeding time on Bognor Regis seafront"
@@ -1560,6 +1782,7 @@ pictures:
     description: "One of this 2 young seagulls has already learned to be a scavenger."
     alt: "2young seagulls sitting on a Bognor Regis seawall, one with a big peace of a sandwich in its peak"
     month: july
+    photographer: 19
   -
     image: 07-sue.jpg
     image_title: "Bird’s eye view!"
@@ -1567,6 +1790,7 @@ pictures:
     description: "We recently moved to rural Wales and our back garden overlooks a field and a valley. We were treated to this sight recently when the farmer up the road cut the grass. This amazing machine behind the tractor not only cut the grass but set it out in rows. Two days later he used another machine which sucked up the grass, chopped it into bits, spewed it back into the bucket of the truck to take back for silage. Fascinating and entertaining! This week - not so good as the waft from the field told us it was muck spreading time! UGH!! Windows and doors firmly closed!"
     alt: "The back garden of our new home overlooks a field and valley. This week we were treated to a bird’s eye view  of the farmer pulling this amazing machine behind his tractor which had two circular horizontal wheels which cut the grass and separated it into neat rows. Two days later another machine was used to suck up the grass, chop it into bits and spew it back out into the bucket of the truck, to be used for silage. This week was not so good - the waft coming our way told us it was muck spreading time, so windows and doors kept firmly shut! Ugh!!!"
     month: july
+    photographer: 20
   -
     image: 07-teresa.jpg
     image_title: "The gubbins"
@@ -1574,6 +1798,7 @@ pictures:
     description: "The combine was being checked over pre harvest - its like meccano for giant children."
     alt: "Inner workings of a combine harvester"
     month: july
+    photographer: 21
   -
     image: 07-tim_blair.jpg
     image_title: "Cow Inna Bun"
@@ -1581,6 +1806,7 @@ pictures:
     description: "Along with a few frisbee friends, I found time earlier this month to escape home for a night and head to Quarry Park disc golf course in Leamington. With the permission of the owner (who also joined us) we camped there for the night, playing a round of disc golf in the evening and one in the morning, and filled the time between with drinks, fire, and the biggest (most delicious) slabs of steak."
     alt: "A very large steak in a small bread roll on a pink plastic plate being held in the foreground, with a tent and people camping in the background."
     month: july
+    photographer: 71
   -
     image: 07-tom.jpg
     image_title: "Light in the darkness"
@@ -1588,6 +1814,7 @@ pictures:
     description: "Light streaming through stained glass is always inspirational, and in the slight darkness of early morning it makes for some very vivid and evocative colours. Church is starting to wake up - we're allowed to sing again which makes a huge difference.<br ><br >Of course then I remembered that <a href=\"/photos/2021/05-tom.html\">I'd done the stained glass window picture very recently</a>. Oops.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51372088728/\">Flickr</a>."
     alt: "stained glass window with morning sunlight coming through"
     month: july
+    photographer: 1
   -
     image: 08-amy.jpg
     image_title: "Textures and light"
@@ -1595,6 +1822,7 @@ pictures:
     description: "Just looking at this picture immediately takes me back to an August of sunshine, time off work, good food, good wine and good company. There is something about the mixture of texture and light that evokes a feeling I can’t quite put words to."
     alt: "Wooden bread board with dish containing olive oil and seeds"
     month: august
+    photographer: 32
   -
     image: 08-anna.jpg
     image_title: "Chepstow Market at 8am"
@@ -1602,6 +1830,7 @@ pictures:
     description: "Weirdly quiet and serene, I've never been so early that they were still setting up. The calm before the maelstrom of local cheese and tchotchke buying ensues."
     alt: "A quiet town street with stalls being set up, bunting overhead and and sunshine making things look cherry and colourful."
     month: august
+    photographer: 4
   -
     image: 08-annette.jpg
     image_title: "Syleham Summer"
@@ -1609,6 +1838,7 @@ pictures:
     description: "Summer and Syleham fields."
     alt: "Syleham fields"
     month: august
+    photographer: 33
   -
     image: 08-bonnie-richard.jpg
     image_title: "Covid Quilt"
@@ -1616,6 +1846,7 @@ pictures:
     description: "I started my Book Quilt in November when we were once again locked down.  I had to source the material online which - if you are a quilter - is hugely disappointing because the joy of touching the material, looking at the colours and spending lots of time hemming and hawing about what to choose is golden. Nevertheless, I managed to find some great designs.  I love books and run a Book Group so the theme of books cheered me up quite a bit during this difficult time. It only took me 7 months to complete  (I hand quilted the top versus machine) and I spent many a happy evening watching lots of Netflix programmes sewing my quilt. My last quilt took 15 years!  Hope everyone is keeping well."
     alt: "Covid Quilt"
     month: august
+    photographer: 5
   -
     image: 08-clayton.jpg
     image_title: "Sunny London"
@@ -1623,6 +1854,7 @@ pictures:
     description: "Goodbye summer, hello London."
     alt: "View of London streets"
     month: august
+    photographer: 70
   -
     image: 08-clive.jpg
     image_title: "Redhill Cruise Nite 2021"
@@ -1630,6 +1862,7 @@ pictures:
     description: "A '67 Mustang framed in the side windows of a '65 Ford Galaxie convertible at the Redhill Cruise."
     alt: "We see a 1967 mustang framed in the side windows of a 1965 Ford Galaxie 500 Convertible at night."
     month: august
+    photographer: 26
   -
     image: 08-dad.jpg
     image_title: "Wells Cathedral Clock"
@@ -1637,6 +1870,7 @@ pictures:
     description: "This clock in the north transept of Wells Cathedral is believed to be the 2nd oldest working clock in the world and the oldest clock with a working dial. It was made in ~1390 when it was believed that the earth was the centre of the universe and it has an astronomical clock face with the earth at its centre. The knights above the clock come out and joust every quarter hour with one knight getting knocked off his horse every time... for over 600 years!!"
     alt: "The clock in Wells Cathedral."
     month: august
+    photographer: 22
   -
     image: 08-dan.jpg
     image_title: "New plaster and old shadows"
@@ -1644,6 +1878,7 @@ pictures:
     description: "The tree outside our bedroom window casts some pretty weird shadows across the freshly plastered bedroom wall."
     alt: "Shadows and light from trees playing across a freshly-plastered wall"
     month: august
+    photographer: 6
   -
     image: 08-ed.jpg
     image_title: "Tanks"
@@ -1651,6 +1886,7 @@ pictures:
     description: "On the 'sunny' bank holiday weekend, we went to a tank show and got to ride in this tank."
     alt: "Tanks"
     month: august
+    photographer: 7
   -
     image: 08-emma.jpg
     image_title: "A Valletta View"
@@ -1658,6 +1894,7 @@ pictures:
     description: "Traditional Maltese balconies lining the alleyways of Valletta."
     alt: "Looking up towards buildings, balconies and sky"
     month: august
+    photographer: 24
   -
     image: 08-gareth.jpg
     image_title: "Marble Arch Mound"
@@ -1665,6 +1902,7 @@ pictures:
     description: "The view from the brand new and roundly mocked London landmark, The Marble Arch Mound."
     alt: "The London skyline featuring The Shard and the London Eye"
     month: august
+    photographer: 8
   -
     image: 08-gill.jpg
     image_title: "Old and the new"
@@ -1672,6 +1910,7 @@ pictures:
     description: "Old and the new bridges at Tintagel Castle, Cornwall. The new bridge comprises two cantilever structures, the floors of which are made up of hundreds of thousands of slates inserted vertically in small cages which rattle and move when walked on. It was interesting to see many adults freaked out by the slates rattling as they crossed the bridge whilst most kids thought it a great adventure!"
     alt: "Old and the new"
     month: august
+    photographer: 9
   -
     image: 08-hanna.jpg
     image_title: "A street for foodies"
@@ -1679,6 +1918,7 @@ pictures:
     description: "In the small west coast city, Vaasa, there is a little street with a high concentration of artisan food. Best pizza, bread and croissants in the country plus a decent wine bar and a cake place too. All approved for the highest quality by our resident Italian experts."
     alt: "Pavement and shop windows."
     month: august
+    photographer: 10
   -
     image: 08-iris.jpg
     image_title: "Little digger"
@@ -1686,6 +1926,7 @@ pictures:
     description: "Hired a new gardener but it turns out he only specialises in digging and fertiliser. The good news is I can pay him in sticks."
     alt: "A golden retriever puppy holding the handle of a trowel in his mouth"
     month: august
+    photographer: 11
   -
     image: 08-james_collie.jpg
     image_title: "Dad Going Maverick"
@@ -1693,6 +1934,7 @@ pictures:
     description: "It has felt quite surreal being able to socialise and travel a little bit over the summer, like reentering a long-lost world. Perhaps this image of my dad, who loves aeroplanes but is far from a thrill-seeker, typifies the oddity of August."
     alt: "Microlight mid flight set against a blue sky."
     month: august
+    photographer: 12
   -
     image: 08-james_wiggins.jpg
     image_title: "Goodbye Wally"
@@ -1700,6 +1942,7 @@ pictures:
     description: "I had planned not to post a pet picture this month but Wally passed away in late August and this slightly obscured picture was taken the day before. He was 8 and a half, a ripe old age for a degu, and his passing was swift but seemingly mostly pain free. The evening before he took part in one of his favourite activities - sunbathing. <br ><br >He's left a huge void and I miss him dearly but he will always be remembered."
     alt: "A small, brown degu (a rodent) lies stretched out and asleep in the sun."
     month: august
+    photographer: 29
   -
     image: 08-jen.jpg
     image_title: "Paddling"
@@ -1707,6 +1950,7 @@ pictures:
     description: "A paddle boarder glides along the Helford river. One of my favourite swim spots in Cornwall."
     alt: "A person standing on a paddle board floats on a calm sea. To the left the coastline rises and falls. In the foreground, the water is clear."
     month: august
+    photographer: 34
   -
     image: 08-kat.jpg
     image_title: "Roadside blooms"
@@ -1714,6 +1958,7 @@ pictures:
     description: "I loved the colours of these weeds/plants by the side of the road and managed to get a snap of them while stuck in a queue for the traffic lights.\r\nIt's been lovely driving around in the summer.  Not just for the pretty colours but also the way the tall grass moves like waves in the wind.  And when you drive past it gives you a Mexican wave!"
     alt: "Big bunches of pink flowers by the roadside"
     month: august
+    photographer: 13
   -
     image: 08-kirsty.jpg
     image_title: "Canterbury"
@@ -1721,6 +1966,7 @@ pictures:
     description: "Dancing with hoverboards and stilts. Life is happening again."
     alt: "Dancers in long brightly coloured dresses on hoverboards and stilts"
     month: august
+    photographer: 14
   -
     image: 08-lyns.jpg
     image_title: "Grocery Robot"
@@ -1728,6 +1974,7 @@ pictures:
     description: "In Milton Keynes, you can have your stuff from the Co-op delivered by an actual robot.<br ><br >This contained a cucumber, some humous and some diet coke, ordered specifically so we could see it being delivered by the robot."
     alt: "Boy looking at a white square wheeled robot"
     month: august
+    photographer: 15
   -
     image: 08-maree.jpg
     image_title: "Reflections: Two walks of life"
@@ -1735,6 +1982,7 @@ pictures:
     description: "I took this on one of my morning walks along the pebble ridge. It gave me food to thought to think about the different sides which make up the scene, the location, and my life and made me thankful for that morning walk in that glorious moment."
     alt: "Pebble ridge"
     month: august
+    photographer: 72
   -
     image: 08-matt_holyoake.jpg
     image_title: "Sparkly lights..."
@@ -1742,6 +1990,7 @@ pictures:
     description: "... surrounding a rogue celebratory balloon."
     alt: "Sparkly lights..."
     month: august
+    photographer: 74
   -
     image: 08-pete_fairhurst.jpg
     image_title: "Helix"
@@ -1749,6 +1998,7 @@ pictures:
     description: "Beginning to venture out a bit more, and spotted this unusual twisted, helix-like stem of flowers."
     alt: "A spray of purple flowers, arranged in a spiral as they travel up their main stem"
     month: august
+    photographer: 28
   -
     image: 08-peter_chamberlin.jpg
     image_title: "Puffballs"
@@ -1756,6 +2006,7 @@ pictures:
     description: "Puffball fungi I found in a shady spot while out walking."
     alt: "Two large puffball fungi growing between ivy on a shady path"
     month: august
+    photographer: 27
   -
     image: 08-peter_smith.jpg
     image_title: "Glider Column"
@@ -1763,6 +2014,7 @@ pictures:
     description: "What's the collective noun for a group of gliders, a swarm, a column, or maybe a guild. There were at least 20 in the thermal at one time, and being unable to see them from the side, it was a worrying sight."
     alt: "Looking up towards a cloud under which a large number of gliders were circling. There were at least 20 in the thermal at one time."
     month: august
+    photographer: 73
   -
     image: 08-rhiannon_lawson.jpg
     image_title: "Getting away"
@@ -1770,6 +2022,7 @@ pictures:
     description: "Not bragging but when you finally get away, get away to somewhere like this #croatia"
     alt: "Sun setting by the sea"
     month: august
+    photographer: 35
   -
     image: 08-richard-monica.jpg
     image_title: "Head"
@@ -1777,6 +2030,7 @@ pictures:
     description: "Found a large, looming head; amazing artwork in a mall. Who would have expected it in such a place? Photo taken by my beautiful, amazing wife."
     alt: "Artwork of large head on ceiling in a mall"
     month: august
+    photographer: 31
   -
     image: 08-sheena.jpg
     image_title: "Sunset With Guests"
@@ -1784,6 +2038,7 @@ pictures:
     description: "August was a wonderful month for 'get-togethers', including a large family reunion. We also had house guests and watched this sunset together nearby."
     alt: "Sunset on estuary"
     month: august
+    photographer: 18
   -
     image: 08-sigrid.jpg
     image_title: "Pauly's den"
@@ -1791,6 +2046,7 @@ pictures:
     description: "Our daughter's gorgeous Romanian rescue dog stayed with us for most of this month. He spent a lot of his time perfecting this den in our garden. It is a lovely shady place from which he could overlook the garden and defend it against invaders like seagulls and pigeons."
     alt: "Pauly's face and front paws are poking out of his den in the shrubbery"
     month: august
+    photographer: 19
   -
     image: 08-sue.jpg
     image_title: "An explosion of Red!"
@@ -1798,6 +2054,7 @@ pictures:
     description: "These type of African lilies have given us a surprising and beautiful show in our new garden all through August and are still going strong."
     alt: "An explosion of red suddenly burst into bloom in our new garden. They are a type of African lilies which have given us a beautiful show all through August and are still going."
     month: august
+    photographer: 20
   -
     image: 08-teresa.jpg
     image_title: "Beans!"
@@ -1805,6 +2062,7 @@ pictures:
     description: "My vegi crops have been a bit sparse this year but I have had a lot of runner beans, my friends have had a lot of beans, my neighbours are full of beans - as is the freezer. I am very tired of beans!"
     alt: "A pretty bucket full of newly picked runner beans"
     month: august
+    photographer: 21
   -
     image: 08-tim_blair.jpg
     image_title: "Ammonite"
@@ -1812,6 +2070,7 @@ pictures:
     description: "We spent a good chunk of time during August on the Dorset coast in one of my favourite places to be: Swanage. It almost felt like a normal holiday, which was both wonderful, and weird.<br ><br >One day we took a trip west to the beach at Charmouth (just east of Lyme Regis) to do some fossil hunting. We'd organised with a local chap for him to spend a little bit of time helping us, and with his assistance we found this beautiful ammonite inside a stone."
     alt: "A grey stone, split in two, with each part containing a cross section of an ammonite."
     month: august
+    photographer: 71
   -
     image: 08-tom.jpg
     image_title: "Lee Abbey"
@@ -1819,6 +2078,7 @@ pictures:
     description: "After a very difficult year, it was so good to embrace the peace and tranquillity of Lee Abbey, Devon. I spent a week there, listening to talks, resting, walking, and running the odd exercise class. Even learned the Lord's Prayer in sign language. <br ><br >This is the classic view of Lee Abbey. Leave the main house and you can see straight down the hill over farmland to the bay where the sea comes crashing in. It's a stunning view and one that never ever fails to make me pause and reflect. Before it became Lee Abbey, it was a private residence - imagine seeing this view every morning!<br ><br >This picture is <a href=\"https://www.flickr.com/photos/tomnatt/albums/72157719737377569\">one of many photos of our trip</a>. From <a href=\"https://www.flickr.com/photos/tomnatt/51405025192/\">Flickr</a>."
     alt: "View over the sea at Lee Abbey bay"
     month: august
+    photographer: 1
   -
     image: 09-amy.jpg
     image_title: "The lines between us"
@@ -1826,6 +2086,7 @@ pictures:
     description: "I spent a glorious and peaceful weekend in North Berwick. I find being by the sea a contemplative experience and an opportunity to reflect on life in a more simple way.<br ><br >This picture reminds me of my late father in law. He was an artist and would have loved painting this particular view as he enjoyed the juxtaposition between the natural world and the dystopian world of science fiction. I miss him."
     alt: "East Lothian coastline on a sunny day"
     month: september
+    photographer: 32
   -
     image: 09-anna.jpg
     image_title: "The view from a remote peninsula"
@@ -1833,6 +2094,7 @@ pictures:
     description: "Went in search of an ancient Viking port in a remote and nearly inaccessible peninsula of Skye. Didn't see anyone else all day! Quite delightful."
     alt: "A view of the ocean, beach and mountains of Skye."
     month: september
+    photographer: 4
   -
     image: 09-annette.jpg
     image_title: "Front door"
@@ -1840,6 +2102,7 @@ pictures:
     description: "My new front door."
     alt: "Front door"
     month: september
+    photographer: 33
   -
     image: 09-bonnie-richard.jpg
     image_title: "Scottish Wedding Cake Topper"
@@ -1847,6 +2110,7 @@ pictures:
     description: "We traveled up to Crieff early in the month to finally attend our nephew’s wedding - this was the third date for the wedding.  It took place in Comrie Croft - an eco sort of place. The ceremony was supposed to be in the woods, however it rained heavily the morning of the wedding so it took place (thankfully) in the beautifully decorated barn. The bride made the wedding cake and her sister made this wonderful cake topper. This was the best wedding we have ever attended - a Humanist married them who was amazing and a ceilidh topped it off. Men in kilts. Women in jump suits. It was so lovely."
     alt: "Scottish Wedding Cake Topper"
     month: september
+    photographer: 5
   -
     image: 09-clayton.jpg
     image_title: "Lily"
@@ -1854,6 +2118,7 @@ pictures:
     description: "A timely reminder that nothing in nature blooms all year round. Like this lily, there is a season for everything."
     alt: "purple lily in bloom"
     month: september
+    photographer: 70
   -
     image: 09-clive.jpg
     image_title: "Norfolk Sunset"
@@ -1861,6 +2126,7 @@ pictures:
     description: "Beautiful late September sunset on the North Norfolk coast."
     alt: "We see a beautiful late September sunset out to sea on the North Norfolk coast"
     month: september
+    photographer: 26
   -
     image: 09-dad.jpg
     image_title: "Ornamental Grass"
@@ -1868,6 +2134,7 @@ pictures:
     description: "A day’s birdwatching at WWT Slimbridge gave sightings of Cranes as well all sorts of geese and ducks, etc, but it was a huge area of backlit ornamental grass that caught my eye most for a photograph."
     alt: "Photo of ornamental grass backlit by the sun and sky."
     month: september
+    photographer: 22
   -
     image: 09-dan.jpg
     image_title: "What are you doing down here too?"
@@ -1875,6 +2142,7 @@ pictures:
     description: "Brodie occasionally likes to join me for my afternoon stretches."
     alt: "A dog lying upside down on a red patterned rug. The dog is looking straight at the camera."
     month: september
+    photographer: 6
   -
     image: 09-ed.jpg
     image_title: "Party"
@@ -1882,6 +2150,7 @@ pictures:
     description: "Our youngest turned 3 so we had a party. It was his first ever party due to Covid and it was nice to be 'normal' again for a couple of hours."
     alt: "Party"
     month: september
+    photographer: 7
   -
     image: 09-emma.jpg
     image_title: "Autumnal cheese plate"
@@ -1889,6 +2158,7 @@ pictures:
     description: "Getting into the swing of autumn with a decorative cheese board."
     alt: "Cheeses, nuts, fruit Nd flowers on black slate"
     month: september
+    photographer: 24
   -
     image: 09-gareth.jpg
     image_title: "FunFax"
@@ -1896,6 +2166,7 @@ pictures:
     description: "Pulled this early-90s, kids version of the Filofax off the shelf as research for a podcast I've been working on called <a href=\" https://play.acast.com/s/the-xennial-dome/the-xennial-dome-series-trail\">The Xennial Dome</a>. Would love to supply more photos, but the level of personal data in this thing makes it a security nightmare.<br ><br >Yes, I had two of them."
     alt: "Two FunFaxes (the kids filofax) one open, one closed."
     month: september
+    photographer: 8
   -
     image: 09-gill.jpg
     image_title: "Peloton"
@@ -1903,6 +2174,7 @@ pictures:
     description: "The peloton of the 2021 Tour of Britain passing between Hexham and Corbridge. It was over in a flash! However, the pre and post activity of Tour cars and Police motor bikes was a lesson in logistics and speed."
     alt: "Peloton"
     month: september
+    photographer: 9
   -
     image: 09-hanna.jpg
     image_title: "Autumn moods"
@@ -1910,6 +2182,7 @@ pictures:
     description: "September has been a bit gloomy at times but that’s actually made running more atmospheric."
     alt: "Bendy pine tree and some rocks in a foggy weather."
     month: september
+    photographer: 10
   -
     image: 09-iris.jpg
     image_title: "Dog days"
@@ -1917,6 +2190,7 @@ pictures:
     description: "This guy has taken over my life. This photo was taken at the start of the month, when his favourite spot to lurk was under the sofa – he's much too big to fit in there now."
     alt: "Golden retriever puppy peering out from under a sofa"
     month: september
+    photographer: 11
   -
     image: 09-james_collie.jpg
     image_title: "Fragile"
@@ -1924,6 +2198,7 @@ pictures:
     description: "As I looked at all the delicate rose petals that had fallen to the floor, it made me think of how fragile and temporary most things in life are. Yet, if the somber, mellowness of autumn is anything to go by, there's nothing wrong with that fragility. If anything, it's actually incredibly beautiful."
     alt: "White rose petals resting on the sun-dappled earth."
     month: september
+    photographer: 12
   -
     image: 09-james_wiggins.jpg
     image_title: "The end of a great campaign"
@@ -1931,6 +2206,7 @@ pictures:
     description: "September is a bit of a turning point and, following the loss of a dear pet last month the chance to play fun games with friends is as welcome as ever. Jack Hardcastle (named after a former colleague's husband) was a noir PI in the US city of Gary in 2021. He worked with an IT Support Specialist, a knight and a demonic clown. It was off the deep end of my normal style of play but was so fantastic that I never looked back. Thank you to all involved, it was fantastic. The picture is of my monitor, showing Jack running out of luck."
     alt: "Five of seven tick boxes are filled in charting a journey from Okay to Doomed"
     month: september
+    photographer: 29
   -
     image: 09-jen.jpg
     image_title: "Sitting on the dock of the bay"
@@ -1938,6 +2214,7 @@ pictures:
     description: "Taking some time to relax before starting the day."
     alt: "A cockapoo pup staring out of a window towards the sea. A cup of coffee is in the background."
     month: september
+    photographer: 34
   -
     image: 09-kat.jpg
     image_title: "Matthew Lennox playing Abbey Square in Bath"
@@ -1945,6 +2222,7 @@ pictures:
     description: "This is Matthew Lennox! He is a very talented musician, guitarist and beat boxer, and plays his own original instrumental songs. He records his music as he plays it into a looping station, building the music up, layer by beautiful layer into something magical to listen to. He seems to channel some of the best energy and emotion into his music, hearing him play live is always a high for me. I come away from his shows energised, refreshed and inspired. I'm grateful for the likes of him bringing joy to the streets."
     alt: "Guitarist Matthew Lennox busking in the square"
     month: september
+    photographer: 13
   -
     image: 09-kirsty.jpg
     image_title: "Bath"
@@ -1952,6 +2230,7 @@ pictures:
     description: "Squirrel season."
     alt: "A squirrel surrounded by green plants"
     month: september
+    photographer: 14
   -
     image: 09-lyns.jpg
     image_title: "Egg Fall Down"
@@ -1959,6 +2238,7 @@ pictures:
     description: "In which the baby generously teaches me a valuable lesson about only putting half the shopping away before getting distracted by something happening in the other room."
     alt: "Toddler throwing eggs on the kitchen floor"
     month: september
+    photographer: 15
   -
     image: 09-maree.jpg
     image_title: "Reflections: in colour"
@@ -1966,6 +2246,7 @@ pictures:
     description: "This image hasn’t been tampered with, filtered or been taken on special equipment, it was on my iPhone just taken at the right time one evening. Nature is truly spectacular and I reflected on how lucky I am to live where I do."
     alt: "Sunset on the sea"
     month: september
+    photographer: 72
   -
     image: 09-matt_holyoake.jpg
     image_title: "Homegrown chilli..."
@@ -1973,6 +2254,7 @@ pictures:
     description: "...that can't seem to decide whether it's green or red."
     alt: "Homegrown chilli"
     month: september
+    photographer: 74
   -
     image: 09-pete_fairhurst.jpg
     image_title: "Here be dragons"
@@ -1980,6 +2262,7 @@ pictures:
     description: "We paid a visit to one of our favourite local National Trust places at the end of summer, which was alive with massive, brightly coloured dragonflies."
     alt: "A large dragonfly with a bright orange body and dark brown eyes, resting on a grey, rough stone wall next to a dark pond"
     month: september
+    photographer: 28
   -
     image: 09-peter_chamberlin.jpg
     image_title: "Crossing"
@@ -1987,6 +2270,7 @@ pictures:
     description: "On my regular walk I stumbled across this pun. Sorry."
     alt: "A square photo taken from a bridge over a river. The picture is dominated by a large steel cross, part of the bridge's construction."
     month: september
+    photographer: 27
   -
     image: 09-peter_smith.jpg
     image_title: "Steam Train"
@@ -1994,6 +2278,7 @@ pictures:
     description: "Steam train Eddystone pulls out of Corfe Castle station on the Swanage line. The view is from the castle, and shows the signal box and semaphore signals as well as the 1946 Southern Railway rebuilt West Country Class Bulleid Pacific No. 34028 ‘Eddystone’."
     alt: "Steam train Eddystone pulls out of Corfe Castle station on the Swanage line. The view is from the castle, and shows the signal box and semaphore signals as well as the 1946 Southern Railway rebuilt West Country Class Bulleid Pacific No. 34028 ‘Eddystone’. The engine and tender are in green with glittering brass highlights."
     month: september
+    photographer: 73
   -
     image: 09-rhiannon_lawson.jpg
     image_title: "Six by Nico"
@@ -2001,6 +2286,7 @@ pictures:
     description: "This was quite the treat night out. The food was INCREDIBLE. But a lovely night out isn't complete without your entire dress falling apart, getting bulldog clipped into it by a pharmacist in Boots, having to go and buy a new dress and getting it scanned and the tags removed while wearing it.<br ><br >Oh... and the theme was The Chippie. Cannot recommend enough."
     alt: "Food in a restaurant"
     month: september
+    photographer: 35
   -
     image: 09-richard-monica.jpg
     image_title: "Bucharest treasures"
@@ -2008,6 +2294,7 @@ pictures:
     description: "Random treasures found on the buildings on Bucharest's streets. Photo taken by my wonderful and amazing wife."
     alt: "Stone head on arch on building in Bucharest"
     month: september
+    photographer: 31
   -
     image: 09-sheena.jpg
     image_title: "Reindeer Ramble"
@@ -2015,6 +2302,7 @@ pictures:
     description: "Cairngorms, Scotland. One of the highlights of our trip was meeting and walking with 18 reindeer, part of a herd of 150. \r\nThey are the UK’s only herd of wild reindeer and take it in turns to roam free in the mountains. The first 19 were imported in 1952. \r\nOverseen by a herder, we were permitted to hand feed, but not stroke them (as they don’t like it). When the reindeer tired of us they headed off to roam the 1,200 acre enclosure in search of lichen to eat."
     alt: "A wild reindeer, grazing in the Cairngorms"
     month: september
+    photographer: 18
   -
     image: 09-sigrid.jpg
     image_title: "Tortarello Plant"
@@ -2022,6 +2310,7 @@ pictures:
     description: "This weird looking fruit of this Tortarello Plant is actually a melon but looks, tastes and is eaten like a cucumber. We only had two of them but they are really delicious with a soft skin and firm but juicy flesh. We will certainly grow them again."
     alt: "This picture is of a long thin pale green fruit hanging off the plant"
     month: september
+    photographer: 19
   -
     image: 09-sue.jpg
     image_title: "A surprise find by torchlight..."
@@ -2029,6 +2318,7 @@ pictures:
     description: "I was totally bemused to find our rhubarb leaves had turned into doilies over night. I was having an evening stroll up the garden path with a torch to take a photo of the leaves and saw these amazing minute emerald green jewel-like beetles glowing in the torchlight. If you pinch out the left hand side of the picture you will see them. They were like a voracious army secretly devouring everything in their path... beautiful creatures of the night!"
     alt: "Captured by torchlight, beauty in the dark - minute shiny emerald green beetles were the creators of the lacey doilies which were once rhubarb leaves! A truly remarkable find!"
     month: september
+    photographer: 20
   -
     image: 09-teresa.jpg
     image_title: "Rowan"
@@ -2036,6 +2326,7 @@ pictures:
     description: "I have two rowan trees in my garden, the birds have stripped the other one but so far have only feasted on the very topmost berries in this one, it's a mystery!"
     alt: "Ripe red rowan berries on branches"
     month: september
+    photographer: 21
   -
     image: 09-tim_blair.jpg
     image_title: "Match day"
@@ -2043,6 +2334,7 @@ pictures:
     description: "It's been over two years since I played in a competitive Ultimate (Frisbee™) match, so it was awesome that we managed to arrange for two local teams from Oxford and St. Albans to head to Thame on one glorious late-September Sunday. Even better: we managed to come out on top in both our games! Not so good: remembering the aching and tiredness that comes in the days (yes, I'm old, it's dayS) after playing..."
     alt: "Seven ultimate frisbee players wearing white tops run across a green field under a blue sky, with the opposition in red in the background, and the pitch lines and an orange corner cone in the foreground."
     month: september
+    photographer: 71
   -
     image: 09-tom.jpg
     image_title: "Back to my desk"
@@ -2050,6 +2342,7 @@ pictures:
     description: "At the end of the month I went back to the office. After eighteen months working from my flat, it was extremely strange being back. Due to changes at work in many ways, emotionally I left this place behind some time ago so it was like stepping back in time through more than the pandemic.<br ><br >Here I am along with Tim (of this site) and Stephen. We're sitting at the corner of the coffee bar in the foyer of our building. I have spent many, many hours sitting here taking meetings because there aren't enough meeting rooms upstairs.<br ><br >It was so good to see these people again, with a third dimension and without a square around their heads. Lots of nostalgia (and some tears, not witnessed fortunately) happened during this day. <br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51542805608/\">Flickr</a>."
     alt: "Me and two men sitting at a coffee bar in an office building"
     month: september
+    photographer: 1
   -
     image: 10-amy.jpg
     image_title: "Moving day"
@@ -2057,6 +2350,7 @@ pictures:
     description: "I helped my good friend Dot move into her new place this month. We did it just the two of us and totally aced it."
     alt: "Woman pushing trolley of large flat pack boxes"
     month: october
+    photographer: 32
   -
     image: 10-anna.jpg
     image_title: "Arboreal"
@@ -2064,6 +2358,7 @@ pictures:
     description: "Me in tree with family."
     alt: "Collection of people in a tree"
     month: october
+    photographer: 4
   -
     image: 10-annette.jpg
     image_title: "Brockdish fields"
@@ -2071,6 +2366,7 @@ pictures:
     description: "View of the sun over the fields in Brockdish."
     alt: "View of the sun over the fields in Brockdish"
     month: october
+    photographer: 33
   -
     image: 10-bonnie-richard.jpg
     image_title: "Staithes"
@@ -2078,6 +2374,7 @@ pictures:
     description: "We spent a wonderful week in the Robin Hood’s Bay area in a village named Fyingthorpe. We’ve never ventured to this side of England and, to be honest, wasn’t expecting to end up loving it!  It did help - as it always does - that the weather was mostly sunny (and petrol wasn’t a problem).  The Cleveland Way is stunning. The cliffs are gorgeous and the beaches full of fossils. We were looking forward to visiting Staithes.  It was stunning on the one hand yet it just felt so run down. Mixed feelings, however, we thought this photo captured its best features."
     alt: "Staithes"
     month: october
+    photographer: 5
   -
     image: 10-clive.jpg
     image_title: "Shadows on the Beach"
@@ -2085,6 +2382,7 @@ pictures:
     description: "Shadows on the Beach, Broadstairs, Kent."
     alt: "We see two elongated shadows of a couple on the beach, Broadstairs, Kent"
     month: october
+    photographer: 26
   -
     image: 10-dad.jpg
     image_title: "Silver Sea"
@@ -2092,6 +2390,7 @@ pictures:
     description: "A day out to RSPB Newport Wetlands found us in the midst of driving winds off the Bristol Channel. Not the best weather for birdwatching... they had more sense than us and kept their heads down... but it created some lovely silver seascapes as we looked due south from East Usk lighthouse. Oh, and we did have a great view of the resident Peregrine looking for something to eat."
     alt: "View over Bristol Channel looking at sunlight reflected from the sea."
     month: october
+    photographer: 22
   -
     image: 10-dan.jpg
     image_title: "Hon and I actually left the house and went to a wedding!"
@@ -2099,6 +2398,7 @@ pictures:
     description: "A wedding reception in the cellar."
     alt: "An underground wine cellar, with some large barrels in the background. In the foreground there are the letters J and K lit up in lights."
     month: october
+    photographer: 6
   -
     image: 10-ed.jpg
     image_title: "Hulk"
@@ -2106,6 +2406,7 @@ pictures:
     description: "This pretty terrifying costume was meant to be the Hulk at a kids' birthday party."
     alt: "Hulk"
     month: october
+    photographer: 7
   -
     image: 10-emma.jpg
     image_title: "Peace in Studland"
@@ -2113,6 +2414,7 @@ pictures:
     description: "Spending time on South beach right before military parachute practice began!"
     alt: "Tea in a mug on a bench in front of the sea"
     month: october
+    photographer: 24
   -
     image: 10-gareth.jpg
     image_title: "Pictograms"
@@ -2120,6 +2422,7 @@ pictures:
     description: "Part of an exhibition, in Japan House in London, all about the 1964 Tokyo Olympics. These are the original set of pictograms used on signage and literature to help tourists find their way around the Olympic park. With the Olympics returning to the home of the pictogram, there was a lot of fuss made around them this year - including the undoubted highlight of the <a href=\"https://www.youtube.com/watch?v=I9uVg-feZoM\">opening ceremony</a>."
     alt: "A white wall, with set of simple symbols on it, each one dipicting a different sport or feature of the Olympic park."
     month: october
+    photographer: 8
   -
     image: 10-gill.jpg
     image_title: "Thames walk"
@@ -2127,6 +2430,7 @@ pictures:
     description: "Beautiful autumnal walk on the Marlow (Bucks) side of the Thames looking across to Bisham (Berks) All Saints Church. The National Sports Centre is next door at Bisham Abbey, one time homes of Henry VIII and Elizabeth I."
     alt: "Thames walk"
     month: october
+    photographer: 9
   -
     image: 10-hanna.jpg
     image_title: "Sunrise by the water"
@@ -2134,6 +2438,7 @@ pictures:
     description: "It’s getting colder and the leaves are gone, but the morning cycle retains its magic. Commuting by bike all year round has been one the best things I’ve ever started doing."
     alt: "Sun rising in the horizon of a bay seen through the trees."
     month: october
+    photographer: 10
   -
     image: 10-iris.jpg
     image_title: "One giant leap"
@@ -2141,6 +2446,7 @@ pictures:
     description: "The start of October was also the start of the puppy being fully vaccinated and allowed outside. His enthusiasm for the world makes me smile every day – looking forward to many more adventures to come!"
     alt: "A golden retriever puppy jumping across a puddle, with his reflection in the water"
     month: october
+    photographer: 11
   -
     image: 10-james_collie.jpg
     image_title: "Granny"
@@ -2148,6 +2454,7 @@ pictures:
     description: "We all know people who have had to battle through these last couple of years. This is Granny. She's a fighter."
     alt: "Elderly Lady overlooking the River Exe from a boat window."
     month: october
+    photographer: 12
   -
     image: 10-james_wiggins.jpg
     image_title: "Room with a view"
@@ -2155,6 +2462,7 @@ pictures:
     description: "I've always liked the view from the back window and autumn normally brings some dramatic views."
     alt: "Mist spreads out as the sun peers out over it and the fields below"
     month: october
+    photographer: 29
   -
     image: 10-jen.jpg
     image_title: "Book published!"
@@ -2162,6 +2470,7 @@ pictures:
     description: "Over the last 18 months or so I've been working on a book about documentation. In October it was finally published! It's so weird to see it in real life."
     alt: "A stack of books titled 'Docs for Developers: An engineer's field guide to technical writing' on a bookshelf"
     month: october
+    photographer: 34
   -
     image: 10-kat.jpg
     image_title: "October sunset"
@@ -2169,6 +2478,7 @@ pictures:
     description: "I went for a walk after work on Friday 1st October. I was celebrating the start of reduced hours at work and the fact that I was finally able to walk at a brisk pace without pain, having injured my Achilles tendon previously in July.<br ><br >Ironically, I then proceeded to work overtime for most of October and re-injured myself in both feet but it's ok. Progress is never linear. And isn't that a beautiful sunset?"
     alt: "Sunset colours, clouds and hedges reflected in the canal"
     month: october
+    photographer: 13
   -
     image: 10-kirsty.jpg
     image_title: "Lymington"
@@ -2176,6 +2486,7 @@ pictures:
     description: "There are a lot of boats in Lymington. If you can find the way through them you can get to the salt marshes. Lots of open space and birds and the Isle of Wight in the background."
     alt: "Looking across Lymington salt marshes over the Solent towards the Isle of Wight"
     month: october
+    photographer: 14
   -
     image: 10-lyns.jpg
     image_title: "Hospital Mug"
@@ -2183,6 +2494,7 @@ pictures:
     description: "My 1 year old was unwell, and we spent a night in hospital. In the morning I was handed this cup of tea by the student nurse on duty."
     alt: "Mug of tea in a hospital"
     month: october
+    photographer: 15
   -
     image: 10-maree.jpg
     image_title: "Reflections: In History"
@@ -2190,6 +2502,7 @@ pictures:
     description: "I was lucky enough to see the 17th century shipwreck that the tide shifts the sands away from every few years on my local beach and it made me reflect on everyone that had come before me and what this world would've looked like to them."
     alt: "ship wreck covered in sand"
     month: october
+    photographer: 72
   -
     image: 10-matt_holyoake.jpg
     image_title: "The colourful capital!"
@@ -2197,6 +2510,7 @@ pictures:
     description: "A colourful light display on the banks of the Thames."
     alt: "The colourful capital!"
     month: october
+    photographer: 74
   -
     image: 10-pete_fairhurst.jpg
     image_title: "Fish friends!"
@@ -2204,6 +2518,7 @@ pictures:
     description: "My family surprised me with my my first aquarium for Father's Day this year, which I've loved getting established and into a healthy biological balance. So much so that the Korean 'cherry' shrimp I bought in the summer surprised us all with a sudden batch of babies in late September!"
     alt: "Close-up of colourful fish in a tropical aquarium, including blue neon tetras, red Korean cherry shrimp, and a dark grey bristle-nosed catfish"
     month: october
+    photographer: 28
   -
     image: 10-peter_chamberlin.jpg
     image_title: "Ash"
@@ -2211,6 +2526,7 @@ pictures:
     description: "A gnarly old narrow-leaved ash looking grand in the early autumn light."
     alt: "A gnarly old narrow-leaved ash looking grand in the early autumn light"
     month: october
+    photographer: 27
   -
     image: 10-peter_smith.jpg
     image_title: "Red Admiral"
@@ -2218,6 +2534,7 @@ pictures:
     description: "A red admiral butterfly spreads its wings and soaks up the autumn sunshine, while resting on a crab apple tree."
     alt: "A red admiral butterfly spreads its wings and soaks up the autumn sunshine, while resting on a crab apple tree."
     month: october
+    photographer: 73
   -
     image: 10-rhiannon_lawson.jpg
     image_title: "Dog with a destiny"
@@ -2225,6 +2542,7 @@ pictures:
     description: "Coffee with the most handsome boy makes a cold Sunday so much better.<br ><br >Isn't he handsome?"
     alt: "black puppy sitting on a sofa with a coffee on a table"
     month: october
+    photographer: 35
   -
     image: 10-richard-monica.jpg
     image_title: "Haunted house"
@@ -2232,6 +2550,7 @@ pictures:
     description: "A spooky derelict house in the middle of a children's play park. You can find the strangest of contrasts in Bucharest! Photo taken by my incredible and wonderful wife."
     alt: "Derelict house in park"
     month: october
+    photographer: 31
   -
     image: 10-sheena.jpg
     image_title: "Seal Safari"
@@ -2239,6 +2558,7 @@ pictures:
     description: "No seals were harmed (or disturbed) in the process! This shot was taken using a zoom lens. \r\nWe spotted many Grey and Common/Harbour seals during October, both in the Moray Firth and off Lindisfarne. It was wonderful watching them relaxed and sleeping."
     alt: "Group of grey seals resting on the Moray Firth coastline."
     month: october
+    photographer: 18
   -
     image: 10-sigrid.jpg
     image_title: "Aldwick Beach"
@@ -2246,6 +2566,7 @@ pictures:
     description: "This picture was taken on a walk along our local beach between heavy showers and with big waves rolling in. It was taken in the afternoon with the light fading, which made it look particularly beautiful."
     alt: "Dark clouds over a rough sea with waves crashing onto a pebble beach and the fading sun reflected on the water"
     month: october
+    photographer: 19
   -
     image: 10-sue.jpg
     image_title: "What a head!"
@@ -2253,6 +2574,7 @@ pictures:
     description: "In August I planted four Cannas in our conservatory and this was the first among them to flower in late September. They have all grown very fast. I thought I may get one or two flowers on this one but the buds just kept opening until I had twelve flowers all around this one head. I was amazed and thrilled with it. It isn’t named a ’Giant Tropicana’Canna for nothing... just hope the others do just as well."
     alt: "My ‘Giant Tropicana’ Canna flowered in late September, having been planted in August to my amazement, and i was gobsmacked when the first flowerhead appeared with twelve buds which produced a huge head of gorgeous scarlet blooms making a lovely feature in my conservatory."
     month: october
+    photographer: 20
   -
     image: 10-teresa.jpg
     image_title: "After the storm"
@@ -2260,6 +2582,7 @@ pictures:
     description: "On Sunday 31st summer ended quite spectacularly with a large ash and a walnut tree falling on our access track. Here is some of the debris that had to be pushed aside."
     alt: "fallen trees after a storm"
     month: october
+    photographer: 21
   -
     image: 10-tim_blair.jpg
     image_title: "The Great Hall"
@@ -2267,6 +2590,7 @@ pictures:
     description: "I love the Harry Potter books, and thoroughly enjoy the films, and now I'm getting to re-love them all again with my son.<br ><br >We took a trip to the Warner Bros. studio tour, where they have recreated so many of the actual sets used for the films, as well as thousands of props, costumes, and other bits and pieces. It was incredible seeing the detail and thought that went into the creation of this world. There was so much effort put into things that you'd never notice in the films, things seen only briefly once and in the background, but every bit of it helped create the magic of the world depicted in the films.<br ><br >We spent 5 hours there, and could easily have been there double that. Highly recommended, whether you love the HP series, or are just interested in the effort that goes into making films like these."
     alt: "The set of the Hogwarts Great Hall from the Harry Potter Series of films, looking back from the teachers' table, with one long table against each side wall, staged ready for a Hallowe'en feast, with dozens of pumpkins suspended from the ceiling."
     month: october
+    photographer: 71
   -
     image: 10-tom.jpg
     image_title: "Goodbye to GDS"
@@ -2274,6 +2598,7 @@ pictures:
     description: "After nearly five years, this month saw me leaving the Civil Service. Most of this time was spent leading Software Engineering in GDS and it was an honour and a privileged to work with and lead so many excellent people.<br ><br >My (virtual) leaving do was a highly emotional affair for me, with many people saying lovely things. This is the collection of presents they bought me (with the baking book representing a very generous voucher to the Bertinet cooking school) and they were very well thought out. I've been enjoying the peace of retirement, but I still miss them all. <br ><br >The <a href=\"https://tomnatt.blogspot.com/2021/10/leaving-gds.html\">blog post</a> I wrote on leaving is one of my most-read posts since I started blogging.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51664017042/\">Flickr</a>."
     alt: "Collection of presents - LEGO Infinity Gauntlet, Baking book, Brass dice, wipe-clean notepad and pens"
     month: october
+    photographer: 1
   -
     image: 11-amy.jpg
     image_title: "Twenty years"
@@ -2281,6 +2606,7 @@ pictures:
     description: "It’s been twenty years since my Dad died. I love him and miss him dearly, always will."
     alt: "View of the sea and sky"
     month: november
+    photographer: 32
   -
     image: 11-anna.jpg
     image_title: "Peanut's Peace"
@@ -2288,6 +2614,7 @@ pictures:
     description: "This month has been lots of working from home. Peanut has enjoyed mornings by the blow heater."
     alt: "A sleeping puppy on a blanket."
     month: november
+    photographer: 4
   -
     image: 11-annette.jpg
     image_title: "November fire"
@@ -2295,6 +2622,7 @@ pictures:
     description: "Cold dark day, so time to stay inside."
     alt: "Wood burner"
     month: november
+    photographer: 33
   -
     image: 11-bonnie-richard.jpg
     image_title: "Milk Churn Renovation"
@@ -2302,6 +2630,7 @@ pictures:
     description: "We found a rusty, dilapidated, old milk churn in an antique yard when in Yorkshire this past October. It was cheap and made of iron. Richard questioned the wisdom of the purchase. I knew he could fix it up for the garden.  We were both pretty amazed with the finished product which brings back happy memories. We hope everyone is well. Stay safe."
     alt: "Milk Churn Renovation"
     month: november
+    photographer: 5
   -
     image: 11-clayton.jpg
     image_title: "Christmas Market"
@@ -2309,6 +2638,7 @@ pictures:
     description: "A trip to Wimbledon Christmas Market."
     alt: "Outdoor market at twilight"
     month: november
+    photographer: 70
   -
     image: 11-clive.jpg
     image_title: "Autumn Gold"
@@ -2316,6 +2646,7 @@ pictures:
     description: "Not sure the picture (taken on my iPhone)  does it justice but this tree was glowing in the late afternoon Autumn sun."
     alt: "We see a tree glowing gold in the late afternoon autumn sun"
     month: november
+    photographer: 26
   -
     image: 11-dad.jpg
     image_title: "I know it’s only November, but..."
@@ -2323,6 +2654,7 @@ pictures:
     description: "... Center Parcs had gone to such a huge effort to get Christmas going that I had to send a Christmas photo. Their decorations were fantastic with the highlight being singing reindeer (tacky but extremely funny and well done). A great but exhausting week with a 3 yo and a 5 yo..."
     alt: "Christmas lights at Center Parcs."
     month: november
+    photographer: 22
   -
     image: 11-dan.jpg
     image_title: "6am looks best from a four poster bed"
@@ -2330,6 +2662,7 @@ pictures:
     description: "Waking up at my usual time while on a business trip that somehow ended up in a Tudor castle."
     alt: "The view of a church roof out of an ornate window. The room is very dark."
     month: november
+    photographer: 6
   -
     image: 11-ed.jpg
     image_title: "Snow!"
@@ -2337,6 +2670,7 @@ pictures:
     description: "During the one day of snow we built giant snowmen, bigger than my youngest. Now it's back up to 12 degrees, crazy weather."
     alt: "Snow"
     month: november
+    photographer: 7
   -
     image: 11-emma.jpg
     image_title: "A winter sunset"
@@ -2344,6 +2678,7 @@ pictures:
     description: "November sunset over Snowden taken from St Beuno's retreat centre in Wales."
     alt: "Sunset, winter season, trees, hills clouds and mountains"
     month: november
+    photographer: 24
   -
     image: 11-gareth.jpg
     image_title: "Vase"
@@ -2351,6 +2686,7 @@ pictures:
     description: "The tallest vase in the world in Monte Palace gardens in Madeira. It was placed here in 1992 and, given the other major tourist attraction in this part of the island involves sliding down roads in a toboggan, it's remarkable it's still standing."
     alt: "A really tall vase."
     month: november
+    photographer: 8
   -
     image: 11-gill.jpg
     image_title: "Kadampa Buddhist Temple"
@@ -2358,6 +2694,7 @@ pictures:
     description: "During a visit to the south Lake District, we spent a very interesting day at this Buddhist Temple and Manjushri Kadampa Meditation Centre, near Ulverston, overlooking Morecambe Bay."
     alt: "Kadampa Buddhist Temple"
     month: november
+    photographer: 9
   -
     image: 11-hanna.jpg
     image_title: "Grey cycle trip"
@@ -2365,6 +2702,7 @@ pictures:
     description: "November has unsurprisingly been grey and cold and not very photogenic. Here is one photo I took when I went on a 100km cycle and visited a waterfall I didn’t know existed in a nearby area."
     alt: "Cloudy sky, rocks, and water running towards a fall."
     month: november
+    photographer: 10
   -
     image: 11-iris.jpg
     image_title: "Not the dog"
@@ -2372,6 +2710,7 @@ pictures:
     description: "Submitted a photo of a different subject for the first time in ages. (The dog was there though.)"
     alt: "A view of the sea with the beach in the foreground and dramatic clouds in the background"
     month: november
+    photographer: 11
   -
     image: 11-james_collie.jpg
     image_title: "Flurry"
@@ -2379,6 +2718,7 @@ pictures:
     description: "The picture does not do it justice. These kites all dancing around above the water looked pretty cool."
     alt: "Kite surfing on the river Exe."
     month: november
+    photographer: 12
   -
     image: 11-james_wiggins.jpg
     image_title: "Westonbirt"
@@ -2386,6 +2726,7 @@ pictures:
     description: "Here's some attractive trees."
     alt: "Trees with the last of their autumn leaves"
     month: november
+    photographer: 29
   -
     image: 11-jen.jpg
     image_title: "The last pasty"
@@ -2393,6 +2734,7 @@ pictures:
     description: "The last pasty before we depart Cornwall. It's been a blast living here for 15ish months, but it's time for our next adventure."
     alt: "A Cornish pasty against with the sea in the background"
     month: november
+    photographer: 34
   -
     image: 11-kat.jpg
     image_title: "Avebury stone circle"
@@ -2400,6 +2742,7 @@ pictures:
     description: "We went for a wander round Avebury stone circle one grey and chilly Sunday afternoon.  I loved it!  The natural surroundings looked beautiful, even under the dull grey sky.  And with the right clothing and a hot cup of coffee (both of which I had) the cold was no trouble either :)  Definitely a place to revisit."
     alt: "A section of the Avebury stone circle framed by green grass and a cloudy sky."
     month: november
+    photographer: 13
   -
     image: 11-kirsty.jpg
     image_title: "Bath"
@@ -2407,6 +2750,7 @@ pictures:
     description: "Autumn is lovely when it's sunny and cold."
     alt: "Bridge over river on a sunny autumn day"
     month: november
+    photographer: 14
   -
     image: 11-lyns.jpg
     image_title: "Finally Autumn"
@@ -2414,6 +2758,7 @@ pictures:
     description: "A quick trip up the road to Sheffield Park to hail the fading of the chlorophyll and let the kids be mobbed by hungry ducks."
     alt: "Ducks on an autumnal lake"
     month: november
+    photographer: 15
   -
     image: 11-maree.jpg
     image_title: "Reflections: seasons changing"
@@ -2421,6 +2766,7 @@ pictures:
     description: "I could really tell that it was getting colder just by the look of the sea and the clouds. Nature is brilliant!"
     alt: "Wintery clouds and sea"
     month: november
+    photographer: 72
   -
     image: 11-matt_holyoake.jpg
     image_title: "A sunny day through a transparent bauble"
@@ -2428,6 +2774,7 @@ pictures:
     description: "... with extra trees."
     alt: "A sunny day through a transparent bauble"
     month: november
+    photographer: 74
   -
     image: 11-pete_fairhurst.jpg
     image_title: "A year of yellow"
@@ -2435,6 +2782,7 @@ pictures:
     description: "The end of November marks a full 12 months of ownership of my mad little yellow bucket of crazy. At the risk of incurring the wrath of the mechanical gods, it's been absolutely faultless to own. It breezed through its first MOT and major service in my ownership and, even more remarkably, it's still sitting on the same set of (expensive) performance tyres it came with - with only minimal wear. And I've made some decent use of the Loud Pedal, but all perfectly legal, officer.<br ><br >A full spectrum of seasonal driving has revealed some of its downsides though. It only really has two states of being: switched off or absolutely berserk. On smooth, curving roads its general manners and ability to surgical slice through apexes is genuinely breath-taking - a particular highlight being one particularly cocky Focus ST owner, flashing their lights for a race on the daily commute home, left for dust whenever we hit the twisty stuff. When the conditions are right and the surface decent, it's easily the most rapid cross-country drive I've ever had.<br ><br >Reflecting on when I was researching the Abarth last summer, I think Autocar captured its character best: \"bumper-car compactness and manoeuvrability, brusque handling, and the fierce yet patchy acceleration of a terrier gathering speed on wet grass.\" But one thing I don't love is the punishingly hard ride for a \"daily.\" Try to push it too far on our more typical bombed-out British B-roads, and you risk being chucked through the nearest hedge and coming to rest coughing up a vertebrae or three. It's an utter savage through and through.<br ><br >Still, it is consistently brilliant fun, and I'm also quite fond of its Marmite nature with other motorists; from angry boot-hangers, thinking it's \"just a noisy 500\" - before binning them with a quick drop-shift into second gear and a stomp on the accelerator - to boy racers' jaws hanging open when they hear the frankly rude 'Record Monza' exhaust system detonate into life. That thunderous burble is likely as close as I'll ever get to owning a V8, and I'm okay with that.<br ><br >All said and done, its proud unhingedness still makes me grin like a loon when I walk back to it at the petrol station. Just like this first photo I ever took of it, about 20 minutes after collection in late 2020."
     alt: "A bright yellow Abarth 595 Competizione on 17\" matte black alloy wheels, parked in a brightly lit petrol station forecourt at night"
     month: november
+    photographer: 28
   -
     image: 11-peter_chamberlin.jpg
     image_title: "View from the Baltic"
@@ -2442,6 +2790,7 @@ pictures:
     description: "Taking in the view of the Tyne from the Baltic, Gateshead."
     alt: "People look out over the Tyne river and bridges from a large glass viewing gallery high in the Baltic Arts Centre"
     month: november
+    photographer: 27
   -
     image: 11-peter_smith.jpg
     image_title: "Autumn Berries"
@@ -2449,6 +2798,7 @@ pictures:
     description: "Mountain ash (Rowan) leaves and berries before the wind and the birds cleared the branches."
     alt: "Mountain ash (Rowan) leaves and berries before the wind and the birds cleared the branches."
     month: november
+    photographer: 73
   -
     image: 11-rhiannon_lawson.jpg
     image_title: "Vegas baby"
@@ -2456,6 +2806,7 @@ pictures:
     description: "A trip to re:invent with my amazing team. It felt like real life again!"
     alt: "Three people standing in a room filled with rubik's cubes"
     month: november
+    photographer: 35
   -
     image: 11-richard-monica.jpg
     image_title: "Historic modern"
@@ -2463,6 +2814,7 @@ pictures:
     description: "A slightly crumbly, historic building combined with the modern under the looming sky. Photo taken by my amazing and incredible wife."
     alt: "Historic building with modern front under blue sky with clouds"
     month: november
+    photographer: 31
   -
     image: 11-sheena.jpg
     image_title: "We Will Remember Them"
@@ -2470,6 +2822,7 @@ pictures:
     description: "Spotted in the church grounds, in the village where I was raised. I was caring for my Mum, who was recovering from emergency surgery. Unfortunately we had to avoid the crowds, so missed 100,000 compostable poppies being dropped from a plane over the Nook area."
     alt: "WW2 memorial consisting of a large metal soldier and fake poppies stuck into the surrounding ground"
     month: november
+    photographer: 18
   -
     image: 11-sigrid.jpg
     image_title: "Calm before the storm"
@@ -2477,6 +2830,7 @@ pictures:
     description: "Storm clouds were gathering over our local beach while one hardy pensioner braved a swim in the calm but cold waters before it became  extremely rough."
     alt: "Big black flours are hanging over a very calm sea with someone swimming in it as a ray of sunshine hits the water"
     month: november
+    photographer: 19
   -
     image: 11-sue.jpg
     image_title: "Early morning view across the valley"
@@ -2484,6 +2838,7 @@ pictures:
     description: "An early morning sight from the bottom of our garden at our new house of the mist rolling through the valley, rising like a long fluffy meringue slowly filling the gorge. It was quite lovely. Our view is always changing from glorious sunsets to misty vistas, and everything in between, such a blessing!"
     alt: "View from the bottom of our back garden one early morning. The view stretched across a field taking in the valley being slowly engulfed by a long rolling mist, slowly rising like a meringue creeping up the valley slopes almost joining the pale wintry sky, a view one never tires of from misty morns to glorious sunsets setting the skies on fire. Such a blessing!"
     month: november
+    photographer: 20
   -
     image: 11-teresa.jpg
     image_title: "Beware of Cannon?"
@@ -2491,6 +2846,7 @@ pictures:
     description: "This sign makes me smile every time I go by it. This one is on the A16 between the villages of Tallington and Uffington.  There used to be another not far from my home but it was knocked over, probably by a confused motorist as neither bear any pictorial relation to what they warn of which is a junction on a sharp bend."
     alt: "A road sign that looks like an ancient canon"
     month: november
+    photographer: 21
   -
     image: 11-tim_blair.jpg
     image_title: "Mood light"
@@ -2498,6 +2854,7 @@ pictures:
     description: "Over the weekend, on the coldest night of the year, our boiler broke down. Yay. Great timing. During the day, we set up various oil radiators to try and keep the house warm, put on all our clothes, called an engineer who said he'd get the required part and come over on the following day to fix things ... and then went to the pub for dinner.<br ><br >We opened our front door to a scream of excitement from our small person. SNOW! Yes, snow, lots of it, settling. Unsurprisingly it took much longer to walk to the pub than planned. When we got home, there was naturally a brutal snowball fight, followed by much snuggling under blankets.<br ><br >In the morning, there was a fantastic soft, pink light coming from outside, and we were greeted by an awesome firey sky. I stood there in my freezing house, wearing all my clothes, looking out over the garden, and felt grateful for what I had."
     alt: "A garden covered in snow, bathed in a soft, pinkish light from an early-morning dusky sky"
     month: november
+    photographer: 71
   -
     image: 11-tom.jpg
     image_title: "Fire!"
@@ -2505,6 +2862,7 @@ pictures:
     description: "I love a good bonfire. There is something amazingly primal about standing near a pillar of fire and feeling it warming your face while the cold wind whistles around. The village bonfire in my parents' village is great - a decent size, but not too big to lose that intimate feel.<br ><br >Fire is also an interesting photographic challenge and every year I <a href=\"https://www.flickr.com/photos/tomnatt/albums/72157720175934510\">take a lot of pictures</a>. This shot was taken with my SLR, with settings chosen by me and some semblance of applied skill. I am quite relieved  I picked this one - when I went through all the pictures and chose my favourite an alarming number were taken with the automagic powers of my phone...<br ><br >We've been doing Year in Pictures since <a href=\"/2015.html\">2015</a> and almost every year I've put up a bonfire picture with the same title. After the village bonfire was cancelled in 2020 thanks to COVID it is great to be back there.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51665306527/\">Flickr</a>."
     alt: "Pillar of fire from a village bonfire"
     month: november
+    photographer: 1
   -
     image: 12-amy.jpg
     image_title: "World Service"
@@ -2512,6 +2870,7 @@ pictures:
     description: "Before things got Covid-heavy again I spent a few days in December visiting teams across the country and recalibrating the role work plays in my life. It was peaceful and energising and necessary."
     alt: "View of Salford quays"
     month: december
+    photographer: 32
   -
     image: 12-annette.jpg
     image_title: "Walberswick wade"
@@ -2519,6 +2878,7 @@ pictures:
     description: "Christmas Day on Walberswick beach."
     alt: "Three dogs on walberswick beach"
     month: december
+    photographer: 33
   -
     image: 12-bonnie-richard.jpg
     image_title: "A Surprising Gift"
@@ -2526,6 +2886,7 @@ pictures:
     description: "Richard has always been fascinated by sailing ships particularly the HMS Victory. So I was delighted to discover the maker of this pen, Simon Webb, via a blog I follow. The gift was one of the highlights of a happy Christmas spent with our youngest son (minus his girlfriend who had Covid) which included an Escape Room success.  Hope you are all well."
     alt: "A Surprising Gift"
     month: december
+    photographer: 5
   -
     image: 12-clayton.jpg
     image_title: "Christmas"
@@ -2533,6 +2894,7 @@ pictures:
     description: "Christmas in London."
     alt: "Christmas street"
     month: december
+    photographer: 70
   -
     image: 12-clive.jpg
     image_title: "Shadow Man"
@@ -2540,6 +2902,7 @@ pictures:
     description: "The light at this time of year casts very long shadows."
     alt: "We see an elongated shadow of a man on a path framed by trees and a brook"
     month: december
+    photographer: 26
   -
     image: 12-dad.jpg
     image_title: "Christmas Trees"
@@ -2547,6 +2910,7 @@ pictures:
     description: "One artificial tree among many natural trees lit up from below. I liked the colour display in this photo versus the general greys of my end of year photos, a very grey and damp period except for staying with family over Christmas and seeing the excited faces of grandchildren on Christmas morning."
     alt: "One artificial Christmas tree among many natural trees lit up from below."
     month: december
+    photographer: 22
   -
     image: 12-dan.jpg
     image_title: "Crystal clear winter stream outside The White Hart"
@@ -2554,6 +2918,7 @@ pictures:
     description: "A birthday lunch at the White Hart. The small stream that runs through the garden was beautifully clear in the winter sun."
     alt: "A clear stream running through a garden behind a large old white building"
     month: december
+    photographer: 6
   -
     image: 12-ed.jpg
     image_title: "Boat Tree"
@@ -2561,6 +2926,7 @@ pictures:
     description: "A lonely Christmas tree out on a misty lake. I'm sure there is a hidden meaning here, a symbol of something perhaps. Interpret as you will. It's a solo tree, floating in a boat on a lake. Perfect to conclude 2021."
     alt: "Tree"
     month: december
+    photographer: 7
   -
     image: 12-emma.jpg
     image_title: "Swanage Beach"
@@ -2568,6 +2934,7 @@ pictures:
     description: "A winter coastal stroll along the sea. I came across a beautiful quiet beach."
     alt: "Sea, plants, sand, beach, cliff scenes"
     month: december
+    photographer: 24
   -
     image: 12-gareth.jpg
     image_title: "Road closed"
@@ -2575,6 +2942,7 @@ pictures:
     description: "Space where a pavement used to be in Neath. This stretch of road runs over a small stream and I'd have taken a photo of that but, for some reason, they didn't want us to get any closer."
     alt: "A portion of pavement, running alongside a road, a large portion of which has crumbled into the river below."
     month: december
+    photographer: 8
   -
     image: 12-gill.jpg
     image_title: "Sunset"
@@ -2582,6 +2950,7 @@ pictures:
     description: "Very different colours in this beautiful sunset, compared to my previous sunset photo on this site. The orangey tones remind us of the colours in Bryce Canyon National Park, Utah, which we visited in 2012."
     alt: "Sunset"
     month: december
+    photographer: 9
   -
     image: 12-hanna.jpg
     image_title: "December blues"
@@ -2589,6 +2958,7 @@ pictures:
     description: "We spent more or less the entire December being ill after one another. This photo sums up the whole month nicely."
     alt: "Two pairs of feet sticking out from under a blanket."
     month: december
+    photographer: 10
   -
     image: 12-iris.jpg
     image_title: "December light"
@@ -2596,6 +2966,7 @@ pictures:
     description: "Much like this photo, 2021 had some bright spots and some very dark spots. But staying near Charmouth Beach for Christmas was a nice end to the year."
     alt: "A rocky beach with the tides lit by a low sun"
     month: december
+    photographer: 11
   -
     image: 12-james_collie.jpg
     image_title: "Echo Chamber"
@@ -2603,6 +2974,7 @@ pictures:
     description: "December seemed mostly bright and dry, a completely un-pathetic fallacy. A lot of folks I know were under heavy clouds, simply exhausted, or navigating a lot of uncertainty. The bright end to these dark tunnels can feel like a long way off. I hope and pray that those we know who are struggling will keep their eyes keen for signs of light and hold on to the proverbial railings as they find their way."
     alt: "A woman looking towards the end of a dark canal tunnel."
     month: december
+    photographer: 12
   -
     image: 12-james_wiggins.jpg
     image_title: "A ghost on the train"
@@ -2610,6 +2982,7 @@ pictures:
     description: "Not much to say about this! It was an enjoyable game with friends on New Years when I realised I hadn't taken a picture! <br ><br >It represents a fun end of the year which I feel it has been!"
     alt: "A white meeple (wooden person in a game) stands on the front of a cardboard train"
     month: december
+    photographer: 29
   -
     image: 12-jen.jpg
     image_title: "The Christmas bat"
@@ -2617,6 +2990,7 @@ pictures:
     description: "Our first Christmas tree and the first Christmas bat. We found him in a little shop in the Cornish village we've just left so it felt only right to give him pride of place on the Christmas tree."
     alt: "A felt bat with large eyes and a big smile nestled at the top of a Christmas tree surrounded by silver tinsel and lights"
     month: december
+    photographer: 34
   -
     image: 12-kat.jpg
     image_title: "Pretty clouds!"
@@ -2624,6 +2998,7 @@ pictures:
     description: "I looked up one day and - wow! :D"
     alt: "Little cotton ball clouds dotted all over the sky like a cellular blanket"
     month: december
+    photographer: 13
   -
     image: 12-kirsty.jpg
     image_title: "Pagham"
@@ -2631,6 +3006,7 @@ pictures:
     description: "Spending time with people can be complicated. Thank you to everyone who makes it possible."
     alt: "Two people walking along an empty beach together but socially distanced."
     month: december
+    photographer: 14
   -
     image: 12-lyns.jpg
     image_title: "Duet"
@@ -2638,6 +3014,7 @@ pictures:
     description: "In which we thank our lucky stars that photos don't have inbuilt sound."
     alt: "Two children sitting in front of a piano"
     month: december
+    photographer: 15
   -
     image: 12-maree.jpg
     image_title: "Reflections: Celebrations"
@@ -2645,6 +3022,7 @@ pictures:
     description: "Christmas is really important to my family, and it’s a time for reflection over the past year. The tree is always there but the decorations change each year, much like our family and life. Merry Christmas everyone!"
     alt: "Christmas tree with lights on"
     month: december
+    photographer: 72
   -
     image: 12-matt_holyoake.jpg
     image_title: "Happy New Year!"
@@ -2652,6 +3030,7 @@ pictures:
     description: "But a painful New Year's Day..."
     alt: "Happy New Year!"
     month: december
+    photographer: 74
   -
     image: 12-pete_fairhurst.jpg
     image_title: "A bright Boxing Day"
@@ -2659,6 +3038,7 @@ pictures:
     description: "It's felt like a long, dark month this month, with some big storms and dense, cloud-choked skies for days on end. Thankfully we finally got some blinding winter sunshine on Boxing Day, which made a particularly nice (and quite literal) highlight to the last day of our long-awaited holiday."
     alt: "A stand of young pine trees in silhouette, backlit by bright yellow, late-afternoon December sunshine"
     month: december
+    photographer: 28
   -
     image: 12-peter_chamberlin.jpg
     image_title: "Christmas treats"
@@ -2666,6 +3046,7 @@ pictures:
     description: "We had a few nice things over Christmas after a tough year. The leftovers and cold meats spread on boxing day is always a treat."
     alt: "Cold meats, Christmas lunch leftovers and red wine ready to be served for a Boxing day meal"
     month: december
+    photographer: 27
   -
     image: 12-peter_smith.jpg
     image_title: "Treasure amongst the Leaf Litter"
@@ -2673,6 +3054,7 @@ pictures:
     description: "For the toddlers, a walk through the woods involves a hunt for natures' treasure in amongst the leaf litter."
     alt: "For the toddlers, a walk through the woods involves a hunt for natures' treasure in amongst the leaf litter."
     month: december
+    photographer: 73
   -
     image: 12-rhiannon_lawson.jpg
     image_title: "Doggy Christmas"
@@ -2680,6 +3062,7 @@ pictures:
     description: "Its a dogs life. There are no words for Christmas with such a beautiful boy."
     alt: "A black puppy sitting by a Christmas tree"
     month: december
+    photographer: 35
   -
     image: 12-richard-monica.jpg
     image_title: "Best friends"
@@ -2687,6 +3070,7 @@ pictures:
     description: "A statue of a girl and her dog relaxing on a bench. A little melancholy scene as the year draws to an end. Merry Christmas and Happy New year to everyone. Photo taken by my incredibly talented and amazing wife."
     alt: "Metal statue of a girl and her dog on a bench."
     month: december
+    photographer: 31
   -
     image: 12-sheena.jpg
     image_title: "Knitted Christmas Scene"
@@ -2694,6 +3078,7 @@ pictures:
     description: "December was a busy month, including entertaining two lots of house guests. Amongst our trips out was a visit to a local seaside village to view this impressive knitted scene which included a 14.5ft (4.5m) Christmas tree. It was made by about 100 volunteers and took over 6 months to complete."
     alt: "Knitted Christmas Tree, Fireplace and Chair"
     month: december
+    photographer: 18
   -
     image: 12-sigrid.jpg
     image_title: "Squirrel acrobatics"
@@ -2701,6 +3086,7 @@ pictures:
     description: "This squirrel is giving us a regular acrobatic display in the pursuit of the birds' fat balls."
     alt: "This picture shows a bird feeder with a squirrel wrapped around a fat ball feeder"
     month: december
+    photographer: 19
   -
     image: 12-stephen.jpg
     image_title: "Natale in Sardegna"
@@ -2708,6 +3094,7 @@ pictures:
     description: "An early morning flight to Sardinia and the sun was just coming up at Stansted."
     alt: "airplane backlit by sunrise and someone walking up the stair to board."
     month: december
+    photographer: 75
   -
     image: 12-sue.jpg
     image_title: "O what a show!"
@@ -2715,6 +3102,7 @@ pictures:
     description: "We came upon this spectacular show and just had to take a photo! What a wonderful witness in this politically correct day and age when the words ‘Christmas time’ are replaced by ‘time of festivities' and persecution of Christians is rife throughout the world. This is for those poor people who are so courageous and remain strong in faith regardless... Hope you’ve all had a good Christmas!"
     alt: "An amazing show of Christian faith - a house covered in white lights, which isn’t that unusual at this time of year, but next to the house on the drive was erected a lifesize depiction of the Nativity Scene complete with animals, all lit up and standing in an open tent. A really encouraging sight in this politically correct day and age where the word Christmas is replaced by time of Festivity! This is for those brave souls throughout the world persecuted for their faith! Hope you’ve had a good Christmas!"
     month: december
+    photographer: 20
   -
     image: 12-teresa.jpg
     image_title: "Oxymoron of the month?"
@@ -2722,6 +3110,7 @@ pictures:
     description: "Festive Facemasks!"
     alt: "fabric face-coverings made with Christmas print fabrics"
     month: december
+    photographer: 21
   -
     image: 12-tim_blair.jpg
     image_title: "Kittys all the way down"
@@ -2729,6 +3118,7 @@ pictures:
     description: "Last year, our wee lad decided to spend some of his birthday money on a large, round, grey-striped cat ... thing, which he named Kitty Kitty. More recently, he discovered a smaller version of the same toy, which was similarly procured, and naturally named Kitty Kitty's Kitty.<br ><br >So when our Elf on the Shelf turned up this year clutching an even smaller version ... any guesses on the name? Right: Kitty Kitty's Kitty's Kitty. Which must be said in full at all times."
     alt: "An \"Elf on the Shelf\" with its hat at a jaunty angle, clutching a small, round, stripy grey, cat soft toy, leaning on a larger version of the same soft toy, which in turn is leaning on a larger one."
     month: december
+    photographer: 71
   -
     image: 12-tom.jpg
     image_title: "The end of the year"
@@ -2736,3 +3126,4 @@ pictures:
     description: "I often end the year with a picture of the sun setting on the last day, however I think 2021 is better captured by this picture of a screaming tree taken a few days beforehand (and shortly before awaiting an ambulance and a trip to A&E).<br ><br >I did actually go out hunting the last sunset of the year with my Dad. Rather than a dramatic fiery sky, we got <a href=\"https://www.flickr.com/photos/tomnatt/51806398776/\">a rather pathetic fade to grey</a>. Somewhat fitting I feel.<br ><br >Thank goodness this year is over and now it's time to look forwards and upwards for 2022.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/51806393471/\">Flickr</a>."
     alt: "A tree with what looks like a screaming face in the trunk"
     month: december
+    photographer: 1

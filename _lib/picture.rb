@@ -6,29 +6,17 @@ class Picture
     @description = data['description']
     @alt = data['alt']
     @month = data['month']
+    @photographer = data['photographer']
     @year = year
     @next = next_pic
     @prev = prev_pic
 
     # Calculated values
     @filename = generate_pagename
-    @photographer = generate_photographer_name
   end
 
   def generate_pagename
     "#{File.basename(@image_filename, File.extname(@image_filename))}.html"
-  end
-
-  def generate_photographer_name
-    @filename =~ /\d*-(.+)\..+/i
-    # Capitalize for multiple people
-    photographer_name = Regexp.last_match(1).split('-').map(&:capitalize).join(' and ')
-
-    # Capitalize for single person with a surname
-    # Will be wrong for multiple people with surnames
-    photographer_name = photographer_name.split('_').map(&:capitalize).join(' ') if photographer_name.include?('_')
-
-    photographer_name
   end
 
   # Add new or overwrite if already present
@@ -69,11 +57,12 @@ class Picture
         alt TEXT,
         month TEXT,
         year INT NOT NULL,
-        photographer TEXT,
+        photographer INT,
         prev TEXT,
         next TEXT,
         unique_name TEXT UNIQUE,
-        FOREIGN KEY (year) REFERENCES years (year)
+        FOREIGN KEY (year) REFERENCES years (year),
+        FOREIGN KEY (photographer) REFERENCES users (id)
       );
     SQL
   end
@@ -82,5 +71,11 @@ class Picture
   def self.get_all_by_month(month, year)
     "SELECT filename, image_filename, caption, alt FROM pictures
      WHERE month='#{month}' and year=#{year} ORDER BY filename ASC;"
+  end
+
+  # SQL to get all pictures owned by a particular photographer
+  def self.get_all_by_photographer(photographer_id)
+    "SELECT filename, image_filename, caption, alt, year FROM pictures
+     WHERE photographer=#{photographer_id} ORDER BY year DESC, filename ASC;"
   end
 end

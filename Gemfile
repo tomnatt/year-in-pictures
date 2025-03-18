@@ -15,9 +15,10 @@ gem 'webrick'
 # SQLite implementation
 gem 'sqlite3'
 
-# Rubocop
-gem 'rubocop'
-gem 'rubocop-rake'
+group :development, :test do
+  gem 'rubocop'
+  gem 'rubocop-rake'
+end
 
 # Added for new versions of Ruby
 gem 'bigdecimal'
