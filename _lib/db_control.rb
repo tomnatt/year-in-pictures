@@ -92,4 +92,9 @@ class DbControl
     db = SQLite3::Database.open Config.database_path
     db.execute(Picture.get_all_by_month(month, year))
   end
+
+  def self.get_photographer_pictures(photographer_id)
+    db = SQLite3::Database.open Config.database_path
+    db.execute(Picture.get_all_by_photographer(photographer_id))
+  end
 end

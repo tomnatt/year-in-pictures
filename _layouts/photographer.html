@@ -2,26 +2,21 @@
 layout: layout
 ---
 
-<section class="photographer">
-  <h2>{{ page.thingy }}</h2>
-  <p>{{ site.data.years.last.year }}</p>
+{% for year in page.years %}
 
-  <p class="date">
-    <a href="/{{ page.pictures.homepage }}#{{ page.pictures.month }}">{{ page.pictures.month | capitalize }}</a> - {{ page.pictures.photographer }}
-  </p>
-  <figure>
-    {% if page.pictures.year == 0 %}
-    <img src="/images/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
-    {% else %}
-    <img src="/images/{{ page.pictures.year }}/{{ page.pictures.image_filename }}" alt="{{ page.pictures.alt }}" />
-    {% endif %}
-    <figcaption>{{ page.pictures.description }}</figcaption>
-  </figure>
+<section class="year" id="{{ year }}">
+  <h2><a href="#{{ year }}">{{ year }}</a></h2>
+  <ul class="polaroids pure-g">
 
-  <nav class="picture-nav pure-menu pure-menu-horizontal">
-    <ul class="pure-menu-list">
-      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.prev }}">&lt; Previous</a></li>
-      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.pictures.next }}">Next &gt;</a></li>
-    </ul>
-  </nav>
+  {% for pic in page.pics[year] %}
+    <li class="pure-u-1-2 pure-u-sm-1-2 pure-u-lg-1-3">
+      <a title="{{ pic[2] }}" href="/photos/{{ year }}/{{ pic[0] }}">
+        <img loading="lazy" alt="{{ pic[3] }}" src="/images/{{ year }}/thumbnails/{{ pic[1] }}">
+      </a>
+    </li>
+  {% endfor %}
+
+  </ul>
 </section>
+
+{% endfor %}

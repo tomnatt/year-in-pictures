@@ -12,7 +12,7 @@ sqlite:
     query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year;
   - data: photographers
     file: _db/yip.db
-    query: SELECT * FROM users;
+    query: SELECT * FROM users WHERE id NOT IN (23, 37, 84); # omit users with no pics
 
 page_gen:
   - data: pictures

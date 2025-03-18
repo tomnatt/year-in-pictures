@@ -72,4 +72,10 @@ class Picture
     "SELECT filename, image_filename, caption, alt FROM pictures
      WHERE month='#{month}' and year=#{year} ORDER BY filename ASC;"
   end
+
+  # SQL to get all pictures owned by a particular photographer
+  def self.get_all_by_photographer(photographer_id)
+    "SELECT filename, image_filename, caption, alt, year FROM pictures
+     WHERE photographer=#{photographer_id} ORDER BY year DESC, filename ASC;"
+  end
 end
