@@ -103,13 +103,17 @@ $gutter-small-padding: 0 1.25rem;
       &:hover {
         background-color: $link-hover-colour;
       }
+
+      &.year-nav {
+        padding-left: 1.5em;
+      }
     }
   }
 }
 
 .move-left {
   &> .inner-wrap {
-    transform: translate3d(-6.25rem, 0, 0);
+    transform: translate3d(-9rem, 0, 0);
   }
 
   .year-menu-close {
