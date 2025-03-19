@@ -60,4 +60,5 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 1. Create new `$year/thumbnails` directory in `/images/`
 1. Add new year data block in `_config/jekyll_config.yml`
 1. Add new year in `_config/years.yml` and rebuild database
+1. Check [a short photographer page](http://localhost:4000/photographers/36.html) for length of RH menu
 1. Add January photos as normal
