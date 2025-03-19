@@ -1,0 +1,11 @@
+---
+layout: layout
+title: Photographers over the years
+months: false
+---
+
+<ul>
+{% for photographer in site.data.photographers %}
+  <li><a href="{{ photographer.id }}.html">{{ photographer.name }}</a></li>
+{% endfor %}
+</ul>
