@@ -86,6 +86,7 @@ $gutter-small-padding: 0 1.25rem;
   position: absolute;
   top: 0;
   right: 0;
+  z-index: -10;
 
   aside {
     transform: translate3d(100%, 0, 0);
