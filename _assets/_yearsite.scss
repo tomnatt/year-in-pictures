@@ -103,7 +103,7 @@ $gutter-small-padding: 0 1.25rem;
       }
 
       &.year-nav {
-        padding-left: 1.5em;
+        padding-left: 1.5rem;
       }
     }
   }
@@ -164,7 +164,7 @@ header {
 /* Body and section styles */
 section {
   &.year:first-of-type {
-    margin-top: 2em;
+    margin-top: 2rem;
   }
   &.month, &.photographers, &.picture, &.year {
     background: url("/images/natural_paper.png") repeat scroll 0 0 #C2C2A3;
