@@ -7,12 +7,29 @@ sqlite:
   - data: years
     file: _db/yip.db
     query: SELECT year, homepage, zodiac FROM years WHERE year !=0 ORDER BY year ASC;
+
   - data: pictures
     file: _db/yip.db
-    query: SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year INNER JOIN users ON pictures.photographer = users.id;
+    query: >
+      SELECT * FROM pictures INNER JOIN years ON pictures.year = years.year INNER JOIN users
+      ON pictures.photographer = users.id;
+
   - data: photographers
     file: _db/yip.db
-    query: SELECT * FROM users WHERE id NOT IN (23, 37, 84); # omit users with no pics
+    query: >
+      SELECT id, name, year, image_filename FROM (
+        SELECT
+            users.id,
+            users.name,
+            pictures.image_filename,
+            pictures.year,
+            pictures.photographer,
+            ROW_NUMBER() OVER (PARTITION BY users.id ORDER BY pictures.year DESC, pictures.filename DESC) AS rn
+        FROM pictures
+        JOIN users ON pictures.photographer = users.id
+      )
+      WHERE rn = 1
+      ORDER BY name ASC;
 
 page_gen:
   - data: pictures
