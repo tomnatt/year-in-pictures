@@ -1160,14 +1160,6 @@ pictures:
     month: october
     photographer: 15
   -
-    image: 10-michael.png
-    image_title:  "Placeholder"
-    caption: "Placeholder"
-    description: "Placeholder"
-    alt: "placeholder"
-    month: october
-    photographer: 101
-  -
     image: 10-sean.jpg
     image_title:  "Weekend reading"
     caption: "Weekend reading"
@@ -1280,14 +1272,6 @@ pictures:
     month: november
     photographer: 15
   -
-    image: 11-michael.png
-    image_title:  "Placeholder"
-    caption: "Placeholder"
-    description: "Placeholder"
-    alt: "Placeholder"
-    month: november
-    photographer: 101
-  -
     image: 11-sean.jpg
     image_title:  "Politics in Copenhagen"
     caption: "Politics in Copenhagen"
@@ -1399,14 +1383,6 @@ pictures:
     alt: "man and baby in front of the Shard"
     month: december
     photographer: 15
-  -
-    image: 12-michael.png
-    image_title:  "Placeholder"
-    caption: "Placeholder"
-    description: "Placeholder"
-    alt: "Placeholder"
-    month: december
-    photographer: 101
   -
     image: 12-sean.jpg
     image_title:  "I-405"
