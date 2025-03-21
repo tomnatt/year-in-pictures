@@ -50,8 +50,9 @@
         <aside class="pure-menu">
           <ul class="pure-menu-list off-canvas-list">
             {% for year in site.data.years %}
-            <li class="pure-menu-item"><a class="pure-menu-link" tabindex="{{ forloop.index0 | plus: 14 }}" href="/{{ year.homepage }}">{{ year.year }}</a></li>
+            <li class="pure-menu-item"><a class="pure-menu-link year-nav" tabindex="{{ forloop.index0 | plus: 14 }}" href="/{{ year.homepage }}">{{ year.year }}</a></li>
             {% endfor %}
+            <li class="pure-menu-item"><a class="pure-menu-link" tabindex="{{ forloop.index0 | plus: 14 }}" href="/photographers/">Photographers</a></li>
           </ul>
         </aside>
       </div>
