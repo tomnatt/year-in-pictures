@@ -22,6 +22,7 @@ end
 
 # AI control
 gem 'ruby_llm'
+gem 'ruby-openai'
 
 # Added for new versions of Ruby
 gem 'bigdecimal'
