@@ -1,3 +1,4 @@
+require 'base64'
 require 'json'
 require 'openai'
 
@@ -5,6 +6,11 @@ client = OpenAI::Client.new(
   access_token: ENV.fetch('OPENAI_API_KEY_YIP'),
   log_errors:   true
 )
+
+# Function to encode image as Base64
+def encode_image(image_path)
+  Base64.strict_encode64(File.read(image_path))
+end
 
 # function_schema = <<FS
 # {
@@ -57,13 +63,24 @@ function_schema =
     }
   }
 
-prompt = 'Please can you write a limeric about a swan and list some keywords from it with output in JSON format'
+prompt = 'Please can you write a limeric using this image as inspiration and list some keywords from it with output in JSON format'
+
+image_path = 'images/2025/02-tim_blair.jpg'
+base64_image = encode_image(image_path)
 
 response = client.chat(
   parameters: {
     model:           'gpt-4-turbo',
+    # model:           'chatgpt-4o-latest', # Does not support function schemas yet
+    # model: 'gpt-4.5-preview', # Updated to use GPT-4.5
     response_format: { type: 'json_object' },
-    messages:        [{ role: 'user', content: prompt }],
+    messages:        [{
+      role:    'user',
+      content: [
+        { type: 'text', text: prompt },
+        { type: 'image_url', image_url: { url: "data:image/jpeg;base64,#{base64_image}" } }
+      ]
+    }],
     temperature:     1, # define level of creativity
     tools:           [{ type: 'function', function: function_schema }],
     tool_choice:     'required'
