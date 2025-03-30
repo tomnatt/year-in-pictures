@@ -49,10 +49,6 @@ function_schema =
           type:        'string',
           description: 'Description of the image.'
         },
-        poem:        {
-          type:        'string',
-          description: 'The created poem.'
-        },
         keywords:    {
           type:        'array',
           items:       {
@@ -61,54 +57,74 @@ function_schema =
           minItems:    5,
           maxItems:    10,
           description: 'A list of relevant keywords (between 5 and 10).'
+        },
+        poem:        {
+          type:        'string',
+          description: 'The created poem.'
         }
       },
-      required:   %w[description poem keywords]
+      required:   %w[description keywords poem]
     }
   }
 
-prompt = 'Please can you write a description of this image using up to 400 words, ' \
-         'then write a limeric using this image as inspiration ' \
-         'and list some keywords for the image with output in JSON format.'
+# prompt = 'Please can you write a description of this image using up to 400 words, ' \
+#          'then write a limeric using this image as inspiration ' \
+#          'and list some keywords for the image with output in JSON format.'
 
-image_paths = ['images/2025/02-tim_blair.jpg', 'images/2025/02-sheena.jpg', 'images/2025/02-tom.jpg']
-base64_image = encode_image(image_paths[1])
+prompt = 'Please provide: ' \
+         '1. A concise image description (max 200 words).' \
+         '2. 5-10 keywords.' \
+         '3. A limerick (5 lines).' \
+         'Return output in JSON format with fields "description", "keywords" and "poem".'
 
-response = client.chat(
-  parameters: {
-    model:           'gpt-4-turbo',
-    # model:           'chatgpt-4o-latest', # Does not support function schemas yet
-    # model: 'gpt-4.5-preview', # Updated to use GPT-4.5
-    response_format: { type: 'json_object' },
-    messages:        [{
-      role:    'user',
-      content: [
-        { type: 'text', text: prompt },
-        { type: 'image_url', image_url: { url: "data:image/jpeg;base64,#{base64_image}" } }
-      ]
-    }],
-    temperature:     1, # define level of creativity
-    tools:           [{ type: 'function', function: function_schema }],
-    tool_choice:     'required'
-  }
-)
+images = ['images/2025/02-tim_blair.jpg', 'images/2025/02-sheena.jpg', 'images/2025/02-tom.jpg']
 
-# output = response.dig('choices', 0, 'message', 'content')
-output = response.dig('choices', 0, 'message')
-puts JSON.pretty_generate(output)
+images.each do |image|
+  base64_image = encode_image(image)
 
-puts "\n"
+  response = client.chat(
+    parameters: {
+      model:           'gpt-4-turbo',
+      # model:           'chatgpt-4o-latest', # Does not support function schemas yet
+      # model: 'gpt-4.5-preview', # Updated to use GPT-4.5
+      response_format: { type: 'json_object' },
+      messages:        [{
+        role:    'user',
+        content: [
+          { type: 'text', text: prompt },
+          { type: 'image_url', image_url: { url: "data:image/jpeg;base64,#{base64_image}" } }
+        ]
+      }],
+      temperature:     1, # define level of creativity
+      tools:           [{ type: 'function', function: function_schema }],
+      tool_choice:     'required'
+    }
+  )
 
-output = response.dig('choices', 0, 'message', 'tool_calls', 0, 'function', 'arguments')
-output_object = JSON.parse(output)
+  # output = response.dig('choices', 0, 'message', 'content')
+  # output = response.dig('choices', 0, 'message')
+  # puts JSON.pretty_generate(output)
+  # puts "\n"
 
-puts 'Description:'
-puts output_object['description']
-puts "\n"
+  output = response.dig('choices', 0, 'message', 'tool_calls', 0, 'function', 'arguments')
+  output_object = JSON.parse(output)
 
-puts 'Poem:'
-puts output_object['poem']
-puts "\n"
+  puts image
+  puts "\n"
 
-puts 'Keywords:'
-puts output_object['keywords']
+  puts 'Description:'
+  puts output_object['description']
+  puts "\n"
+
+  puts 'Poem:'
+  puts output_object['poem']
+  puts "\n"
+
+  puts 'Keywords:'
+  puts output_object['keywords']
+
+  # Write these fields to file
+  data_filepath = '_ai/data'
+  output = "#{data_filepath}/#{File.basename(image, '.jpg')}.json"
+  File.write(output, JSON.pretty_generate(output_object))
+end
