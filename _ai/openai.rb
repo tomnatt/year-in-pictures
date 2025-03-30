@@ -41,32 +41,38 @@ end
 function_schema =
   {
     name:        'do_poetry',
-    description: 'Creates a limerick poem from a given theme and lists 2 to 5 keywords from it.',
+    description: 'Creates a description and a limerick from a given image and creates 5 to 10 keywords for that image.',
     parameters:  {
       type:       'object',
       properties: {
-        poem:     {
+        description: {
+          type:        'string',
+          description: 'Description of the image.'
+        },
+        poem:        {
           type:        'string',
           description: 'The created poem.'
         },
-        keywords: {
+        keywords:    {
           type:        'array',
           items:       {
             type: 'string'
           },
-          minItems:    2,
-          maxItems:    5,
-          description: 'A list of relevant keywords (between 2 and 5).'
+          minItems:    5,
+          maxItems:    10,
+          description: 'A list of relevant keywords (between 5 and 10).'
         }
       },
-      required:   %w[poem keywords]
+      required:   %w[description poem keywords]
     }
   }
 
-prompt = 'Please can you write a limeric using this image as inspiration and list some keywords from it with output in JSON format'
+prompt = 'Please can you write a description of this image using up to 400 words, ' \
+         'then write a limeric using this image as inspiration ' \
+         'and list some keywords for the image with output in JSON format.'
 
-image_path = 'images/2025/02-tim_blair.jpg'
-base64_image = encode_image(image_path)
+image_paths = ['images/2025/02-tim_blair.jpg', 'images/2025/02-sheena.jpg', 'images/2025/02-tom.jpg']
+base64_image = encode_image(image_paths[1])
 
 response = client.chat(
   parameters: {
@@ -96,5 +102,13 @@ puts "\n"
 output = response.dig('choices', 0, 'message', 'tool_calls', 0, 'function', 'arguments')
 output_object = JSON.parse(output)
 
+puts 'Description:'
+puts output_object['description']
+puts "\n"
+
+puts 'Poem:'
 puts output_object['poem']
+puts "\n"
+
+puts 'Keywords:'
 puts output_object['keywords']
