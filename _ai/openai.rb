@@ -12,35 +12,9 @@ def encode_image(image_path)
   Base64.strict_encode64(File.read(image_path))
 end
 
-# function_schema = <<FS
-# {
-#   'name': 'analyze_image',
-#   'description': 'Analyzes an image and returns a structured response with a description and keywords.',
-#   'parameters': {
-#     'type': 'object',
-#     'properties': {
-#       'description': {
-#         'type': 'string',
-#         'description': 'A detailed description of the image.'
-#       },
-#       'keywords': {
-#         'type': 'array',
-#         'items': {
-#           'type': 'string'
-#         },
-#         'minItems': 5,
-#         'maxItems': 10,
-#         'description': 'A list of relevant keywords (between 5 and 10).'
-#       }
-#     },
-#     'required': ['description', 'keywords']
-#   }
-# }
-# FS
-
 function_schema =
   {
-    name:        'do_poetry',
+    name:        'analyse_image',
     description: 'Creates a description and a limerick from a given image and creates 5 to 10 keywords for that image.',
     parameters:  {
       type:       'object',
@@ -67,20 +41,22 @@ function_schema =
     }
   }
 
-# prompt = 'Please can you write a description of this image using up to 400 words, ' \
-#          'then write a limeric using this image as inspiration ' \
-#          'and list some keywords for the image with output in JSON format.'
-
-prompt = 'Please provide: ' \
-         '1. A concise image description (max 200 words).' \
-         '2. 5-10 keywords.' \
-         '3. A limerick (5 lines).' \
-         'Return output in JSON format with fields "description", "keywords" and "poem".'
+data_filepath = '_ai/data'
 
 images = ['images/2025/02-tim_blair.jpg', 'images/2025/02-sheena.jpg', 'images/2025/02-tom.jpg']
+# images = ['images/2025/02-tim_blair.jpg']
 
 images.each do |image|
+  # Load keywords
+  keywords_file = "#{data_filepath}/keywords.json"
+  existing_keywords = JSON.parse(File.read(keywords_file))
+
   base64_image = encode_image(image)
+  prompt = 'Please provide: ' \
+           '1. A concise image description (max 200 words).' \
+           "2. 5-10 keywords, reusing relevant ones from the provided list and adding new ones if necessary: #{existing_keywords.join(', ')}." \
+           '3. A limerick (5 lines).' \
+           'Return output in JSON format with fields "description", "keywords" and "poem".'
 
   response = client.chat(
     parameters: {
@@ -95,16 +71,11 @@ images.each do |image|
           { type: 'image_url', image_url: { url: "data:image/jpeg;base64,#{base64_image}" } }
         ]
       }],
-      temperature:     1, # define level of creativity
+      temperature:     0.2, # define level of creativity
       tools:           [{ type: 'function', function: function_schema }],
       tool_choice:     'required'
     }
   )
-
-  # output = response.dig('choices', 0, 'message', 'content')
-  # output = response.dig('choices', 0, 'message')
-  # puts JSON.pretty_generate(output)
-  # puts "\n"
 
   output = response.dig('choices', 0, 'message', 'tool_calls', 0, 'function', 'arguments')
   output_object = JSON.parse(output)
@@ -122,9 +93,19 @@ images.each do |image|
 
   puts 'Keywords:'
   puts output_object['keywords']
+  output_object['keywords'].each_with_index do |keyword, index|
+    puts "#{index}: #{keyword}"
+  end
+  puts "\n"
+  puts "\n"
 
   # Write these fields to file
-  data_filepath = '_ai/data'
   output = "#{data_filepath}/#{File.basename(image, '.jpg')}.json"
   File.write(output, JSON.pretty_generate(output_object))
+
+  # Write out keywords
+  keywords = output_object['keywords'] | existing_keywords
+  keywords.sort!
+
+  File.write(keywords_file, JSON.pretty_generate(keywords))
 end
