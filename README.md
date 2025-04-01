@@ -25,6 +25,9 @@ Link to YiP Rails helper:
 * `YIP_RAILS_HELPER_LOCATION` - base URL for helper
 * `YIP_YEAR_TOKEN_PROD` - API key to access data
 
+AI image analysis:
+* `OPENAI_API_KEY_YIP` - to talk to the OpenAI API
+
 Installation
 ------------
 
