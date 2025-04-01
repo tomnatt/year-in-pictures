@@ -63,6 +63,11 @@ class Config
     "_db/data/#{year}.yml"
   end
 
+  def self.ai_analysis_output_from_image_path(image_path)
+    year = File.dirname(image_path).split('/')[1]
+    "#{ai_analysis_directory}/#{year}/#{File.basename(image_path, '.jpg')}.json"
+  end
+
   def self.get_generated_pagename(filename)
     "#{File.basename(filename, File.extname(filename))}.html"
   end

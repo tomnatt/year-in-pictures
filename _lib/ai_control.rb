@@ -22,7 +22,9 @@ class AiControl
     pics = Dir["#{Config.image_directory({ year: year })}/*.jpg"]
     # Iterate through all the images, saving output
     pics.each do |pic|
-      ai.analyse_image_update_keywords(pic)
+      # Only call if output file does not yet exist
+      json_file = Config.ai_analysis_output_from_image_path(pic)
+      ai.analyse_image_update_keywords(pic) unless File.exist? json_file
     end
   end
 end

@@ -20,9 +20,7 @@ class AI
     output_object = JSON.parse(output)
 
     # Write these fields to file
-    year = File.dirname(image_path).split('/')[1]
-    output = "#{Config.ai_analysis_directory}/#{year}/#{File.basename(image_path, '.jpg')}.json"
-    File.write(output, JSON.pretty_generate(output_object))
+    File.write(Config.ai_analysis_output_from_image_path(image_path), JSON.pretty_generate(output_object))
 
     # Take the union of new keywords and existing keywords then save
     keywords = output_object['keywords'] | existing_keywords
