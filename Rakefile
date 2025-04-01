@@ -93,9 +93,13 @@ task :month_update do
 end
 
 # Image analysis tasks
-desc 'Analyse all images'
-task :analyse_all_images do
-  AiControl.analyse_image
+desc 'Analyse missing images for year'
+task :analyse_missing_images, [:year] do |_t, args|
+  args.with_defaults(year: Date.today.year)
+  AiControl.analyse_missing_images_for(args.year)
 end
 
-desc 'Analyse latest images'
+desc 'Analyse new images'
+task :analyse_new_images do
+  AiControl.analyse_missing_images_current_year
+end
