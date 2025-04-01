@@ -13,6 +13,10 @@ class Config
     '_db/data/users.yml'
   end
 
+  def self.keywords_path
+    "#{ai_analysis_directory}/keywords.json"
+  end
+
   def self.unknown_pic_path
     '_config/unknown_pic.yml'
   end
@@ -35,6 +39,10 @@ class Config
 
   def self.thumbnails_directory(prev_month)
     "#{image_directory(prev_month)}/thumbnails"
+  end
+
+  def self.ai_analysis_directory
+    '_db/data/analysis'
   end
 
   # Returns { month, year }

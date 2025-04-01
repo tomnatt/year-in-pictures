@@ -1,5 +1,6 @@
 require 'jekyll'
 require_relative '_lib/asset_check'
+require_relative '_lib/ai_control'
 require_relative '_lib/db_control'
 require_relative '_lib/file_control'
 
@@ -90,3 +91,11 @@ task :month_update do
   Rake::Task['db_update'].invoke
   Rake::Task['check_ready'].invoke
 end
+
+# Image analysis tasks
+desc 'Analyse all images'
+task :analyse_all_images do
+  AiControl.analyse_image
+end
+
+desc 'Analyse latest images'
