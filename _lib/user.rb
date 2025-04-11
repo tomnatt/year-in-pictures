@@ -1,4 +1,3 @@
-require 'sqlite3'
 require_relative 'config'
 
 class User
