@@ -3,6 +3,7 @@ require_relative 'config'
 require_relative 'picture'
 require_relative 'user'
 require_relative 'year'
+require_relative 'keyword'
 
 class DbControl
   def self.create
@@ -10,10 +11,12 @@ class DbControl
     db.execute Picture.create_table_sql
     db.execute User.create_table_sql
     db.execute Year.create_table_sql
+    db.execute Keyword.create_table_sql
 
     # Add setup data
     add_years
     add_users
+    add_keywords
     add_unknown_pic
   end
 
@@ -47,6 +50,16 @@ class DbControl
     users_data.each do |user_data|
       user = User.new(user_data)
       db.execute(user.insert_sql, user.values)
+    end
+  end
+
+  def self.add_keywords
+    db = SQLite3::Database.open Config.database_path
+
+    keywords_data = JSON.parse(File.read(Config.keywords_path))
+    keywords_data.each do |keyword|
+      keyword = Keyword.new(keyword)
+      db.execute(keyword.insert_sql, keyword.values)
     end
   end
 
