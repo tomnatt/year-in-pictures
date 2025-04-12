@@ -3,6 +3,7 @@ require_relative 'config'
 require_relative 'picture'
 require_relative 'user'
 require_relative 'year'
+require_relative 'metadata'
 require_relative 'keyword'
 
 class DbControl
@@ -10,6 +11,7 @@ class DbControl
     db = SQLite3::Database.new Config.database_path unless File.exist? Config.database_path
     db.execute Picture.create_table_sql
     db.execute User.create_table_sql
+    db.execute Metadata.create_table_sql
     db.execute Year.create_table_sql
     db.execute Keyword.create_table_sql
 
