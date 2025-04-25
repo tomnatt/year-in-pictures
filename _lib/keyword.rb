@@ -1,19 +1,7 @@
+require 'active_record'
 require_relative 'config'
 
-class Keyword
-  def initialize(keyword)
-    @keyword = keyword
-  end
-
-  # Add new or overwrite if already present
-  def insert_sql
-    'INSERT OR REPLACE INTO keywords (keyword) VALUES (?)'
-  end
-
-  def values
-    [@keyword]
-  end
-
+class Keyword < ActiveRecord::Base
   # Create year table - autoincrement id
   def self.create_table_sql
     <<-SQL

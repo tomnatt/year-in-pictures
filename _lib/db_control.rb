@@ -1,3 +1,4 @@
+require 'active_record'
 require 'sqlite3'
 require_relative 'config'
 require_relative 'picture'
@@ -11,7 +12,7 @@ class DbControl
     db = SQLite3::Database.new Config.database_path unless File.exist? Config.database_path
     db.execute Picture.create_table_sql
     db.execute User.create_table_sql
-    db.execute Metadata.create_table_sql
+    # db.execute Metadata.create_table_sql
     db.execute Year.create_table_sql
     db.execute Keyword.create_table_sql
 
@@ -56,12 +57,14 @@ class DbControl
   end
 
   def self.add_keywords
-    db = SQLite3::Database.open Config.database_path
+    ActiveRecord::Base.establish_connection(
+      adapter:  'sqlite3',
+      database: Config.database_path
+    )
 
     keywords_data = JSON.parse(File.read(Config.keywords_path))
     keywords_data.each do |keyword|
-      keyword = Keyword.new(keyword)
-      db.execute(keyword.insert_sql, keyword.values)
+      Keyword.create({ keyword: keyword })
     end
   end
 

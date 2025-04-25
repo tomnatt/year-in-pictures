@@ -13,6 +13,7 @@ gem 'rb-readline'
 gem 'webrick'
 
 # SQLite implementation
+gem 'activerecord'
 gem 'sqlite3'
 
 group :development, :test do
