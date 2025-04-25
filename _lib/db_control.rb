@@ -37,22 +37,26 @@ class DbControl
   end
 
   def self.add_years
-    db = SQLite3::Database.open Config.database_path
+    ActiveRecord::Base.establish_connection(
+      adapter:  'sqlite3',
+      database: Config.database_path
+    )
 
     years_data = YAML.load_file(Config.years_path)
     years_data.each do |year_data|
-      year = Year.new(year_data)
-      db.execute(year.insert_sql, year.values)
+      Year.create({ year: year_data['year'], zodiac: year_data['zodiac'], homepage: year_data['homepage'] })
     end
   end
 
   def self.add_users
-    db = SQLite3::Database.open Config.database_path
+    ActiveRecord::Base.establish_connection(
+      adapter:  'sqlite3',
+      database: Config.database_path
+    )
 
     users_data = YAML.load_file(Config.users_path)['users']
     users_data.each do |user_data|
-      user = User.new(user_data)
-      db.execute(user.insert_sql, user.values)
+      User.create({ id: user_data['id'], name: user_data['name'] })
     end
   end
 
