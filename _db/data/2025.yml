@@ -1743,3 +1743,363 @@ pictures:
     alt: "Wembley"
     month: may
     photographer: 86
+  -
+    image: 06-amy.jpg
+    image_title: "St Francis of Assisi"
+    caption: "St Francis of Assisi"
+    description: "I spent a beautiful long weekend in Budapest with my best friend Dot. On a sleepy sunny Sunday afternoon I took some pictures of a peaceful church. This statue caught my eye."
+    alt: "Statue of st Francis of Assisi in the sun"
+    month: june
+    photographer: 32
+  -
+    image: 06-az.jpg
+    image_title: "Outdoor BBQ at Nomadic"
+    caption: "Dinner at Nomadic"
+    description: "Posh dinner alert - lovely sunny June evening at Nomadic in Chalfont St Giles. It's in a clearing in the woods where they serve about 100 covers, but when the sun's out and there's a massive BBQ, you can't go wrong...!"
+    alt: "Outdoor BBQ at Nomadic dinner in Chalfont St Giles on a sunny day"
+    month: june
+    photographer: 81
+  -
+    image: 06-bek.jpg
+    image_title: "Birthday Candles"
+    caption: "Birthday Candles"
+    description: "June has been hard work, working toward the summer holidays! But I’m grateful for so many things this month! And I’m enjoying handmade birthday candles!"
+    alt: "X4 handmade candles of various shapes and colours, all lit."
+    month: june
+    photographer: 97
+  -
+    image: 06-bonnie-richard.jpg
+    image_title: "Windmill on Öland, Sweden"
+    caption: "Windmill on Öland, Sweden"
+    description: "We’ve been in Öland attending a family reunion. 103 attendees - the majority American. My grandfather, Oscar, was the oldest of 8 children and the first to leave Sweden at the age of 19 in 1900. All but one followed but Frida returned to see her parents for a short visit and stayed as she fell for a local man. Her descendants hosted the reunion. Regarding the windmill - at one time there were 3,000 on Öland. Now just a few. This one is in need of repair but we found it charming with an atmospheric brooding sky in the background that morning. Richard caught the image well. By the way, we learned that Frida had a ticket on the Titanic in 1912. She was leaving with a friend but her friend was late and they missed the boat!  We were stunned - understatement."
+    alt: "Windmill on Öland, Sweden"
+    month: june
+    photographer: 5
+  -
+    image: 06-charlotte.jpg
+    image_title: "Hot air balloon season"
+    caption: "Hot air balloon season"
+    description: "The season of hot air balloon spotting is upon us. This one was the third of the hour."
+    alt: "Looking almost directly upwards at a black hot air balloon in a blue sky that is streaked with white clouds. It looks like it is flying up towards the top right corner of the frame."
+    month: june
+    photographer: 77
+  -
+    image: 06-chris.jpg
+    image_title: "Tri-monitor rainbow"
+    caption: "Tri-monitor rainbow"
+    description: "A new desk set up with properly aligned monitors for my inner Bond villain."
+    alt: "Rainbow patterned desktop background lined up over 3 pc monitors."
+    month: june
+    photographer: 91
+  -
+    image: 06-clive.jpg
+    image_title: "Duck Family"
+    caption: "Duck Family"
+    description: "Duck Family."
+    alt: "We see a family of ducks"
+    month: june
+    photographer: 26
+  -
+    image: 06-dad.jpg
+    image_title: "Colours"
+    caption: "Colours"
+    description: "June to me is always the month of colour in the garden and, despite the drought, this year is better than most with a huge amount and variety. Above is a selection."
+    alt: "4 inset pictures of colourful flowers in my garden."
+    month: june
+    photographer: 22
+  -
+    image: 06-dan.jpg
+    image_title: "Colour matched moth"
+    caption: "Colour matched moth"
+    description: "The moths are out in force in our back garden. They contrast beautifully with the cream sandstone coloured walls."
+    alt: "A black, red and cream moth with delicate wings settled on a cream garden wall"
+    month: june
+    photographer: 6
+  -
+    image: 06-ed.jpg
+    image_title: "Civil War"
+    caption: "Civil War"
+    description: "The English Civil War was back on again in my village. Thankfully, a blue rope kept me safe."
+    alt: "War"
+    month: june
+    photographer: 7
+  -
+    image: 06-gareth.jpg
+    image_title: "Loos"
+    caption: "Loos"
+    description: "The gents toilets in The Boathouse in Newquay. Certainly a talking point at this year's Celtic Media Festival in Cornwall.<br ><br >I was there because we'd been nominated in the Best Entertainment (Sound) category at the Festival's Torc Awards. <a href=\"https://podfollow.com/imsonotoverit/episode/dd3ddf7f52e41053a29c1b9404dd9f7ab8f93e68/\">You can listen to the nominated show here</a>."
+    alt: "On the right of the image, a metal urinal in a men's toilet. In the centre the door and a sink. On the left hand side, an enormous rock formation with vines/leaves/moss which forms the left-hand wall."
+    month: june
+    photographer: 8
+  -
+    image: 06-gill.jpg
+    image_title: "What a view"
+    caption: "What a view"
+    description: "It’s been a really busy time for us recently, so we decided to have a relaxing week away in South Devon. This is the view from our holiday accommodation across the River Dart to Dartmouth, with the naval college lit up on the right. Beautiful and serene with nothing stirring."
+    alt: "What a view"
+    month: june
+    photographer: 9
+  -
+    image: 06-hanna.jpg
+    image_title: "Road-bikepacking"
+    caption: "Road-bikepacking"
+    description: "One of my bikes was stolen in June so I had to improvise and turn my road bike into a bikepacking one to be able to go on trips that had been planned long ago. This pic is us waiting for a ferry on an island in the western archipelago."
+    alt: "Bike with bags on it"
+    month: june
+    photographer: 10
+  -
+    image: 06-himal.jpg
+    image_title: "Wembley Stadium crowd"
+    caption: "Wembley Stadium crowd"
+    description: "People making their way to Wembley Stadium for Guns n Roses."
+    alt: "Crowd of people walking along big open path lined with signs and advertisements on either side. Wembley Stadium shot looking back towards station."
+    month: june
+    photographer: 82
+  -
+    image: 06-james_wiggins.jpg
+    image_title: "End of a D&D campaign"
+    caption: "The end..."
+    description: "So June saw the end of my Thirsty Meeples (the table pictured before players arrived) D&D campaign that has been running for 18 months-ish. It was again  fun GMing for people I didn't know (at the start) but does let me get into Blades in the Dark from next week onwards!"
+    alt: "A table with a map, miniatures and dungeon master's screen all set up ahead of play."
+    month: june
+    photographer: 29
+  -
+    image: 06-jen.jpg
+    image_title: "Tiny feet, big hill"
+    caption: "Tiny feet, big hill"
+    description: "A much-needed break in the Welsh hills where kiddo learned how to scale a mountain, one step at a time."
+    alt: "A toddler walking up a green mountain pass, holding the hand of her dad"
+    month: june
+    photographer: 34
+  -
+    image: 06-jennie.jpg
+    image_title: "Sherborne Abbey"
+    caption: "Sherborne Abbey"
+    description: "I loved this beautiful lettering on the wall inside the abbey building. The bricks are red through fire damage."
+    alt: "List of sins"
+    month: june
+    photographer: 98
+  -
+    image: 06-jess_newby.jpg
+    image_title: "Cherries"
+    caption: "We beat the birds to the cherries"
+    description: "Usually the birds eat all the cherries before we get any, but this year I grabbed a handful before they all disappeared."
+    alt: "A hand holding several red cherries"
+    month: june
+    photographer: 89
+  -
+    image: 06-kat.jpg
+    image_title: "Wildflowers"
+    caption: "Wildflowers"
+    description: "June went by in a flash, almost without pictures!  But these wildflowers caught my eye while out walking one evening."
+    alt: "Wildflowers with the canal in the background."
+    month: june
+    photographer: 13
+  -
+    image: 06-ken.jpg
+    image_title: "Breakfast companion"
+    caption: "Breakfast companion"
+    description: "A fat pheasant who joined me for breakfast."
+    alt: "A fat pheasant"
+    month: june
+    photographer: 80
+  -
+    image: 06-kirsty.jpg
+    image_title: "Bristol"
+    caption: "Shonen Knife"
+    description: "A venue small enough that you can see the stage and a band singing about tea and cake."
+    alt: "A drum kit on a dark stage crossed with spotlight beams"
+    month: june
+    photographer: 14
+  -
+    image: 06-louise.jpg
+    image_title: "Courgette overload"
+    caption: "Courgette overload"
+    description: "Yep, grew too many courgettes. Far far too many courgettes. Allotment beginner mistake :)"
+    alt: "A orange trug with salad leaves and many courgettes"
+    month: june
+    photographer: 76
+  -
+    image: 06-lyns.jpg
+    image_title: "Lint"
+    caption: "Lint"
+    description: "A friend who also owns a spaniel sent us a care package."
+    alt: "Rollers covered in dog hair"
+    month: june
+    photographer: 15
+  -
+    image: 06-matt_hobbs.jpg
+    image_title: "We're moving and melting!"
+    caption: "Pool Cool down!"
+    description: "June was such a hectic month for the family. After months full of ups and downs, we finally moved into our new house. It feels wonderful to be in the new place, but my bank balance definitely doesn’t share the excitement. June was also scorching hot. Our moving day was unbelievably warm. I honestly don’t know how removal companies do it day in and day out. They’re heroes.<br ><br >Later in the month it got even hotter, so to get the kids out of the house and cooled off, we took them to a local pool. As you can see from the photo, they had the best time splashing around.<br ><br >Looking back, June 2025 was wild. I wouldn’t want to go through the stress and sheer physical exhaustion of moving again any time soon. Once is more than enough for now."
+    alt: "Image of Josh and Jack in the air about to take another big splash in the pool!"
+    month: june
+    photographer: 78
+  -
+    image: 06-matt_holyoake.jpg
+    image_title: "My new gym"
+    caption: "My new gym"
+    description: "Moved into my new place in June and got my new gym set up - it's awesome!"
+    alt: "My new gym"
+    month: june
+    photographer: 74
+  -
+    image: 06-megan.jpg
+    image_title: "Teddy with his favourite new toy"
+    caption: "Teddy's New Hobby"
+    description: "Our dog has a new obsession - a frisbee.  He wants you to throw it but also won't let you have it. You can see how happy it makes him here."
+    alt: "A border collie running with an orange frisbee"
+    month: june
+    photographer: 104
+  -
+    image: 06-mike.jpg
+    image_title: "Celebrating the Bath"
+    caption: "Celebrating the Bath"
+    description: "Great Pulteney street in Bath, empty and void of people. Very far in the distance, you can spy the Bath Rugby team celebrating their victory in the Guinness Premiership in an open top bus."
+    alt: "A view of a closed Bath street with celebrations in the distance"
+    month: june
+    photographer: 103
+  -
+    image: 06-pete_f.jpg
+    image_title: "Empty stadium"
+    caption: "Empty stadium"
+    description: "Never been a fan of football, but it was interesting and a privilege nonetheless to have the Bristol City football stadium as the venue for a company event in May."
+    alt: "An empty Bristol City football stadium, with red and white seating spelling out the name of the club"
+    month: june
+    photographer: 28
+  -
+    image: 06-pete_rogers.jpg
+    image_title: "Breakfast?"
+    caption: "Breakfast?"
+    description: "The morning after a wedding in Norfolk. My wife's cooked breakfast tasted better than it looked!"
+    alt: "Cooked breakfast on a plate with the two poached eggs and sausage arranged to look like male genitals"
+    month: june
+    photographer: 87
+  -
+    image: 06-peter_chamberlin.jpg
+    image_title: "Monster pak choi"
+    caption: "Monster pak choi"
+    description: "Growing pak choi turns out to be 1. easy and 2. really quick. These monsters grew in no time at all (and were delicious)."
+    alt: "Two enormous pak choi lying next to a small courgette plant on a raised bed"
+    month: june
+    photographer: 27
+  -
+    image: 06-rhiannon_lawson.jpg
+    image_title: "Memorial"
+    caption: "Memorial"
+    description: "I shared this recently... Me and my mum 2 years ago 3 days after she was diagnosed with cancer. She passed away this month."
+    alt: "Picture of two smiling ladies at a festival"
+    month: june
+    photographer: 35
+  -
+    image: 06-richard-monica.jpg
+    image_title: "Forest trail"
+    caption: "Forest trail"
+    description: "Stairs in the woods. Happy birthday to my amazing and incredible wife."
+    alt: "Stairs in a forest"
+    month: june
+    photographer: 31
+  -
+    image: 06-sean.jpg
+    image_title: "Mother"
+    caption: "Mother"
+    description: "A mother and child in a coffee shop in Milsom place."
+    alt: "A woman holding her baby silhouetted in a coffee shop. Lit from behind, the natural shapes her body makes contrast against the straight lines and square angles of the doors, windows, and wall."
+    month: june
+    photographer: 3
+  -
+    image: 06-sheena.jpg
+    image_title: "Family Gatherings"
+    caption: "Family Gatherings"
+    description: "Wildlife pond at a wedding reception venue. \r\nJune was a joyous month. Precious time was spent with family, celebrating a wedding and 90th/21st birthdays. Also  we entertained my lovely Mum as the first staying guest at our ‘newish’ home."
+    alt: "Wildlife pond at a wedding reception venue"
+    month: june
+    photographer: 18
+  -
+    image: 06-simon_field.jpg
+    image_title: "Ascot Bunting"
+    caption: "Ascot Bunting"
+    description: "Grandstand at Royal Ascot on a very hot Ladies' Day evening, just after the last of the crowds have left, and peace returns to the site."
+    alt: "Royal Ascot grandstand with union flag bunting."
+    month: june
+    photographer: 90
+  -
+    image: 06-stephen.jpg
+    image_title: "Broadstairs Beach on a hot June day"
+    caption: "Broadstairs Beach on a hot June day"
+    description: "We went on a hot Saturday to Broadstairs on the train and mooched about on the beach, went for a walk, had a nice lunch and then scarpered once the shirtless youth started chucking bottles at the cops :)"
+    alt: "wide-angle hi shot of a beach with lots of people and umbrellas"
+    month: june
+    photographer: 75
+  -
+    image: 06-steve_fearn.jpg
+    image_title: "What to wear"
+    caption: "What to wear"
+    description: "For those who don't know, I do a bit of film extra work, when I can.<br ><br >Last week I went for a costume fitting to become a technician in a TV studio - the studio owned by David Tennant's character in Disney's adaptation of Jilly Cooper's 'Rivals'. The production company are very strict on photographing whilst working but I got permission to take this one.<br ><br >What you see here is less than half the clothes in the room."
+    alt: "The frame is filled with rail upon rail of clothes... all labelled by gender, size and the period they are from."
+    month: june
+    photographer: 88
+  -
+    image: 06-steve_newstead.jpg
+    image_title: "Getting a lime bike to the office"
+    caption: "Becoming a local"
+    description: "Begone sweaty tube rides, when I visit the Big Smoke now I go from Paddington to near the Tate modern by Lime bike. <br ><br >Next time, I’m calling in at Buckingham Palace for tea."
+    alt: "Big Ben from a bike"
+    month: june
+    photographer: 95
+  -
+    image: 06-sue.jpg
+    image_title: "A frieze from the original Picton Monument"
+    caption: "A clever frieze!"
+    description: "This frieze shows the death of General Picton at the battle of Waterloo in 1815.\r\nHe is seen falling off his horse into the arms of a soldier of the Highland Division. The first Picton Monument was built in 1827, designed by John Nash with decoration by E. H. Baily. The monument stood 23m tall. Relief scenes set into the base showed Picton’s attack on Badajoz and his death.\r\nThe monument had become unsafe by 1846 and unfashionable so was then demolished and replaced by the present obelisk. It must have been an impressive sight."
+    alt: "Part of a frieze which was originally on the base of the Picton Monument created in 1827. The frieze looked like it was sculpted out of sandstone with cement and depicts the attack by General Picton on Badajoz and his death falling off his horse into the arms of a soldier of the Highlands Division during the battle of Waterloo in 1815. The Monument was designed by John Nash and made by E.H. Baily in 1827. It stood 23m tall and was replaced by the present obelisk in 1846 as it was then unsafe and unfashionable. It must have been very impressive as the carving was very well done."
+    month: june
+    photographer: 20
+  -
+    image: 06-teresa.jpg
+    image_title: "Ant eggs"
+    caption: "Ant eggs"
+    description: "Harry the cat was showing an inordinate amount of interest in some stones so I turned them over to look. It was a fascinating ants nest. I turned three stones and each had a nursery of different size eggs underneath - these, the next size down (which the ants rushed to carry to safety below ground) and absolutely tiny. Sadly, the other pics were unusable. I looked a week later and all the eggs had been removed to safety - what a task for tiny little black ants."
+    alt: "Ants eggs on the underside of a stone."
+    month: june
+    photographer: 21
+  -
+    image: 06-tim_blair.jpg
+    image_title: "Tree Skull"
+    caption: "Tree Skull"
+    description: "A new footpath has opened around some fields near our house. We took an evening mooch along it, and at one point came across this skull attached to a tree. Slightly disturbing."
+    alt: "A weathered (sheep?) skull attached to a tree."
+    month: june
+    photographer: 71
+  -
+    image: 06-tim_oneill.jpg
+    image_title: "Sicily"
+    caption: "Finally a proper holiday!"
+    description: "A fantastic escape to Sicily."
+    alt: "Hols"
+    month: june
+    photographer: 83
+  -
+    image: 06-tinus.jpg
+    image_title: "View from the Shard"
+    caption: "The Shard"
+    description: "The view from my table in the shard for my bday dinner."
+    alt: "The Shard"
+    month: june
+    photographer: 94
+  -
+    image: 06-tom.jpg
+    image_title: "The Trio"
+    caption: "The Trio"
+    description: "It has taken ages, but I've finally managed to get a full set of the new D&D books with the beautiful alternative colours. Finding the Monster Manual was an unbelievable pain in the backside. They look lovely together.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/54580708415/\">Flickr</a>."
+    alt: "The three core dungeons and dragons manuals with alt covers together"
+    month: june
+    photographer: 1
+  -
+    image: 06-tom_bassett.jpg
+    image_title: "'Funnel web' spider in Wales"
+    caption: "'Funnel web' spider in Wales"
+    description: "In gorse, in Pembrokeshire (you can tell from the rain), there were loads of 'funnel web' spiders - nothing to do with the Australian ones I think, and more related to the similar, smaller ones in your house."
+    alt: "Spider, gorse"
+    month: june
+    photographer: 86
