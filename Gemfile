@@ -4,7 +4,7 @@ ruby File.read('.ruby-version').strip
 
 gem 'jekyll'
 gem 'jekyll-datapage-generator'
-gem 'jekyll-sass-converter', '~> 2.1'
+gem 'jekyll-sass-converter'
 gem 'jekyll-sqlite'
 gem 'mina'
 gem 'rainbow'
