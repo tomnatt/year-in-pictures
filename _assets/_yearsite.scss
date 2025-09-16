@@ -1,9 +1,11 @@
+@use "sass:list";
+@use "sass:math";
 @import url(//fonts.googleapis.com/css?family=Oldenburg|Permanent+Marker|Ribeye+Marrow);
 
 /* Variables */
 $body-font-family: "Oldenburg", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-$header-font-family: join("Ribeye Marrow", $body-font-family);
-$polaroid-font-family: join("Permanent Marker", $body-font-family);
+$header-font-family: list.join("Ribeye Marrow", $body-font-family);
+$polaroid-font-family: list.join("Permanent Marker", $body-font-family);
 
 // Define "large and up" media query - copied from Pure default (1024px)
 $large-up: "screen and (min-width: 64em)";
@@ -44,7 +46,7 @@ $gutter-small-padding: 0 1.25rem;
   @media #{$large-up} {
     a {
       // Rotate -20 to +20 degrees generated randomly
-      transform: rotate(random(40) - 20 + deg);
+      transform: rotate(math.random(40) - 20 + deg);
     }
   }
 }
