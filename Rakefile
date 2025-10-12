@@ -84,7 +84,7 @@ end
 
 # Monthly tasks
 desc 'Monthly data update task'
-task :month_update do
+task :monthly do
   Rake::Task['pics_yaml_update'].invoke
   Rake::Task['copy_pictures'].invoke
   Rake::Task['db_update'].invoke
