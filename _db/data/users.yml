@@ -51,6 +51,9 @@ users:
     id: 92
     name: David Bonney
   -
+    id: 108
+    name: Diane
+  -
     id: 7
     name: Ed
   -
@@ -65,6 +68,9 @@ users:
   -
     id: 10
     name: Hanna
+  -
+    id: 106
+    name: Helen
   -
     id: 82
     name: Himal
@@ -128,6 +134,9 @@ users:
   -
     id: 103
     name: Mike
+  -
+    id: 107
+    name: Miriam
   -
     id: 37
     name: Monica
