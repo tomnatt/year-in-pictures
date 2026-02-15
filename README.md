@@ -48,7 +48,7 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 
 ## To add a new month of pictures
 
-1. Run `bundle exec rake month_update` to download latest YAML, copy pics and optimise, update the database and run checks
+1. Run `bundle exec rake monthly` to download latest YAML, copy pics and optimise, update the database and run checks
 1. Update `index.html` with new month
 1. Build and check locally with `bundle exec rake serve`
 1. Commit changes
@@ -61,4 +61,7 @@ The photo stuff started life on [one of the Zurb example pages](http://zurb.com/
 1. Add new year data block in `_config/jekyll_config.yml`
 1. Add new year in `_config/years.yml` and rebuild database
 1. Check [a short photographer page](http://localhost:4000/photographers/36.html) for length of RH menu
+1. Check [photographers page](http://localhost:4000/photographers/) for thumbnails
 1. Add January photos as normal
+
+If there are any helper scripts (eg in `bin`) remember to update those too.

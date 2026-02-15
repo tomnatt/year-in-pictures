@@ -1,0 +1,401 @@
+pictures:
+  -
+    image: 01-amy.jpg
+    image_title: "Davidt turns 50"
+    caption: "Davidt turns 50"
+    description: "Davidt is my lovely brother in law. He had some health issues last year which made us treasure our time with him even more. We celebrated his 50th birthday this month - what a blessing and a joy."
+    alt: "Three people celebrating at the pub"
+    month: january
+    photographer: 32
+  -
+    image: 01-az.jpg
+    image_title: "Kerry James Marshall at the RA"
+    caption: "Art in Winter"
+    description: "It has been a pretty grey Jan, so we've gone for a bit of art (more in Feb!). <br ><br >Loved this which is from the Kerry James Marshall exhibition at the RA which finished in Jan. First time I've seen his work - both powerful and optimistic in a way that feels very much needed. The best show I've seen in a while."
+    alt: "Photo of Kerry James Marshall work at the RA Show in Jan"
+    month: january
+    photographer: 81
+  -
+    image: 01-bek.jpg
+    image_title: "Art Therapist's passenger seat"
+    caption: "Art Therapist's passenger seat"
+    description: "The randomness of my job makes me smile sometimes. The things I have to remember to take to work with me! It’s never boring!"
+    alt: "Car front passenger seat, with paint, chess, cheese a folder, a cup, pipe cleaners and Pom poms.."
+    month: january
+    photographer: 97
+  -
+    image: 01-bonnie-richard.jpg
+    image_title: "Table Top Curling"
+    caption: "Table Top Curling"
+    description: "The Table Top Curling was a Christmas gift and has given us a lot of fun competitions to while away the dismal January days. It’s getting lighter now.  Brighter days ahead thankfully."
+    alt: "Table Top Curling"
+    month: january
+    photographer: 5
+  -
+    image: 01-charlotte.jpg
+    image_title: "Doggo!"
+    caption: "Doggo!"
+    description: "Spent a short weekend with this beautiful boy. Very very friendly, and very excitable. This is him actually tuckered out after a 6 mile walk."
+    alt: "A long haired sausage dog is lying in a slightly twisted position half on his back, half on his side on a sofa"
+    month: january
+    photographer: 77
+  -
+    image: 01-chris.jpg
+    image_title: "It’s a hard life…"
+    caption: "It’s a hard life…"
+    description: "Chuckie stares longingly at a plate of bacon just out of view."
+    alt: "Ginger male cat stares longingly at a plate of bacon just out of view!"
+    month: january
+    photographer: 91
+  -
+    image: 01-clive.jpg
+    image_title: "Statue of Liberty Sunset"
+    caption: "Statue of Liberty Sunset"
+    description: "Statue of Liberty Sunset."
+    alt: "Statue of Liberty Sunset"
+    month: january
+    photographer: 26
+  -
+    image: 01-dad.jpg
+    image_title: "Mushrooms"
+    caption: "Mushrooms"
+    description: "January was too wet to get into the garden so I decided to do some indoors. A Christmas present, harvested just after this photo, and they were delicious. The second crop is underway."
+    alt: "Mushrooms grown indoors just before harvesting."
+    month: january
+    photographer: 22
+  -
+    image: 01-dan.jpg
+    image_title: "York Minster looking positively high gothic"
+    caption: "York Minster looking positively high gothic"
+    description: "Wandering round York after Hon’s graduation we ended up waiting for an Uber outside York Minster. It looks pretty epic when lit up."
+    alt: "Looking upwards at a tall, gothic building lit up by yellow and purple lights"
+    month: january
+    photographer: 6
+  -
+    image: 01-diane.jpg
+    image_title: "Hopes for Spring"
+    caption: "Hopes for Spring"
+    description: "Though January is still mid winter - dark, cold and miserable - by the end of the month, the afternoons are already getting noticeably lighter. \r\nIt's always a surprise to see how quickly this transformation starts to occur, and how uplifting it feels.<br ><br >This winter has been rather mild, and my thoughts have been turning towards the forthcoming Spring and looking forward to everywhere blooming with daffodils and tulips. ❤️"
+    alt: "A display of Daffodils and Tulips, with lots of yellow and red blooms."
+    month: january
+    photographer: 108
+  -
+    image: 01-ed.jpg
+    image_title: "Bed"
+    caption: "Bed"
+    description: "I found this carved timber bed in a bedroom upstairs in an old pub. Don’t make ‘em like they used to!"
+    alt: "Bed"
+    month: january
+    photographer: 7
+  -
+    image: 01-gareth.jpg
+    image_title: "Skansen"
+    caption: "Skansen"
+    description: "Skansen is an open-air museum in Stockholm, Sweden, with houses and buildings from around the country relocated and available to walk around. It's also home to this outdoor stage which played host to SVT1's live New Year's Eve show. If you'd like to see this view in the daylight and with considerably fewer people, do check out <a href=\"https://www.theyearinpictures.co.uk/photos/2025/12-gareth.html\">December 2025's photo</a>."
+    alt: "An outdoor stage at night with a large crowd in attendance with a large soundsystem, screen and musicians on stage."
+    month: january
+    photographer: 8
+  -
+    image: 01-gill.jpg
+    image_title: "Snowdrops"
+    caption: "Snowdrops"
+    description: "Signs of life in the undergrowth. Just beautiful!"
+    alt: "Snowdrops"
+    month: january
+    photographer: 9
+  -
+    image: 01-hanna.jpg
+    image_title: "Winter walks on ice"
+    caption: "Winter walks on ice"
+    description: "We've had consistent freezing temperatures for a month so now even the most cautious Finns (like me with this) will go walking on the frozen sea. It's one of the most Finnish things to do and we love it perhaps disproportionately. This is me and a fellow football mum on a walk just after dusk during the boys' training (indoors!)."
+    alt: "Wintery evening scene with two shadows."
+    month: january
+    photographer: 10
+  -
+    image: 01-helen.jpg
+    image_title: "Scission"
+    caption: "Scission"
+    description: "Coloured light spills outwards from a dark ink void created by the scission. The thin score-like division or split down the centre of this photograph is sunlight at dusk reflected on the surface of Lake 12 at South Cerney in Gloucestershire. Inverted 90 degrees the light patterns and symmetry of sunset in the photograph take on an abstract and void-like quality."
+    alt: "Lake 12 at South Cerney at dusk with yellow and pink sunset reflected in the water. The image is inverted 90 degrees, bringing attention to the light splitting down the centre of the photograph creating a more abstract void-like image."
+    month: january
+    photographer: 106
+  -
+    image: 01-himal.jpg
+    image_title: "St John's Cathedral, Brisbane"
+    caption: "St John's Cathedral, Brisbane"
+    description: "St John's Cathedral in Brisbane lit by candles."
+    alt: "St John's Cathedral lit by candles with small orchestra silhouetted at end."
+    month: january
+    photographer: 82
+  -
+    image: 01-james_wiggins.jpg
+    image_title: "In the shadow of the dragon"
+    caption: "The spectre of death"
+    description: "This is a picture I sent to my D&D group ahead of them seeing the large, draconic miniature. The light had randomly caught it looming and I thought it would be fun."
+    alt: "A long shadow of a horned dragon model is cast on a desk"
+    month: january
+    photographer: 29
+  -
+    image: 01-jen.jpg
+    image_title: "F off"
+    caption: "F off"
+    description: "Each January I run a reading retreat. One weekend, country house, log fires, and a pile of books to read. A chance for us ladies with too much going on and too little time to read getting to finally relax. These socks were a timely Christmas gift."
+    alt: "A pair of socks with the motif of a girl hiding behind a bok with the caption ' Fuck off I'm reading '"
+    month: january
+    photographer: 34
+  -
+    image: 01-jennie.jpg
+    image_title: "Famous for five minutes!"
+    caption: "Famous for five minutes!"
+    description: "I was invited to do an interview on BBC Radio 4 so we got to go to the studio. I was so excited to meet the infamous Keith Brymer Jones!"
+    alt: "Jennie and Dave with big smiles"
+    month: january
+    photographer: 98
+  -
+    image: 01-jess_newby.jpg
+    image_title: "A moment of calm"
+    caption: "Beach calm"
+    description: "A pale sky just starting to colour with the sun going down, over the sea and a sandy and pebble beach."
+    alt: "A pale sky just starting to colour with the sun going down, over the sea and a sandy and pebble beach."
+    month: january
+    photographer: 89
+  -
+    image: 01-kat.jpg
+    image_title: "Natural ice art"
+    caption: "Natural ice art"
+    description: "Found this piece of natural ice art on my car windscreen one frosty January morning.  I thought it looked pretty and regretted having to scrape it all off!  But I took a picture to remember it."
+    alt: "Tree branch shapes in ice across the car windscreen"
+    month: january
+    photographer: 13
+  -
+    image: 01-ken.jpg
+    image_title: "Little castle"
+    caption: "Little castle"
+    description: "Winter at Shiro Toyama."
+    alt: "Japanese castle in the snow"
+    month: january
+    photographer: 80
+  -
+    image: 01-kirsty.jpg
+    image_title: "Bath"
+    caption: "Shoe tree"
+    description: "The shoes are easier to see when there are no leaves."
+    alt: "A tree on a grey winter day with branches hung with pairs of shoes laces tied together dangling from the tree"
+    month: january
+    photographer: 14
+  -
+    image: 01-louise.jpg
+    image_title: "Winter canal walk"
+    caption: "Winter canal walk"
+    description: "Kennet and Avon canal on a cold Jan morning."
+    alt: "A cold looking canal with trees and a boat in the distance"
+    month: january
+    photographer: 76
+  -
+    image: 01-lyns.jpg
+    image_title: "Pin-llama"
+    caption: "Pin-llama"
+    description: "50% of our family birthdays are in January."
+    alt: "Pinata shaped like a llama wearing sunglasses, with girl in background."
+    month: january
+    photographer: 15
+  -
+    image: 01-matt_hobbs.jpg
+    image_title: "Morning walk to school"
+    caption: "Frosty morning walk"
+    description: "My youngest son is in primary school, and since we moved house, the school run has gone from a quick 3-minute stroll to a full 20-minute walk! 😅<br ><br >To make things even more fun, our new build estate still hasn’t been officially adopted by the local council. That means none of the roads or pavements get gritted, which turns the walk into a bit of an obstacle course when it’s icy. It was especially sketchy during the cold snap at the start of January!<br ><br >This photo was taken on one of those walks to school. On the bright side, at least it wasn’t raining 🤣"
+    alt: "The winter sun cuming over the houses in the distance on a cold and frosty morning in January."
+    month: january
+    photographer: 78
+  -
+    image: 01-matt_holyoake.jpg
+    image_title: "New Year DIY"
+    caption: "New Year DIY"
+    description: "Back on the DIY train for the New Year - ripping up more carpets and redecorating."
+    alt: "New Year DIY"
+    month: january
+    photographer: 74
+  -
+    image: 01-megan.jpg
+    image_title: "Our mascot"
+    caption: "Our mascot"
+    description: "I’ve been looking at windows while we start our renovation - particularly 1930s style stained glass. This is one of our existing glass which looks for all the world like a Dr Seuss character and it haunts me."
+    alt: "A window section that looks like an alien"
+    month: january
+    photographer: 104
+  -
+    image: 01-mike.jpg
+    image_title: "Beaver Tree"
+    caption: "Beaver Tree"
+    description: "A felled tree by the riverbank in Batheaston. It has been munched by the local beavers … impressive work."
+    alt: "A tree felled with clear evidence of beavers having munched its trucking a beautifully concentric pattern."
+    month: january
+    photographer: 103
+  -
+    image: 01-miriam.jpg
+    image_title: "Mr Jeeves"
+    caption: "Mr Jeeves"
+    description: "Mr Jeeves takes a moment to rest after a hard day's work (of doing nothing)."
+    alt: "Very fluffy black and white cat sits with his arms folded on a blue and white duvet"
+    month: january
+    photographer: 107
+  -
+    image: 01-pete_f.jpg
+    image_title: "Mist over the Levels"
+    caption: "Mist over the Levels"
+    description: "An unusually warm and piercingly bright January morning created a fantastic spectacle: a dense blanket of mist hovering just above ground level over much of north-western Somerset."
+    alt: "A dense and brilliant-white blanket of mist covers green wetlands in Somerset, England"
+    month: january
+    photographer: 28
+  -
+    image: 01-pete_rogers.jpg
+    image_title: "Dame"
+    caption: "Dame"
+    description: "Every year I let my hair down (or up) with a pantomime, run by a local church-based theatre company. Oh yes I do!! It's a wonderful focus during a cold and rainy January. It has done wonders for my mental health too."
+    alt: "Man dressed as a pantomime dame"
+    month: january
+    photographer: 87
+  -
+    image: 01-peter_chamberlin.jpg
+    image_title: "Black Thunder"
+    caption: "Black Thunder"
+    description: "I didn't take any photos in January, really. It's been very busy and very unphotogenic. My favourite thing on my camera roll this month, then, is this photo of a Japanese chocolate bar which all the attendees were presented with, for no reason, at an event I went to. I only took the photo to upload it to AI to decipher, which it did. It is a Black Thunder bar, and it's a bit like a Toffee Crisp but without the toffee."
+    alt: "A bold shiny wrapped choclate bar covered in colourful Japanese writing"
+    month: january
+    photographer: 27
+  -
+    image: 01-rhiannon_lawson.jpg
+    image_title: "It begins"
+    caption: "It begins"
+    description: "And the works begin... 12 weeks until due date... 12 to 16 weeks until works are finished."
+    alt: "House with building works starting"
+    month: january
+    photographer: 35
+  -
+    image: 01-richard-monica.jpg
+    image_title: "Cold Times"
+    caption: "Cold Times"
+    description: "Cold Times. Photo taken by my amazing and incredible wife."
+    alt: "Cold Times"
+    month: january
+    photographer: 31
+  -
+    image: 01-sarah.jpg
+    image_title: "Escape from the sun"
+    caption: "Escape from the sun"
+    description: "Sun in the sunshine state."
+    alt: "Pool with trees and sunshine seeping through"
+    month: january
+    photographer: 105
+  -
+    image: 01-sean.jpg
+    image_title: "My God Chippenham is full of stars"
+    caption: "My God Chippenham is full of stars"
+    description: "Bath bus depot as filmed by Kubrick."
+    alt: "A bus to Chippenham pulling out of bath bus depot, at night, shot from inside the depot. one passenger is visible through the station and bus windows in the center of the frame. the reflection of the station strip lights form a shallow v converging on their head, reminiscent of kubrick's stargate sequence in 2001. raindrops and other glass elements reflect light"
+    month: january
+    photographer: 3
+  -
+    image: 01-sheena.jpg
+    image_title: "100th Birthday Party"
+    caption: "100th Birthday Party"
+    description: "Most of my maternal family joined together to celebrate the 100th birthday, and extraordinary life, of this beloved Aunt. A former Land Army Girl and farmer.  Wonderful childhood summers were spent on her (and my uncle’s) farm, helping with chores and having fun!"
+    alt: "My aunt at a show with her prize winning cow"
+    month: january
+    photographer: 18
+  -
+    image: 01-simon_field.jpg
+    image_title: "Bridge View"
+    caption: "Bridge View"
+    description: "Considering this is just a railway station, and just a river, it's not a bad little view... almost worth the Thameslink disruption to get stuck at Blackfriars for a few moments."
+    alt: "View along the Thames from London Blackfriars station, with Docklands and Tower Bridge in the distance."
+    month: january
+    photographer: 90
+  -
+    image: 01-stephen.jpg
+    image_title: "Rehearsal at Henry Wood Hall from the back of the orchestra"
+    caption: "Rehearsal at Henry Wood Hall from the back of the orchestra"
+    description: "We rehearsed Rachmaninov's Third Symphony for the day and I was sitting happily at the back behind the timpani."
+    alt: "A view from the back of an orchestra, timpani in the foreground, and the orchestra spread out in a large hall."
+    month: january
+    photographer: 75
+  -
+    image: 01-steve_fearn.jpg
+    image_title: "VTOL electric air taxi"
+    caption: "VTOL electric air taxi"
+    description: "Whilst meeting with old work mates at Kemble Airfield we got watch a test flight of the new, all electric, air taxi from Vertical Aerospace (who have their UK operations based there). Sadly, despite being capable of vertical take off and landing (VTOL), we only got to see a conventional runway take-off, because it's takes less out of the batteries!"
+    alt: "Against a sunset backdrop a four prop, chubby aircraft can be seen maintaining a  fixed height just above the runway."
+    month: january
+    photographer: 88
+  -
+    image: 01-steve_newstead.jpg
+    image_title: "Pink flamingo at Slimbridge"
+    caption: "Pretty in pink but I stink"
+    description: "Nice little flamingos we saw on a trip to Slimbridge. Hanging inside because they were cold. So many, they stank."
+    alt: "Pink flamingo cleaning itself"
+    month: january
+    photographer: 95
+  -
+    image: 01-sue.jpg
+    image_title: "Spring not far away!"
+    caption: "Spring not far away!"
+    description: "Top left - Snowdrops afoot!<br ><br >Top right - The last beautiful Camelia seen growing in a Ninfarium (a Victorian term given to an indoor space where exotics and ferns are grown under a glass roof).<br ><br >Bottom left - A Giant Fern Leaf Stock ready to unfurl.<br ><br >Bottom right - More Snowdrops!"
+    alt: "A quadrant of photos :- Top left showing a carpet of snowdrops, Top right is the final two Camelias with frilled petals growing under glass in a Ninfarium, bottom left shows the leaf stock of a giant Fern tightly curled up ready to unfurl , bottom right shows a close up of a clump of Snowdrops basking in the sun at the road side."
+    month: january
+    photographer: 20
+  -
+    image: 01-teresa.jpg
+    image_title: "A bit of a mission!"
+    caption: "A bit of a mission!"
+    description: "Early in 2025 I was given a huge piece of hexagon patchwork. I had intended to work on it outdoors in the summer but didn't get round to it until Boxing and New Years Days and thereafter. This pic shows it hanging on the line after washing. While making, I tried to find areas that didn't curve to the left (aargh!).<br ><br >Eventually I cut two 4ft by 5ft pieces which had to be washed as they were foisty from being stored in a shed, probably since 1986 by the paper pieces extracted. Happy to say two (now bright and not smelly) quilts have been constructed for children in Ukraine where it is currently (early February) 21 degrees below."
+    alt: "Blue hexagon patchwork hanging on a washing line"
+    month: january
+    photographer: 21
+  -
+    image: 01-tim_blair.jpg
+    image_title: "The Plebs"
+    caption: "The Plebs"
+    description: "I got a record player for Christmas. I've really been enjoying the physical nature of the medium, and the ceremony of choosing a record to listen to, and the cleaning and putting it on to play. My mum brought over a selection of vinyl from her flat, which had been hidden in a cupboard. This was one of the records, and I had no luck finding out what it was. Eventually I asked my dad if he knew anything about it, and he did! \"The Plebs were a group that some lads at school formed; they were a couple of years older than me, so I wasn't involved. For 16-17 year olds they were not bad, though a bit rough round the edges.\""
+    alt: "The label of a record, blue, with a hand-written track list attached with yellowed tape, and the band name \"THE PLEBS\" underneath."
+    month: january
+    photographer: 71
+  -
+    image: 01-tim_oneill.jpg
+    image_title: "Catching up"
+    caption: "Tiiiinus!!!"
+    description: "Meeting up with Tinus."
+    alt: "Meeting"
+    month: january
+    photographer: 83
+  -
+    image: 01-tinus.jpg
+    image_title: "T & T ICC Birmingham"
+    caption: "Birmingham ICC"
+    description: "Tinus and Tim @ ICC Birmingham 29/01/2026"
+    alt: "T&T"
+    month: january
+    photographer: 94
+  -
+    image: 01-tom.jpg
+    image_title: "New light through old windows"
+    caption: "Light"
+    description: "It has been a difficult month. January has Januaried hard, as a friend said. This is one of my favourite pictures - saying hope and warmth at a time which is grey, cold and wet. Time for February!<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/55072589876\">Flickr</a>."
+    alt: "Morning light pouring through a window"
+    month: january
+    photographer: 1
+  -
+    image: 01-tom_bassett.jpg
+    image_title: "The City, tube, sculpture"
+    caption: "London City pub at night"
+    description: "Near Liverpool Street on a Friday, a sculpture arch thing near the tube, and packed pubs."
+    alt: "Pub"
+    month: january
+    photographer: 86
+  -
+    image: 02-lyns.jpg
+    image_title: "Crocus"
+    caption: "Crocus"
+    description: "Amongst the rainfall, spring be getting ready."
+    alt: "Yellow crosus growing out a lawn."
+    month: february
+    photographer: 15

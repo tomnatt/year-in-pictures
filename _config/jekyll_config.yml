@@ -116,6 +116,13 @@ page_gen:
     name: filename
     filter_condition: "record['year'] == 2025"
 
+  - data: pictures
+    page_data_prefix: pictures
+    dir: photos/2026
+    template: picture
+    name: filename
+    filter_condition: "record['year'] == 2026"
+
 sass:
   style: compressed
   sass_dir: _assets
