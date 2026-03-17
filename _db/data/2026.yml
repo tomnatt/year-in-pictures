@@ -392,6 +392,198 @@ pictures:
     month: january
     photographer: 86
   -
+    image: 02-amy.jpg
+    image_title: "USA"
+    caption: "USA"
+    description: "February 2026 was a very special (and busy!) month. First we travelled to Vegas and its surrounding wonders (the Grand Canyon being one of them) to celebrate Sarah’s 70th.<br ><br >We then came back home for a week and then headed back out to Phoenix for ten days to watch baseball, see my beloved desert landscapes, and celebrate my birthday."
+    alt: "Image of the Grand Canyon"
+    month: february
+    photographer: 32
+  -
+    image: 02-az.jpg
+    image_title: "Mimosa at dusk"
+    caption: "Mimosa in Bloom"
+    description: "Bit of an infrequent series of yellow flowers in Feb when the world is going a bit mad... Dusk light catching the mimosa tree in the garden."
+    alt: "Mimosa flowers at dusk"
+    month: february
+    photographer: 81
+  -
+    image: 02-bek.jpg
+    image_title: "A hand written letter"
+    caption: "A hand written letter"
+    description: "The world is so busy and obsessed with efficiency... do we ever stop to wonder what's really important? I love a hand written letter, taking the time to say or receive some important words. These are the things which are remembered, the things that matter."
+    alt: "A red envelope with a kings head stamp, about to be placed in a red letter box"
+    month: february
+    photographer: 97
+  -
+    image: 02-bonnie-richard.jpg
+    image_title: "Lego"
+    caption: "Lego"
+    description: "Despite a birthday and anniversary, this month’s photo is all about declutterring and downsizing. We have decided to move before we get really old which involves loft cleaning. For anyone who has gone through this emotional roller coaster you will understand what this past month has entailed. We knew about the Lego because we saved it for grandchildren who may visit and happily that is soon to happen. What we didn’t appreciate is how much Lego we saved - crates! It is all washed now and we had fun recreating the figures in the photo."
+    alt: "Lego"
+    month: february
+    photographer: 5
+  -
+    image: 02-charlotte.jpg
+    image_title: "Pigeon"
+    caption: "Pigeon"
+    description: "On a run along the river again."
+    alt: "Pigeon in shillouette in the foreground, perched on railings, a river is in the background"
+    month: february
+    photographer: 77
+  -
+    image: 02-chris.jpg
+    image_title: "What did you just say??"
+    caption: "What did you just say??"
+    description: "Chuckie and Salem being entirely unimpressed with the fact they’ve just been told “no”."
+    alt: "A senior ginger cat and younger black cat with a look of both disbelief and derision."
+    month: february
+    photographer: 91
+  -
+    image: 02-clive.jpg
+    image_title: "At the water's edge"
+    caption: "At the water's edge"
+    description: "At the water's edge."
+    alt: "At the water's edge"
+    month: february
+    photographer: 26
+  -
+    image: 02-dad.jpg
+    image_title: "Visit to a Wildlife Centre"
+    caption: "Visit to a Wildlife Centre"
+    description: "A great day out with our grandchildren (and their parents) to a wildlife centre in Gloucestershire. Among other things, we went into the enclosure to feed the Ring-Tailed Lemurs."
+    alt: "Ring-Tailed Lemur"
+    month: february
+    photographer: 22
+  -
+    image: 02-dan.jpg
+    image_title: "Starting small with our in-house hydroponics"
+    caption: "Starting small with our in-house hydroponics"
+    description: "Our Christmas gift to the house is starting to kick into gear. We’ve got basil, coriander and some parsley coming on nicely. Considering getting a second one already!"
+    alt: "Some bright green herbs growing indoors under a sun lamp"
+    month: february
+    photographer: 6
+  -
+    image: 02-diane.jpg
+    image_title: "A Break in the Countryside"
+    caption: "A Break in the Countryside"
+    description: "Had a few days away in a tiny place, near a village called Llancarfan, in the Vale of Glamorgan, not far from Barry Island and Cardiff. Very relaxing and nurturing.\r\nHad no rain for 4 days, which was refreshing after the pretty consistent rain since December."
+    alt: "A collage of views in the Welsh countryside, near Cardiff"
+    month: february
+    photographer: 108
+  -
+    image: 02-ed.jpg
+    image_title: "Lego"
+    caption: "Lego"
+    description: "We found a much easier way to walk around London and see all the sights."
+    alt: "Lego"
+    month: february
+    photographer: 7
+  -
+    image: 02-gareth.jpg
+    image_title: "Container"
+    caption: "Container"
+    description: "Helped move some garden furniture out of the shipping container it had been in all winter. Not a classic \"spring\" photo, sure. But it's valid."
+    alt: "A large, empty shipping container."
+    month: february
+    photographer: 8
+  -
+    image: 02-gill.jpg
+    image_title: "A host of golden daffodils"
+    caption: "A host of golden daffodils"
+    description: "Although this photograph does not do it justice, the aptly named Daffodil Valley at Waddesdon Manor is certainly is living up to its name. There were also thousands of snowdrops, cyclamen and some crocus flowers out, beautiful!"
+    alt: "A host of golden daffodils"
+    month: february
+    photographer: 9
+  -
+    image: 02-hanna.jpg
+    image_title: "Proper winter"
+    caption: "Proper winter"
+    description: "This year we've had what feels like the first proper winter in a long time. There's been enough snow, which is a big part of it, but also consistency with below-freezing temperatures, which means the sea freezes over, the sledding hills and local ice rinks are in perfect condition and it's not horrible and slippery to walk around. This is Filip going to school with his snow slider as their PE for the day would be sledding."
+    alt: "Wintery scene with a child walking"
+    month: february
+    photographer: 10
+  -
+    image: 02-helen.jpg
+    image_title: "Ancient mysteries"
+    caption: "Ancient mysteries"
+    description: "The 16-tonne capstone of the Pentre Ifan monument has laid poised on the points of three upright stones for over 5000 years. This ancient monument in the Pembrokeshire countryside was constructed from local bluestone - the same stone that was carried from Wales's Preseli Hills to build Stonehenge some 180 miles away. There is something powerfully moving about the intimacy of Pentre Ifan's unassuming setting and the wonder of its seemingly impossibly balanced stone that has stayed in situ for thousands of years. And unlike Stonehenge, Pentre Ifan is a monument that is cared for and protected without fencing or ticket booths. On that February day, I was able to stand alone in its presence listening to the peaceful sound of rain and birds and pondering its mysteries."
+    alt: "Ancient standing stone monument in green fields. A large flat stone lies upon three pointed standing stones in what appears to be impossible balance."
+    month: february
+    photographer: 106
+  -
+    image: 02-himal.jpg
+    image_title: "View from Island Bay, Wellington"
+    caption: "View from Island Bay, Wellington"
+    description: "View from Island Bay, Wellington. Looking out over the sea as the coast curves around."
+    alt: "View from Island Bay, Wellington. Looking out over the sea as the coast curves around. Bench in foreground. Hills and lighthouse in distance."
+    month: february
+    photographer: 82
+  -
+    image: 02-james_wiggins.jpg
+    image_title: "More painting"
+    caption: "From beneath the ground"
+    description: "My painting is an area of my Warhammer hobby I'm trying to improve. I don't have the kind of patience that others do, which combined with having no mind's eye makes visualising how a half-finished model will get there tough. I lose motivation. As such I now 'drybrush' a lot of things which is faster and brings more visual appeal sooner - which has helped a lot. The terrain are the latest pieces."
+    alt: "Warhammer models are arranged on a cardboard map, each is silver and glows green"
+    month: february
+    photographer: 29
+  -
+    image: 02-jen.jpg
+    image_title: "The new Colin?"
+    caption: "The new Colin?"
+    description: "Like a bazillion families, we love a Colin caterpillar cake for birthdays. But this time, there was no Colin. This is Ralph the Cavapoo, also available at M&S and looking charmingly like the family dog. Maybe this is the end of Colin..."
+    alt: "A long cake decorated with lots of swirled icing to look like a fluffy dog. Two jet black eyes and a tongue poke out from the face in the foreground"
+    month: february
+    photographer: 34
+  -
+    image: 02-jennie.jpg
+    image_title: "Snowdrops"
+    caption: "snowdrops"
+    description: "Snowdrops on what felt like the first sunny day of the year!"
+    alt: "Snowdrops wood"
+    month: february
+    photographer: 98
+  -
+    image: 02-jess_newby.jpg
+    image_title: "Jessica's"
+    caption: "I found my sweet shop"
+    description: "A purple fronted sweet shop with the name Jessica's. Lots of sweets everywhere."
+    alt: "A purple fronted sweet shop with the name Jessica's, lots of sweets everywhere."
+    month: february
+    photographer: 89
+  -
+    image: 02-kat.jpg
+    image_title: "Bright light"
+    caption: "Bright light"
+    description: "I didn't go on many walks in Feb, but when I did it was really lovely.  One of the things I appreciate this time of year is seeing the setting sun glowing through the feathery tops of the reeds, making them look almost translucent.  Soon the sun will be setting on the other side of the canal, and then I will be appreciating different things.\r\nHappy March!"
+    alt: "The setting sun in the background, its light bursting into the foreground, setting feathery reed tops aglow"
+    month: february
+    photographer: 13
+  -
+    image: 02-ken.jpg
+    image_title: "Fish art"
+    caption: "Fish art"
+    description: "I enjoyed this art fish tank I found in a gallery."
+    alt: "Fish in an illuminated tank with bubbles above."
+    month: february
+    photographer: 80
+  -
+    image: 02-kirsty.jpg
+    image_title: "Botanical Gardens"
+    caption: "Spring Flowers"
+    description: "First sign of sun after the rain."
+    alt: "Purple crocuses sprouting through the grass in a bed surrounding a bare branched tree"
+    month: february
+    photographer: 14
+  -
+    image: 02-louise.jpg
+    image_title: "Bee on a Daffodil"
+    caption: "Bee on a Daffodil"
+    description: "Spring is finally here!"
+    alt: "Close up of a bright yellow daffodil with a bumble bee"
+    month: february
+    photographer: 76
+  -
     image: 02-lyns.jpg
     image_title: "Crocus"
     caption: "Crocus"
@@ -399,3 +591,195 @@ pictures:
     alt: "Yellow crosus growing out a lawn."
     month: february
     photographer: 15
+  -
+    image: 02-matt_hobbs.jpg
+    image_title: "Are you not entertained??"
+    caption: "Rome!"
+    description: "In February, we headed to Rome to visit friends we had not seen since they swapped Bicester for the Italian sunshine. It felt like the perfect excuse for a proper adventure, so we booked a tour of the Colosseum while we were there. Rome really is something else. Every street seems to carry centuries of history. You can feel it as you walk around.<br ><br >Standing inside the Colosseum was surreal. It is one thing to read about it. It is another to actually be there, imagining the scale, the noise, the drama that once filled that space.<br ><br >But then came the reminder of why I struggle with major tourist attractions. The crowds. So many people everywhere. I do appreciate the irony that we were part of that same crowd. Even so, it was hard not to wonder what the ancient Romans would make of airport style security scanners and rows of gift shops selling miniature helmets and fridge magnets.<br ><br >Despite the chaos, I loved it. Rome has a pull that is challenging to ignore. I would go back in a heartbeat, just next time I would try to explore a little further from the well-worn tourist trail. There is probably an even richer story waiting in the quieter corners."
+    alt: "Standing on the first level of the Colosseum and taking in a panoramic view is something that truly stops you in your tracks. It is more than a monument. It is a reminder of how engineering ambition and human history can leave a mark that endures for centuries. Truly unforgettable."
+    month: february
+    photographer: 78
+  -
+    image: 02-matt_holyoake.jpg
+    image_title: "Domestic decision-making"
+    caption: "Domestic decision-making"
+    description: "Choosing carpets... rock n roll."
+    alt: "Domestic decision-making"
+    month: february
+    photographer: 74
+  -
+    image: 02-megan.jpg
+    image_title: "Walking on Water in West Kirby"
+    caption: "Walking on Water"
+    description: "Lovely day at the West Kirby Marine Park after weeks of rain."
+    alt: "A scene of people walking on a path through the water."
+    month: february
+    photographer: 104
+  -
+    image: 02-mike.jpg
+    image_title: "Winter Olympic cauldron"
+    caption: "Winter Olympic cauldron"
+    description: "A early morning shot of the Winter Olympic cauldron in Cortina, Italy - host town for this year’s Winter Olympics."
+    alt: "A blue sky, early morning, frames a picture of a large church spire beside which the metal fluted ring of the Winter Olympics cauldron - with its eternal flame - burns. Shot on a town square in the mountain town of Cortina, Italy."
+    month: february
+    photographer: 103
+  -
+    image: 02-miriam.jpg
+    image_title: "Off to the BAFTAs (sort of)"
+    caption: "Me and my new bestie"
+    description: "On the night of the BAFTAs I was turned into a hologram (thanks to some fun tech and EE) and got to interview celebrities on the red carpet. Alas I don't own the rights to the photos of me as a hologram (I think) so here's me on the mini red carpet they set up for us instead."
+    alt: "Me, a short brunette woman with glasses wearing a velvet green dress, standing on a red carpet next to a large statue of a BAFTA award"
+    month: february
+    photographer: 107
+  -
+    image: 02-pete_f.jpg
+    image_title: "Light coming back"
+    caption: "Light coming back"
+    description: "Every winter it feels like I manage to forget just how much better longer days make me feel. It's subtle but significant, and always seems to surprise me when it happens."
+    alt: "A cloudy sky obscures a deep orange and purple sunset above a green park"
+    month: february
+    photographer: 28
+  -
+    image: 02-pete_rogers.jpg
+    image_title: "New life"
+    caption: "New life"
+    description: "I’m starting something new after 27 years of a desk job... It's amazing 🤩"
+    alt: "Man wearing protective headgear"
+    month: february
+    photographer: 87
+  -
+    image: 02-peter_chamberlin.jpg
+    image_title: "Macarons"
+    caption: "Macarons"
+    description: "It turns out you can make macarons at home. The kids absolutely loved making these, and they were really good. The boring bit is passing almond flour twice through a five sieve which took ages. But it's worth it."
+    alt: "About twenty chocolate macarons cooling on a board having just come out of the oven"
+    month: february
+    photographer: 27
+  -
+    image: 02-rhiannon_lawson.jpg
+    image_title: "Surprise!"
+    caption: "Surprise!"
+    description: "We got a bit of a surprise! He is safe, well and doing amazingly."
+    alt: "Neonatal unit card describing newborn son."
+    month: february
+    photographer: 35
+  -
+    image: 02-richard-monica.jpg
+    image_title: "Spring Dinner"
+    caption: "Spring Dinner"
+    description: "Traditional Romanian dinner celebrating Spring. Photo taken by my incredible and wonderful wife."
+    alt: "Traditional Romanian Spring dinner"
+    month: february
+    photographer: 31
+  -
+    image: 02-sarah.jpg
+    image_title: "Rocket of Light"
+    caption: "Rocket of Light"
+    description: "SpaceX Falcon9 rocket illuminating low cloud shortly after take off from launchpad SLC-40, Kennedy Space Centre."
+    alt: "Low cloud over a body of water, bright light emitting from center caused by the burners from a rocket launch"
+    month: february
+    photographer: 105
+  -
+    image: 02-sean.jpg
+    image_title: "Times Square"
+    caption: "Times Square"
+    description: "Subway platforms are like fishbarrels but for people."
+    alt: "A slightly blurred photo of a woman walking along a subway platform in new york with the train moving behind her"
+    month: february
+    photographer: 3
+  -
+    image: 02-sheena.jpg
+    image_title: "Exmoor Ponies"
+    caption: "Exmoor Ponies"
+    description: "February was another rainy month. Thankfully between heavy downpours we were able to get out for a few muddy walks. At a local nature reserve we spotted lots of birds together with these beautiful Exmoor ponies, who were unfazed by our presence."
+    alt: "Group of Exmoor Ponies looking towards the camera"
+    month: february
+    photographer: 18
+  -
+    image: 02-simon_field.jpg
+    image_title: "Silver Sunset Snakes"
+    caption: "Silver Sunset Snakes"
+    description: "Sprawling metropolis gives way to a distant sunset from a windy rooftop, from which vantage point the metal snakes slithering to Charing Cross, Blackfriars and Cannon Street diverge. The various grand edifices of the seats of power are dwarfed on the horizon by a frivolous wheel."
+    alt: "London skyline looking West over Borough Market from an elevated position. The sun sets near the London Eye in the distance."
+    month: february
+    photographer: 90
+  -
+    image: 02-stephen.jpg
+    image_title: "Twilight in Vauxhall"
+    caption: "Twilight in Vauxhall"
+    description: "After sunset and the golden hour looking West."
+    alt: "Skyline of tall buildings with lights and the twilight sky."
+    month: february
+    photographer: 75
+  -
+    image: 02-steve_fearn.jpg
+    image_title: "Flooded"
+    caption: "Flooded"
+    description: "I submitted a selection of my photographs on the theme of 'Water and the environment' for an upcoming exhibition. The curator was most interested in this one. I'd actually taken the image to alert the flood wardens of Cirencester because, the locals told me, if the drains are maintained the subway does not flood."
+    alt: "In this simple black and white image we view a subway from within, looking towards the exit. The subway is partially flooded and the still water reflects the walls and the barrier that prevents motor vehicles from entering."
+    month: february
+    photographer: 88
+  -
+    image: 02-steve_newstead.jpg
+    image_title: "Sunburnt car"
+    caption: "Sunburnt car"
+    description: "By summer this is a hotspot of wild swimmers. By winter, donutting, burnt out cars."
+    alt: "A burnt out car"
+    month: february
+    photographer: 95
+  -
+    image: 02-sue.jpg
+    image_title: "Cool ‘Copter!"
+    caption: "Cool ‘Copter!"
+    description: "I couldn’t resist this pic. I love all the structures within it and the nuances of colour. A clever mural! I hope this brightens your day as it did mine."
+    alt: "I spied a mural of a helicopter with a difference - depicting many cool structures within it of glass walkways, parcs, woods, and many cool buildings. Under the helicopter is suspended a lifeboat. Someone had a great imagination."
+    month: february
+    photographer: 20
+  -
+    image: 02-teresa.jpg
+    image_title: "Hatbox!"
+    caption: "Hatbox!"
+    description: "Finally finished my first attempt at a totally different craft, painting and lining this vintage box. Not perfect but definitely a one-off! The little black buttons stitched into the lining are truly antique - brought back from France at the end of the first world war by my grandmothers brother.  To help the victims of a current war, I am hoping to find a generous steam punker to donate hugely to one of the Ukraine Aid charities I volunteer with."
+    alt: "Vintage tin hat box decorated and lined with a steam punk theme."
+    month: february
+    photographer: 21
+  -
+    image: 02-tim_blair.jpg
+    image_title: "Blue Pool"
+    caption: "Blue Pool"
+    description: "Over half-term we took one of our frequent trips down to Swanage. One evening, we visited Blue Pool near Wareham (a disused 17th-century clay pit that filled with rainwater over time to form a 30-foot deep lake), who had their light trail on. It's a lovely location for a wander, and has an excellent tea room, and also apparently the UK's longest rope bridge!"
+    alt: "Two people walking away across a long rope bridge, with tree lit up with blue light in the background."
+    month: february
+    photographer: 71
+  -
+    image: 02-tim_oneill.jpg
+    image_title: "Everyone inside"
+    caption: "All the pups together"
+    description: "Just a lovely scene with all the pups old and new together sleeping in the living room."
+    alt: "Pups!"
+    month: february
+    photographer: 83
+  -
+    image: 02-tinus.jpg
+    image_title: "My favourite Cuban Cigar"
+    caption: "My new favourite Cuban cigar"
+    description: "My favourite Cuban Cigar."
+    alt: "My favourite Cuban Cigar"
+    month: february
+    photographer: 94
+  -
+    image: 02-tom.jpg
+    image_title: "Gorgeous"
+    caption: "Gorgeous"
+    description: "One bright spot in a pretty dismal start to the year was meeting this gorgeous girl. Her name is Solar and she was very friendly and soppy. She belongs to the lady who taught my Dad and I about Japanese cooking - an overall great day.<br ><br >She's also pregnant and it would be totally mad for me to even consider a dog, let alone one this size.<br ><br >I want a puppy.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/55130063871/\">Flickr</a>."
+    alt: "Friendly Golden Retriever nuzzling the camera"
+    month: february
+    photographer: 1
+  -
+    image: 02-tom_bassett.jpg
+    image_title: "Fox at Rainham marsh"
+    caption: "Fox at Rainham Marsh"
+    description: "Cold day in Feb at Rainham near the Dartford tunnel.  Lots of Fieldfare and outside the marsh, young foxes poking about."
+    alt: "Fox"
+    month: february
+    photographer: 86
