@@ -1280,6 +1280,14 @@ pictures:
     month: april
     photographer: 9
   -
+    image: 04-hanna.jpg
+    image_title: "Souvenir choice of Filip"
+    caption: "Souvenir choice of Filip"
+    description: "In April, my younger one visited the UK with his dad. This is what he chose to bring back for me as a souvenir."
+    alt: "King Charles coasted and a coffee mug held up."
+    month: april
+    photographer: 10
+  -
     image: 04-helen.jpg
     image_title: "Rooftop tulips"
     caption: "Rooftop tulips"
