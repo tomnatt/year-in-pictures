@@ -2152,6 +2152,14 @@ pictures:
     month: june
     photographer: 80
   -
+    image: 06-kirsty.jpg
+    image_title: "Bath"
+    caption: "Summer"
+    description: "Another picture of the river from my walk to work. The best light is on cold mornings and warm evenings. So this must be evening."
+    alt: "View over the river in the evening sun, a canal boat moored on one side and trees lining the banks"
+    month: june
+    photographer: 14
+  -
     image: 06-louise.jpg
     image_title: "That London"
     caption: "That London"
@@ -2359,3 +2367,123 @@ pictures:
     alt: "Pub flags"
     month: june
     photographer: 86
+  -
+    image: 07-amy.jpg
+    image_title: "Mon the Biff"
+    caption: "Mon the Biff!"
+    description: "I took my sister to see Biffy Clyro for her birthday. It was so much fun!"
+    alt: "Lead singer of the band Biffy Clyro performing on stage"
+    month: july
+    photographer: 32
+  -
+    image: 07-bonnie-richard.jpg
+    image_title: "Special Delivery"
+    caption: "Special Delivery"
+    description: "Hmmm…don’t remember a cat being on the Amazon order.?"
+    alt: "Special Delivery"
+    month: july
+    photographer: 5
+  -
+    image: 07-chris.jpg
+    image_title: "Birthday goat shenanigans"
+    caption: "Birthday goat shenanigans"
+    description: "One of the very friendly goats from\r\nMead Open Farm. \r\nWe went for an adults only evening for my birthday and this little dude was memorable and had manners!"
+    alt: "A friendly white and brown goat gives birthday blessings."
+    month: july
+    photographer: 91
+  -
+    image: 07-dan.jpg
+    image_title: "Breakfast of (healthy) champions"
+    caption: "Breakfast of (healthy) champions"
+    description: "We all know and accept that bacon is, of course, the undisputed bestest of all breakfasts. However, once in a while I really crave something that feels a little healthier …"
+    alt: "A pile of sugar waffles, fresh fruit, Greek yoghurt and honey on a bright blue plate"
+    month: july
+    photographer: 6
+  -
+    image: 07-gareth.jpg
+    image_title: "Two Flyers (of 3000)"
+    caption: "Two Flyers (of 3000)"
+    description: "Okay, it's a photo fron July, but it's something I'm going to see a LOT in August. The flyer for my Edinburgh Fringe show Cyril, which I'm doing at the Gilded Balloon Patter House every day 5-31 August (not 18) at 1pm. If you are in Edinburgh please come. And if you're not in Edinburgh, do you want a flyer? I have something in the region of 3000 to distribute!<br ><br >This is from the first batch of 500 which went ahead to be distributed inside the venues."
+    alt: "Two A5 flyers next to each other - showing the front and the back. On the left the front which features my face on a Polaroid photo, where I am dressed as a farmer, and some of the shows I've worked on in the past like The Now Show, Ankle Tag and Tourist Trap. On the back are more details about the show (it is about my great grandfather who was a farmer and poet) and a map to help find the venue!"
+    month: july
+    photographer: 8
+  -
+    image: 07-gill.jpg
+    image_title: "Welcome sight"
+    caption: "Welcome sight"
+    description: "Colourful Red Admiral, on a colourful dahlia on a sunny hot day - beautiful !"
+    alt: "Welcome sight"
+    month: july
+    photographer: 9
+  -
+    image: 07-jen.jpg
+    image_title: "New arrival"
+    caption: "New arrival"
+    description: "Second kiddo bounced into the world this month and we're back in the bubble of snuggles and cuddles and nappies and feeds. The chaos has returned and we wouldn't change a thing."
+    alt: "A close up of a tiny baby clasping their hands together."
+    month: july
+    photographer: 34
+  -
+    image: 07-jess_newby.jpg
+    image_title: "Flowers in me"
+    caption: "I treated myself to flowers and put them in my favourite vase. A friend made a clay vase of me as part of her women who swim exhibition."
+    description: "A selection of brightly colored and interestingly textured flowers in a vase shaped like a woman's torso in a swimming costume."
+    alt: "A selection of brightly colored and interestingly textured flowers in a vase shaped like a woman's torso in a swimming costume. On a brown kitchen counter with white tiles behind."
+    month: july
+    photographer: 89
+  -
+    image: 07-kirsty.jpg
+    image_title: "Chester Zoo"
+    caption: "Elephant sand shower"
+    description: "I'm not sure if this is cleaning or keeping cool or just for fun but the elephant seemed happy."
+    alt: "An elephant scooping up sand and throwing it over it's back"
+    month: july
+    photographer: 14
+  -
+    image: 07-matt_hobbs.jpg
+    image_title: "RIP King Kev"
+    caption: "The Messiah"
+    description: "At the end of the month, I was in Newcastle working at the Ministry of Housing, Communities and Local Government (MHCLG) office. Just around the corner sits St James’ Park, the home of Newcastle United since 1892.<br ><br >I’m not a huge football fan, but with both my boys living and breathing the game, it’s difficult not to keep up with what’s happening.<br ><br >I happened to be there just days after the passing of Kevin Keegan. Outside St James’ Park, thousands of flowers, shirts, scarves, and handwritten messages had been left by fans and members of the public, a heartfelt tribute to a man who clearly meant so much to both the club and the city.<br ><br >Having played for Newcastle United between 1982 and 1984, before returning as manager from 1992 to 1997, “King Kev” became far more than a footballer. Seeing the outpouring of love and gratitude from people of all ages was a powerful reminder that sport can leave a lasting mark far beyond the pitch. ⚫⚪"
+    alt: "Thousands of flowers, shirts, scarves, and messages cover the ground outside St James’ Park as fans pay tribute to Kevin Keegan."
+    month: july
+    photographer: 78
+  -
+    image: 07-megan.jpg
+    image_title: "Ted is over it all"
+    caption: "Ted is over it"
+    description: "This month has been all about work travel for me - and between that and the heat Ted the dog is over it all. He is also quite tired of football. He would like it to stay cool and us to stay home."
+    alt: "A border collie rolling his eyes."
+    month: july
+    photographer: 104
+  -
+    image: 07-sarah.jpg
+    image_title: "Cows on the moove"
+    caption: "Cows on the moove"
+    description: "Cows enjoying a walk along the stunning cotswold way"
+    alt: "Cows walking in a line with view of the city of Gloucester and surrounding hills behind"
+    month: july
+    photographer: 105
+  -
+    image: 07-sean.jpg
+    image_title: "mother"
+    caption: "mother"
+    description: "mother"
+    alt: "Woman in a black sundress pushing a stroller reaches back for her toddler’s hand. Between the toddler and the mother is a branching crack in the sidewalk"
+    month: july
+    photographer: 3
+  -
+    image: 07-tim_blair.jpg
+    image_title: "Putt"
+    caption: "Putt"
+    description: "It was the first time for a disc golf tournament at our \"local\" course at Wendover Woods. We had some good family victories: I won the MA3 division (and have been told I'm to play MA1 from now on), and Seb won the MJ15 division (slightly helped by being the only entrant). But more importantly, he won the \"longest putt\" competition, which went across all participants at the event, including all the adults! He was more than a little happy about this."
+    alt: "A 'Longest Putt' competition sign for on a disc golf course, staked into fallen leaves, with a disc golf basket visible among the trees behind it."
+    month: july
+    photographer: 71
+  -
+    image: 07-tinus.jpg
+    image_title: "Hackney Wick Canal Graffiti"
+    caption: "Hackney Wick Graffiti"
+    description: "Found this while pub crawling through Hackney Wick canals."
+    alt: "Hackney Wick"
+    month: july
+    photographer: 94
