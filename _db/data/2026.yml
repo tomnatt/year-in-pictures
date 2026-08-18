@@ -2376,13 +2376,37 @@ pictures:
     month: july
     photographer: 32
   -
+    image: 07-az.jpg
+    image_title: "O-Gague railway"
+    caption: "Summer Hols Entertainment"
+    description: "Arrgghhh it's the Summer Hols... So far this is working, some old O-Gague outdoor track from EBay, a clockwork engine (steam powered ones have just arrived but not fired up yet) and some bricks. Let's see how long that keeps the peace for..."
+    alt: "Vintage O-Gague track and train outside on some bricks"
+    month: july
+    photographer: 81
+  -
+    image: 07-bek.jpg
+    image_title: "Ironic"
+    caption: "Ironic"
+    description: "The irony of this made me smile!"
+    alt: "A business sign advertising window cleaning set above a window which has a big smeary blob of bird poo dribbling down the entire length of the window."
+    month: july
+    photographer: 97
+  -
     image: 07-bonnie-richard.jpg
     image_title: "Special Delivery"
     caption: "Special Delivery"
-    description: "Hmmm…don’t remember a cat being on the Amazon order.?"
+    description: "Hmmm... don’t remember a cat being on the Amazon order?"
     alt: "Special Delivery"
     month: july
     photographer: 5
+  -
+    image: 07-charlotte.jpg
+    image_title: "Alpaca!"
+    caption: "Alpaca!"
+    description: "We went on an Alpaca walk this month. The alpacas ate a lot of grass and also very much enjoyed smelling the poo. They'd smell the poo, breathing in deep then raise their heads to the sky.<br ><br >Unrelated, this alpaca has lost control of its bottom lip."
+    alt: "Head shot of an Alpaca. His thin teeth are visible because his bottom lip has drooped down. In the background there is another alpaca"
+    month: july
+    photographer: 77
   -
     image: 07-chris.jpg
     image_title: "Birthday goat shenanigans"
@@ -2392,18 +2416,50 @@ pictures:
     month: july
     photographer: 91
   -
+    image: 07-clive.jpg
+    image_title: "Beautiful Pansies"
+    caption: "Stunning colour"
+    description: "Stunning colour."
+    alt: "Beautiful pansies - stunning blue / violet colour"
+    month: july
+    photographer: 26
+  -
+    image: 07-dad.jpg
+    image_title: "Potatoes"
+    caption: "Potatoes"
+    description: "Despite the drought I got my first crop of early potatoes this month. I wish the various brassicas, beetroot, onions and carrots were doing as well... they desperately need some rain."
+    alt: "A bowl of early crop potatoes"
+    month: july
+    photographer: 22
+  -
     image: 07-dan.jpg
     image_title: "Breakfast of (healthy) champions"
     caption: "Breakfast of (healthy) champions"
-    description: "We all know and accept that bacon is, of course, the undisputed bestest of all breakfasts. However, once in a while I really crave something that feels a little healthier …"
+    description: "We all know and accept that bacon is, of course, the undisputed bestest of all breakfasts. However, once in a while I really crave something that feels a little healthier..."
     alt: "A pile of sugar waffles, fresh fruit, Greek yoghurt and honey on a bright blue plate"
     month: july
     photographer: 6
   -
+    image: 07-diane.jpg
+    image_title: "Copper Jack Tour"
+    caption: "Copper Jack Tour"
+    description: "A boat trip on the 'Copper Jack' from Swansea Marina, up along the River Tawe and back, learning about the Copper Industry that Swansea was very famous for during the industrial revolution.<br ><br >At one time Swansea produced 90% of the world's copper. It was very lucrative for the business owners but produced highly toxic fumes for the workers and local people living there.<br ><br >Today it makes for a rather pleasant boat trip."
+    alt: "A picture from a boat, showing part of the River Tawe, Swansea."
+    month: july
+    photographer: 108
+  -
+    image: 07-ed.jpg
+    image_title: "Monopoly"
+    caption: "Monopoly"
+    description: "The kids are at an age where I can now play games and show no mercy."
+    alt: "Monopoly"
+    month: july
+    photographer: 7
+  -
     image: 07-gareth.jpg
     image_title: "Two Flyers (of 3000)"
     caption: "Two Flyers (of 3000)"
-    description: "Okay, it's a photo fron July, but it's something I'm going to see a LOT in August. The flyer for my Edinburgh Fringe show Cyril, which I'm doing at the Gilded Balloon Patter House every day 5-31 August (not 18) at 1pm. If you are in Edinburgh please come. And if you're not in Edinburgh, do you want a flyer? I have something in the region of 3000 to distribute!<br ><br >This is from the first batch of 500 which went ahead to be distributed inside the venues."
+    description: "Okay, it's a photo from July, but it's something I'm going to see a LOT in August. The flyer for my Edinburgh Fringe show Cyril, which I'm doing at the Gilded Balloon Patter House every day 5-31 August (not 18) at 1pm. If you are in Edinburgh, please come. And if you're not in Edinburgh, do you want a flyer? I have something in the region of 3000 to distribute!<br ><br >This is from the first batch of 500 which went ahead to be distributed inside the venues."
     alt: "Two A5 flyers next to each other - showing the front and the back. On the left the front which features my face on a Polaroid photo, where I am dressed as a farmer, and some of the shows I've worked on in the past like The Now Show, Ankle Tag and Tourist Trap. On the back are more details about the show (it is about my great grandfather who was a farmer and poet) and a map to help find the venue!"
     month: july
     photographer: 8
@@ -2411,10 +2467,50 @@ pictures:
     image: 07-gill.jpg
     image_title: "Welcome sight"
     caption: "Welcome sight"
-    description: "Colourful Red Admiral, on a colourful dahlia on a sunny hot day - beautiful !"
+    description: "Colourful Red Admiral, on a colourful dahlia on a sunny hot day - beautiful!"
     alt: "Welcome sight"
     month: july
     photographer: 9
+  -
+    image: 07-hanna.jpg
+    image_title: "Summer swims"
+    caption: "Summer swims"
+    description: "Going wild-swimming in a lake is a summer must in Finland. We have a regular spot by a local(ish) lake where the lake is deep enough for the water to be super clear and clean, but where there are still shallow enough spots for kids to hang around by the shore."
+    alt: "View of a sunny lake through trees."
+    month: july
+    photographer: 10
+  -
+    image: 07-helen.jpg
+    image_title: "Welcome to Rhosili"
+    caption: "Welcome to Rhosili"
+    description: "A perfect golden crescent of sand, semi-wild ponies and epic walks along the rugged Gower coast. Feeling lucky to call Rhosili home."
+    alt: "Dark brown pony with glossy coat and white socks eats grass overlooking a golden sandy beach with hills in the distance."
+    month: july
+    photographer: 106
+  -
+    image: 07-himal.jpg
+    image_title: "Pelican in St James Park"
+    caption: "Pelican in St James Park"
+    description: "A pelican in St James Park."
+    alt: "Pelican in St James Park standing by pond."
+    month: july
+    photographer: 82
+  -
+    image: 07-james_bell.jpg
+    image_title: "Go for the eyes!"
+    caption: "Go for the eyes!"
+    description: "Theo's first pet - a Syrian hamster called Teddy - joined the family this July."
+    alt: "A Syrian hamster hunched up eating a seed in its run"
+    month: july
+    photographer: 109
+  -
+    image: 07-james_wiggins.jpg
+    image_title: "Digging up props"
+    caption: "Enemies at the gate"
+    description: "I printed these gates and walls in 2020 when I got into 3d printing. They've not done anything since, so I cracked them out for a Monday night Pathfinder game."
+    alt: "28mm miniatures sit on a laminated map with a plastic wall on the near side of the view"
+    month: july
+    photographer: 29
   -
     image: 07-jen.jpg
     image_title: "New arrival"
@@ -2424,13 +2520,37 @@ pictures:
     month: july
     photographer: 34
   -
+    image: 07-jennie.jpg
+    image_title: "Tractors"
+    caption: "Tractors"
+    description: "Love a local steam fair! 150 old tractors at St Buryan."
+    alt: "old tractors"
+    month: july
+    photographer: 98
+  -
     image: 07-jess_newby.jpg
     image_title: "Flowers in me"
-    caption: "I treated myself to flowers and put them in my favourite vase. A friend made a clay vase of me as part of her women who swim exhibition."
-    description: "A selection of brightly colored and interestingly textured flowers in a vase shaped like a woman's torso in a swimming costume."
-    alt: "A selection of brightly colored and interestingly textured flowers in a vase shaped like a woman's torso in a swimming costume. On a brown kitchen counter with white tiles behind."
+    caption: "Flowers in me"
+    description: "I treated myself to flowers and put them in my favourite vase. A friend made a clay vase of me as part of her women who swim exhibition.<br ><br >A selection of brightly coloured and interestingly textured flowers in a vase shaped like a woman's torso in a swimming costume."
+    alt: "A selection of brightly coloured and interestingly textured flowers in a vase shaped like a woman's torso in a swimming costume. On a brown kitchen counter with white tiles behind."
     month: july
     photographer: 89
+  -
+    image: 07-kat.jpg
+    image_title: "Knick-knacks"
+    caption: "Knick-knacks"
+    description: "I was having a conversation with friends about how the objects around the home reflect the interests and aesthetics etc of the people in them.  So we decided to make that a photography prompt; this one is mine."
+    alt: "A DnD bear figurine mid roar, standing next to a candle, with a pretty floral plate displayed in the background."
+    month: july
+    photographer: 13
+  -
+    image: 07-ken.jpg
+    image_title: "Totem"
+    caption: "Totem"
+    description: "Scottish totem pole, from the Fife coastal path when I was doing my Ultra run."
+    alt: "Totem pole of many faces and arms, on the coast of Scotland"
+    month: july
+    photographer: 80
   -
     image: 07-kirsty.jpg
     image_title: "Chester Zoo"
@@ -2440,13 +2560,37 @@ pictures:
     month: july
     photographer: 14
   -
+    image: 07-louise.jpg
+    image_title: "Down at Fraggle Rock!"
+    caption: "Down at Fraggle Rock!"
+    description: "The lighthouse at St Anthony’s head in Cornwall is the one from the Fraggle Rock credits. Apparently a holiday home now :)"
+    alt: "A large white lighthouse in the foreground with blue sea and sky in the background"
+    month: july
+    photographer: 76
+  -
+    image: 07-lyns.jpg
+    image_title: "Blimp"
+    caption: "Blimp"
+    description: "Goodyear blimp, viewed from the Thameslink."
+    alt: "Goodyear blimp flying over London"
+    month: july
+    photographer: 15
+  -
     image: 07-matt_hobbs.jpg
     image_title: "RIP King Kev"
     caption: "The Messiah"
-    description: "At the end of the month, I was in Newcastle working at the Ministry of Housing, Communities and Local Government (MHCLG) office. Just around the corner sits St James’ Park, the home of Newcastle United since 1892.<br ><br >I’m not a huge football fan, but with both my boys living and breathing the game, it’s difficult not to keep up with what’s happening.<br ><br >I happened to be there just days after the passing of Kevin Keegan. Outside St James’ Park, thousands of flowers, shirts, scarves, and handwritten messages had been left by fans and members of the public, a heartfelt tribute to a man who clearly meant so much to both the club and the city.<br ><br >Having played for Newcastle United between 1982 and 1984, before returning as manager from 1992 to 1997, “King Kev” became far more than a footballer. Seeing the outpouring of love and gratitude from people of all ages was a powerful reminder that sport can leave a lasting mark far beyond the pitch. ⚫⚪"
+    description: "At the end of the month, I was in Newcastle working at the Ministry of Housing, Communities and Local Government (MHCLG) office. Just around the corner sits St James’ Park, the home of Newcastle United since 1892.<br ><br >I'm not a huge football fan, but with both my boys living and breathing the game, it’s difficult not to keep up with what’s happening.<br ><br >I happened to be there just days after the passing of Kevin Keegan. Outside St James’ Park, thousands of flowers, shirts, scarves, and handwritten messages had been left by fans and members of the public, a heartfelt tribute to a man who clearly meant so much to both the club and the city.<br ><br >Having played for Newcastle United between 1982 and 1984, before returning as manager from 1992 to 1997, “King Kev” became far more than a footballer. Seeing the outpouring of love and gratitude from people of all ages was a powerful reminder that sport can leave a lasting mark far beyond the pitch. ⚫⚪"
     alt: "Thousands of flowers, shirts, scarves, and messages cover the ground outside St James’ Park as fans pay tribute to Kevin Keegan."
     month: july
     photographer: 78
+  -
+    image: 07-matt_holyoake.jpg
+    image_title: "Freshly painted porch"
+    caption: "Freshly painted porch"
+    description: "Took the opportunity with the weather being so dry to repaint my porch ceiling and roof trim. Very happy with the result!"
+    alt: "Freshly painted porch"
+    month: july
+    photographer: 74
   -
     image: 07-megan.jpg
     image_title: "Ted is over it all"
@@ -2456,21 +2600,133 @@ pictures:
     month: july
     photographer: 104
   -
+    image: 07-mike.jpg
+    image_title: "Chilling in the heat"
+    caption: "Chilling in the heat"
+    description: "The heat keeps coming this year - enjoying a post work dip in the cool of the water. And with a nice view too!"
+    alt: "View from a hot tub with sunny hills in distance. Two legs floating on surface of the water from the person taking the photos and enjoying the coolness."
+    month: july
+    photographer: 103
+  -
+    image: 07-miriam.jpg
+    image_title: "My Favo(u)rite Neighbo(u)r"
+    caption: "My Favo(u)rite Neighbo(u)r"
+    description: "A spontaneous trip to London at the end of the month ending up containing an even more spontaneous visit to one of my favourite films performed beautifully on stage."
+    alt: "A seat view inside a theatre. The curtain in front of the stage is light blue with a green-ish orange wooden style frame around it. On the curtain are the words “My Neighbor Totoro”."
+    month: july
+    photographer: 107
+  -
+    image: 07-pete_f.jpg
+    image_title: "Blockbuster season"
+    caption: "Blockbuster season"
+    description: "A couple of rapid fire visits to the cinema served as a reminder that there's still plenty of good films being made - and just how much better the experience is in a proper theatre."
+    alt: "A black reflective floor showing blue and red neon signage in reverse"
+    month: july
+    photographer: 28
+  -
+    image: 07-pete_rogers.jpg
+    image_title: "Cherry plums"
+    caption: "Cherry plums"
+    description: "Out dog walking, I found a tree with loads of cherry-like fruit on it. They're cherry plums and oh so delicious."
+    alt: "Bowl of cherry plums"
+    month: july
+    photographer: 87
+  -
+    image: 07-peter_chamberlin.jpg
+    image_title: "Resident frog"
+    caption: "Resident frog"
+    description: "This year we have resident frogs living in the watering trays under our cucumbers and tomatoes. It's nice to have created some accidental habitat :)"
+    alt: "A frog sitting in the corner of a plastic greenhouse looks up at the camera and considers whether and when to hop away to safety"
+    month: july
+    photographer: 27
+  -
+    image: 07-rhiannon_lawson.jpg
+    image_title: "A trip of firsts"
+    caption: "A trip of firsts"
+    description: "First family holiday, first solids for Lochlan, first big fundraising event for My Wish in memory of Hudson cycling 311km from Cambridge to Bruges."
+    alt: "Mother holding baby at a fundraising event."
+    month: july
+    photographer: 35
+  -
+    image: 07-richard-monica.jpg
+    image_title: "A wild horse"
+    caption: "Nature's Magic"
+    description: "A wild horse we met on our walks in the country side in Romania.<br ><br >Photo taken by my love."
+    alt: "Horse nature love"
+    month: july
+    photographer: 31
+  -
     image: 07-sarah.jpg
     image_title: "Cows on the moove"
     caption: "Cows on the moove"
-    description: "Cows enjoying a walk along the stunning cotswold way"
+    description: "Cows enjoying a walk along the stunning Cotswold way."
     alt: "Cows walking in a line with view of the city of Gloucester and surrounding hills behind"
     month: july
     photographer: 105
   -
     image: 07-sean.jpg
-    image_title: "mother"
-    caption: "mother"
-    description: "mother"
+    image_title: "Mother"
+    caption: "Mother"
+    description: "Mother."
     alt: "Woman in a black sundress pushing a stroller reaches back for her toddler’s hand. Between the toddler and the mother is a branching crack in the sidewalk"
     month: july
     photographer: 3
+  -
+    image: 07-sheena.jpg
+    image_title: "Gannets, North Yorkshire"
+    caption: "Gannets, North Yorkshire"
+    description: "We returned to North Yorkshire, one of our favourite English places, for walking and bird-watching. Incredible wildlife, stunning coastline, beautiful moors, friendly people, quaint villages and railway stations, attractive sandstone buildings... Our sightings included 52 bird species  (notably Puffins, Gannets, Kittiwakes and Guillemots) plus 100s of Grey Seals."
+    alt: "Group of Gannets on cliff edge"
+    month: july
+    photographer: 18
+  -
+    image: 07-simon_field.jpg
+    image_title: "On the Line"
+    caption: "On the Line"
+    description: "A pause on the phone lines during the frenetic activity of a busy training week for young swallows. There must have been thirty swallows over the garden all week, of which about ten were young and inexperienced, but already incredible fliers."
+    alt: "Four swallows rest on the phone lines at the top of a wooden pole, against a clear bue sky.."
+    month: july
+    photographer: 90
+  -
+    image: 07-stephen.jpg
+    image_title: "Galeries Lafayette Haussmann"
+    caption: "Galeries Lafayette Haussmann"
+    description: "A fancy department store in Paris. Very pretty but there was literally NOTHING in the whole enormous store that I wanted to buy :)"
+    alt: "Looking up at a domed ceiling in a large department store"
+    month: july
+    photographer: 75
+  -
+    image: 07-steve_fearn.jpg
+    image_title: "Gatekeeper"
+    caption: "Gatekeeper"
+    description: "I hoped the name came from folklore or something but apparently this butterfly gets it's name from its habit of gathering near farm gates, gaps in hedges, and field openings where flowering plants grow."
+    alt: "A single butterfly in half profile on a yellow flower. Distinctive black markings on the orange/brown wings mark it at the Gatekeeper."
+    month: july
+    photographer: 88
+  -
+    image: 07-steve_newstead.jpg
+    image_title: "Sunset in Norfolk"
+    caption: "Sunset in Norfolk"
+    description: "Camping on a rough and ready campsite in Norfolk."
+    alt: "Sun setting behind a tree"
+    month: july
+    photographer: 95
+  -
+    image: 07-sue.jpg
+    image_title: "One for the ladies in the main!"
+    caption: "One for the ladies in the main!"
+    description: "Top photo is of a clever window display in a wool/haberdashery shop. The badgers are teaching the animals to knit it seems. \r\nThe bottom picture is of a decorated chair outside the same shop with an unusual cushion. It was part of a ‘Chair Trail’ throughout the town. Great effort! Cool idea and I loved the bee stickers. A lot of work went into both."
+    alt: "Came across a shop window at one of our favourite towns in the area, depicting a clothes line with miniature knitted clothes of various colours hanging on it. Underneath the line were an array of knitted animals, elephants, badgers, a rabbit and a mouse with a few balls of wool in the foreground. It seemed the badgers were trying to teach the other animals to knit but not knowing how to  start and getting in a fix.  A fun scene  and  a lot of thought and work put into it. The bottom photo is of a lovely antique chair decorated with bee stickers and having a very soft cushion made up of  lots of coloured pompoms sewn together.  The chair was part of a decorated Chair Trail throughout the town.  A great idea!"
+    month: july
+    photographer: 20
+  -
+    image: 07-teresa.jpg
+    image_title: "Begonias"
+    caption: "Begonias"
+    description: "Decided to do something other than putting these in wall baskets this year and make a \"flower fire\" with my ancient begonia tubers in pots and a packet of nasturtium seeds in a trough. The nasturtiums were effective as the embers but didn't hold up under heatwave conditions. The begonias however really went for it as you can see, the taller red ones are chest high (OK I'm only 5ft 3ins). They really surprised me but with a hose pipe ban the watering has been a mission."
+    alt: "Collection of begonias in fire colours in pots"
+    month: july
+    photographer: 21
   -
     image: 07-tim_blair.jpg
     image_title: "Putt"
@@ -2480,6 +2736,14 @@ pictures:
     month: july
     photographer: 71
   -
+    image: 07-tim_oneill.jpg
+    image_title: "Milano"
+    caption: "Milano? MilaYES!"
+    description: "First visit to Milan for my birthday weekend. Well, first visit to Milan full stop."
+    alt: "MilaYES!"
+    month: july
+    photographer: 83
+  -
     image: 07-tinus.jpg
     image_title: "Hackney Wick Canal Graffiti"
     caption: "Hackney Wick Graffiti"
@@ -2487,3 +2751,19 @@ pictures:
     alt: "Hackney Wick"
     month: july
     photographer: 94
+  -
+    image: 07-tom.jpg
+    image_title: "Binface"
+    caption: "Binface"
+    description: "British politics is usually a dumpster fire, but sometimes you get an intergalactic space warrior in the mix to stir things up (and win 27% of the vote). <a href=\"https://en.wikipedia.org/wiki/Count_Binface\">Count Binface</a> has been an interesting story this summer, and also has a weird relationship to <a href=\"https://en.wikipedia.org/wiki/Lord_Buckethead\">Lord Buckethead</a>.<br ><br >Anyway, he has been available in miniature form for many years and now I'm attempting to make him into a candle. These are the first attempts - miniature on the left, first attempt on the right, second in the middle.<br ><br >The second has an improved cloak and came out of the mould much more cleanly. This is partly due to better technique, but mostly a different wax blend, using microcrystaline wax for a tougher but more flexible output. Ruined the colour though.<br ><br >The missing right arm is due to an air bubble, so I need to poke a vent in the mould for the next attempt.<br ><br >Overall, not bad for a first attempt and some very nerdy chemistry games with the wax blend.<br ><br >Both would be terrible candles if one actually lit them, of course.<br ><br >From <a href=\"https://www.flickr.com/photos/tomnatt/55420106201\">Flickr</a>."
+    alt: "Miniature of Count Binface with two attempts at making a candle from him."
+    month: july
+    photographer: 1
+  -
+    image: 07-tom_bassett.jpg
+    image_title: "Bosham"
+    caption: "Bosham Harbour, low tide"
+    description: "Low tide with drought at Bosham (near Chichester or \"Chi\" if you are posh)."
+    alt: "Bosham"
+    month: july
+    photographer: 86
